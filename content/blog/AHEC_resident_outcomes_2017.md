@@ -9,7 +9,7 @@ teaserText: >-
   Compared to non-AHEC residents, a higher percentage of NC AHEC residents are
   practicing in NC
 teaserImage: /images/thumbnails/ahecgme_2017_withlogo_v2.jpg
-keywords: 'AHEC, Physician, resident'
+keywords: [AHEC, Physician, resident]
 aliases:
   - /AHEC_resident_outcomes_2017
 ---

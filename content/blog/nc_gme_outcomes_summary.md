@@ -5,7 +5,7 @@ author: Julie Spero
 draft: false
 teaserText: What do we know about NC's GME outcomes?
 teaserImage: /images/thumbnails/cohortgmeretentionbyspec.jpg
-keywords: 'GME, graduate medical education, AHEC'
+keywords: [GME, graduate medical education, AHEC]
 aliases:
   - /nc_gme_outcomes_summary
 ---

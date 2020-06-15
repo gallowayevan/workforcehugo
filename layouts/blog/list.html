@@ -2,11 +2,19 @@
 
 <section class="section">
     <h1 class="title">{{.Title}}</h1>
+    <div class="columns is-centered">
+        <div class="field column is-one-third">
+            <label class="label">Search for blog posts</label>
+            <div class="control">
+                <input type="text" placeholder="Search..." class="input search-box">
+            </div>
+        </div>
+    </div>
 
-    <div class="columns is-multiline">
+    <div class="thumbnails">
 
         {{ range .Pages }}
-        <div class="column is-one-third">
+        <!-- <div class="column is-one-third">
             <div class="card">
                 <div class="card-image">
                     <a href="{{.RelPermalink}}">
@@ -25,9 +33,27 @@
 
                 </div>
             </div>
+        </div> -->
+        <div class="thumb-wrapper thumb-wrapper-small">
+            <a aria-label="{{.Title}}" href="{{.RelPermalink}}">
+                <div
+                    style="padding-top: 62.5%; background-image: url('{{.Params.teaserImage}}'); background-size: cover;">
+                </div>
+            </a>
+            <div class="thumb-title-wrapper">
+                <a class="thumb-title-link" href="{{.RelPermalink}}">
+                    <div title="{{.Title}}" class="is-size-6 my-1">{{.Params.teaserText}}</div>
+                </a>
+            </div>
         </div>
-
         {{ end }}
     </div>
 </section>
 {{ end }}
+
+{{define "javascript"}}
+
+<script src="/js/fuse.min.js"></script>
+<script src="/js/search.js"></script>
+
+{{end}}

@@ -7,7 +7,7 @@ teaserText: >-
   A quarter of psychologists are 65 or older, but a large and mostly female
   cohort are earlier in their careers.
 teaserImage: /images/thumbnails/psychologists_by_age_sex_2017.jpg
-keywords: 'psychologists, age, sex, population pyramid'
+keywords: [psychologists, age, sex, population pyramid'
 aliases:
   - /psychologists_by_age_sex
 ---

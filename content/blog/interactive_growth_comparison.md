@@ -5,7 +5,7 @@ author: Evan Galloway
 draft: true
 teaserText: Compare the growth of different health professions.
 teaserImage: /images/thumbnails/interactive_growth_comparison.jpg
-keywords: ''
+keywords: []
 aliases:
   - /interactive_growth_comparison
 ---

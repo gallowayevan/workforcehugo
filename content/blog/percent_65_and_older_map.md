@@ -5,7 +5,7 @@ author: 'Evan Galloway, Julie Spero'
 draft: false
 teaserText: What percentage of the residents in your county are 65 and older?
 teaserImage: /images/thumbnails/percent_65_and_older_map.jpg
-keywords: 'demographics, general population'
+keywords: [demographics, general population]
 aliases:
   - /percent_65_and_older_map
 ---

@@ -5,7 +5,7 @@ author: Evan Galloway
 draft: false
 teaserText: Where do NC’s international medical graduates come from?
 teaserImage: /images/thumbnails/imgs_by_specialty_stacked_bar_clean_title.jpg
-keywords: 'physician, international medical graduate, img, growth, hospitalist'
+keywords: [physician, international medical graduate, img, growth, hospitalist]
 aliases:
   - /growth_of_imgs
 ---

@@ -9,7 +9,7 @@ teaserText: >-
   North Carolina’s Respiratory Therapist Workforce: Availability to treat
   COVID-19
 teaserImage: /images/thumbnails/rt_10k2020.jpg
-keywords: respiratory therapist; RT; Covid-19; coronavirus
+keywords: [respiratory therapist, RT, Covid-19, coronavirus]
 aliases:
   - /respiratory_therapist_NC
 ---

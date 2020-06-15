@@ -9,7 +9,7 @@ teaserText: >-
   NC's nurse practitioner and physician assistant workforces are growing
   rapidly. 
 teaserImage: /images/thumbnails/ncphysicianpanpgrowth2017.jpg
-keywords: 'physician, physician assistant, nurse practitioner, growth rate'
+keywords: [physician, physician assistant, nurse practitioner, growth rate]
 aliases:
   - /NCNPphysicianPAgrowth2017
 ---

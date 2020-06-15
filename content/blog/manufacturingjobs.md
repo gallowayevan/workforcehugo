@@ -7,7 +7,7 @@ teaserText: >-
   In 2009, employment in health care and social services surpassed employment in
   manufacturing.
 teaserImage: /images/thumbnails/ncmanufacturingvshealthcarejobs.jpg
-keywords: 'employment, manufacuturing, jobs'
+keywords: [employment, manufacuturing, jobs]
 aliases:
   - /manufacturingjobs
 ---

@@ -7,7 +7,7 @@ author: Julie Spero
 draft: false
 teaserText: Which medical schools retain the highest percentage of graduates in NC?
 teaserImage: /images/thumbnails/med_school_cohorts_nc_2008-2012.jpg
-keywords: 'physician, medical school, student, Duke, ECU, UNC, Wake Forest'
+keywords: [physician, medical school, student, Duke, ECU, UNC, Wake Forest]
 aliases:
   - /med_student_cohorts_retain_nc
 ---

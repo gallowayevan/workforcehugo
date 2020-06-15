@@ -5,7 +5,7 @@ author: Julie Spero
 draft: false
 teaserText: How diverse is NC's obstetric delivery workforce?
 teaserImage: /images/thumbnails/Obsproviderspreview11feb.jpg
-keywords: 'physicians, certified nurse midwife, cnm, obstetric, pregnant '
+keywords: [physicians, certified nurse midwife, cnm, obstetric, pregnant ]
 aliases:
   - /obstetric_provider_race
 ---

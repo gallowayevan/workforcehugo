@@ -9,9 +9,7 @@ teaserText: >-
   How rapidly have physicians, PAs, and NPs grown in rural and urban counties in
   NC?
 teaserImage: /images/thumbnails/np_pa_growth_color.jpg
-keywords: >-
-  physician, NP, PA, nurse practitioner, physician assistant, growth, urban,
-  rural, metropolitan
+keywords: [physician, NP, PA, nurse practitioner, physician assistant, growth, urban, rural, metropolitan]
 aliases:
   - /growth-of-nps-pas
 ---

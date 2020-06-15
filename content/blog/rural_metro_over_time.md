@@ -9,7 +9,7 @@ teaserText: >-
   How has the supply of health professionals changed over time in rural and
   metro areas?
 teaserImage: /images/thumbnails/county_physician_beeswarm.jpg
-keywords: 'rural, nonmetro, interactive, longitudinal'
+keywords: [rural, nonmetro, interactive, longitudinal]
 aliases:
   - /rural_metro_over_time
 ---

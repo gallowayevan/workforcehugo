@@ -7,7 +7,7 @@ author: Evan Galloway
 draft: false
 teaserText: Retirees will soon be more numerous than children in rural North Carolina.
 teaserImage: /images/thumbnails/bubble_plot_high_quality_desktop.jpg
-keywords: 'demography, rural'
+keywords: [demography, rural]
 aliases:
   - /rural_young_old_population
 ---

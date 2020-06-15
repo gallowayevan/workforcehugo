@@ -1,3 +1,7 @@
 baseURL = "https://romantic-bhaskara-545295.netlify.app/"
 languageCode = "en-us"
 title = "NC Health Workforce"
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] 

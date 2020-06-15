@@ -5,7 +5,7 @@ author: 'Julie Spero, Hannah Crook, Esita Patel'
 draft: true
 teaserText: 'NC County Spotlight: The number of RNs in Anson County is declining'
 teaserImage: /images/thumbnails/ansonrnsdeclining.jpg
-keywords: 'nurse, nursing, anson, county spotlight, race, diversity'
+keywords: [nurse, nursing, anson, county spotlight, race, diversity]
 aliases:
   - /Anson_RN_Workforce
 ---

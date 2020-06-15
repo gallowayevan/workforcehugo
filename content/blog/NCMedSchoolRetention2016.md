@@ -5,7 +5,7 @@ author: Julie Spero
 draft: false
 teaserText: Does a medical school's mission affect where its graduates practice?
 teaserImage: /images/thumbnails/ncmedschoolgradsin2016workforce.jpg
-keywords: 'physicians, medical school'
+keywords: [physicians, medical school]
 aliases:
   - /NCMedSchoolRetention2016
 ---
