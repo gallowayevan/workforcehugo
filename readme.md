@@ -7,7 +7,7 @@ Document
 	- embed interactives from observable and style with bulma?
 	- documentation, esp if not using netlify cms
 	- reorder nodes during search (to avoid having to manually sync template code beatween search.js and thumbnail partial)
-
+	- move NC Healthworkforce logo to place loading into supply image
     - change config.toml to change baseURL
 
     - fix interactive psychologist post and beeswarm observable posts
