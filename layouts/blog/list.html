@@ -11,15 +11,15 @@
         </div>
     </div>
 
-    <div class="thumbnails">
+    <div class="columns is-multiline thumbnails">
 
         {{ range .Pages }}
-        <!-- <div class="column is-one-third">
+        <div class="column is-one-third">
             <div class="card">
                 <div class="card-image">
                     <a href="{{.RelPermalink}}">
                         <figure class="image">
-                            <img src="{{.Params.teaserImage}}" alt="{{.Title}}">
+                            <img loading="lazy" src="{{.Params.teaserImage}}" alt="{{.Title}}">
                         </figure>
                     </a>
                 </div>
@@ -33,8 +33,8 @@
 
                 </div>
             </div>
-        </div> -->
-        <div class="thumb-wrapper thumb-wrapper-small">
+        </div>
+        <!-- <div class="thumb-wrapper thumb-wrapper-small">
             <a aria-label="{{.Title}}" href="{{.RelPermalink}}">
                 <div
                     style="padding-top: 62.5%; background-image: url('{{.Params.teaserImage}}'); background-size: cover;">
@@ -45,7 +45,7 @@
                     <div title="{{.Title}}" class="is-size-6 my-1">{{.Params.teaserText}}</div>
                 </a>
             </div>
-        </div>
+        </div> -->
         {{ end }}
     </div>
 </section>

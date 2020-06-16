@@ -75,40 +75,38 @@
         return split;
       }
 
-      function thumbnailTemplate(d) {
-        return `<div class="thumb-wrapper thumb-wrapper-small">
-                <a aria-label="${d.title}" href=${d.permalink}>
-                  <div style="padding-top: 62.5%; background-image: url('${d.teaserImage}'); background-size: cover;"></div>
-                </a>
-                <div class="thumb-title-wrapper">
-                  <a class="thumb-title-link" href="${d.permalink}">
-                    <div title="${d.title}" class="subtitle m-1">${d.teaserText}</div>
-                  </a>
-                </div>
-              </div>`
-      }
       // function thumbnailTemplate(d) {
-      //   return `<div class="column is-one-third">
-      //       <div class="card">
-      //           <div class="card-image">
-      //               <a href="${d.permalink}">
-      //                   <figure class="image">
-      //                       <img src="${d.teaserThumbnail}" alt="${d.title}">
-      //                   </figure>
-      //               </a>
+      //   return `<div class="thumb-wrapper thumb-wrapper-small">
+      //           <a aria-label="${d.title}" href=${d.permalink}>
+      //             <div style="padding-top: 62.5%; background-image: url('${d.teaserImage}'); background-size: cover;"></div>
+      //           </a>
+      //           <div class="thumb-title-wrapper">
+      //             <a class="thumb-title-link" href="${d.permalink}">
+      //               <div title="${d.title}" class="subtitle m-1">${d.teaserText}</div>
+      //             </a>
       //           </div>
-      //           <div class="card-footer">
-
-
-      //               <a href="${d.permalink}">
-      //                   <p class="card-footer-item subtitle">${d.teaserText}</p>
-      //               </a>
-
-
-      //           </div>
-      //       </div>
-      //   </div>`;
+      //         </div>`
       // }
+      function thumbnailTemplate(d) {
+        return `<div class="column is-one-third">
+            <div class="card">
+                <div class="card-image">
+                    <a href="${d.permalink}">
+                        <figure class="image">
+                            <img src="${d.teaserImage}" alt="${d.title}">
+                        </figure>
+                    </a>
+                </div>
+                <div class="card-footer">
+                    <a href="${d.permalink}">
+                        <p class="card-footer-item subtitle">${d.teaserText}</p>
+                    </a>
+
+
+                </div>
+            </div>
+        </div>`;
+      }
     });
 
 }());
