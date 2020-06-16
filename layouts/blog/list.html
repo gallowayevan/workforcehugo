@@ -12,40 +12,8 @@
     </div>
 
     <div class="columns is-multiline thumbnails">
-
         {{ range .Pages }}
-        <div class="column is-one-third">
-            <div class="card">
-                <div class="card-image">
-                    <a href="{{.RelPermalink}}">
-                        <figure class="image">
-                            <img loading="lazy" src="{{.Params.teaserImage}}" alt="{{.Title}}">
-                        </figure>
-                    </a>
-                </div>
-                <div class="card-footer">
-
-
-                    <a href="{{.RelPermalink}}">
-                        <p class="card-footer-item subtitle">{{.Params.teaserText}}</p>
-                    </a>
-
-
-                </div>
-            </div>
-        </div>
-        <!-- <div class="thumb-wrapper thumb-wrapper-small">
-            <a aria-label="{{.Title}}" href="{{.RelPermalink}}">
-                <div
-                    style="padding-top: 62.5%; background-image: url('{{.Params.teaserImage}}'); background-size: cover;">
-                </div>
-            </a>
-            <div class="thumb-title-wrapper">
-                <a class="thumb-title-link" href="{{.RelPermalink}}">
-                    <div title="{{.Title}}" class="is-size-6 my-1">{{.Params.teaserText}}</div>
-                </a>
-            </div>
-        </div> -->
+        {{ partial "thumbnail.html" . }}
         {{ end }}
     </div>
 </section>
