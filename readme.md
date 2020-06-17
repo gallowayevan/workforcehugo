@@ -7,5 +7,5 @@ Document
 	- embed interactives from observable and style with bulma?
 	- documentation, esp if not using netlify cms
     - change config.toml to change baseURL
+	- look for icons for front page 
 
-    - fix interactive psychologist post and beeswarm observable posts

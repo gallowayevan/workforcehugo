@@ -3,6 +3,7 @@
     <article class="content container">
         <h1 class="">{{.Title}}</h1>
         {{.Content}}
+        <p class="has-text-grey">By {{.Params.author}} - {{ dateFormat "Jan 2, 2006" .Date}}</p>
     </article>
 </section>
 {{end}}

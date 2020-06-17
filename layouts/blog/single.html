@@ -1,7 +1,9 @@
 {{define "main"}}
 <section class="section columns">
     <article class="content column is-half is-offset-one-quarter">
-        <h1 class="">{{.Title}}</h1>
+        <h1>{{.Title}}</h1>
+        <p class="has-text-grey mb-0">By {{.Params.author}}</p>
+        <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
         {{.Content}}
     </article>
 </section>
