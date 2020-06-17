@@ -1,6 +1,5 @@
 (function () {
 
-
   const options = {
     shouldSort: true,
     threshold: 0.6,
@@ -42,13 +41,11 @@
       })
       const fuse = new Fuse(searchIndex, options);
 
-      const defaultResults = 36;
-
       const searchBoxes = document.querySelectorAll('.search-box');
 
       const thumbnailBox = document.querySelector('.thumbnails');
-      // const resultsSorted = searchIndex.sort(function (a, b) { return b.date - a.date }).slice(0, defaultResults);
-      // if (thumbnailBox.innerHTML == '') thumbnailBox.innerHTML = resultsSorted.map(thumbnailTemplate).join('');
+      const thumbnails = new Map(Array.from(thumbnailBox.querySelectorAll(".thumbnail"), d => [d.getAttribute('data-file-id'), d]));
+      const defaultKeys = Array.from(thumbnails.keys());
 
       for (var i = 0; i < searchBoxes.length; i++) {
         searchBoxes[i].addEventListener('keyup', search, false);
@@ -56,41 +53,22 @@
 
       function search(event) {
         const searchResults = event.target.value.length >= options.minMatchCharLength ?
-          fuse.search(event.target.value) :
-          searchIndex.sort(function (a, b) { return b.date - a.date }).slice(0, defaultResults);
+          fuse.search(event.target.value).map(d => d.fileID) :
+          defaultKeys;
 
-        const searchResultsFormatted = searchResults.map(thumbnailTemplate).join('');
+        const thumbnailFragment = document.createDocumentFragment();
 
-        thumbnailBox.innerHTML = searchResultsFormatted;
+        searchResults.forEach(d => {
+          if (thumbnails.has(d)) thumbnailFragment.appendChild(thumbnails.get(d));
+        })
+
+        thumbnailBox.innerHTML = '';
+        thumbnailBox.appendChild(thumbnailFragment);
       }
 
       function cleanCommaDelimited(current) {
         let split = current.split(",").map(d => d.trim());
         return split;
-      }
-
-
-      function thumbnailTemplate(d) {
-        return `<div class="column is-one-third">
-            <div class="card">
-                <div class="card-image">
-                    <a href="${d.permalink}">
-                        <figure class="image">
-                            <img src="${d.teaserImage}" alt="${d.title}">
-                        </figure>
-                    </a>
-                </div>
-                <div class="card-footer">
-
-
-                    <a href="${d.permalink}">
-                        <p class="card-footer-item subtitle">${d.teaserText}</p>
-                    </a>
-
-
-                </div>
-            </div>
-        </div>`;
       }
     });
 
