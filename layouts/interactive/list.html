@@ -2,12 +2,11 @@
 <section class="section">
     <div class="container">
         <h1 class="title">{{.Title}}</h1>
-        {{ range .Pages }}
-        <li><a href="{{.Permalink}}">
-                {{.Title}}
-            </a>
-        </li>
-        {{ end }}
+        <div class="columns is-multiline thumbnails">
+            {{ range .Pages }}
+            {{ partial "thumbnail.html" . }}
+            {{ end }}
+        </div>
     </div>
 </section>
 {{ end }}
