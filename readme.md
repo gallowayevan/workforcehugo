@@ -10,3 +10,4 @@ Document
     - change config.toml to change baseURL
 	- look for icons for front page 
 
+	- switch line chart over to observable version conversion and add download function
