@@ -9,6 +9,7 @@ Document
 		- for metro nonmetro line chart
 			- add logo
 			- add add notes
+			-  add brief instructions and context
 	- documentation, esp if not using netlify cms
     - change config.toml to change baseURL
 	- look for icons for front page 
