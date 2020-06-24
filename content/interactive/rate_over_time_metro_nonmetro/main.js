@@ -48,19 +48,6 @@
 
     // const logoGroup = (await d3.svg("/images/assets/sheps_health_workforce_nc_small.svg")).firstChild;
     const logoSpec = await (await fetch("/images/assets/logo.json")).json()
-    console.log(logoSpec)
-    const logoFrag = document.createDocumentFragment();
-    logoSpec.forEach(function ({ fill, paths }) {
-        const newGroup = document.createElementNS("http://www.w3.org/2000/svg", "g");
-        newGroup.setAttribute("fill", fill);
-        paths.forEach(function (p) {
-            const newPath = document.createElementNS("http://www.w3.org/2000/svg", "path");
-            newPath.setAttribute("d", p)
-            newGroup.appendChild(newPath);
-        })
-        logoFrag.appendChild(newGroup);
-    })
-    console.log(logoFrag);
 
     //Load first one
     handleProfessionSelect(defaultSelected);
@@ -180,12 +167,16 @@
         svg.append("g").call(yAxis);
 
         svg.selectAll(".tick text").attr("font-size", 14);
+
+        //Draw and fill area between lines
         svg
             .append("path")
             .datum(transformedData)
             .attr("fill", "#ececec")
             .attr("opacity", 0.7)
             .attr("d", area);
+
+        //Draw and color lines
         svg
             .selectAll(".lines")
             .data(lines)
@@ -200,7 +191,7 @@
             .attr("d", line);
 
 
-
+        //Add line labels
         svg
             .selectAll(".labels")
             .data(
@@ -220,6 +211,7 @@
             .attr("x", d => x(d.year))
             .attr("y", d => y(d.value));
 
+        //X axis label
         svg.append("text")
             .attr("transform", `translate(${width / 2} ${height - margin.bottom + 40})`)
             .attr("text-anchor", "middle")
@@ -227,16 +219,32 @@
             .attr("font-weight", "bold")
             .text("Year");
 
+        //Chart title
         svg.append("text")
             .attr("transform", `translate(5 40)`)
             .attr("font-size", 18)
             .attr("fill", "#333")
             .text(`${currentProfessionObject.display_name.replace(" - All", "s")} per 10,000 Population, ${yearExtent.join(" - ")}, North Carolina`)
 
+        //Draw logo
+        const logoFrag = document.createDocumentFragment();
+        logoSpec.forEach(function ({ fill, paths }) {
+            const newGroup = document.createElementNS("http://www.w3.org/2000/svg", "g");
+            newGroup.setAttribute("fill", fill);
+            paths.forEach(function (p) {
+                const newPath = document.createElementNS("http://www.w3.org/2000/svg", "path");
+                newPath.setAttribute("d", p)
+                newGroup.appendChild(newPath);
+            })
+            logoFrag.appendChild(newGroup);
+        })
         svg.append("g").attr("transform", `translate(${width - 290} ${height - 100})`).node().appendChild(logoFrag);
 
+        //Add note and source
         svg.node().appendChild(createSVGtext({ text: note, fontSize: 10, maxCharsPerLine: 135 })).setAttribute("transform", `translate(10 ${height - margin.bottom + 70})`)
 
+
+        //Make all text the same font family
         svg
             .selectAll("text")
             .attr(
