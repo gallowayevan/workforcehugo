@@ -123,7 +123,7 @@
 
         const width = 960;
         const height = 600;
-        const margin = ({ top: 90, right: 60, bottom: 150, left: 40 });
+        const margin = ({ top: 90, right: 60, bottom: 180, left: 40 });
 
         const svg = d3.select("#viz")
             .selectAll(".chart")
@@ -233,9 +233,9 @@
             .attr("fill", "#333")
             .text(`${currentProfessionObject.display_name.replace(" - All", "s")} per 10,000 Population, ${yearExtent.join(" - ")}, North Carolina`)
 
-        svg.append("g").attr("transform", `translate(${width - 290} ${height - 80})`).node().appendChild(logoFrag);
+        svg.append("g").attr("transform", `translate(${width - 290} ${height - 100})`).node().appendChild(logoFrag);
 
-        svg.node().appendChild(createSVGtext({ text: note, fontSize: 10, maxCharsPerLine: 120 })).setAttribute("transform", `translate(10 ${height - 80})`)
+        svg.node().appendChild(createSVGtext({ text: note, fontSize: 10, maxCharsPerLine: 135 })).setAttribute("transform", `translate(10 ${height - margin.bottom + 70})`)
 
         svg
             .selectAll("text")
@@ -339,7 +339,7 @@
         return svgText;
     }
 
-    const note = `Notes: Data include active, licensed providers in practice in North Carolina as of October 31 of each year. Data are derived from licensure files provided by each profession's licensing board. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management and are based on US Census data. Source: North Carolina Health Professions Data System, Program on Health Workforce Research and Policy, The Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Created ${new Date().toLocaleString(undefined, {
+    const note = `Notes: Data include active, licensed providers in practice in North Carolina as of October 31 of each year. Data are derived from licensure files provided by each profession's licensing board. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management and are based on US Census data. Metropolitan or rural (non-metropolitan) county status was defined using US Office of Management and Budget Core Based Statistical Areas (CBSAs). Non-metropolitan counties include micropolitan counties and non-CBSAs. The vintage or year of the delineation file used to aggregate the counties corresponds with the delineations in place for each year of data. That is, the counties defined as non-metropolitan in 2000 are different than the non-metropolitan ones in 2017. Source: North Carolina Health Professions Data System, Program on Health Workforce Research and Policy, The Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Created ${new Date().toLocaleString(undefined, {
         month: "long",
         day: "numeric",
         year: "numeric"
