@@ -8,7 +8,7 @@ draft: false
 teaserText: >-
   The ratio of physicians-to-population is increasing in NC, but most of the
   increase is in urban areas.
-teaserImage: /images/thumbnails/md_metro_nonmetro_line_chart_1979-2018.jpg
+teaserImage: md_metro_nonmetro_line_chart_1979-2018.jpg
 keywords: [physicians, metropolitan, urban, rural, per capita]
 aliases:
   - /physician_growth_metro

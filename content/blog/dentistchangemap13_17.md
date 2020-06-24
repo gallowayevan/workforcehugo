@@ -6,7 +6,7 @@ draft: false
 teaserText: >-
   North Carolina added 551 new dentists between 2013 and 2017. Where did they
   go?
-teaserImage: /images/thumbnails/dentist_change_distribution.jpg
+teaserImage: dentist_change_distribution.jpg
 keywords: dentists
 aliases:
   - /dentistchangemap13_17

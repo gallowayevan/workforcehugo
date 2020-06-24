@@ -7,4 +7,4 @@ title = "NC Health Workforce"
   home = ["HTML", "RSS", "JSON"] 
 
   [params]
-  searchSections = ["blog", "observable"]
+  searchSections = ["blog", "brief"]

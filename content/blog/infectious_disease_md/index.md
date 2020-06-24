@@ -4,7 +4,7 @@ date: 2020-03-05T00:00:00.000Z
 author: 'Julie Spero, Heather Wilson, Evan Galloway'
 draft: false
 teaserText: 'COVID-19, Primary Care, and Infectious Disease Physicians in NC'
-teaserImage: /images/thumbnails/md_id_map_sample.jpg
+teaserImage: md_id_map_sample.jpg
 keywords: [physician, covid-19, coronavirus, infectious disease]
 javascript: [/js/mapbox-gl.js, map.js]
 aliases:

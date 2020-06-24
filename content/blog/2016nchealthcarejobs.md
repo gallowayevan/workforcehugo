@@ -8,7 +8,7 @@ draft: false
 teaserText: >-
   Most NC health care jobs are in allied health, nursing, or are
   aides/attendants
-teaserImage: /images/thumbnails/nchealthcarejobs2016.jpg
+teaserImage: nchealthcarejobs2016.jpg
 keywords: [employment, jobs]
 aliases:
   - /2016nchealthcarejobs

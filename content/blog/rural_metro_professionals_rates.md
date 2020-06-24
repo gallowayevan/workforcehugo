@@ -8,7 +8,7 @@ draft: true
 teaserText: >-
   Compare the supply of health professions in metro and nonmetro (rural)
   counties. 
-teaserImage: /images/thumbnails/metro_nonmetro_rate_chart.jpg
+teaserImage: metro_nonmetro_rate_chart.jpg
 keywords: [health professions, rural, nonmetro, rate, total]
 aliases:
   - /rural_metro_professionals_rates

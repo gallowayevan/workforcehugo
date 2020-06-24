@@ -6,7 +6,7 @@ date: 2020-04-01T13:12:04.301Z
 author: 'Erin Fraher, Allie Tran, Evan Galloway, Julie Spero, Heather Wilson'
 draft: false
 teaserText: 'Does NC have the critical care nursing workforce needed to combat COVID-19? '
-teaserImage: /images/thumbnails/criticu2018.jpg
+teaserImage: criticu2018.jpg
 keywords: [nursing, COVID-19, critical care, ICU]
 aliases:
   - /ICU_nursing_covid

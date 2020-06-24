@@ -41,7 +41,7 @@
 <section class="section">
     <h1 class="title has-text-centered">Recent Blogs and Briefs</h1>
     <div class="columns">
-        {{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+        {{ range first 3 (where .Site.RegularPages "Type" "in" site.Params.searchSections) }}
         {{ partial "thumbnail.html" . }}
         {{ end }}
     </div>

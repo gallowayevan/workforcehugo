@@ -8,7 +8,7 @@ draft: false
 teaserText: >-
   How many graduates from NC medical schools were practicing in primary care in
   NC five years after graduating?
-teaserImage: /images/thumbnails/ncmedschoolclassof2012_2017outcomes.jpg
+teaserImage: ncmedschoolclassof2012_2017outcomes.jpg
 keywords: [Physicians, Medical Schools]
 aliases:
   - /NC_MST_Classof2012

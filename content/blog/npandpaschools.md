@@ -4,7 +4,7 @@ date: 2019-05-23T18:53:47.742Z
 author: 'Julie Spero, Evan Galloway'
 draft: false
 teaserText: How many nurse practitioner and physician assistant schools are in NC?
-teaserImage: /images/thumbnails/np_and_pa_school_map_april2019.jpg
+teaserImage: np_and_pa_school_map_april2019.jpg
 keywords: [nurse practitioner, np, physician assistant, pa, school, education, preceptor]
 aliases:
   - /npandpaschools

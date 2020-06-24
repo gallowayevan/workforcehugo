@@ -4,7 +4,7 @@ date: 2020-03-24T19:24:12.603Z
 author: 'Evan Galloway, Julie Spero, Heather Wilson'
 draft: false
 teaserText: 'Primary Care Access in North Carolina is Not Equally Distributed '
-teaserImage: /images/thumbnails/nc_primarycare_map_crop.jpg
+teaserImage: nc_primarycare_map_crop.jpg
 keywords: [Primary care, Covid-19, Coronavirus]
 aliases:
   - /primary_care_nc

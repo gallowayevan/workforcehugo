@@ -4,7 +4,7 @@ date: 2020-05-21T19:35:59.005Z
 author: 'Heather Wilson, Julie Spero, Dan Jonas, Erin Fraher'
 draft: false
 teaserText: Distribution of critical care physician workforce in North Carolina
-teaserImage: /images/thumbnails/critcaremedicine_2018.jpg
+teaserImage: critcaremedicine_2018.jpg
 keywords: [critical care, COVID-19, health workforce]
 aliases:
   - /critical_care_medicine_covid

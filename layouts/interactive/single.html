@@ -27,9 +27,14 @@
     }
 </script>
 {{ end }}
+
 {{ if isset .Params "javascript" }}
 {{range .Params.javascript}}
 <script src="{{ . }}"></script>
 {{ end }}
 {{ end }}
+
+{{with .Params.observable }}
+<script type="module" src="observable.js"></script>
+{{end}}
 {{end}}

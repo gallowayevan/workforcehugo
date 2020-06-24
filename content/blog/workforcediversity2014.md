@@ -8,7 +8,7 @@ draft: false
 teaserText: >-
   NC health professionals are less racially and ethnically diverse than the
   general population.
-teaserImage: /images/thumbnails/ncworkforcediversity2014.jpg
+teaserImage: ncworkforcediversity2014.jpg
 keywords: [diversity, race, ethnicity]
 aliases:
   - /workforcediversity2014

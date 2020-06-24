@@ -6,9 +6,10 @@ draft: false
 teaserText: >-
   Investigate the supply of North Carolina physicians with an interactive
   beeswarm plot.
-teaserImage: /images/thumbnails/county_physician_beeswarm.jpg
+teaserImage: county_physician_beeswarm.jpg
 keywords: [beeswarm, interactive, physicians, longitudinal]
-type: observable
+fullWidth: true
+observable: true
 aliases:
   - /county_physician_beeswarm
 ---

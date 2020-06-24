@@ -1,18 +1,27 @@
 {{define "main"}}
-<section class="section columns">
-    <article class="content column is-half is-offset-one-quarter">
-        <h1>{{.Title}}</h1>
-        <p class="has-text-grey mb-0">By {{.Params.author}}</p>
-        <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
-        {{.Content}}
-    </article>
-</section>
-{{end}}
+{{ with .Params.fullWidth }}
+<section class="section ">
+    <article class="content container">
+        {{ else }}
+        <section class="section columns">
+            <article class="content column is-half is-offset-one-quarter">
+                {{end}}
+                <h1>{{.Title}}</h1>
+                <p class="has-text-grey mb-0">By {{.Params.author}}</p>
+                <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
+                {{.Content}}
+            </article>
+        </section>
+        {{end}}
 
-{{define "javascript"}}
-{{ if isset .Params "javascript" }}
-{{range .Params.javascript}}
-<script src="{{ . }}"></script>
-{{ end }}
-{{ end }}
-{{end}}
+        {{define "javascript"}}
+        {{ if isset .Params "javascript" }}
+        {{range .Params.javascript}}
+        <script src="{{ . }}"></script>
+        {{ end }}
+        {{ end }}
+
+        {{with .Params.observable }}
+        <script type="module" src="observable.js"></script>
+        {{end}}
+        {{end}}

@@ -6,7 +6,7 @@ draft: false
 teaserText: >-
   Maternal and Fetal Medicine physicians tend to be concentrated in metropolitan
   counties.
-teaserImage: /images/thumbnails/mfm_fte_map.jpg
+teaserImage: mfm_fte_map.jpg
 keywords: [physicians, prenatal, obstetrics & gynecology, ob-gyn, OBGYN]
 aliases:
   - /mfm_fte_map_2017

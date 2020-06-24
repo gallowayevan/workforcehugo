@@ -4,7 +4,7 @@ date: 2019-07-26T00:00:00.000Z
 author: 'Evan Galloway, Julie Spero'
 draft: false
 teaserText: 37% of NC occupational therapists were trained in state. What about the rest?
-teaserImage: /images/thumbnails/training_map_counts.jpg
+teaserImage: training_map_counts.jpg
 keywords: [occupational therapists, training, education]
 aliases:
   - /ot_training

@@ -4,7 +4,7 @@ date: 2019-03-06T19:41:33.375Z
 author: Evan Galloway
 draft: false
 teaserText: Where are psychiatrists practicing in North Carolina?
-teaserImage: /images/thumbnails/psych_fte.jpg
+teaserImage: psych_fte.jpg
 keywords: [psychiatrists, physicians, fte]
 aliases:
   - /psychiatry_fte_2017
