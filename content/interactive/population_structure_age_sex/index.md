@@ -8,6 +8,7 @@ teaserText: >-
 teaserImage: /images/thumbnails/psychologists_by_age_sex_2017.jpg
 keywords: [interactive, age, sex, demographics]
 type: observable
+downloadId: viz
 ---
 
 <div id="observablehq-457a583f">
@@ -15,7 +16,7 @@ type: observable
   <div class="observablehq-viewof-selectedProfession column is-one-third"></div>
   <div class="observablehq-viewof-layout column is-one-third"></div> 
   </div>
-  <div class="observablehq-chart"></div>
+  <div class="observablehq-chart" id="viz"></div>
   <div class="observablehq-update" style="display:none;"></div>
- 
+
 </div>

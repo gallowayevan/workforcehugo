@@ -3,11 +3,30 @@
     <article class="content container">
         <h1 class="">{{.Title}}</h1>
         {{.Content}}
-        <p class="has-text-grey">By {{.Params.author}} - {{ dateFormat "Jan 2, 2006" .Date}}</p>
+        {{ with .Params.downloadId }}
+        <button class="button" id="download-image">Download Image</button>
+        <button class="button" id="download-svg">Download SVG</button>
+        {{ end }}
+        <p class="has-text-grey mt-4">By {{.Params.author}} - {{ dateFormat "January 2, 2006" .Date}}</p>
     </article>
 </section>
+
 {{end}}
 
 {{define "javascript"}}
+{{ with .Params.downloadId}}
+<script src="/js/saveSvgAsPng.js"></script>
+<script>
+    document.getElementById("download-image").addEventListener("click", downloadImage);
+    document.getElementById("download-svg").addEventListener("click", downloadSvg);
+    function downloadImage() {
+        saveSvgAsPng(document.getElementById("{{.}}").querySelector("svg"), `{{.}}.png`, { scale: 2, backgroundColor: "#ffffff" });
+    }
+
+    function downloadSvg() {
+        saveSvg(document.getElementById("{{.}}").querySelector("svg"), "{{.}}.svg");
+    }
+</script>
+{{ end }}
 <script type="module" src="observable.js"></script>
 {{end}}

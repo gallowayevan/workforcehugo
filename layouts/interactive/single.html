@@ -3,12 +3,30 @@
     <div class="container content">
         <h1 class="title">{{.Title}}</h1>
         {{.Content}}
+        {{ with .Params.downloadId }}
+        <button class="button" id="download-image">Download Image</button>
+        <button class="button" id="download-svg">Download SVG</button>
+        {{ end }}
     </div>
 </section>
 
 {{end}}
 
 {{define "javascript"}}
+{{ with .Params.downloadId}}
+<script src="/js/saveSvgAsPng.js"></script>
+<script>
+    document.getElementById("download-image").addEventListener("click", downloadImage);
+    document.getElementById("download-svg").addEventListener("click", downloadSvg);
+    function downloadImage() {
+        saveSvgAsPng(document.getElementById("{{.}}").querySelector("svg"), `{{.}}.png`, { scale: 2, backgroundColor: "#ffffff" });
+    }
+
+    function downloadSvg() {
+        saveSvg(document.getElementById("{{.}}").querySelector("svg"), "{{.}}.svg");
+    }
+</script>
+{{ end }}
 {{ if isset .Params "javascript" }}
 {{range .Params.javascript}}
 <script src="{{ . }}"></script>

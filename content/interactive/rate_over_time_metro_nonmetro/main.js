@@ -36,8 +36,6 @@
 
     //Add event handlers
     professionSelect.addEventListener("change", handleProfessionSelect);
-    document.getElementById("download-image").addEventListener("click", downloadImage);
-    document.getElementById("download-svg").addEventListener("click", downloadSvg);
 
 
     //Get metro/nonmetro lookup
@@ -252,14 +250,6 @@
                 "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'"
             );
 
-    }
-
-    function downloadImage() {
-        saveSvgAsPng(document.getElementById("viz").querySelector("svg"), "rate_over_time.png", { scale: 2, backgroundColor: "#ffffff" });
-    }
-
-    function downloadSvg() {
-        saveSvg(document.getElementById("viz").querySelector("svg"), "rate_over_time.svg");
     }
 
     function cut(cuts) {

@@ -6,3 +6,4 @@ import define from "https://api.observablehq.com/d/c1d3c4f1953054c7.js?v=3";
     if (name === "chart") return Inspector.into("#observablehq-457a583f .observablehq-chart")();
     if (name === "update") return Inspector.into("#observablehq-457a583f .observablehq-update")();
 });
+
