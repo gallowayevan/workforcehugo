@@ -47,14 +47,14 @@
       const defaultNumberDisplayed = Array.from(document.querySelectorAll('.thumbnails > div'), d => d.style.display).filter(d => d != "none").length;
       const thumbnails = new Map(Array.from(thumbnailBox.querySelectorAll(".thumbnail"), d => [d.getAttribute('data-file-id'), d]));
       const defaultKeys = Array.from(thumbnails.keys()).slice(0, defaultNumberDisplayed);
-
+      const numberOfSearchResults = 18;
       for (var i = 0; i < searchBoxes.length; i++) {
         searchBoxes[i].addEventListener('keyup', search, false);
       }
 
       function search(event) {
         const searchResults = event.target.value.length >= options.minMatchCharLength ?
-          fuse.search(event.target.value).map(d => d.fileID) :
+          fuse.search(event.target.value).map(d => d.fileID).slice(0, numberOfSearchResults) :
           defaultKeys;
 
         const thumbnailFragment = document.createDocumentFragment();
