@@ -5,7 +5,7 @@ author: 'Esita Patel, PhD, RN'
 draft: false
 teaserText: >-
   Findings suggest NC workforce is similar to the national one in terms of hospital employment setting.
-teaserImage: NSSRN.jpg
+teaserImage: NSSRN.png
 keywords: 'employment, jobs'
 aliases:
   - /2016nchealthcarejobs
