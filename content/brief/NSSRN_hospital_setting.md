@@ -6,7 +6,7 @@ draft: false
 teaserText: >-
   Findings suggest NC workforce is similar to the national one in terms of hospital employment setting.
 teaserImage: NSSRN.png
-keywords: 'employment, jobs'
+keywords: 'employment, jobs, nurses, nssrn, setting'
 aliases:
   - /2016nchealthcarejobs
 ---
@@ -14,7 +14,7 @@ aliases:
 # Executive Summary 
 * We analyzed the number of hospital nurses working in three settings (emergency department, inpatient, outpatient) using data from the 2018 National Sample Survey of Registered Nurses (NSSRN) and 2008-2013 licensure data from North Carolina (NC).
 * The percent of U.S. hospital-based nurses who reported working in emergency department (ED), inpatient, and outpatient settings in the NSSRN close-ly matched the percent of nurses who reported working in these settings in NC.
-*  Due to the sampling methodology of the NSSRN data, there may be error introduced when        generating estimates for smaller sub-samples in individual states. However, after weighting data for the NC sub-sample of nurses from the NSSRN, the percentages of hospital nurses working in ED, inpatient, and out-patient settings were similar to the per-cent of nurses working in these settings in NC licensure data.
+*  Due to the sampling methodology of the NSSRN data, there may be error introduced when generating estimates for smaller sub-samples in individual states. However, after weighting data for the NC sub-sample of nurses from the NSSRN, the percentages of hospital nurses working in ED, inpatient, and out-patient settings were similar to the per-cent of nurses working in these settings in NC licensure data.
 
 # Introduction
 Hospitals are the most common employers of registered nurses (RNs). Within a hospital, RNs can work in emergency departments (EDs), inpatient settings, and outpatient settings.1 RNs have different roles and provide different types of services in each of these settings. Each setting has different RN-to-patient staffing ratios, reflecting the different levels of patient acuity. Assessing whether the future supply of nurses will be adequate to meet demand requires examining each of these settings separately. Data from the National Sample Survey of Registered Nurses (NSSRN) are often used by state and federal health workforce researchers to assess workforce trends and the capacity of the nursing workforce to meet demand.  In turn, these analyses drive decisions about the training, regulation, and deployment of RNs.

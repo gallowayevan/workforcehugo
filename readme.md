@@ -13,6 +13,8 @@ Document
     - change config.toml to change baseURL
 	- look for icons for front page 
 
+	- make search for whole site
+
 - create archetypes?
 
 
