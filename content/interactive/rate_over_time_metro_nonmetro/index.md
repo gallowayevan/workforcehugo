@@ -1,6 +1,6 @@
 ---
 title: Rate per 10,000 Population Over Time, Metro and Rural, North Carolina
-date: 2020-06-17
+date: 2019-06-17
 author: Evan Galloway
 draft: false
 teaserText: >-

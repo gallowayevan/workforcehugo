@@ -1,6 +1,6 @@
 ---
 title: The Population Structure of Health Professions in North Carolina
-date: 2020-06-17
+date: 2019-06-17
 author: Evan Galloway
 draft: false
 teaserText: >-

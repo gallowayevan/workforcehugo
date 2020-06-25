@@ -125,6 +125,31 @@
             {{ block "main" . }}
 
             {{ end }}
+            <section class="section">
+                <h1 class="title has-text-centered">Recent Posts</h1>
+                <div class="columns is-centered">
+                    <div class="field column is-one-third">
+                        <label class="label">Search</label>
+                        <div class="control">
+                            <input type="text" placeholder="Search..." class="input search-box">
+                        </div>
+                    </div>
+                </div>
+                <div class="columns is-multiline thumbnails">
+                    {{ range $elem_index, $elem_val := .Site.RegularPages }}
+                    {{if lt $elem_index 3}}
+                    {{ partial "thumbnail.html" . }}
+                    {{else}}
+                    <div style="display:none">
+                        {{ partial "thumbnail.html" . }}
+                    </div>
+                    {{end}}
+                    {{ end }}
+                    <!-- {{ range    first 3 .Site.RegularPages }}
+                    {{ partial "thumbnail.html" . }}
+                    {{ end }} -->
+                </div>
+            </section>
             <footer class="footer columns">
                 <div class="column has-text-centered-mobile">
                     <img src="/images/assets/sheps_logo_blue_horizontal.svg" />
@@ -200,6 +225,8 @@
 
         });
     </script>
+    <script src="/js/fuse.min.js"></script>
+    <script src="/js/search.js"></script>
     {{ block "javascript" . }}
 
     {{ end }}
