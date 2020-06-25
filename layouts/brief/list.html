@@ -2,26 +2,12 @@
 
 <section class="section">
     <h1 class="title">{{.Title}}</h1>
-    <div class="columns is-centered">
-        <div class="field column is-one-third">
-            <label class="label">Search for blog posts</label>
-            <div class="control">
-                <input type="text" placeholder="Search..." class="input search-box">
-            </div>
-        </div>
-    </div>
 
-    <div class="columns is-multiline thumbnails">
+
+    <div class="columns is-multiline">
         {{ range .Pages }}
         {{ partial "thumbnail.html" . }}
         {{ end }}
     </div>
 </section>
 {{ end }}
-
-{{define "javascript"}}
-
-<script src="/js/fuse.min.js"></script>
-<script src="/js/search.js"></script>
-
-{{end}}
