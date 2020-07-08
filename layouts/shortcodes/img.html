@@ -1,5 +1,5 @@
 <!-- image -->
-<figure {{ with .Get "class" }}class="{{.}} mx-0" {{else}}class="mx-0" {{ end }}>
+<figure {{ with .Get "class" }}class="{{.}} is-wide-figure" {{else}}class="is-wide-figure" {{ end }}>
     {{ with .Get "src"}}<a href="{{.}}">{{ end }}
         <img src="{{ .Get "src" }}"
             {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"
