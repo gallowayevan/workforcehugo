@@ -11,10 +11,7 @@ keywords: [nursing, COVID-19, critical care, ICU]
 aliases:
   - /ICU_nursing_covid
 ---
-
-{{< takeaway >}}
 As North Carolina (NC) prepares for a rising number of COVID-19 cases, [@WorkforceNC](https://twitter.com/WorkforceNC) is committed to providing data on the availability of needed health professionals. Check out our blogs on[ infectious disease physicians](/infectious_disease_md/) and [primary care access](/primary_care_nc/). 
-{{</ takeaway >}}
 
 High numbers of COVID-19 patients will strain the health care system’s critical care and emergency medicine capacity, sharply increasing demand for hospital Intensive Care Units (ICU) beds and staff. Along with ICU beds, ventilators and personal protective equipment (PPE), NC needs the [nursing workforce](https://www.healthaffairs.org/do/10.1377/hblog20200327.714037/full/?utm_medium=social&utm_source=twitter&utm_campaign=Blogcovid19) to care for the high influx of critically ill patients. Critical care nurses closely monitor and evaluate patients, manage advanced technologies, administer treatments, assist in procedures, and collaborate with respiratory therapists and physicians to coordinate advanced care for patients with respiratory failure and other life-threatening conditions. 
 
