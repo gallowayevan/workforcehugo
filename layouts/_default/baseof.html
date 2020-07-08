@@ -120,20 +120,20 @@
                             About
                         </a>
 
-                        <a class="navbar-item"
-                            href="http://www.shepscenter.unc.edu/programs-projects/workforce/data-publications-resources/">
-                            Publications/Data
-                        </a>
 
                     </div>
                 </div>
 
             </nav>
+        </div>
+    </section>
 
-            {{ block "main" . }}
+    {{ block "main" . }}
 
-            {{ end }}
-            <section class="section">
+    {{ end }}
+    <section class="hero has-background-white-ter">
+        <div class="hero-body">
+            <div class="container">
                 <h1 class="title has-text-centered">Recent Posts</h1>
                 <div class="columns is-centered">
                     <div class="field column is-one-third">
@@ -153,56 +153,58 @@
                     </div>
                     {{end}}
                     {{ end }}
-                    <!-- {{ range    first 3 .Site.RegularPages }}
-                    {{ partial "thumbnail.html" . }}
-                    {{ end }} -->
                 </div>
-            </section>
-            <footer class="footer columns">
-                <div class="column has-text-centered-mobile">
-                    <img src="/images/assets/sheps_logo_blue_horizontal.svg" />
-                </div>
-                <div class="has-text-right-tablet has-text-centered-mobile column">
-                    <!-- Email -->
-                    <div class="sharing">
-                        Email us: <a
-                            href="mailto:nchealthworkforce@unc.edu?subject=Question%20about%20the%20North%20Carolina%20Health%20Workforce%20website"
-                            target="_self" aria-label="Email Us.">
-                            nchealthworkforce@unc.edu
-                        </a>
+            </div>
+        </div>
+    </section>
+    <section class="hero has-background-success-light">
+        <div class="hero-body">
+            <div class="container">
+                <footer class="columns">
+                    <div class="column has-text-centered-mobile">
+                        <img src="/images/assets/sheps_logo_blue_horizontal.svg" />
                     </div>
-                    <!-- RSS -->
-                    <div class="sharing">
-                        <a href="/index.xml" target="_self" aria-label="RSS">
-                            RSS
-                        </a>
-                    </div>
-                    <!-- Twitter -->
-                    <div class="sharing">
-                        <a href="https://twitter.com/intent/tweet/?text=Check%20out%20the%20North%20Carolina%20Health%20Workforce%20website.&amp;url=https%3A%2F%2Fgo.unc.edu%2Fhpds"
-                            target="_blank" aria-label="Share on Twitter">
-                            Share on Twitter
-                        </a>
-                    </div>
+                    <div class="has-text-right-tablet has-text-centered-mobile column">
+                        <!-- Email -->
+                        <div class="sharing">
+                            Email us: <a
+                                href="mailto:nchealthworkforce@unc.edu?subject=Question%20about%20the%20North%20Carolina%20Health%20Workforce%20website"
+                                target="_self" aria-label="Email Us.">
+                                nchealthworkforce@unc.edu
+                            </a>
+                        </div>
+                        <!-- RSS -->
+                        <div class="sharing">
+                            <a href="/index.xml" target="_self" aria-label="RSS">
+                                RSS
+                            </a>
+                        </div>
+                        <!-- Twitter -->
+                        <div class="sharing">
+                            <a href="https://twitter.com/intent/tweet/?text=Check%20out%20the%20North%20Carolina%20Health%20Workforce%20website.&amp;url=https%3A%2F%2Fgo.unc.edu%2Fhpds"
+                                target="_blank" aria-label="Share on Twitter">
+                                Share on Twitter
+                            </a>
+                        </div>
 
-                    <!-- Facebook -->
-                    <div class="sharing">
-                        <a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgo.unc.edu%2Fhpds"
-                            target="_blank" aria-label="Share on Facebook">
-                            Share on Facebook
-                        </a>
-                    </div>
-                    <!-- LinkedIn -->
-                    <div class="sharing">
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fgo.unc.edu%2Fhpds&amp;title=Check%20out%20the%20North%20Carolina%20Health%20Workforce%20website.&amp;summary=Check%20out%20the%20North%20Carolina%20Health%20Workforce%20website.&amp;source=https%3A%2F%2Fgo.unc.edu%2Fhpds"
-                            target="_blank" aria-label="Share on LinkedIn">
-                            Share on LinkedIn
-                        </a>
-                    </div>
+                        <!-- Facebook -->
+                        <div class="sharing">
+                            <a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgo.unc.edu%2Fhpds"
+                                target="_blank" aria-label="Share on Facebook">
+                                Share on Facebook
+                            </a>
+                        </div>
+                        <!-- LinkedIn -->
+                        <div class="sharing">
+                            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fgo.unc.edu%2Fhpds&amp;title=Check%20out%20the%20North%20Carolina%20Health%20Workforce%20website.&amp;summary=Check%20out%20the%20North%20Carolina%20Health%20Workforce%20website.&amp;source=https%3A%2F%2Fgo.unc.edu%2Fhpds"
+                                target="_blank" aria-label="Share on LinkedIn">
+                                Share on LinkedIn
+                            </a>
+                        </div>
 
-                </div>
-            </footer>
-
+                    </div>
+                </footer>
+            </div>
         </div>
     </section>
 
