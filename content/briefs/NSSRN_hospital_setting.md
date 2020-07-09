@@ -11,7 +11,7 @@ aliases:
   - /2016nchealthcarejobs
 ---
 
-{{< takeaway go >}}
+{{< takeaway >}}
 * We analyzed the number of hospital nurses working in three settings (emergency department, inpatient, outpatient) using data from the 2018 National Sample Survey of Registered Nurses (NSSRN) and 2008-2013 licensure data from North Carolina (NC).
 * The percent of U.S. hospital-based nurses who reported working in emergency department (ED), inpatient, and outpatient settings in the NSSRN closely matched the percent of nurses who reported working in these settings in NC.
 *  Due to the sampling methodology of the NSSRN data, there may be error introduced when generating estimates for smaller sub-samples in individual states. However, after weighting data for the NC sub-sample of nurses from the NSSRN, the percentages of hospital nurses working in ED, inpatient, and outpatient settings were similar to the perlookcent of nurses working in these settings in NC licensure data.{{< /takeaway >}}

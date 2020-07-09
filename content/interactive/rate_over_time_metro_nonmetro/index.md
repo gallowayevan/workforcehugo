@@ -5,7 +5,7 @@ author: Evan Galloway
 draft: false
 teaserText: >-
   See how different health professions have grown over time.
-teaserImage: md_metro_nonmetro_line_chart_1979-2018.jpg
+teaserImage: rural_metro_interactive.png
 keywords: [physicians, metropolitan, urban, rural, per capita]
 downloadId: viz
 javascript: [/js/d3.v5.min.js,/js/d3-array.v2.min.js, main.js]
