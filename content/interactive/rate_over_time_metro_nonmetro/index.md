@@ -6,7 +6,7 @@ draft: false
 teaserText: >-
   See how different health professions have grown over time.
 teaserImage: rural_metro_interactive.png
-keywords: [physicians, metropolitan, urban, rural, per capita]
+keywords: [metropolitan, urban, rural, per capita]
 downloadId: viz
 javascript: [/js/d3.v5.min.js,/js/d3-array.v2.min.js, main.js]
 ---
