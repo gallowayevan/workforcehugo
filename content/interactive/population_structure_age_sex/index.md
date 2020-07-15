@@ -5,7 +5,7 @@ author: Evan Galloway
 draft: false
 teaserText: >-
   Look at the population structure for different health professions.
-teaserImage: psychologists_by_age_sex_2017.jpg
+teaserImage: interactive_age_sex.png
 keywords: [interactive, age, sex, demographics]
 observable: true
 downloadId: viz

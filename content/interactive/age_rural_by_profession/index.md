@@ -5,7 +5,7 @@ author: Evan Galloway
 draft: false
 teaserText: >-
   Compare the age distributions of health professionals in metro and rural areas.
-teaserImage: age_density_count_dds_2018.jpg
+teaserImage: interactive_age_rural.png
 keywords: [metropolitan, urban, rural, age]
 downloadId: viz
 javascript: [/js/d3.v5.min.js,/js/d3-array.v2.min.js, main.js]
