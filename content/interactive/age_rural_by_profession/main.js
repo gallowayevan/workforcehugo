@@ -33,6 +33,8 @@
     const kdeData = await d3.csv("kde.csv", d3.autoType);
     const descriptiveData = d3.group(await d3.csv("descriptives.csv", d3.autoType), d => d.profession);
     const logoSpec = await d3.json("/images/assets/logo.json");
+    const cbsaLookup = new Map((await d3.json("/data/cbsaLookup.json", d3.autoType)).find(d => d[0] == 2017)[1]);
+    const ncMap = await d3.json("/data/geo/ncmap.json")
 
     const chart = densityChart("#viz");
 
@@ -47,6 +49,8 @@
         const width = 960;
         const height = 540;
         const margin = ({ top: 90, right: 10, bottom: 150, left: 80 });
+
+        const opacity = 0.4;
 
         const svg = d3.select(targetSelector)
             .append("svg")
@@ -144,6 +148,42 @@
             .attr("text-anchor", "start")
             .text(`Group mean indicated by dotted line.`);
 
+        //Inset Map of North Carolina
+        const mapWidth = 300;
+        const projection = d3
+            .geoAlbers()
+            .rotate([0, 62, 0])
+            .fitWidth(mapWidth, ncMap);
+
+        const path = d3.geoPath(projection);
+
+        //Draw map twice to ensure colors blend to match overlapping colors in chart
+        chartBody
+            .append("g")
+            .attr("transform", `translate(${width - margin.right - mapWidth} ${margin.top - 20})`)
+            .selectAll("path")
+            .data(ncMap.features)
+            .join("path")
+            .attr("d", path)
+            .attr("fill", function (d) {
+                return cbsaLookup.get(d.properties.name.toUpperCase()) == "metro" ? "none" : colors["metro"];
+            })
+            .attr("opacity", opacity)
+            .attr("stroke", "#fff");
+
+        chartBody
+            .append("g")
+            .attr("transform", `translate(${width - margin.right - mapWidth} ${margin.top - 20})`)
+            .selectAll("path")
+            .data(ncMap.features)
+            .join("path")
+            .attr("d", path)
+            .attr("fill", function (d) {
+                return colors[cbsaLookup.get(d.properties.name.toUpperCase())];
+            })
+            .attr("opacity", opacity)
+            .attr("stroke", "#fff");
+
         function chart(professionCode) {
             const duration = 1000;
             const t = d3.transition()
@@ -154,7 +194,8 @@
 
             //Get kde for current profession
             const filteredKde = kdeData.filter(d => d.profession == professionCode);
-            const groupedKde = d3.groups(filteredKde, d => d.metro);
+            //Sort ensures that elements render in the same order (first metro then nonmetro), so opacity blending matches.
+            const groupedKde = d3.groups(filteredKde, d => d.metro).sort((a, b) => d3.ascending(a[0], b[0]));
 
             x.domain([xMin, xMax]);
             xAxisG.transition(t).call(xAxis);
@@ -175,7 +216,7 @@
                 .join("path")
                 .attr("class", "areas")
                 .attr("fill", d => colors[d[0]])
-                .attr("opacity", 0.4)
+                .attr("opacity", opacity)
                 .transition(t)
                 .attr("d", d => area(d[1]));
 
@@ -201,48 +242,41 @@
                 .attr("text-anchor", "middle")
                 .attr("dy", "-5")
                 .attr("fill", d => colors[d.metro])
-                .property("_current", d => d.avg_age)
                 .transition(t)
                 .attr("transform", d => `translate(${x(d.avg_age)} ${margin.top})`)
                 .textTween(function (d) {
-                    const i = d3.interpolateRound(this._current, d.avg_age);
-                    return function (t) { console.log(t, i(t)); return this._current = i(t); };
+                    const i = d3.interpolateRound(this._current | 0, d.avg_age);
+                    return function (t) { return this._current = i(t); };
+                })
+                .on("end", function (d) {
+                    d3.select(this).property("_current", d.avg_age)
                 });
 
-
-
+            chartBody
+                .selectAll(".n-annotation")
+                .data(descriptiveData.get(professionCode), d => d.metro)
+                .join("text")
+                .attr("transform", `translate(${margin.left} ${height - margin.bottom + 40})`)
+                .attr("class", "n-annotation")
+                .attr("fill", d => colors[d.metro])
+                .attr("font-weight", "bold")
+                .attr("dx", (d, i) => 150 * i)
+                .text(d => `${d.metro == "metro" ? "Metro" : "Rural"} (N = ${d.count_age.toLocaleString()})`);
 
             //Chart title
-            svg.selectAll(".chart-title").data([professionCode], d => d).join("text")
+            const chartTitle = svg.selectAll(".chart-title").data([professionCode], d => d).join("text")
                 .attr("class", "chart-title")
                 .attr("transform", `translate(5 40)`)
-                .text(`Age Distribution of ${professionListMap.get(professionCode)} s, Metropolitan vs Rural Counties, North Carolina, 2018`)
+                .text(`Age Distribution of ${professionListMap.get(professionCode)}s, `);
+            chartTitle.append("tspan").text(`Metropolitan`).attr("fill", colors["metro"]);
+            chartTitle.append("tspan").text(` vs `);
+            chartTitle.append("tspan").text(`Rural`).attr("fill", colors["nonmetro"]);
+            chartTitle.append("tspan").text(` Counties, North Carolina, 2018`);
+
+
 
         }
         return chart;
-
-
-
-
-        // g.append("text")
-        //     .attr("x", x(65))
-        //     .attr("text-anchor", "middle")
-        //     .attr("y", y(filtered.ruralMax))
-        //     .attr("dy", -4)
-        //     .attr("font-weight", 600)
-        //     .attr("fill", colors[0])
-        //     .text(`Non - Metro(N = ${ filtered.rural.length.toLocaleString() })`);
-
-        // g.append("text")
-        //     .attr("x", x(60))
-        //     .attr("text-anchor", "middle")
-        //     .attr("y", y(85))
-        //     .attr("font-weight", 600)
-        //     .attr("fill", colors[1])
-        //     .text(`Metro(N = ${ filtered.metro.length.toLocaleString() })`);
-
-
-
 
     }
 

@@ -1,7 +1,7 @@
 ---
 title: North Carolina Health Professional Supply Data
 javascript: ["js/app.js","js/chunk-vendors.js"]
-teaserImage: supply.jpg
+teaserImage: supply_viz_thumbnail.png
 teaserText: Investigate the supply of health professionals in North Carolina. 
 aliases: [/supply]
 ---
