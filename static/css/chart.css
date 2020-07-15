@@ -1,0 +1,28 @@
+.tick line {
+    stroke: #c4c4c4;  
+}
+
+.tick text {
+    fill: #4a4a4a; 
+    font-size: 14px; 
+}
+
+.chart-title {
+    font-size: 18px;
+    fill: #333;
+}
+
+.chart-subtitle {
+    font-size: 14px;
+    fill: #333;
+}
+
+.axis-label {
+    fill: #4a4a4a;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.domain {
+    stroke: #c4c4c4;   
+}

@@ -20,6 +20,11 @@
             }
         }
     </style>
+    {{ if isset .Page.Params "css" }}
+    {{range .Page.Params.css}}
+    <link rel="stylesheet" href="{{ . }}" type="text/css">
+    {{ end }}
+    {{end}}
 
 </head>
 

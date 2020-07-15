@@ -143,10 +143,9 @@
             .call(g => g.select(".tick:last-of-type text").clone()
                 .attr("dx", -20)
                 .attr("dy", -20)
+                .attr("class", "axis-label")
                 .attr("text-anchor", "start")
-                .attr("font-weight", "bold")
                 .text("Rate per 10,000 Population"))
-            .call(g => g.selectAll(".tick line").attr("stroke", "#c4c4c4"))
         const line = d3
             .line()
             .curve(d3.curveMonotoneX)
@@ -213,15 +212,13 @@
         svg.append("text")
             .attr("transform", `translate(${width / 2} ${height - margin.bottom + 40})`)
             .attr("text-anchor", "middle")
-            .attr("fill", "#4a4a4a")
-            .attr("font-weight", "bold")
+            .attr("class", "axis-label")
             .text("Year");
 
         //Chart title
         svg.append("text")
             .attr("transform", `translate(5 40)`)
-            .attr("font-size", 18)
-            .attr("fill", "#333")
+            .attr("class", "chart-title")
             .text(`${currentProfessionObject.display_name.replace(" - All", "s")} per 10,000 Population, ${yearExtent.join(" - ")}, North Carolina`)
 
         //Draw logo
@@ -241,14 +238,6 @@
         //Add note and source
         svg.node().appendChild(createSVGtext({ text: note, fontSize: 10, maxCharsPerLine: 135 })).setAttribute("transform", `translate(10 ${height - margin.bottom + 70})`)
 
-
-        //Make all text the same font family
-        svg
-            .selectAll("text")
-            .attr(
-                "font-family",
-                "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'"
-            );
 
     }
 
