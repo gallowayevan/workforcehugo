@@ -20,6 +20,15 @@
             }
         }
     </style>
+
+    <style>
+     @card {
+       card.is-200-px {
+       height: 200px;
+     }
+   }
+
+    </style>
     {{ if isset .Page.Params "css" }}
     {{range .Page.Params.css}}
     <link rel="stylesheet" href="{{ . }}" type="text/css">
@@ -147,7 +156,7 @@
     <section class="hero has-background-white-ter">
         <div class="hero-body">
             <div class="container">
-                <h1 class="title has-text-centered">Recent Posts</h1>
+                <h1 class="title has-text-centered has-text-weight-light">Recent Posts</h1>
                 <div class="columns is-centered">
                     <div class="field column is-one-third">
                         <label class="label">Search</label>
@@ -170,7 +179,7 @@
             </div>
         </div>
     </section>
-    <section class="hero has-background-success-light">
+    <section class="hero has-background-white-er">
         <div class="hero-body">
             <div class="container">
                 <footer class="columns">

@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 197.3 169" style="enable-background:new 0 0 197.3 169;" xml:space="preserve">
+	 viewBox="0 0 540 350" style="enable-background:new 0 0 540 350;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0075B0;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st3{fill:#1E72B2;}
-	.st4{fill:#0075B0;}
-	.st5{fill:#0075B0;stroke:#0075B0;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:#1E72B2;}
+	.st3{fill:#0075B0;}
+	.st4{fill:#0075B0;stroke:#0075B0;stroke-width:4;stroke-miterlimit:10;}
 </style>
-<line class="st0" x1="35" y1="44" x2="148" y2="72"/>
-<line class="st0" x1="118.5" y1="17.5" x2="61.3" y2="158.7"/>
-<line class="st1" x1="112" y1="19" x2="14" y2="89"/>
-<line class="st2" x1="71.5" y1="58.5" x2="62" y2="150"/>
-<ellipse class="st3" cx="160.7" cy="73" rx="36.7" ry="30"/>
-<circle class="st4" cx="61.5" cy="149.5" r="19.5"/>
-<circle class="st4" cx="71.5" cy="58.5" r="19.5"/>
-<circle class="st5" cx="18.5" cy="86.5" r="13.5"/>
-<circle class="st5" cx="118.5" cy="17.5" r="15.5"/>
-<circle class="st3" cx="19" cy="38" r="19"/>
+<line class="st0" x1="175" y1="97.2" x2="364.6" y2="144.2"/>
+<line class="st0" x1="315.1" y1="52.8" x2="219.1" y2="289.6"/>
+<line class="st1" x1="304.2" y1="55.3" x2="139.8" y2="172.7"/>
+<line class="st0" x1="236.2" y1="121.5" x2="220.3" y2="275"/>
+<ellipse class="st2" cx="385.8" cy="145.9" rx="61.6" ry="50.3"/>
+<circle class="st3" cx="219.5" cy="274.2" r="32.7"/>
+<circle class="st3" cx="236.2" cy="121.5" r="32.7"/>
+<circle class="st4" cx="147.4" cy="168.5" r="22.7"/>
+<circle class="st4" cx="315.1" cy="52.8" r="26"/>
+<circle class="st2" cx="148.2" cy="87.2" r="31.9"/>
 </svg>
