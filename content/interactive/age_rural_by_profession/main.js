@@ -223,34 +223,53 @@
             chartBody
                 .selectAll(".mean-line")
                 .data(descriptiveData.get(professionCode), d => d.metro)
-                .join("line")
-                .attr("class", "mean-line")
-                .attr("y1", margin.top)
-                .attr("y2", height - margin.bottom)
-                .attr("stroke", d => colors[d.metro])
-                .attr("stroke-width", 3)
-                .attr("stroke-dasharray", 4)
-                .transition(t)
-                .attr("x1", d => x(d.avg_age))
-                .attr("x2", d => x(d.avg_age));
+                .join(
+                    enter =>
+                        enter
+                            .append("line")
+                            .attr("class", "mean-line")
+                            .attr("y1", margin.top)
+                            .attr("y2", height - margin.bottom)
+                            .attr("stroke", d => colors[d.metro])
+                            .attr("stroke-width", 3)
+                            .attr("stroke-dasharray", 4)
+                            .attr("x1", d => x(d.avg_age))
+                            .attr("x2", d => x(d.avg_age)),
+                    update =>
+                        update
+                            .transition(t)
+                            .attr("x1", d => x(d.avg_age))
+                            .attr("x2", d => x(d.avg_age))
+                );
+
 
             chartBody
                 .selectAll(".mean-text")
                 .data(descriptiveData.get(professionCode), d => d.metro)
-                .join("text")
-                .attr("class", "mean-text")
-                .attr("text-anchor", "middle")
-                .attr("dy", "-5")
-                .attr("fill", d => colors[d.metro])
-                .transition(t)
-                .attr("transform", d => `translate(${x(d.avg_age)} ${margin.top})`)
-                .textTween(function (d) {
-                    const i = d3.interpolateRound(this._current | 0, d.avg_age);
-                    return function (t) { return this._current = i(t); };
-                })
-                .on("end", function (d) {
-                    d3.select(this).property("_current", d.avg_age)
-                });
+                .join(
+                    enter =>
+                        enter
+                            .append("text")
+                            .property("_current", d => d.avg_age)
+                            .text(d => d.avg_age)
+                            .attr("class", "mean-text")
+                            .attr("text-anchor", "middle")
+                            .attr("dy", "-5")
+                            .attr("fill", d => colors[d.metro])
+                            .attr("transform", d => `translate(${x(d.avg_age)} ${margin.top})`),
+                    update =>
+                        update
+                            .transition(t)
+                            .attr("transform", d => `translate(${x(d.avg_age)} ${margin.top})`)
+                            .textTween(function (d) {
+                                const i = d3.interpolateRound(this._current, d.avg_age);
+                                return function (t) {
+                                    return (this._current = i(t));
+                                };
+                            })
+                );
+
+
 
             chartBody
                 .selectAll(".n-annotation")
