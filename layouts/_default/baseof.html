@@ -15,20 +15,12 @@
     <style>
         @media only screen and (min-width: 769px) {
             figure.is-wide-figure {
-                margin-left: -33%;
-                margin-right: -33%;
+                margin-left: -20%;
+                margin-right: -20%;
             }
         }
     </style>
 
-    <style>
-     @card {
-       card.is-200-px {
-       height: 200px;
-     }
-   }
-
-    </style>
     {{ if isset .Page.Params "css" }}
     {{range .Page.Params.css}}
     <link rel="stylesheet" href="{{ . }}" type="text/css">
