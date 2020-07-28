@@ -8,3 +8,10 @@ title = "NC Health Workforce"
 
   [params]
   searchSections = ["blog", "briefs", "interactive"]
+
+  [markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
