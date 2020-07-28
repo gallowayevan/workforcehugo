@@ -20,4 +20,4 @@ aliases:
 * After 2014, the gap in workforce growth between non-rural and rural counties widened for both physicians and PAs.
 * For more background and information, see [this article](http://www.ncmedicaljournal.com/content/80/3/186.full) in the North Carolina Medical Journal.
 
-{{< img alt="Growth of NPs, PAs, and Physicians Since the Year 2000" src="/images/posts/np_pa_growth_color.png">}}
+{{< img alt="Growth of NPs, PAs, and Physicians Since the Year 2000." src="/images/posts/np_pa_growth_color.png">}}

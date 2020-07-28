@@ -221,6 +221,12 @@
             .attr("class", "chart-title")
             .text(`${currentProfessionObject.display_name.replace(" - All", "s")} per 10,000 Population, ${yearExtent.join(" - ")}, North Carolina`)
 
+        //SVG title element
+        svg.append("title")
+            .attr("transform", `translate(5 40)`)
+            .attr("class", "chart-title")
+            .text(`${currentProfessionObject.display_name.replace(" - All", "s")} per 10,000 Population, Metro vs Rural, ${yearExtent.join(" - ")}, North Carolina`)
+
         //Draw logo
         const logoFrag = document.createDocumentFragment();
         logoSpec.forEach(function ({ fill, paths }) {

@@ -17,7 +17,7 @@ aliases:
 * In North Carolina, infant mortality rates are higher for non-Hispanic black babies than for non-Hispanic white babies, and this gap has persisted for nearly 20 years. \[1] In 2018, black infants were almost two and a half times more likely to die than white infants. \[2, 3]
 * Relative to white patients, black patients report worse communication and lower shared decision-making with physicians. \[4] Racial concordance, when patients and physicians identify as the same race, is associated with better patient-physician communication.  Training can help improve communication between non-racially concordant providers and patients.
 
-{{< img  src="/images/posts/ObsProvidersCharts11Feb2020small.png">}}
+{{< img  alt="Row chart comparing the racial composition in North Carolina of Family Medicine Physicians who Deliver Babies, Certified Nurse Midwives, Ob Gyns who deliver, and the NC population." src="/images/posts/ObsProvidersCharts11Feb2020small.png">}}
 
 \[1] Di Bona, V. Jones-Vessey K, Cobb SM. Running the numbers: disparities in infant mortality: examining perinatal periods of risk.NCMJ 2020; 81: 70-74.
 

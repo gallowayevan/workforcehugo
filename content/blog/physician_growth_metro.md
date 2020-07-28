@@ -19,4 +19,4 @@ aliases:
 * The main concern is not the overall number of physicians in North Carolina, but the distribution of physicians in the state. Most of the growth in physicians per capita has occurred in urban counties. 
 * In rural (non-metropolitan) counties, growth in physicians per capita has been slow. Access-to-care issues remain concerning in many rural and underserved places.
 
-{{< img  src="/images/posts/md_metro_nonmetro_line_chart_1979-2018.png">}}
+{{< img alt="Physicians per 10,000 Population, Metropolitan vs Non-Metropolitan Counties, 1979 - 2018, North Carolina."  src="/images/posts/md_metro_nonmetro_line_chart_1979-2018.png">}}

@@ -17,6 +17,6 @@ aliases:
 
 * Two out of every three health care jobs in North Carolina are in allied health or nursing.
 
-{{< img src="/images/posts/nchealthcarejobs2016.jpg" alt="Health Care jobs">}}
+{{< img src="/images/posts/nchealthcarejobs2016.jpg" alt="Pie chart of the proportion of health professionals in North Carolina in each profession.">}}
 
 * Allied health is a broad category that includes many types of professions, such as physical therapists, respiratory therapists, pharmacy technicians, speech-language pathologists, dental hygenists, radiologic technologists, etc.

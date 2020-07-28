@@ -19,4 +19,4 @@ aliases:
 * The NP workforce has grown the most rapidly of the three, with growth in non-metropolitan (rural) counties keeping pace with that of metropolitan (urban) counties.
 * In recent years, the rate of growth for PAs and physicians has been greater in urban counties.
 
-{{< img  src="/images/posts/ncphysicianpanpgrowthnonmetro2017_v3.jpg">}}
+{{< img alt="Chart comparing cumulative percentage growth for physicians, physician assistants, nurse practitioners in metro and non-metro counties, 2000 - 2017, North Carolina." src="/images/posts/ncphysicianpanpgrowthnonmetro2017_v3.jpg">}}

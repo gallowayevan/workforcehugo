@@ -19,7 +19,7 @@ aliases:
 * **41%** (n=4,561/11,233) of physicians who completed a **non-AHEC residency** between 1997-2017 were practicing in NC in 2017
 * Compared to non-AHEC residency graduates, a larger percentage of **family medicine physicians, general internists, and pediatricians*** who graduated from an AHEC residency were in NC in 2017 
 
-{{< img  src="/images/posts/ahecgme_2017_withlogo_v2.png">}}
+{{< img  alt="Percentage of graduates of NC residency programs from 1997 to 2017 in practice in NC in 2017, AHEC vs Non-AHEC residency, by Specialty" src="/images/posts/ahecgme_2017_withlogo_v2.png">}}
 
 Notes: Data include active physicians in the 2017 AMA Physician Masterfile who reported completing residency training in North Carolina between 1997 and 2017. The AMA Physician Masterfile used for this analysis includes data on residency institution (ex. UNC Hospitals), but not residency program (ex. UNC Hospitals Internal Medicine Residency Program).  We assumed in the reported counts that, for example, a physician who graduated from an AHEC residency and reported a practice specialty of internal medicine completed an AHEC internal medicine residency.  However, the AMA Masterfile data does not specify which residency program physicians completed and these counts may not align with total counts of graduates in each residency program.  Furthermore, data do not include NC residency graduates from the time period that no longer appear in the AMA Masterfile or who are inactive (e.g. dead, no longer practice medicine, etc.).
 

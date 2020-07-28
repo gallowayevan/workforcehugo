@@ -711,14 +711,14 @@ aliases:
    
 </tbody></table>
 
-{{< img  src="/images/posts/metro_rates_professions.png">}}
+{{< img  alt="Comparison of the rate per 10,000 in metro and rural counties for different health professions." src="/images/posts/metro_rates_professions.png">}}
 
 
 - Licensed nurse practitioner is one of the few professions where the rate per 10,000 population is higher in rural counties than in metro counties.
 - Physicians have one of the biggest gaps between metro and rural rates. 
 - The chart uses a log scale, which helps make relative differences clearer. For instance, the difference between metro and nonmetro for registered nurses is 32.79 per 10,000 population, which is the largest gap among these health professions; however, that gap only seems large relative to the other professions because there are so many more registered nurses.
 
-{{< img  src="/images/posts/metro_nonmetro_rate_chart.png">}}
+{{< img  alt="Log scale comparison of the rate per 10,000 in metro and rural counties for different health professions." src="/images/posts/metro_nonmetro_rate_chart.png">}}
 
 <div>
         <table >

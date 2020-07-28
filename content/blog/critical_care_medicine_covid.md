@@ -19,7 +19,7 @@ Even before the pressures of a pandemic, [studies](https://www.ncbi.nlm.nih.gov/
 
 The map below shows the supply of critical care medicine physicians relative to population by Tertiary Service Areas (TSAs). TSAs are groups of counties that reflect where patients might be sent for specialty care.\[1] TSA #3, which contains the cities of Chapel Hill and Durham, had the highest proportion of critical care physicians, at 3.9 per 100K population. TSA #4, which contains the city of Winston-Salem, also had a higher ratio, at 3.2 per 100K population. TSA #7, which contains the city of Ashville, had the lowest ratio, at .9 per 100K population.  
 
-{{< img alt="Map of Critical Care Medicine physicians in North Carolina by TSA " src="/images/posts/critcaremedicine_2018.png">}}
+{{< img alt="Map of Critical Care Medicine physicians in North Carolina by TSA." src="/images/posts/critcaremedicine_2018.png">}}
 
 In [a national model](https://array-architects.com/press-release/array-advisors-projects-massive-shortage-of-critical-care-physicians-due-to-covid-19/) from late March, Array Advisor estimated that by the time of peak resource use—mid-April according to IHME model— NC would have a shortage of 329 critical care physicians, the fifth worst shortage in the nation. However, according to a recent policy brief from a group modeling COVID-19 impact in the state, NC’s [early and aggressive precautions](https://www.shepscenter.unc.edu/wp-content/uploads/2020/04/Brief-2_4-17-20.pdf) paid off, paving the way for a gradual reopening.  This optimistic outlook is still contingent on continued containment strategies such as testing, contract tracing, social distancing measures and limiting gathering size. 
 

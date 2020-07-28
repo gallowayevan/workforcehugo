@@ -16,4 +16,4 @@ aliases:
 * Compared to other medical schools, a higher percentage of each graduating class from East Carolina University practices in NC.
 * ECU's legislatively mandated mission is to increase the supply of physicians for the state and only NC residents are considered for admission.
 
-{{< img  src="/images/posts/med_school_cohorts_nc_2008-2012.jpg">}}
+{{< img alt="Percentage of NC Medical School Graduates in North Carolina Five Years After Graduation, Graduating Classes of 2008 - 2012." src="/images/posts/med_school_cohorts_nc_2008-2012.jpg">}}

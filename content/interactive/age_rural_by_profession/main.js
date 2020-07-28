@@ -292,7 +292,10 @@
             chartTitle.append("tspan").text(`Rural`).attr("fill", colors["nonmetro"]);
             chartTitle.append("tspan").text(` Counties, North Carolina, 2018`);
 
-
+            //SVG title element
+            svg.selectAll(".svg-title").data([professionCode], d => d).join("title")
+                .attr("class", "svg-title")
+                .text(`Age Distribution of ${professionListMap.get(professionCode)}s, Metropolitan vs Rural Counties, North Carolina, 2018`);
 
         }
         return chart;

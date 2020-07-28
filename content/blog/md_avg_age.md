@@ -16,5 +16,5 @@ aliases:
 * The average age of a physicians in North Carolina has steadily increased since the year 2000. 
 * The rural physician workforce is aging at a faster pace than the metro workforce. In 2000, only 1.5 years separated the average age of metro and rural physicians. By 2016, rural physicians were, on average, 4.2 years older.
 
-{{< img src="/images/posts/md_age_over_time.jpg" alt="MD Age Over Time">}}
+{{< img alt="Average age of North Carolina physicians over time, Metro vs Rural, 2000 - 2016." src="/images/posts/md_age_over_time.jpg" alt="MD Age Over Time">}}
 
