@@ -30,11 +30,18 @@
     //Add event handlers
     professionSelect.addEventListener("change", handleProfessionSelect);
 
-    const kdeData = await d3.csv("kde.csv", d3.autoType);
-    const descriptiveData = d3.group(await d3.csv("descriptives.csv", d3.autoType), d => d.profession);
-    const logoSpec = await d3.json("/images/assets/logo.json");
-    const cbsaLookup = new Map((await d3.json("/data/cbsaLookup.json", d3.autoType)).find(d => d[0] == 2017)[1]);
-    const ncMap = await d3.json("/data/geo/ncmap.json")
+    //[file, autoType?]
+    const dataPromises = [
+        ["kde.csv", true],
+        ["descriptives.csv", true],
+        ["/images/assets/logo.json", false],
+        ["/data/cbsaLookup.json", true],
+        ["/data/geo/ncmap.json", false]
+    ].map(d => d3[d[0].split(".")[1]](d[0], d[1] ? d3.autoType : undefined));
+
+    const [kdeData, descriptiveRaw, logoSpec, cbsaLookupRaw, ncMap] = await Promise.all(dataPromises);
+    const descriptiveData = d3.group(descriptiveRaw, d => d.profession);
+    const cbsaLookup = new Map(cbsaLookupRaw.find(d => d[0] == 2017)[1]);
 
     const chart = densityChart("#viz");
 
