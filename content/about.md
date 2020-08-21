@@ -11,7 +11,7 @@ We manage the North Carolina Health Professions Data System (HPDS), collecting a
 
 ## Contact Us
 
-If you are not able to find the health professions data you need on our website, or are interested in further analysis or data, contact us by email at [Sheps_WorkforceNC.smb@ad.unc.edu](mailto:Sheps_WorkforceNC.smb@ad.unc.edu). We operate on a cost recovery basis for data requests.
+If you are not able to find the health professions data you need on our website, or are interested in further analysis or data, contact us by email at [nchealthworkforce@unc.edu](mailto:nchealthworkforce@unc.edu). We operate on a cost recovery basis for data requests.
 
 ## Find us, Follow us
 
