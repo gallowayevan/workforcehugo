@@ -30,8 +30,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 </div>
 <div class="field">
   <div class="control">
-    <button class="button is-link" type="submit">Download Data</button>
-  </div> 
+    <button class="button is-info" type="submit">Download Data</button>
+  </div>
 </div>
 </form>
 
@@ -64,8 +64,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 </div>
 <div class="field">
   <div class="control">
-    <button class="button is-link" type="submit">Download Data</button>
-  </div> 
+    <button class="button is-info" type="submit">Download Data</button>
+  </div>
 </div>
 </form>
 
@@ -109,8 +109,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 </div>
 <div class="field">
   <div class="control">
-    <button class="button is-link" type="submit">Download Data</button>
-  </div> 
+    <button class="button is-info" type="submit">Download Data</button>
+  </div>
 </div>
 </form>
 
@@ -118,8 +118,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 
 Data include active, licensed health professionals practicing in North Carolina as of October 31 of each data year. County counts are based on primary practice location. Some providers may practice in additional locations not shown in primary practice location counts. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management and are based on US Census data.
 
-Source: North Carolina Health Professions Data System, Program on Health Workforce Research and Policy, Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. 
+Source: North Carolina Health Professions Data System, Program on Health Workforce Research and Policy, Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill.
 
 The North Carolina Health Professions Data System (HPDS) collects and disseminates descriptive data on selected licensed health professionals in North Carolina. With annual files dating back to 1979, the HPDS is the oldest continuous state health workforce data system in the country.
 
-The HPDS is maintained by the Program on Health Workforce Research and Policy at the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill, in collaboration with the North Carolina Area Health Education Centers Program (AHEC), and the state’s independent health professional licensing boards. Ongoing financial support is provided by the NC AHEC Program Office and the Office of the Provost at the University of North Carolina at Chapel Hill. Although the NC HPDS maintains the data system, the data remain the property of their respective licensing board. 
+The HPDS is maintained by the Program on Health Workforce Research and Policy at the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill, in collaboration with the North Carolina Area Health Education Centers Program (AHEC), and the state’s independent health professional licensing boards. Ongoing financial support is provided by the NC AHEC Program Office and the Office of the Provost at the University of North Carolina at Chapel Hill. Although the NC HPDS maintains the data system, the data remain the property of their respective licensing board.
