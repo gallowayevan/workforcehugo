@@ -62,9 +62,7 @@
             ])
         ];
 
-        const filename = `Health_Professions_${
-            rateOrTotal == "providerRate" ? "Rate_per_10k" : "Total"
-            }_${county}_County.csv`;
+        const filename = `Health_Professions_${getRateOrTotalText(rateOrTotal)}_${county}_County.csv`;
 
         triggerDownload(download, filename);
 
@@ -79,7 +77,6 @@
         const professionName = Array.from(professionElement.children, d => [d.textContent, +d.value]).filter(d => +professionId == d[1])[0][0];
         const rateOrTotal = Array.from(document.getElementsByName("rateOrTotal2"), d => [d.checked, d.value]).filter(d => d[0])[0][1];
 
-
         const professionals = await d3.csv(
             `https://data-dept-healthworkforce.cloudapps.unc.edu/data/region/spec${professionId.padStart(
                 3,
@@ -93,10 +90,11 @@
                     year: +d.year,
                     total: +d.total,
                     population: +d.population,
-                    rate: +d.providerRate
+                    providerRate: +d.providerRate
                 };
             }
         );
+
         const county_by_year = d3.groups(professionals, d => d.county).map(function (d) {
             let newRow = { County: d[0] };
             d[1].forEach(function (e) {
@@ -106,7 +104,7 @@
         });
         const yearExtent = d3.extent(professionals, d => d.year);
         const download = [d3.csvFormat(county_by_year, ["County", ...d3.range(yearExtent[0], yearExtent[1] + 1)])];
-        const filename = `NC_${professionName.split(" ").join("")}_${yearExtent.join("_")}.csv`;
+        const filename = `NC_${professionName.split(" ").join("")}_${getRateOrTotalText(rateOrTotal)}_${yearExtent.join("_")}.csv`;
 
         triggerDownload(download, filename);
     }
@@ -115,8 +113,7 @@
         event.preventDefault();
         const region = document.getElementById("region-select").value;
         const year = document.getElementById("year-select").value;
-        const rateOrTotal = Array.from(document.getElementsByName("rateOrTotal1"), d => [d.checked, d.value]).filter(d => d[0])[0][1];
-
+        const rateOrTotal = Array.from(document.getElementsByName("rateOrTotal3"), d => [d.checked, d.value]).filter(d => d[0])[0][1];
         const professionsData = await getProfessionsData(professions.filter(d => d.profession == d.specialty));
         const professions_by_county =
             d3.groups(
@@ -138,7 +135,7 @@
                 })
 
         const download = [d3.csvFormat(professions_by_county)];
-        const filename = `HPDS_professions_${rateOrTotal}_${year}.csv`;
+        const filename = `HPDS_professions_${getRateOrTotalText(rateOrTotal)}_${year}.csv`;
         triggerDownload(download, filename);
     }
 
@@ -174,5 +171,9 @@
         });
         const users = await Promise.all(pArray);
         return users;
+    }
+
+    function getRateOrTotalText(rateOrTotal) {
+        return rateOrTotal == "providerRate" ? "Rate_per_10k" : "Total";
     }
 })();

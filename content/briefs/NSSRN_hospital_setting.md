@@ -38,3 +38,4 @@ The percent of hospital nurses working in ED, inpatient, and outpatient settings
 [^2]:	U.S. Department of Health and Human Services, Health Resources and Services Administration, National Center for Health Workforce Analysis. 2019. Technical Report for the National Sample Survey of Registered Nurses, Rockville, Maryland.
 [^3]:	Spetz, J. (2013). The research and policy importance of nursing sample surveys and minimum data sets. Policy, Politics, & Nursing Practice, 14(1), 33-40.
 [^4]:	“North Carolina Health Professional Supply Data.” [Sheps Health Workforce NC](https://nchealthworkforce.unc.edu/supply/).
+
