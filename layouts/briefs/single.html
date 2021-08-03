@@ -10,6 +10,7 @@
                 <p class="has-text-grey mb-0">By {{.Params.author}}</p>
                 <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
                 {{.Content}}
+                {{ partial "ahec.html" }}
             </article>
         </section>
         {{end}}
