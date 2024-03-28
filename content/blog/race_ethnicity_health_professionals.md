@@ -37,6 +37,6 @@ _PTs._ PTs had a lower proportion of individuals who identified as Multiracial/O
 _OTs._ OTs fell short of matching the proportions of the State in all racial/ethnic categories. Less than 15% of OTs identified as Black/African American (7%), Asian/Pacific Islander (3%), Hispanic (2%), Multiracial/Other (2%), and American Indian (<0.5%).  
 
 
-<!-- To learn more about NC health workforce racial/ethnic diversity over time, please visit [INSERT LINK TO BLOG 2] -->
+To learn more about NC health workforce racial/ethnic diversity over time, please visit [this blog post](/blog/trends_race_ethnicity_health_professions).
 
 [^1]: North Carolina Office of State Budget and Management. County/State Population Projections: Hispanic Origin by Race (2010-2050) and Sex, Race, Age Groups (2000-2050). Available from: https://www.osbm.nc.gov/facts-figures/population-demographics/state-demographer/countystate-population-projections 
