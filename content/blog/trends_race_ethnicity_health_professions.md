@@ -100,7 +100,7 @@ identified as Asian/Pacific Islander increased from 3% in 2009, 5% in
 identified as American Indian/Alaska Native remained ≤1% across 2014,
 2019 and 2022.
 
-**Figure 1a-b. Racial/Ethnic Diversity of NC Physicians, Dentists, Pharmacists, and Optometrists across 2009, 2014, 2019, 2022**
+**Figure 1a-d. Racial/Ethnic Diversity of NC Physicians, Dentists, Pharmacists, and Optometrists across 2009, 2014, 2019, 2022**
 
 {{< img  alt="Four clustered vertical bar charts displaying the racial/ethnic proportions of North Carolina physicians, dentists, pharmacists and optometrists, using Black/African American, Hispanic, American Indian/Alaska Native, Multiracial/Other, and Asian Pacific Islander between 2009 and 2022, finding minimal increases in these professions diversity over time." src="/images/posts/diversity/post_2_figure_1.png" caption="Source: North Carolina Health Professions Data System with data derived from North Carolina licensing boards, 2009, 2014, 2019, and 2022. Figures include active, instate non-federal, non-resident-in-training physicians, pharmacists, dentists, and optometrists licensed as of October 31, 2022. These data examine the practitioners who reported race/ethnicity data to their respective North Carolina state board. * The North Carolina State Board of Dental Examiners does not collect data on the American Indian/Alaska Native racial/ethnic category.">}}
 
