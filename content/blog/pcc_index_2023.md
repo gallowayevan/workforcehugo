@@ -2,7 +2,7 @@
 title: Distribution of primary care clinicians in North Carolina
 date: 2024-07-23
 author: 'Evan Galloway'
-draft: false
+draft: true
 teaserText: How are primary care clinicians distributed in North Carolina?
 teaserImage: pcc_index_2023.jpg
 keywords: [physician, physician assistant, nurse practitioner, primary care]
