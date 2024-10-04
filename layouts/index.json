@@ -1,6 +1,8 @@
 {{/* Generates a  search index */}}
+{{ $searchSections := .Site.Params.searchSections }}
+
 {{- $.Scratch.Add "index" slice -}}
-{{range where .Site.RegularPages "Type" "in" site.Params.searchSections }}
+{{ range where (where .Site.RegularPages "Type" "in" $searchSections) ".Params.unlisted" "!=" true }}
     {{- $.Scratch.Add "index" (dict "title" .Title "keywords" .Params.keywords "teaserText" .Params.teaserText "fileID" .File.UniqueID "teaserImage" .Params.teaserImage "summary" .Summary "authors" .Params.author "permalink" .RelPermalink) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

@@ -3,7 +3,7 @@
     <div class="container">
         <h1 class="title">{{.Title}}</h1>
         <div class="columns is-multiline">
-            {{ range .Pages }}
+            {{ range (where .Pages ".Params.unlisted" "!=" true) }}
             {{ partial "thumbnail.html" . }}
             {{ end }}
         </div>

@@ -173,16 +173,22 @@
                         </div>
                     </div>
                 </div>
+     
                 <div class="columns is-multiline thumbnails">
-                    {{ range $elem_index, $elem_val := .Site.RegularPages }}
-                    {{if lt $elem_index 3}}
-                    {{ partial "thumbnail.html" . }}
-                    {{else}}
-                    <div style="display:none">
-                        {{ partial "thumbnail.html" . }}
-                    </div>
-                    {{end}}
-                    {{ end }}
+                    {{ $count := 0 }} <!-- Initialize a counter -->
+{{ range $elem_index, $elem_val := .Site.RegularPages }}
+    {{ if ne $elem_val.Params.unlisted true }}
+        {{ if lt $count 3 }} <!-- Check if counter is less than 3 -->
+            {{ partial "thumbnail.html" $elem_val }}
+            {{ $count = add $count 1 }} <!-- Increment the counter -->
+        {{ else }}
+            <div style="display:none">
+                {{ partial "thumbnail.html" $elem_val }}
+            </div>
+        {{ end }}
+    {{ end }}
+{{ end }}
+
                 </div>
             </div>
         </div>
