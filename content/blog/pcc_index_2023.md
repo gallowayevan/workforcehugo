@@ -1,6 +1,6 @@
 ---
 title: Is Access to Primary Care Clinicians Improving In North Carolina?
-date: 2024-10-04
+date: 2024-10-21
 author: 'Evan Galloway'
 draft: false
 unlisted: true

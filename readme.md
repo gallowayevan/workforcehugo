@@ -4,6 +4,10 @@
 
 In the frontmatter, specify a file name for the `teaserImage`. This file must be in the `/static/images/thumbnails` folder. The image should be cropped and resized to 400 x 300 pixels.
 
+## Publish a post but have it be unlisted, so that others can view but it does not appear in list of posts
+
+Add `unlisted: true` to front matter.
+
 ## Adding download buttons for interactive charts. 
 
 For content pages of type `observable` or `interactive`, you can add `Download Image` and `Download SVG` buttons. These buttons are added automatically when a `downloadId` parameter is added to the frontmatter. 
