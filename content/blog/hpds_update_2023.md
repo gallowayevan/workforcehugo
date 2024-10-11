@@ -3,7 +3,7 @@ title: "2023 Data Update: The North Carolina Health Professions Data System"
 date: 2024-10-04
 author: 'Connor Sullivan, Catherine Moore'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "2023 Data Update: The North Carolina Health Professions Data System"
 teaserImage: hpds_update_2023.jpg
 keywords: [physician, licensed practical nurse, dentist, dental hygienist]
