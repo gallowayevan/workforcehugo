@@ -1,45 +1,16 @@
 (function () {
 
-  const options = {
-    shouldSort: true,
-    threshold: 0.6,
-    location: 0,
-    distance: 100,
-    maxPatternLength: 32,
-    minMatchCharLength: 3,
-    keys: [{
-      name: 'title',
-      weight: 0.5
-    }, {
-      name: 'authors',
-      weight: 0.2
-    },
-    {
-      name: 'summary',
-      weight: 0.4
-    },
-    {
-      name: 'teaserText',
-      weight: 0.6
-    },
-    {
-      name: 'keywords',
-      weight: 0.9
-    }]
-  };
+  const minMatchCharLength = 1;
 
   fetch('/index.json')
     .then(function (response) {
       return response.json();
     })
     .then(function (searchJSON) {
-      const searchIndex = searchJSON.map(function (d) {
-        if (d.author) d.author = cleanCommaDelimited(d.author);
-        if (d.date) d.date = new Date(d.date);
-
-        return d;
-      })
-      const fuse = new Fuse(searchIndex, options);
+      const searchIndex = searchJSON.map(function (d,index) {
+        const searchString = [d.title, d.authors, d.teaserText, d.tags, d.keywords].join(' ').toLowerCase();
+            return {path: d.permalink, searchString, index, fileID: d.fileID}
+      });
 
       const searchBoxes = document.querySelectorAll('.search-box');
 
@@ -53,8 +24,8 @@
       }
 
       function search(event) {
-        const searchResults = event.target.value.length >= options.minMatchCharLength ?
-          fuse.search(event.target.value).map(d => d.fileID).slice(0, numberOfSearchResults) :
+        const searchResults = event.target.value.length >= minMatchCharLength ?
+        searchIndex.filter(d=>d.searchString.includes(event.target.value.toLowerCase())).map(d => d.fileID) :
           defaultKeys;
 
         const thumbnailFragment = document.createDocumentFragment();
