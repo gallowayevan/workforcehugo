@@ -6,6 +6,8 @@
     countyList.forEach(d => countySelectFragment.appendChild(new Option(d)));
     countySelect.appendChild(countySelectFragment);
 
+    fetch("https://workforce-sveltekit-dept-healthworkforce.apps.cloudapps.unc.edu/api/supply")
+
     //Get professions list and populate select
     const professions = (await d3.csv("https://data-dept-healthworkforce.cloudapps.unc.edu/data/specialties.csv")).sort((a, b) => d3.ascending(a.profession, b.profession));
     const professionSelect = document.getElementById("profession-select");
