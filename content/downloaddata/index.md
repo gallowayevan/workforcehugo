@@ -14,7 +14,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Total
     </label>
     <label class="radio">
-      <input type="radio" name="rateOrTotal1" value="providerRate">
+      <input type="radio" name="rateOrTotal1" value="provider_rate">
       Rate per 10K
     </label>
   </div>
@@ -48,7 +48,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Total
     </label>
     <label class="radio">
-      <input type="radio" name="rateOrTotal2" value="providerRate">
+      <input type="radio" name="rateOrTotal2" value="provider_rate">
       Rate per 10K
     </label>
   </div>
@@ -92,7 +92,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Total
     </label>
     <label class="radio">
-      <input type="radio" name="rateOrTotal3" value="providerRate">
+      <input type="radio" name="rateOrTotal3" value="provider_rate">
       Rate per 10K
     </label>
   </div>
