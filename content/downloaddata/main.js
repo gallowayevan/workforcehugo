@@ -1,6 +1,6 @@
 (async function () {
-  const rootOfApi = "http://localhost:1313";
-  //  const rootOfApi = "https://hpdsdatanode-dept-healthworkforce.apps.cloudapps.unc.edu"
+//   const rootOfApi = "http://localhost:1313";
+   const rootOfApi = "https://hpdsdatanode-dept-healthworkforce.apps.cloudapps.unc.edu"
 
   //Populate county select box.
   const countyList = [
