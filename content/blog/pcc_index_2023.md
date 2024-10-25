@@ -16,13 +16,13 @@ Below is an animated map showing the change to the index over time, where light 
 
 {{< img alt="Map showing the change in the primary care clinician index between 2017 and 2023 at the county level for North Carolina. Overall, counties appear to be trending towards lower index values, implying greater geographic access to primary care."   src="/images/posts/pcc_index_2017-2023_lower_resize.webp">}}
 
-The following map shows the change over time as a percentage. For instance, Wake County is light blue because the county's primary care clinician index decreased by 21% between 2017 and 2023, indicating improved geographic access to care.
+The following map shows the change over time as a percentage. For instance, Wake County is <span class="rounded-word-box" style="background-color: rgb(181, 215, 232);">light blue</span> because the county's primary care clinician index **decreased** by 21% between 2017 and 2023, indicating **improved** geographic access to care.
 
 ## Percentage Change in the Primary Care Clinician Index by County, North Carolina, 2017-2023
 
 {{< img alt="A map of North Carolina showing the counties of North Carolina where the color of each county indicates the percentage change in the primary care clinician index between 2017 and 2023. Blue indicates a drop in the index (an improvement in access), while red indicates an increase in the index value."  src="/images/posts/pcc_index_change_map_2017-2023.jpg">}}
 
-The charts below illustrate components of change for the index. These component maps illustrate that, for example, primary care nurse practitioners have grown in most areas of the state, and that clinician supply in fast fast-growing counties, like Brunswick and Johnston, has kept pace with population growth. 
+The charts below illustrate components of change for the index. These component maps illustrate that, for example, primary care nurse practitioners have grown in most areas of the state, and that clinician supply in fast fast-growing counties, like Brunswick and Johnston, has kept pace with population growth. In the maps below, <span class="rounded-word-box" style="background-color: rgb(73, 147, 195); color: #fff">blue</span> indicates a generally positive direction for the component.
 
 {{< img alt="Multiple maps of North Carolina, each showing the percentage change in a different facet of the inputs to the primary care clinician index."  src="/images/posts/pcc_index_components_of_change.png">}}
 
