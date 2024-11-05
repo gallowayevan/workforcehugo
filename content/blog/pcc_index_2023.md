@@ -1,6 +1,6 @@
 ---
 title: Is Access to Primary Care Clinicians Improving In North Carolina?
-date: 2024-10-04
+date: 2024-11-04
 author: 'Evan Galloway'
 draft: false
 unlisted: true
@@ -8,23 +8,20 @@ teaserText: Is Access to Primary Care Clinicians Improving In North Carolina?
 teaserImage: pcc_index_2023.jpg
 keywords: [physician, physician assistant, nurse practitioner, primary care]
 ---
-Sheps Health Workforce NC has produced a primary care clinician index since 2017 to measure geographic access to primary care at the county level. For this index, we consider physicians, nurse practitioners, physician assistants, and certified nurse midwives as primary care clinicians. (Details on the methodology for the index are provided below.) The index is an adjusted ratio of population to primary care clinician, so a higher value suggests worse access to primary care services. A ratio of 1500 people to 1 primary care clinician or less can indicate a sufficient number of primary care clinicians in an area. However, even in areas that fall below the 1500:1 threshold, individuals can experience difficulty in obtaining primary care services, as a result of socioeconomic barriers. 
+Sheps Health Workforce NC has produced a primary care clinician index since 2017 to measure geographic access to primary care. The primary care clinician index is a ratio of population to primary care clinicians, so a higher value suggests lower access to primary care services. We include physicians, nurse practitioners, physician assistants, and certified nurse midwives as primary care clinicians. (Details on the methodology for the index are provided below.)  Guided by the recommendations of a [federal report](https://www.ruralhealthinfo.org/assets/3262-13308/nrmcfinalreport.pdf), we selected a ratio of 1500 people to 1 primary care clinician or fewer as the standard of whether a county has sufficient primary care clinicians to meet population health needs. However, even in areas that fall below the 1500:1 threshold, individuals may experience difficulty in obtaining primary care services, as a result of socioeconomic factors, lack of insurance, and other barriers. This blog analyzes changes in the index between 2017 and 2023.
 
-Below is an animated map showing the change to the index over time, where light blue indicates a possibly sufficient supply. Many counties have seen improved geographic access to primary care during this period. Overall, the ratio for the state has improved from 983:1 in 2017 to 808:1 in 2023, despite a rapidly growing population. Among the 100 counties in North Carolina, 76 are below a 1500:1 population to provider ratio, an improvement from 2017 when only 64 met that standard. Counties above the 1500:1 ratio would need approximately 270 primary care clinician FTEs to bring them under the threshold for primary care sufficiency.
+Overall, the ratio for the state improved from 983 people:1 primary care clinician in 2017 to 808:1 in 2023. Among the 100 counties in North Carolina in 2022, 76  were below a 1500:1 population to provider ratio, an improvement from 2017 when only 64 met that standard. Counties above the 1500:1 ratio would need approximately 270 primary care clinician FTEs to bring them under the threshold for primary care sufficiency.
 
-## Primary Care Clinician Index by County, North Carolina, 2017-2023
+Figure 1 below shows the percentage change in the index between 2017 and 2023. Blue indicates that the number of people per primary care clinician decreased. For instance, Wake County is <span class="rounded-word-box" style="background-color: rgb(181, 215, 232);">light blue</span> because the county’s primary care clinician index **decreased** by 21% between 2017 and 2023, suggesting **improved** access to care.
 
-{{< img alt="Map showing the change in the primary care clinician index between 2017 and 2023 at the county level for North Carolina. Overall, counties appear to be trending towards lower index values, implying greater geographic access to primary care."   src="/images/posts/pcc_index_2017-2023_lower_resize.webp">}}
-
-The following map shows the change over time as a percentage. For instance, Wake County is <span class="rounded-word-box" style="background-color: rgb(181, 215, 232);">light blue</span> because the county's primary care clinician index **decreased** by 21% between 2017 and 2023, indicating **improved** geographic access to care.
-
-## Percentage Change in the Primary Care Clinician Index by County, North Carolina, 2017-2023
+## Figure 1: Percentage Change in the Primary Care Clinician Index by County, North Carolina, 2017-2023
 
 {{< img alt="A map of North Carolina showing the counties of North Carolina where the color of each county indicates the percentage change in the primary care clinician index between 2017 and 2023. Blue indicates a drop in the index (an improvement in access), while red indicates an increase in the index value."  src="/images/posts/pcc_index_change_map_2017-2023.jpg">}}
 
-The charts below illustrate components of change for the index. These component maps illustrate that, for example, primary care nurse practitioners have grown in most areas of the state, and that clinician supply in fast fast-growing counties, like Brunswick and Johnston, has kept pace with population growth. In the maps below, <span class="rounded-word-box" style="background-color: rgb(73, 147, 195); color: #fff">blue</span> indicates a generally positive direction for the component.
 
-## Percentage Change in the Components of the Primary Care Clinician Index by County, North Carolina, 2017-2023
+These findings suggest an overall improvement in the primary clinician index in NC despite rapid population growth. In other words, the growth of primary care clinicians has matched the population growth. However, there is variation between counties, and it is important to assess the source of these differences. The primary care clinician index is made up of multiple components with population change in the numerator and changes in the numbers of different types of primary care clinicians in the denominator. The maps below analyze each of these components of change at the county level with <span class="rounded-word-box" style="background-color: rgb(73, 147, 195); color: #fff">blue</span> indicating a percentage growth in the component and <span class="rounded-word-box" style="background-color: rgb(166, 28, 45); color: #fff">red</span> representing a decrease. Figure 2 illustrates that, for example, Brunswick and Johnston counties have experienced rapid population growth, but an even larger increase in the supply of nurse practitioners, physycian assistants, and primary care physicians has meant that the index for those counties has improved.
+
+## Figure 2: Percentage Change in the Components of the Primary Care Clinician Index by County, North Carolina, 2017-2023
 
 {{< img alt="Multiple maps of North Carolina, each showing the percentage change in a different facet of the inputs to the primary care clinician index."  src="/images/posts/pcc_index_components_of_change.png">}}
 
