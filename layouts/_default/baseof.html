@@ -10,6 +10,11 @@
     <meta name="description" content="North Carolina Health Professions Data System">
     <meta name="author" content="The Cecil G. Sheps Center for Health Services Research">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ if .Params.unlisted }}
+        <meta name="robots" content="noindex, nofollow">
+    {{ else }}
+        <meta name="robots" content="index, follow">
+    {{ end }}
 
     <link rel="stylesheet" href="/css/bulma2.min.css" type="text/css">
     <!-- <link rel="stylesheet" href="/css/loader.css" type="text/css"> -->
