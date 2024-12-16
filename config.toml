@@ -7,7 +7,7 @@ title = "NC Health Workforce"
   home = ["HTML", "RSS", "JSON"] 
 
   [params]
-  searchSections = ["blog", "briefs", "interactive"]
+  searchSections = ["blog", "reports", "interactive"]
 
   [markup]
   defaultMarkdownHandler = "goldmark"
