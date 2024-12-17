@@ -2,6 +2,8 @@
 //   const rootOfApi = "http://localhost:1313";
    const rootOfApi = "https://hpdsdatanode-dept-healthworkforce.apps.cloudapps.unc.edu"
 
+   const dataNote = `Data include active licensed health professionals practicing in North Carolina as of October 31 of each data year.\nCounty counts are based on primary practice location.\nSome providers may practice in additional locations not shown in primary practice location counts.\nPopulation census data and estimates are downloaded from the North Carolina Office of State Budget and Management and are based on US Census data.\n"Source: North Carolina Health Professions Data System, Program on Health Workforce Research and Policy, Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill."\n\n`
+
   //Populate county select box.
   const countyList = [
     "Alamance",
@@ -184,7 +186,7 @@
         .flat()
     );
 
-    const download = [
+    const download = dataNote + [
       d3.csvFormat(professions_over_time_by_county, [
         "Profession",
         ...d3.range(yearExtent[0], yearExtent[1] + 1),
@@ -235,7 +237,7 @@
         return newRow;
       });
     const yearExtent = d3.extent(professionals, (d) => d.year);
-    const download = [
+    const download = dataNote + [
       d3.csvFormat(county_by_year, [
         "County",
         ...d3.range(yearExtent[0], yearExtent[1] + 1),
@@ -269,7 +271,7 @@
         profession: professionsDisplayMap.get(d.profession_id),
         ...d,
       }));
-console.log(professionsData)
+// console.log(professionsData)
     const professions_by_county = d3
       .groups(
         professionsData,
@@ -285,7 +287,7 @@ console.log(professionsData)
         return Object.assign(columns, profColumns);
       });
 
-    const download = [d3.csvFormat(professions_by_county)];
+    const download = dataNote + [d3.csvFormat(professions_by_county)];
     const filename = `HPDS_professions_${getRateOrTotalText(
       rateOrTotal
     )}_${year}.csv`;

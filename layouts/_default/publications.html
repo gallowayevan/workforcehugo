@@ -1,0 +1,111 @@
+{{ define "main" }}
+<section class="section">
+    <h1 class="title">{{.Title}}</h1>
+
+    <div class="columns">
+        <div class="column is-half">
+            <form role="search" aria-label="Publications listed in the table on this page.">
+                <label for="searchInput">Search Publications:</label>
+                <input class="input" type="text" id="searchInput" placeholder="Search publications" />
+            </form>
+        </div>
+    </div>
+
+    <table class="table" id="publicationsTable">
+        <thead>
+            <tr>
+                <th>
+                    <button id="yearSortButton" class="button is-inverted is-dark has-text-weight-bold sort-button" aria-sort="descending">
+                        Year <span id="sortIndicator" aria-hidden="true">▼</span>
+                    </button>
+                </th>
+                <th>Title</th>
+                <th>Authors</th>
+                <th>Journal</th>
+            </tr>
+        </thead>
+        <tbody id="publicationsBody">
+            {{ range .Site.Data.publications }}
+            <tr style="text-align:right;" data-year="{{ .Year }}"
+                data-searchable="{{ lower (delimit (slice .Project .Title .Authors .Journal) " ") }}">
+                <td>{{ .Year }}</td>
+                <td><a href="{{ .Link }}">{{ .Title }}</a></td>
+                <td>{{ .Authors }}</td>
+                <td>{{ .Journal }}</td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+    <p id="noResultsMessage" class="no-results" style="display: none;">
+        No publications match your search.
+    </p>
+</section>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const table = document.getElementById('publicationsTable');
+    const searchInput = document.getElementById('searchInput');
+    const yearSortButton = document.getElementById('yearSortButton');
+    const sortIndicator = document.getElementById('sortIndicator');
+    const publicationsBody = document.getElementById('publicationsBody');
+    const noResultsMessage = document.getElementById('noResultsMessage');
+    const rows = Array.from(publicationsBody.querySelectorAll('tr'));
+
+    let sortType = 'descending';
+
+    // Function to filter rows based on search term
+    const getFilteredRows = () => {
+        const searchTerm = searchInput.value.toLowerCase().trim();
+        return rows.filter(row => searchTerm === '' || row.dataset.searchable.includes(searchTerm));
+    };
+
+    // Function to render the table with rows
+    const renderRows = (filteredRows) => {
+        const tbody = table.querySelector('tbody');
+        tbody.innerHTML = ''; // Clear current rows
+        filteredRows.forEach(row => tbody.appendChild(row));
+        noResultsMessage.style.display = filteredRows.length === 0 ? 'block' : 'none';
+    };
+
+    // Function to perform sorting
+    const performSort = () => {
+        const filteredRows = getFilteredRows();
+        const sortedRows = filteredRows.sort((a, b) => {
+            const yearA = parseInt(a.getAttribute('data-year'));
+            const yearB = parseInt(b.getAttribute('data-year'));
+            return sortType === 'ascending' ? yearA - yearB : yearB - yearA;
+        });
+
+        renderRows(sortedRows);
+
+        // Toggle sort type and indicator
+        sortType = sortType === 'descending' ? 'ascending' : 'descending';
+        sortIndicator.textContent = sortType === 'ascending' ? '▼' : '▲';
+        yearSortButton.setAttribute('aria-sort', sortType);
+    };
+
+    // Add event listeners
+    searchInput.addEventListener('input', () => {
+        renderRows(getFilteredRows());
+    });
+
+    yearSortButton.addEventListener('click', performSort);
+
+    // Initial render (with search and sort)
+    renderRows(getFilteredRows());
+    performSort();
+});
+</script>
+
+<style>
+
+
+.no-results {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+}
+
+</style>
+{{ end }}

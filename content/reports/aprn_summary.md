@@ -9,7 +9,8 @@ teaserImage: aprn_report.jpg
 keywords: 'nurses, aprn, crna, cns, cnm'
 ---
 
-[Download this Executive Summary as a pdf.](/pdf/aprn_executive_summary.pdf)
+<a class="button is-info" href="/pdf/aprn_executive_summary.pdf">Download this executive summary as a pdf.</a>
+<a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/2024/10/Final-Public-APRN-State-of-the-State-Report-1.pdf">Download the full report as a pdf.</a>
 
 ## Introduction
 
@@ -53,7 +54,7 @@ keywords: 'nurses, aprn, crna, cns, cnm'
 
  ### Figure 1. Cumulative Percentage Growth of North Carolina Nurse Practitioners, Physicians, Physician Assistants: 2000 - 2022
 
-{{< img alt="This line chart shows the percentage growth of three healthcare professions over time - Nurse Practitioner, Physician Assistant, and Physician. The Nurse Practitioner line experiences the most rapid growth increasing over 400% from 2000 to 2022. Physician Assistant growth is also substantial at around 200% over the same period, while Physician growth is more modest at around 30%."  src="/images/posts/aprn/figure_1.jpg">}}
+![This line chart shows the percentage growth of three healthcare professions over time - Nurse Practitioner, Physician Assistant, and Physician. The Nurse Practitioner line experiences the most rapid growth increasing over 400% from 2000 to 2022. Physician Assistant growth is also substantial at around 200% over the same period, while Physician growth is more modest at around 30%.](/images/posts/aprn/figure_1.jpg)
 
 <small>**Note**. Data from 2020 and 2021 are unavailable because of issues with
 the data which make longitudinal comparisons misleading.</small>
@@ -72,7 +73,7 @@ the data which make longitudinal comparisons misleading.</small>
 
 ### Figure 2. North Carolina Nurse Practitioners as a Percentage of Nonmetropolitan Clinicians in the State, 2000-2022
 
-{{< img alt="This stacked bar chart chart shows the proportion of non-metro clinicians from 2000 to 2022 belonging to the following three professions: Nurse Practitioners, Physician Assistants, and Physicians. Generally, the proportion of nurse practitioners has increased substantially, while the proportion of physicians has decreased."  src="/images/posts/aprn/figure_2.png">}}
+![This stacked bar chart chart shows the proportion of non-metro clinicians from 2000 to 2022 belonging to the following three professions: Nurse Practitioners, Physician Assistants, and Physicians. Generally, the proportion of nurse practitioners has increased substantially, while the proportion of physicians has decreased.](/images/posts/aprn/figure_2.png)
 
  <small>**Note**. Clinicians are defined as nurse practitioners (NPs),
  physicians, and physician assistants (PAs). Physician data from 2020
