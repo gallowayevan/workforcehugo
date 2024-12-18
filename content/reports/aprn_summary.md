@@ -3,14 +3,16 @@ title: "North Carolina Advanced Practice Registered Nurses: A Report on the Adva
 date: 2024-09-25
 author: 'Erin Fraher, Connor Sullivan, Catherine Moore, Tony Kane, Andy Knapton, Lorinda Coombs, Evan Galloway'
 draft: false
-unlisted: true
 teaserText: "North Carolina Advanced Practice Registered Nurses: A Report on the Advanced Practice Registered Nurse Workforce in North Carolina"
 teaserImage: aprn_report.jpg
 keywords: 'nurses, aprn, crna, cns, cnm'
 ---
 
+
+<div class="buttons">
 <a class="button is-info" href="/pdf/aprn_executive_summary.pdf">Download this executive summary as a pdf.</a>
 <a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/2024/10/Final-Public-APRN-State-of-the-State-Report-1.pdf">Download the full report as a pdf.</a>
+</div>
 
 ## Introduction
 
@@ -52,7 +54,7 @@ keywords: 'nurses, aprn, crna, cns, cnm'
     there were still more than twice as many physicians as NPs in NC in
     2022 (Figure 1).
 
- ### Figure 1. Cumulative Percentage Growth of North Carolina Nurse Practitioners, Physicians, Physician Assistants: 2000 - 2022
+ ### Figure 1. Cumulative Percentage Growth of North Carolina Nurse Practitioners, Physicians, Physician Assistants, 2000-2022
 
 ![This line chart shows the percentage growth of three healthcare professions over time - Nurse Practitioner, Physician Assistant, and Physician. The Nurse Practitioner line experiences the most rapid growth increasing over 400% from 2000 to 2022. Physician Assistant growth is also substantial at around 200% over the same period, while Physician growth is more modest at around 30%.](/images/posts/aprn/figure_1.jpg)
 
@@ -103,7 +105,7 @@ the data which make longitudinal comparisons misleading.</small>
     that may increase even more in the future given the new pathway to
     independent practice for CNMs in NC.
 
--   In 2022, 27% of CNMs who identified as URMsworked in nonmetropolitan
+-   In 2022, 27% of CNMs who identified as URMs worked in nonmetropolitan
     counties, compared to 12% of non-URM CNMs.
 
 -   The CRNA workforce increased at a slower rate than NPs and CNMs from
