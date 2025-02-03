@@ -3,9 +3,9 @@ title: "How Many Healthcare Professionals Work in Communities in North Carolina 
 date: 2025-01-31
 author: 'Catherine Moore, Connor Sullivan, Evan Galloway, Abhi Joshi'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Hurricane Helene and the Health Workforce"
-teaserImage: hpds_update_2023.jpg
+teaserImage: figure_2a.jpg
 keywords: [physician, licensed practical nurse, dentist, dental hygienist, hurricane helene]
 ---
 
@@ -217,7 +217,6 @@ provisions include:
 
 **Table 3.** Hurricane Helene-Related Regulatory Waivers for Professions
 included In the NC Health Professions Data System
-
 <table>
 <thead>
 <tr class="header">
