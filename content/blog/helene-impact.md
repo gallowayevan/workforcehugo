@@ -24,29 +24,13 @@ keywords: [physician, licensed practical nurse, dentist, dental hygienist, hurri
  **Figure 1.** Federal Emergency Management Agency North Carolina
  Disaster Declaration 
  
- {{< img src="/images/posts/helene/figure_1.jpg" alt="A map of the state of North Carolina showing the areas that are part of the disaster declaration. They are primarily counties in the western part of the state.">}}
-
- <small>Source: Federal Emergency Management Agency (FEMA). Designated Areas:
- Disaster 4827. Retrieved November 8, 2024 from [Designated Areas \|
- FEMA.gov](https://www.fema.gov/disaster/4827/designated-areas).
- 
- *Note.* Counties in disaster areas marked by
- ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) on the Federal Emergency Management
- Agency (FEMA) map are those that require both **emergency work**,
- including individual assistance and public assistance for FEMA
- categories A-B (debris removal and emergency protective measures)
- **and permanent work**, including individual assistance and public
- assistance for FEMA categories C-G (work on roads and bridges, water
- control facilities, public buildings and equipment, public utilities,
- and parks, recreational, and other facilities). All counties marked
- with a ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) were included in the analysis.</small>
+ {{< img src="/images/posts/helene/figure_1.jpg" alt="A map of the state of North Carolina showing the areas that are part of the disaster declaration. They are primarily counties in the western part of the state." caption="**Source:** Federal Emergency Management Agency (FEMA). Designated Areas: Disaster 4827. Retrieved November 8, 2024 from [Designated Areas \| FEMA.gov](https://www.fema.gov/disaster/4827/designated-areas). **Note:** Counties in disaster areas marked by ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) on the Federal Emergency Management Agency (FEMA) map are those that require both **emergency work**, including individual assistance and public assistance for FEMA categories A-B (debris removal and emergency protective measures) **and permanent work**, including individual assistance and public assistance for FEMA categories C-G (work on roads and bridges, water control facilities, public buildings and equipment, public utilities, and parks, recreational, and other facilities). All counties marked with a ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) were included in the analysis.">}}
 
  ### What was the 2023 health workforce supply in the 28 NC counties prior to Hurricane Helene?
 
 -   Among the 21 NC healthcare professions within the [NC Health
     Professions Data System
-    (HPDS)](https://nchealthworkforce.unc.edu/interactive/supply/)
-    (Table 1), 36,849 (15.5%) of the state's clinicians were employed in
+    (HPDS)](https://nchealthworkforce.unc.edu/interactive/supply/), 36,849 (15.5%) of the state's clinicians were employed in
     Hurricane Helene FEMA designated disaster areas (Table 1).
 
 -   Registered nurses (RNs) comprised almost half of the actively
@@ -54,7 +38,7 @@ keywords: [physician, licensed practical nurse, dentist, dental hygienist, hurri
     (n=17,660, 47.9%) (Table 1).
 
 -   The physician workforce represented 10.5% (n=3,872) of healthcare
-    professionals in designated disaster areas.
+    professionals in designated disaster areas (Table 1).
 
 -   The top five professions with the greatest percentage of their
     workforce in designated disaster areas included: physical therapy
@@ -151,31 +135,13 @@ Population, 2023
 **Figure 2.** Number of Professions in County with Rate Lower than the
 State Rate per 10,000 Population, 2023
 
-  {{< img src="/images/posts/helene/figure_2a.png" alt="A map of western North Carolina using orange shading to show where the rate per 10,000 population of health professions are less than the state rate.">}}
-
- <small>*Note.* North Carolina (NC) counties in analysis are based on counties
- that require both **emergency work**, including individual assistance
- and public assistance for FEMA categories A-B (debris removal and
- emergency protective measures) **and permanent work**, including
- individual assistance and public assistance for FEMA categories C-G
- (work on roads and bridges, water control facilities, public buildings
- and equipment, public utilities, and parks, recreational, and other
- facilities) by FEMA in North Carolina Disaster Declaration Number
- FEMA-4827-DR, published October 15,2024.</small>
+  {{< img src="/images/posts/helene/figure_2a.png" alt="A map of western North Carolina using orange shading to show where the rate per 10,000 population of health professions are less than the state rate." caption="**Note:** North Carolina (NC) counties in analysis are based on counties that require both **emergency work**, including individual assistance and public assistance for FEMA categories A-B (debris removal and emergency protective measures) **and permanent work**, including individual assistance and public assistance for FEMA categories C-G (work on roads and bridges, water control facilities, public buildings and equipment, public utilities, and parks, recreational, and other facilities) by FEMA in North Carolina Disaster Declaration Number FEMA-4827-DR, published October 15,2024." >}}
 
 **Figure 3.** Number of Professions per County with Rate Greater than the State Rate per 10,000 Population, 2023
 
-{{< img src="/images/posts/helene/figure_3.png" alt="A map of western North Carolina using purple shading to show where the rate per 10,000 population of health professions are greater than the state rate.">}}
+{{< img src="/images/posts/helene/figure_3.png" alt="A map of western North Carolina using purple shading to show where the rate per 10,000 population of health professions are greater than the state rate." caption="**Note:** North Carolina (NC) counties in analysis are based on counties that require both **emergency work**, including individual assistance and public assistance for FEMA categories A-B (debris removal and emergency protective measures) **and permanent work**, including individual assistance and public assistance for FEMA categories C-G (work on roads and bridges, water control facilities, public buildings and equipment, public utilities, and parks, recreational, and other facilities) by FEMA in North Carolina Disaster Declaration Number FEMA-4827-DR, published October 15,2024.">}}
 
-<small>*Note.* North Carolina (NC) counties in analysis are based on counties
-that require both **emergency work**, including individual assistance
-and public assistance for FEMA categories A-B (debris removal and
-emergency protective measures) **and permanent work**, including
-individual assistance and public assistance for FEMA categories C-G
-(work on roads and bridges, water control facilities, public buildings
-and equipment, public utilities, and parks, recreational, and other
-facilities) by FEMA in North Carolina Disaster Declaration Number
-FEMA-4827-DR, published October 15,2024.</small>
+
 
 The potential for increased clinician shortages in post-Helene disaster
 areas will be met with a heightened need for care in effected
