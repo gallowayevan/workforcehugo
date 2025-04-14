@@ -46,6 +46,7 @@ unemployed/seeking employment in nursing in the initial year of the cohort.
  {{< img src="/images/posts/rn-retention/figure-1.png" alt="A diagram showing the tracking of nursing licenses for a 2016 cohort. The left panel shows the 2016 cohort definition: people who either renewed their license in 2016 or received their initial license in 2016. The right panel shows the 2016 cohort tracked in 2018, categorizing them into \"RETAINED\" (renewed license in 2018 and is in active practice in NC) and \"EXIT\" (inactive license in 2018, renewed license in 2018 but not in active nursing practice, or renewed license in 2018 but not practicing in NC)." >}}
 
 **Table 1.** RN Retention and Exit for the 2016-2021 Cohorts.
+
 | Year of Licensure Data | Number of RNs Who Renewed or Were Initially Licensed | Number of RNs in Active Practice 2 Years Later | Number of RNs in Inactive Practice Two Years Later | Percent RNs Retained in Active Practice Two Years Later | Percent RNs Who Exited Active Practice Two Years Later |
 |------------------------|-------------------------------------------------:|-------------------------------------------:|-----------------------------------------------:|-------------------------------------------------:|-------------------------------------------------:|
 | 2016 | 46,253 | 41,056 | 5,197 | 88.8% | 11.2% |
