@@ -3,7 +3,7 @@ title: "How has RN Retention in North Carolina Changed over Time?"
 date: 2025-04-14
 author: 'Caroline Spencer, Abhi Joshi, Evan Galloway, Catherine Moore, Erin Fraher'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "How has RN Retention in North Carolina Changed over Time?"
 teaserImage: rn-retention-figure-3.jpg
 keywords: [registered nurse, RN, retention]
