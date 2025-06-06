@@ -3,6 +3,11 @@
 ## Adding thumbnail images
 
 In the frontmatter, specify a file name for the `teaserImage`. This file must be in the `/static/images/thumbnails` folder. The image should be cropped and resized to 400 x 300 pixels.
+For instance, you could use ImageMagick to create a thumbnail from a larger image:
+```powershell
+cd "C:\Users\emg33\Documents\code\workforcehugo\static\images\posts\cnm>"
+magick figure_2.png -resize 400x300^ -gravity center -extent 400x300 ../../thumbnails/cnm_growth.jpg
+```
 
 ## Publish a post but have it be unlisted, so that others can view but it does not appear in list of posts
 
