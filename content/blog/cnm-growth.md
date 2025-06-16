@@ -26,11 +26,11 @@ These data are timely given recent changes to CNM regulation in NC. This pre-Ses
 - changes occur in the distribution of CNMs in non-metropolitan counties that could potentially increase access to maternal care services; and
 - the settings in which CNMs practice (i.e. hospitals, birth centers, home settings) change
 
-{{< img title="**Figure 1.** North Carolina Active Certified Nurse Practitioner Growth per Year, 2013 – 2023" src="/images/posts/cnm/figure_1.png" alt="A line graph showing the growth of North Carolina's CNM workforce from 262 in 2013 to 391 in 2023">}}
+{{< img title="**Figure 1.** North Carolina Active Certified Nurse Practitioner Growth per Year, 2013 – 2023" src="/images/posts/cnm/figure-1.svg" alt="A line graph showing the growth of North Carolina's CNM workforce from 262 in 2013 to 391 in 2023">}}
 
-{{< img title="**Figure 2.** North Carolina Certified Nurse Midwives per 10,000 Population by County, 2023" src="/images/posts/cnm/figure_2.png" alt="A map of North Carolina showing the distribution of CNMs per 10,000 population by county">}}
+{{< img title="**Figure 2.** North Carolina Certified Nurse Midwives per 10,000 Population by County, 2023" src="/images/posts/cnm/figure-2.svg" alt="A map of North Carolina showing the distribution of CNMs per 10,000 population by county">}}
 
-{{< img title="**Figure 3.** Certified Nurse Midwives by Metropolitan Status, 2013 and 2023"  src="/images/posts/cnm/figure_3.png" alt="A chart showing the distribution of CNMs between metropolitan and nonmetropolitan areas in 2013 and 2023">}}
+{{< img title="**Figure 3.** Certified Nurse Midwives by Metropolitan Status, 2013 and 2023"  src="/images/posts/cnm/figure-3.svg" alt="A chart showing the distribution of CNMs between metropolitan and nonmetropolitan areas in 2013 and 2023" >}}
 
 **Table 1.** CNMs Identifying as Underrepresented Minority by Metropolitan and Non-metropolitan Practice Location, 2023
 
