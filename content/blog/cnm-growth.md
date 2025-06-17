@@ -3,7 +3,7 @@ title: "North Carolina's Certified Nurse Midwife Workforce is Growing, but the W
 date: 2025-06-05
 author: 'Brooke Lombardi, Connor Sullivan, Catherine Moore, and Erin Fraher'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "NC's CNM workforce increased 49% between 2013 and 2023, but geographic distribution challenges persist"
 teaserImage: cnm_growth.jpg
 keywords: [certified nurse midwife, CNM, workforce, North Carolina, maternal care, independent practice]
