@@ -22,7 +22,7 @@
 <!-- image -->
 <figure {{ with .Get "class" }}class="{{.}}" {{else}}class="" {{ end }}>
     {{ if isset .Params "title" }}
-    <p class="has-text-left">{{ .Get "title" | markdownify }}</p>
+    <p class="has-text-left">{{ .Get "title" | markdownify | safeHTML }}</p>
     {{ end }}
     {{ with .Get "src"}}<a href="{{.}}">{{ end }}
         <img src="{{ .Get "src" }}"

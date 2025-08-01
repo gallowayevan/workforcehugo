@@ -1,28 +1,31 @@
 {{define "main"}}
 {{ with .Params.fullWidth }}
-<section class="section ">
+<section class="section">
     <article class="content container">
-        {{ else }}
-        <section class="section columns">
-            <article class="content column is-half is-offset-one-quarter">
-                {{end}}
-                <h1>{{.Title}}</h1>
-                <p class="has-text-grey mb-0">By {{.Params.author}}</p>
-                <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
-                {{.Content}}
-                {{ partial "ahec.html" }}
-            </article>
-        </section>
-        {{end}}
+{{ else }}
+<section class="section">
+    <div class="container">
+        <article class="content column is-8-desktop is-10-tablet is-12-mobile mx-auto">
+{{end}}
+            <h1>{{.Title}}</h1>
+            <p class="has-text-grey mb-0">By {{.Params.author}}</p>
+            <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
+            {{.Content}}
+            {{ partial "ahec.html" }}
+        </article>
+{{ if not .Params.fullWidth }}
+    </div>
+{{ end }}
+</section>
+{{end}}
 
-        {{define "javascript"}}
-        {{ if isset .Params "javascript" }}
-        {{range .Params.javascript}}
-        <script src="{{ . }}"></script>
-        {{ end }}
-        {{ end }}
-
-        {{with .Params.observable }}
-        <script type="module" src="observable.js"></script>
-        {{end}}
-        {{end}}
+{{define "javascript"}}
+{{ if isset .Params "javascript" }}
+{{range .Params.javascript}}
+<script src="{{ . }}"></script>
+{{ end }}
+{{ end }}
+{{with .Params.observable }}
+<script type="module" src="observable.js"></script>
+{{end}}
+{{end}}
