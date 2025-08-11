@@ -10,7 +10,7 @@ keywords: 'physicians, residency, gme, workforce, retention'
 ---
 
 <div class="buttons">
-<a class="button is-info" href="/pdf/gme-tracking-2025.pdf">Download the full report as a pdf.</a>
+<a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/2025/06/nc_gme_report_June-30_2025_FINAL_hs_BL2.pdf">Download the full report as a pdf.</a>
 </div>
 
 ## Introduction
