@@ -2,7 +2,7 @@
 title: "2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System"
 date: 2025-09-11
 author: 'Abhi Joshi, Catherine Moore, Brooke Lombardi'
-draft: true
+draft: false
 unlisted: true
 teaserText: "2024 Health Workforce Update"
 teaserImage: tbd.jpg
