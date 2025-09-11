@@ -23,7 +23,7 @@ This blog presents select findings from the 2024 data and includes an overview o
 
 **Table 1. Growth in Top Ten NC Physician Specialties, 2014-2024**
 
-| **    Primary Area of Practice   ** | **    2014 Total   ** | **    2024 Total     ** | **    % Change   ** | **    2014 Rate per 10k   ** | **    2024 Rate per 10k   ** |
+| **Primary Area of Practice** | **2014 Total** | **2024 Total** | **% Change** | **2014 Rate per 10k** | **2024 Rate per 10k** |
 |-------------------------------------|----------------------:|------------------------:|--------------------:|-----------------------------:|-----------------------------:|
 |     Hospitalist                     |                947    |                1,591    |            68.0%    |                      0.96    |                      1.45    |
 |     Emergency Medicine              |              1,241    |                1,741    |            40.3%    |                      1.26    |                      1.59    |
