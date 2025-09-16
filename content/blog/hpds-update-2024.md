@@ -92,9 +92,9 @@ In the CNM section of the dashboard, users can now see both the number of CNMs i
 {{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/CNMupdateviz.png" alt="Diagram illustrating the ratio of NC licensed practical nurses and registered nurses to 10,000 NC population from 2014 to 2024.">}}
 
 
-**About the HPDS**
+### About the HPDS
 The North Carolina Health Professions Data System (HPDS) represents a longstanding collaborative relationship between Sheps Health Workforce NC and North Carolina licensure boards, dating back to 1979.
 With funding from [NC Area Health Education Center (AHEC)](https://www.ncahec.net/), the Sheps Health Workforce team manages the HPDS by collecting, cleaning, analyzing, and disseminating annual licensure data on demographic, practice, and geographic characteristics of 21 NC health professions from 11 state licensure boards.
 
-**Suggested Citation** 
+### Suggested Citation
 Joshi A, Moore C, Lombardi BN. 2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System. Research Blog Post. [DATE]. Sheps Health Workforce NC. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. UNC Chapel Hill. 
