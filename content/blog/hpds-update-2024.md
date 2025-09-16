@@ -3,7 +3,7 @@ title: "2024 Health Workforce Update: Insights from the North Carolina Health Pr
 date: 2025-09-16
 author: 'Abhi Joshi, Catherine Moore, Brooke Lombardi'
 draft: false
-unlisted: false
+unlisted: true
 teaserText: "2024 Health Workforce Update"
 teaserImage: hpds2024blog.png
 keywords: [physicians, pharamacists, dentists, dental hygienists, licensed practical nurse, registered nurse]
