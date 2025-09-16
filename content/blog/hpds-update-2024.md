@@ -82,19 +82,16 @@ This blog presents select findings from the 2024 data and includes an overview o
 **Note.** Data include active, licensed registered nurses and licensed practical nurses in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
 {{< /note >}}
 
-## HPDS Supply Data Dashboard Update
+# HPDS Supply Data Dashboard Update
 
-The [NC Health Supply Data Dashboard] (https://nchealthworkforce.unc.edu/interactive/supply/) has recently added a drop-down menu for the practice type of certified nurse midwives (CNM). This reflects a recent change in CNM regulation which allows CNMs who meet certain criteria to practice independently, without a collaborative practice agreement. To be approved as an independent CNM in NC, CNMs must complete at least 24 months and 4,000 hours of practice experience as a collaborative CNM. To read more about the legislative changes involving the NC CNM workforce, see this [CNM blog] (https://nchealthworkforce.unc.edu/blog/cnm-growth/).
+The [NC Health Supply Data Dashboard](https://nchealthworkforce.unc.edu/interactive/supply/) has recently added a drop-down menu for the practice type of certified nurse midwives (CNM). This reflects a recent change in CNM regulation which allows CNMs who meet certain criteria to practice independently, without a collaborative practice agreement. To be approved as an independent CNM in NC, CNMs must complete at least 24 months and 4,000 hours of practice experience as a collaborative CNM. To read more about the legislative changes involving the NC CNM workforce, see this [CNM blog](https://nchealthworkforce.unc.edu/blog/cnm-growth/).
 In the CNM section of the dashboard, users can now see both the number of CNMs in collaborative practice with a physician compared to those in independent practice (Figure 5).
 
 {{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/CNMupdateviz.png" alt="Diagram illustrating the ratio of NC licensed practical nurses and registered nurses to 10,000 NC population from 2014 to 2024.">}}
 
-# About the HPDS
+### About the HPDS
 The North Carolina Health Professions Data System (HPDS) represents a longstanding collaborative relationship between Sheps Health Workforce NC and North Carolina licensure boards, dating back to 1979.
-With funding from [NC Area Health Education Center (AHEC)] (https://www.ncahec.net/), the Sheps Health Workforce team manages the HPDS by collecting, cleaning, analyzing, and disseminating annual licensure data on demographic, practice, and geographic characteristics of 21 NC health professions from 11 state licensure boards.
+With funding from [NC Area Health Education Center (AHEC)](https://www.ncahec.net/), the Sheps Health Workforce team manages the HPDS by collecting, cleaning, analyzing, and disseminating annual licensure data on demographic, practice, and geographic characteristics of 21 NC health professions from 11 state licensure boards.
 
-# Funding & Acknowledgements 
-The HPDS is maintained by the Program on Health Workforce Research and Policy at the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill, in collaboration with the North Carolina Area Health Education Centers Program, and the state’s independent health professional licensing boards. Ongoing financial support is provided by the NC AHEC Program Office. Although the NC HPDS maintains the data system, the data remain the property of their respective licensing board. The information or content and conclusions are those of the authors and should not be construed as the official position or policy of, nor should any endorsements be inferred by NC AHEC. To learn more about NC AHEC, please visit: [https://www.ncahec.net] (https://www.ncahec.net/].
-
-# Suggested Citation
+### Suggested Citation
 Joshi A, Moore C, Lombardi BN. 2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System. Research Blog Post. [DATE]. Sheps Health Workforce NC. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. UNC Chapel Hill. 
