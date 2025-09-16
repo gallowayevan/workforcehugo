@@ -73,8 +73,7 @@ This blog presents select findings from the 2024 data and includes an overview o
 The [NC Health Supply Data Dashboard](https://nchealthworkforce.unc.edu/interactive/supply/) has recently added a drop-down menu for the practice type of certified nurse midwives (CNM). This reflects a recent change in CNM regulation which allows CNMs who meet certain criteria to practice independently, without a collaborative practice agreement. To be approved as an independent CNM in NC, CNMs must complete at least 24 months and 4,000 hours of practice experience as a collaborative CNM. To read more about the legislative changes involving the NC CNM workforce, see this [CNM blog](https://nchealthworkforce.unc.edu/blog/cnm-growth/).
 In the CNM section of the dashboard, users can now see both the number of CNMs in collaborative practice with a physician compared to those in independent practice (Figure 5).
 
-{{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/hpds-2024-update/CNMupdateviz.png" alt="Diagram illustrating the ratio of NC licensed practical nurses and registered nurses to 10,000 NC population from 2014 to 2024.">}}
-
+{{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/hpds-2024-update/CNMupdateviz.png" alt="Screenshot of the HPDS visualization dropdown  highlighting the new manu option for independent CNMs .">}}
 
 ### About the HPDS
 The North Carolina Health Professions Data System (HPDS) represents a longstanding collaborative relationship between Sheps Health Workforce NC and North Carolina licensure boards, dating back to 1979.
