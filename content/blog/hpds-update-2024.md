@@ -57,7 +57,6 @@ This blog presents select findings from the 2024 data and includes an overview o
 **Figure 2. Rate per 10,000 population of Dentists and Dental Hygienists in North Carolina, 2014-2024**
 
 {{< img title="**Figure 2. Rate per 10,000 population of Dentists and Dental Hygienists in North Carolina, 2014-2024**" src="/images/posts/oral health figure.svg" alt="Diagram illustrating the ratio of NC dentists and dental hygienists to 10,000 NC population from 2014 to 2024.">}}
-
 {{< note >}}
 **Note.** Data include active, licensed dentists and dental hygienists in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Dental Examiners. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
 {{< /note >}}
@@ -69,7 +68,7 @@ This blog presents select findings from the 2024 data and includes an overview o
 - Although the number of pharmacists in NC increased by 14.3% from 10,546 in 2014 to 12,052 in 2024, the ratio of pharmacists per 10k population has remained relatively stable, increasing only slightly from 10.7 pharmacists per 10k population to 11.0 per 10k population in 2024 (Figure 3).
 
 **Figure 3. Rate per 10,000 population of Pharmacists in North Carolina, 2014-2024**
-  
+
 {{< img title="**Figure 3. Rate per 10,000 population of Pharmacists in North Carolina, 2014-2024**" src="/images/posts/pharmacistsper10k.svg" alt="Diagram illustrating the ratio of NC pharmacists to 10,000 NC population from 2014 to 2024.">}}
 
 {{< note >}}
