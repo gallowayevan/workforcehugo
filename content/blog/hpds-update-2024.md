@@ -44,6 +44,8 @@ This blog presents select findings from the 2024 data and includes an overview o
 
 {{< img title="**Figure 1. Rate per 10,000 population of Physicians with a Primary Practice Area of Psychiatry, All Specialties, in North Carolina, 2024**" src="/images/posts/hpds-2024-update/psychperpop.png" alt="Diagram illustrating the ratio of NC physicians with a primary area of practice of psychiatry to 10,000 NC population from 2014 to 2024.">}}
 
+**Note.** Physicians with a primary area of practice of “psychiatry, all specialties” include child & adolescent psychiatry, pediatrics - psychiatry, addiction medicine, addiction psychiatry, forensic psychiatry, geriatric psychiatry, hypnosis, internal medicine - psychiatry, psychiatry, psychiatry - family practice, psychoanalysis, and psychosomatic medicine. Data include active, licensed physicians in practice in North Carolina as of October 31 of each year who are not residents-in-training and are not employed by the Federal government. Physician data are derived from the North Carolina Medical Board. County estimates are based on primary practice location. **Data from 2020 and 2021 are unavailable.** Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
+
 ## Oral Health Workforce
 
 - From 2014 to 2024, the total number of dentists increased by 33.3% (4,681 to 6,241) while the number of dental hygienists increased by 17% (5,798 to 6,784).
