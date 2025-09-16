@@ -52,9 +52,10 @@ This blog presents select findings from the 2024 data and includes an overview o
 
 - From 2014 to 2024, the total number of dentists increased by 33.3% (4,681 to 6,241) while the number of dental hygienists increased by 17% (5,798 to 6,784).
 - Dentists per capita in NC increased from 4.74 to 5.68 per 10k population while dental hygienists per capita increased from 5.87 to 6.18 per 10k population from 2014 to 2024 (Figure 2).
-- A recent article highlighted changes in the NC oral workforce from 2000 to 2022 and noted continued geographic disparities in the distribution of these workforces across the state. Recent legislation (NC Session Law 2021-95) created a mechanism for teledentistry service reimbursement for dental hygienists who meet certain criteria to perform dental hygiene care based on a written standing order from a dentist. This change enabled dental hygienists to provide care without the requirement for the dentist to be physically present when services are provided.
+  - A recent article highlighted changes in the NC oral workforce from 2000 to 2022 and noted continued geographic disparities in the distribution of these workforces across the state. Recent legislation (NC Session Law 2021-95) created a mechanism for teledentistry service reimbursement for dental hygienists who meet certain criteria to perform dental hygiene care based on a written standing order from a dentist. This change enabled dental hygienists to provide care without the requirement for the dentist to be physically present when services are provided.
 
 {{< img title="**Figure 2. Rate per 10,000 population of Dentists and Dental Hygienists in North Carolina, 2014-2024**" src="/images/posts/oral health figure.svg" alt="Diagram illustrating the ratio of NC dentists and dental hygienists to 10,000 NC population from 2014 to 2024.">}}
+
 {{< note >}}
 **Note.** Data include active, licensed dentists and dental hygienists in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Dental Examiners. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
 {{< /note >}}
@@ -72,6 +73,7 @@ This blog presents select findings from the 2024 data and includes an overview o
 {{< /note >}}
 
 ## Nursing
+
 - In 2024, there were 120,267 registered nurses (RNs) in active practice in NC, a 20.6% increase from the 99,734 RNs in active practice in 2014.
 - The licensed practical nurse (LPN) workforce in active practice experienced a 2.6% decline from 18,085 in 2014 to 17,618 in 2024. However, NC gained 256 LPNs in active practice between 2023 and 2024, a 1.5% increase.
 - The ratio of RNs per 10k population increased from 101 in 2014 to 109 in 2024. For LPNs, the rate per 10k population decreased from 18.3 in 2014 to 16.0 in 2024 (Figure 4).
@@ -89,9 +91,10 @@ In the CNM section of the dashboard, users can now see both the number of CNMs i
 
 {{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/CNMupdateviz.png" alt="Diagram illustrating the ratio of NC licensed practical nurses and registered nurses to 10,000 NC population from 2014 to 2024.">}}
 
-#### About the HPDS
+
+**About the HPDS**
 The North Carolina Health Professions Data System (HPDS) represents a longstanding collaborative relationship between Sheps Health Workforce NC and North Carolina licensure boards, dating back to 1979.
 With funding from [NC Area Health Education Center (AHEC)](https://www.ncahec.net/), the Sheps Health Workforce team manages the HPDS by collecting, cleaning, analyzing, and disseminating annual licensure data on demographic, practice, and geographic characteristics of 21 NC health professions from 11 state licensure boards.
 
-#### Suggested Citation
+**Suggested Citation**
 Joshi A, Moore C, Lombardi BN. 2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System. Research Blog Post. [DATE]. Sheps Health Workforce NC. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. UNC Chapel Hill. 
