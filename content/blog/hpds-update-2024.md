@@ -1,11 +1,11 @@
 ---
 title: "2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System"
-date: 2025-09-11
+date: 2025-09-17
 author: 'Abhi Joshi, Catherine Moore, Brooke Lombardi'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "2024 Health Workforce Update"
-teaserImage: tbd.jpg
+teaserImage: hpds2024blog.png
 keywords: [physicians, pharamacists, dentists, dental hygienists, licensed practical nurse, registered nurse]
 ---
 
@@ -42,11 +42,9 @@ This blog presents select findings from the 2024 data and includes an overview o
 **Note.** Data include active, licensed physicians in practice in North Carolina as of October 31 of each year who are not residents-in-training and are not employed by the Federal government. Physician data are derived from the North Carolina Medical Board. County estimates are based on primary practice location. **Data from 2020 and 2021 are unavailable.** Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
 {{< /note >}}
 
-{{< img title="**Figure  1. Rate per 10,000 population of Physicians with a Primary Practice Area of Psychiatry, All Specialties, in North Carolina, 2024**" src="/images/posts/psychperpop.png" alt="Diagram illustrating the ratio of NC physicians with a primary area of practice of psychaitry to 10,000 NC population from 2014 to 2024.">}}
+{{< img title="**Figure  1. Rate per 10,000 population of Physicians with a Primary Practice Area of Psychiatry, All Specialties, in North Carolina, 2024**" alt="Diagram illustrating the ratio of NC Physicians with a Primary Practice Area of Psychiatry to 10,000 NC population from 2014 to 2024." caption=**Note.** Data include active, licensed physicians in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Medical Examiners. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data. src="/images/posts/hpds-2024-update/psychperpop.png" >}}
 
-{{< note >}}
 **Note.** Physicians with a primary area of practice of “psychiatry, all specialties” include child & adolescent psychiatry, pediatrics - psychiatry, addiction medicine, addiction psychiatry, forensic psychiatry, geriatric psychiatry, hypnosis, internal medicine - psychiatry, psychiatry, psychiatry - family practice, psychoanalysis, and psychosomatic medicine. Data include active, licensed physicians in practice in North Carolina as of October 31 of each year who are not residents-in-training and are not employed by the Federal government. Physician data are derived from the North Carolina Medical Board. County estimates are based on primary practice location. **Data from 2020 and 2021 are unavailable.** Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
-{{< /note >}}
 
 ## Oral Health Workforce
 
@@ -62,11 +60,7 @@ This blog presents select findings from the 2024 data and includes an overview o
 
 - Although the number of pharmacists in NC increased by 14.3% from 10,546 in 2014 to 12,052 in 2024, the ratio of pharmacists per 10k population has remained relatively stable, increasing only slightly from 10.7 pharmacists per 10k population to 11.0 per 10k population in 2024 (Figure 3).
 
-{{< img title="**Figure 3. Rate per 10,000 population of Pharmacists in North Carolina, 2014-2024**" src="/images/posts/pharmacistsper10k.svg" alt="Diagram illustrating the ratio of NC pharmacists to 10,000 NC population from 2014 to 2024.">}}
-
-{{< note >}}
-**Note.** Data include active, licensed pharmacists in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Pharmacy. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
-{{< /note >}}
+{{< img title="**Figure 3. Rate per 10,000 population of Pharmacists in North Carolina, 2014-2024**" alt="Diagram illustrating the ratio of NC pharmacists to 10,000 NC population from 2014 to 2024." caption=**Note.** Data include active, licensed pharmacists in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Pharmacy. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data src="/images/posts/hpds-2024-update/pharmacistsper10k.svg" .>}}
 
 ## Nursing
 
@@ -74,23 +68,18 @@ This blog presents select findings from the 2024 data and includes an overview o
 - The licensed practical nurse (LPN) workforce in active practice experienced a 2.6% decline from 18,085 in 2014 to 17,618 in 2024. However, NC gained 256 LPNs in active practice between 2023 and 2024, a 1.5% increase.
 - The ratio of RNs per 10k population increased from 101 in 2014 to 109 in 2024. For LPNs, the rate per 10k population decreased from 18.3 in 2014 to 16.0 in 2024 (Figure 4).
 
-{{< img title="**Figure 4. Rate per 10,000 population of Registered Nurses and Licensed Practical Nurses in North Carolina, 2014-2024**" src="/images/posts/nursesper10k.svg" alt="Diagram illustrating the ratio of NC licensed practical nurses and registered nurses to 10,000 NC population from 2014 to 2024.">}}
-
-{{< note >}}
-**Note.** Data include active, licensed registered nurses and licensed practical nurses in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
-{{< /note >}}
+{{< img title="**Figure 4. Rate per 10,000 population of Registered Nurses and Licensed Practical Nurses in North Carolina, 2014-2024**" alt="Diagram illustrating the ratio of NC pharmacists to 10,000 NC population from 2014 to 2024." caption=**Note.** Data include active registered nurses and licensed practical in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data src="/images/posts/hpds-2024-update/nursesper10k.svg" .>}}
 
 # HPDS Supply Data Dashboard Update
 
 The [NC Health Supply Data Dashboard](https://nchealthworkforce.unc.edu/interactive/supply/) has recently added a drop-down menu for the practice type of certified nurse midwives (CNM). This reflects a recent change in CNM regulation which allows CNMs who meet certain criteria to practice independently, without a collaborative practice agreement. To be approved as an independent CNM in NC, CNMs must complete at least 24 months and 4,000 hours of practice experience as a collaborative CNM. To read more about the legislative changes involving the NC CNM workforce, see this [CNM blog](https://nchealthworkforce.unc.edu/blog/cnm-growth/).
 In the CNM section of the dashboard, users can now see both the number of CNMs in collaborative practice with a physician compared to those in independent practice (Figure 5).
 
-{{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/CNMupdateviz.png" alt="Diagram illustrating the ratio of NC licensed practical nurses and registered nurses to 10,000 NC population from 2014 to 2024.">}}
-
+{{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" alt="Diagram illustrating the ratio of NC certified nurse midwives to 10,000 NC population from 2014 to 2024." caption=**Note.** Data include active certified nurse midwives in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data. src="/images/posts/hpds-2024-update/CNMupdateviz.png" >}}
 
 ### About the HPDS
 The North Carolina Health Professions Data System (HPDS) represents a longstanding collaborative relationship between Sheps Health Workforce NC and North Carolina licensure boards, dating back to 1979.
 With funding from [NC Area Health Education Center (AHEC)](https://www.ncahec.net/), the Sheps Health Workforce team manages the HPDS by collecting, cleaning, analyzing, and disseminating annual licensure data on demographic, practice, and geographic characteristics of 21 NC health professions from 11 state licensure boards.
 
 ### Suggested Citation
-Joshi A, Moore C, Lombardi BN. 2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System. Research Blog Post. [DATE]. Sheps Health Workforce NC. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. UNC Chapel Hill. 
+Joshi A, Moore C, Lombardi BN. 2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System. Research Blog Post. September 16 2025. Sheps Health Workforce NC. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. UNC Chapel Hill. 
