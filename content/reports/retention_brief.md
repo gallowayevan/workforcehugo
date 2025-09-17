@@ -99,6 +99,6 @@ While expanding enrollment and graduates from nursing programs is an important c
 [^35]: Viotti S, Converso D. Relationship between job demands and psychological outcomes among nurses: Does skill discretion matter? International Journal of Occupational Medicine and Environmental Health. 2016;29(3):1-22. 
 [^36]: Perry SJ, Richter JP, Beauvais B. The effects of nursing satisfaction and turnover cognitions on patient attitudes and outcomes: A three‐level multisource study. Health services research. 2018;53(6):4943-4969. 
 [^37]: Carthon JMB, Travers JL, Hounshell D, Udoeyo I, Chittams J. Disparities in nurse job dissatisfaction and intent to leave: Implications for retaining a diverse workforce. JONA: The Journal of Nursing Administration. 2021;51(6):310-317. 
-[^38]: Medas JC, Amato S, Grimm D, et al. Outcomes of a comprehensive nurse residency program. Nursing Management. 2015;46(11):40-48. 
+[^38]: Medas JC, Amato S, Grimm D, et al. Outcomes of a comprehensive nurse residency program. Nursing Management. 2015;46(11):40-48
 [^39]: What The Data Say About the Nursing Workforce in North Carolina, (2023) (Taskforce on the Future of the Nursing Workforce). https://nciom.org/wp-content/uploads/2023/02/Fraher_NC-IOM-Nursing-Taskforce-02-28-23.pdf
 [^40]: Patel E, Fraher E. The Impact of COVID-19 on Nurse Practitioner Turnover in Hospital and Primary Care Settings. June 2025. Panel Presentation. 2025 Annual Research Meeting; 
