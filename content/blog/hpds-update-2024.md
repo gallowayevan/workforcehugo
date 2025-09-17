@@ -1,6 +1,6 @@
 ---
 title: "2024 Health Workforce Update: Insights from the North Carolina Health Professions Data System"
-date: 2025-09-16
+date: 2025-09-17
 author: 'Abhi Joshi, Catherine Moore, Brooke Lombardi'
 draft: false
 unlisted: true
@@ -76,7 +76,6 @@ The [NC Health Supply Data Dashboard](https://nchealthworkforce.unc.edu/interact
 In the CNM section of the dashboard, users can now see both the number of CNMs in collaborative practice with a physician compared to those in independent practice (Figure 5).
 
 {{< img title="**Figure 5. 2024 Update to the Certified Nurse Midwives Interactive Visualization**" src="/images/posts/hpds-2024-update/CNMupdateviz.png" alt="Diagram illustrating the ratio of NC certified nurse midwives to 10,000 NC population from 2014 to 2024." caption=**Note.** Data include active certified nurse midwives in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.>}}
-
 
 ### About the HPDS
 The North Carolina Health Professions Data System (HPDS) represents a longstanding collaborative relationship between Sheps Health Workforce NC and North Carolina licensure boards, dating back to 1979.
