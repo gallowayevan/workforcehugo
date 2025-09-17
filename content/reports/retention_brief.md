@@ -70,15 +70,15 @@ While expanding enrollment and graduates from nursing programs is an important c
 [^6]: Bae SH. Noneconomic and economic impacts of nurse turnover in hospitals: A systematic review. International Nursing Review. 2022;69(3):392-404. 
 [^7]: Lasater KB. Addressing the Nurse Retention Crisis—Leveraging Policies Supported by Evidence. JAMA Network Open. 2024;7(7):e2421635-e2421635. doi:10.1001/jamanetworkopen.2024.21635
 [^8]: Muir KJ, Porat-Dahlerbruch J, Nikpour J, Leep-Lazar K, Lasater KB. Top Factors in Nurses Ending Health Care Employment Between 2018 and 2021. JAMA Network Open. 2024;7(4):e244121-e244121. doi:10.1001/jamanetworkopen.2024.4121
-[^9]: Caroline Spencer AJ, Evan Galloway, Catherine Moore, Erin Fraher. How has RN Retention in North Carolina Changed over Time? 2025. NC Health Workforce: Research Blog. https://nchealthworkforce.unc.edu/blog/rn-retention/
-[^10]: The Health Workforce in North Carolina: Challenges and Opportunities, (2024) (Erin Fraher). https://www.shepscenter.unc.edu/wp-content/uploads/2024/02/Legislative-Fellows-January-2024_Shortened-for-Newsletter-002.pdf
-[^11]: Fifty-Fourth World Health Assembly: Resolutions and Decisions. 2001. May 2001. https://iris.who.int/bitstream/handle/10665/260183/WHA54-2001-REC1-eng.pdf
-[^12]: Committee on the Robert Wood Johnson Foundation Initiative on the Future of Nursing atIoM. The future of nursing: Leading change, advancing health. National Academies Press; 2011.
-[^13]: Howard C. 2020 Vision–The Year of the Nurse and Midwife. International Nursing Review. 2019;66(4):453-455. 
-[^14]: Time for Action: Securing A Strong Nursing Workforce for North Carolina. 2024. May 2024. https://nciom.org/wp-content/uploads/2023/09/NCIOM-Nursing-Task-Force_Time-For-Action.pdf
-[^15]: Aparício C, Nicholson J. Do preceptorship and clinical supervision programmes support the retention of nurses? British Journal of Nursing. 2020;29(20):1192-1197. 
-[^16]: Conroy N, Patton D, Moore Z, O’Connor T, Nugent L, Derwin R. The relationship between transformational leadership and staff nurse retention in hospital settings: A systematic review. Journal of Nursing Management. 2023;2023(1):9577200. 
-[^17]: Galanis P, Moisoglou I, Papathanasiou IV, et al. Association between organizational support and turnover intention in nurses: A systematic review and meta-analysis. MDPI; 291.
+[^9]: Galanis P, Moisoglou I, Papathanasiou IV, et al. Association between organizational support and turnover intention in nurses: A systematic review and meta-analysis. MDPI; 291.
+[^10]: Caroline Spencer AJ, Evan Galloway, Catherine Moore, Erin Fraher. How has RN Retention in North Carolina Changed over Time? 2025. NC Health Workforce: Research Blog. https://nchealthworkforce.unc.edu/blog/rn-retention/
+[^11]: The Health Workforce in North Carolina: Challenges and Opportunities, (2024) (Erin Fraher). https://www.shepscenter.unc.edu/wp-content/uploads/2024/02/Legislative-Fellows-January-2024_Shortened-for-Newsletter-002.pdf
+[^12]: Fifty-Fourth World Health Assembly: Resolutions and Decisions. 2001. May 2001. https://iris.who.int/bitstream/handle/10665/260183/WHA54-2001-REC1-eng.pdf
+[^13]: Committee on the Robert Wood Johnson Foundation Initiative on the Future of Nursing atIoM. The future of nursing: Leading change, advancing health. National Academies Press; 2011.
+[^14]: Howard C. 2020 Vision–The Year of the Nurse and Midwife. International Nursing Review. 2019;66(4):453-455. 
+[^15]: Time for Action: Securing A Strong Nursing Workforce for North Carolina. 2024. May 2024. https://nciom.org/wp-content/uploads/2023/09/NCIOM-Nursing-Task-Force_Time-For-Action.pdf
+[^16]: Aparício C, Nicholson J. Do preceptorship and clinical supervision programmes support the retention of nurses? British Journal of Nursing. 2020;29(20):1192-1197. 
+[^17]: Conroy N, Patton D, Moore Z, O’Connor T, Nugent L, Derwin R. The relationship between transformational leadership and staff nurse retention in hospital settings: A systematic review. Journal of Nursing Management. 2023;2023(1):9577200. 
 [^18]: Mohamed Z, Al-Hmaimat N. The effectiveness of nurse residency programs on new graduate nurses' retention: Systematic review. Heliyon. 2024;10(5)
 [^19]: Vázquez‐Calatayud M, Eseverri‐Azcoiti MC. Retention of newly graduated registered nurses in the hospital setting: A systematic review. Journal of Clinical Nursing. 2023;32(19-20):6849-6862. 
 [^20]: Woodward KF, Willgerodt M. A systematic review of registered nurse turnover and retention in the United States. Nursing Outlook. 2022;70(4):664-678. 
