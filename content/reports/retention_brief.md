@@ -10,7 +10,7 @@ keywords: 'nurses, retention, literature review, workforce'
 ---
 
 <div class="buttons">
-<a class="button is-info" href="/reports/retention_brief">Download the full report as a pdf.</a>
+<a class="button is-info" href="/pdf/Retentionbrief-2025.pdf">Download the full report as a pdf.</a>
 </div>
 
 ## Introduction
