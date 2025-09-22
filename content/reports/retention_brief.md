@@ -72,15 +72,15 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Intention to stay<br>     <br>     Retention rate</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Conroy et al.<sup><a href="#[^15]">15</a></sup> </td>
+    <td class="tg-0pky">Conroy et al.<sup><a href="#References">15</a></sup> </td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">12</td>
     <td class="tg-0pky">To synthesize the relationship between transformational leadership style and staff nurse retention in hospital settings.</td>
-    <td class="tg-0pky">Hospital-based   settings </td>
+    <td class="tg-0pky">Hospital-based settings </td>
     <td class="tg-0pky">Transformational Leadership (TL)</td>
     <td class="tg-0pky">Unit</td>
     <td class="tg-0pky">McCain's Intent to Stay Scale (n=2), O'Driscoll and Beehr Scale (n=2), Intention to stay Scale (n=2), Affective Commitment Scale (n=1), Organizational Commitment Questionnaire (n=1), Anticipated Turnover Scale (ATS) (n=2), Turnover intention scale (n-1), Six-item turnover intention scale (n=1).</td>
-    <td class="tg-0pky">Intention   to leave<br>     <br>     Turnover intention</td>
+    <td class="tg-0pky">Intention to leave<br>     <br>     Turnover intention</td>
   </tr>
   <tr>
     <td class="tg-0pky">Galanis et al.<sup>[^17]</sup>  </td>
@@ -119,7 +119,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Woodward &amp; Willgerodt<sup>[^20]</sup>  </td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">31</td>
-    <td class="tg-0pky">Examine current data on RN work outcomes for study quality, methods, and variables   with specific attention to the inclusion of concepts related to equity and   wellness.</td>
+    <td class="tg-0pky">Examine current data on RN work outcomes for study quality, methods, and variables with specific attention to the inclusion of concepts related to equity and   wellness.</td>
     <td class="tg-0pky">Varied. Hospitals (10/34) or several hospitals within a region or system (9/34). Programs/hospitals across several states (6/34), secondary analysis of national dataset.</td>
     <td class="tg-0pky">Nurse residency program (n=3), organizational support (n=2)</td>
     <td class="tg-0pky">Organizational</td>
