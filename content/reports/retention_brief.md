@@ -61,7 +61,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Aparício &amp; Nicholson<sup>[^15]</sup>  </td>
+    <td class="tg-0pky">Aparício &amp; Nicholson<a href="#References"><sup>15</sup></a> </td>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">To determine if there is evidence to support preceptorship and clinical supervision programs in retaining nurses, and particularly newly qualified nurses (NQNs), in clinical practice.</td>
@@ -72,7 +72,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Intention to stay<br>     <br>     Retention rate</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Conroy et al.<a href="#References"><sup>15</sup></a> </td>
+    <td class="tg-0pky">Conroy et al.<a href="#References"><sup>16</sup></a> </td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">12</td>
     <td class="tg-0pky">To synthesize the relationship between transformational leadership style and staff nurse retention in hospital settings.</td>
@@ -83,7 +83,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Intention to leave<br>     <br>     Turnover intention</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Galanis et al.<sup>[^17]</sup>  </td>
+    <td class="tg-0pky">Galanis et al.<a href="#References"><sup>17</sup></a> </td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">To synthesize and evaluate the association between organizational support and turnover intention in nurses.</td>
@@ -94,7 +94,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Turnover intention</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mohamed &amp; Al-Hmaimat<sup>[^18]</sup>  </td>
+    <td class="tg-0pky">Mohamed &amp; Al-Hmaimat<a href="#References"><sup>18</sup></a> </td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">To determine the effect of successful completion of Nurse Residency Program on new nurses’ retention rates compared with new nurses who missed the Nurse Residency Program</td>
@@ -105,7 +105,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Turnover rate<br>     <br>     Retention rate</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Vázquez-Calatayud &amp; Eseverri-Azcoiti<sup>[^19]</sup> </td>
+    <td class="tg-0pky">Vázquez-Calatayud &amp; Eseverri-Azcoiti<a href="#References"><sup>19</sup></a> </td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">9</td>
     <td class="tg-0pky">To identify effective interventions that promote the retention of newly graduated registered nurses in the hospital setting and their components.</td>
@@ -116,7 +116,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Retention rate<br>     <br>     Turnover rate<br>     <br>     Intention to stay<br>     <br>     Turnover intention</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Woodward &amp; Willgerodt<sup>[^20]</sup>  </td>
+    <td class="tg-0pky">Woodward &amp; Willgerodt<a href="#References"><sup>20</sup></a> </td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">31</td>
     <td class="tg-0pky">Examine current data on RN work outcomes for study quality, methods, and variables with specific attention to the inclusion of concepts related to equity and   wellness.</td>
