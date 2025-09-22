@@ -72,7 +72,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Intention to stay<br>     <br>     Retention rate</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Conroy et al.<a href="References"><sup>15</sup></a> </td>
+    <td class="tg-0pky">Conroy et al.<a href="#References"><sup>15</sup></a> </td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">12</td>
     <td class="tg-0pky">To synthesize the relationship between transformational leadership style and staff nurse retention in hospital settings.</td>
