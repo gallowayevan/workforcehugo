@@ -49,15 +49,15 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-c3ow">Author(s)</th>
-    <th class="tg-c3ow">Published year</th>
-    <th class="tg-c3ow">Number of Quantitative Studies</th>
-    <th class="tg-c3ow">Review objective</th>
-    <th class="tg-c3ow">Nursing setting type</th>
-    <th class="tg-c3ow">Intervention</th>
-    <th class="tg-c3ow">Level of Intervention</th>
-    <th class="tg-c3ow">Tools for measuring workforce outcomes</th>
-    <th class="tg-c3ow">Workforce outcomes</th>
+    <th class="tg-c3ow">**Author(s)**</th>
+    <th class="tg-c3ow">**Published year**</th>
+    <th class="tg-c3ow">**Number of Quantitative Studies**</th>
+    <th class="tg-c3ow">**Review objective**</th>
+    <th class="tg-c3ow">**Nursing setting type**</th>
+    <th class="tg-c3ow">**Intervention**</th>
+    <th class="tg-c3ow">**Level of Intervention**</th>
+    <th class="tg-c3ow">**Tools for measuring workforce outcomes**</th>
+    <th class="tg-c3ow">**Workforce outcomes**</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -72,7 +72,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
     <td class="tg-0pky">Intention to stay<br>     <br>     Retention rate</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Conroy et al.<sup>[^16]</sup> </td>
+    <td class="tg-0pky">Conroy et al.<sup><a href="[^15]">15</a></sup> </td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">12</td>
     <td class="tg-0pky">To synthesize the relationship between transformational leadership style and staff nurse retention in hospital settings.</td>
