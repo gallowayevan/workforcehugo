@@ -49,15 +49,15 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-c3ow">**Author(s)**</th>
-    <th class="tg-c3ow">**Published year**</th>
-    <th class="tg-c3ow">**Number of Quantitative Studies**</th>
-    <th class="tg-c3ow">**Review objective**</th>
-    <th class="tg-c3ow">**Nursing setting type**</th>
-    <th class="tg-c3ow">**Intervention**</th>
-    <th class="tg-c3ow">**Level of Intervention**</th>
-    <th class="tg-c3ow">**Tools for measuring workforce outcomes**</th>
-    <th class="tg-c3ow">**Workforce outcomes**</th>
+    <th class="tg-c3ow"><b>Author(s)</b></th>
+    <th class="tg-c3ow"><b>Published year</b></th>
+    <th class="tg-c3ow"><b>Number of Quantitative Studies</b>b></th>
+    <th class="tg-c3ow"><b>Review objective</b></th>
+    <th class="tg-c3ow"><b>Nursing setting type</b></th>
+    <th class="tg-c3ow"><b>Intervention</b></th>
+    <th class="tg-c3ow"><b>Level of Intervention</b></th>
+    <th class="tg-c3ow"><b>Tools for measuring workforce outcomes</b></th>
+    <th class="tg-c3ow"><b>Workforce outcomes</b></th>
   </tr></thead>
 <tbody>
   <tr>
