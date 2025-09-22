@@ -38,6 +38,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
 
 **Table 1. Systematic Review Characteristics**
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,7 +52,7 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
   <tr>
     <th class="tg-c3ow"><b>Author(s)</b></th>
     <th class="tg-c3ow"><b>Published year</b></th>
-    <th class="tg-c3ow"><b>Number of Quantitative Studies</b>b></th>
+    <th class="tg-c3ow"><b>Number of Quantitative Studies</b></th>
     <th class="tg-c3ow"><b>Review objective</b></th>
     <th class="tg-c3ow"><b>Nursing setting type</b></th>
     <th class="tg-c3ow"><b>Intervention</b></th>
