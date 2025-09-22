@@ -36,7 +36,7 @@ This review focused on systematic reviews and meta-analyses in English published
 
 The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup>[^17]<sup>,</sup>[^18]<sup>,</sup>[^19]<sup>,</sup>[^20] represent 67 studies that measured nurse turnover, intention to stay or leave, and retention. While all reviews included studies of nurse outcomes in hospitals, only one review (Mohamed & Al-Hmaimat, 2024) included a study of retention in long term care settings.[^21] Retention was not consistently measured or reported across studies in the reviews. Measures of retention included turnover intention, intention to leave, and intention to stay using a variety of validated and researcher-created survey tools (Table 1). 
 
-{{< img title="**Table 1. Systematic Review Characteristics**" src="/images/posts/retention-brief-2025/RetentionTable_all4.png" alt="Table displaying the 6 literature reviews included in the study including the authors, year published, number of quantitative studies included in the review, the objective of the review, the nursing setting type, the intervention, the level of intervention, the toools for measuring workforce outcomes, and workforce outcomes" >}}
+**Table 1. Systematic Review Characteristics**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
