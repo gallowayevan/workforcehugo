@@ -38,6 +38,96 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
 
 {{< img title="**Table 1. Systematic Review Characteristics**" src="/images/posts/retention-brief-2025/RetentionTable_all4.png" alt="Table displaying the 6 literature reviews included in the study including the authors, year published, number of quantitative studies included in the review, the objective of the review, the nursing setting type, the intervention, the level of intervention, the toools for measuring workforce outcomes, and workforce outcomes" >}}
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow">Author(s)</th>
+    <th class="tg-c3ow">Published year</th>
+    <th class="tg-c3ow">Number of Quantitative Studies</th>
+    <th class="tg-c3ow">Review objective</th>
+    <th class="tg-c3ow">Nursing setting type</th>
+    <th class="tg-c3ow">Intervention</th>
+    <th class="tg-c3ow">Level of Intervention</th>
+    <th class="tg-c3ow">Tools for measuring workforce outcomes</th>
+    <th class="tg-c3ow">Workforce outcomes</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Aparício &amp; Nicholson<sup>[^15]</sup>  </td>
+    <td class="tg-0pky">2020</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">To determine if there is evidence to support preceptorship and clinical supervision programs in retaining nurses, and particularly newly qualified nurses (NQNs), in clinical practice.</td>
+    <td class="tg-0pky">Hospital-based settings </td>
+    <td class="tg-0pky">Clinical supervision program; Preceptorship program</td>
+    <td class="tg-0pky">Organizational</td>
+    <td class="tg-0pky">Validated 26-item Manchester Clinical Supervision Scale (MCSS) and Site coordinators tracked at one year after the hire date, each newly licensed RN was coded as retained, left voluntarily, or left involuntarily (injury or termination).</td>
+    <td class="tg-0pky">Intention to stay<br>     <br>     Retention rate</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Conroy et al.<sup>[^16]</sup> </td>
+    <td class="tg-0pky">2023</td>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">To synthesize the relationship between transformational leadership style and staff nurse retention in hospital settings.</td>
+    <td class="tg-0pky">Hospital-based   settings </td>
+    <td class="tg-0pky">Transformational Leadership (TL)</td>
+    <td class="tg-0pky">Unit</td>
+    <td class="tg-0pky">McCain's Intent to Stay Scale (n=2), O'Driscoll and Beehr Scale (n=2), Intention to stay Scale (n=2), Affective Commitment Scale (n=1), Organizational Commitment Questionnaire (n=1), Anticipated Turnover Scale (ATS) (n=2), Turnover intention scale (n-1), Six-item turnover intention scale (n=1).</td>
+    <td class="tg-0pky">Intention   to leave<br>     <br>     Turnover intention</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Galanis et al.<sup>[^17]</sup>  </td>
+    <td class="tg-0pky">2024</td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">To synthesize and evaluate the association between organizational support and turnover intention in nurses.</td>
+    <td class="tg-0pky">Hospital-based settings </td>
+    <td class="tg-0pky">Organizational support</td>
+    <td class="tg-0pky">Unit</td>
+    <td class="tg-0pky">Turnover Intention Scale (n=33), Self-developed scales (n=5)</td>
+    <td class="tg-0pky">Turnover intention</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Mohamed &amp; Al-Hmaimat<sup>[^18]</sup>  </td>
+    <td class="tg-0pky">2024</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">To determine the effect of successful completion of Nurse Residency Program on new nurses’ retention rates compared with new nurses who missed the Nurse Residency Program</td>
+    <td class="tg-0pky">Hospitals (4), long-term care facility (1)</td>
+    <td class="tg-0pky">Nurse residency program</td>
+    <td class="tg-0pky">Organizational</td>
+    <td class="tg-0pky">Not stated</td>
+    <td class="tg-0pky">Turnover rate<br>     <br>     Retention rate</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Vázquez-Calatayud &amp; Eseverri-Azcoiti<sup>[^19]</sup> </td>
+    <td class="tg-0pky">2023</td>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">To identify effective interventions that promote the retention of newly graduated registered nurses in the hospital setting and their components.</td>
+    <td class="tg-0pky">Hospitals</td>
+    <td class="tg-0pky">Combined [residency with one-to-one mentoring (n=4)], residency programs (n=3) and individualized mentoring (n=1), as well as diversified adaptive education [Instruction tailored to the skills, needs, and interests of NGRNs based on learning styles (n=1)].</td>
+    <td class="tg-0pky">Organizational</td>
+    <td class="tg-0pky">Survey turnover intention (n=2)<br>     Intention to stay survey (n=1)</td>
+    <td class="tg-0pky">Retention rate<br>     <br>     Turnover rate<br>     <br>     Intention to stay<br>     <br>     Turnover intention</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Woodward &amp; Willgerodt<sup>[^20]</sup>  </td>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">31</td>
+    <td class="tg-0pky">Examine current data on RN work outcomes for study quality, methods, and variables   with specific attention to the inclusion of concepts related to equity and   wellness.</td>
+    <td class="tg-0pky">Varied. Hospitals (10/34) or several hospitals within a region or system (9/34). Programs/hospitals across several states (6/34), secondary analysis of national dataset.</td>
+    <td class="tg-0pky">Nurse residency program (n=3), organizational support (n=2)</td>
+    <td class="tg-0pky">Organizational</td>
+    <td class="tg-0pky">Anticipated Turnover Scale (ATS)</td>
+    <td class="tg-0pky">Intent to leave<br>     <br>     Intent to stay<br>     <br>     Retention rate<br>     <br>     Turnover rate</td>
+  </tr>
+</tbody></table>
+
 Nine themes emerged that focused on unit-level (implemented within the nursing unit) and organizational-level (implemented organization-wide) interventions to influence retention. Table 2 outlines the identified themes which were used to synthesize the findings. Unit-level interventions included transformational leadership (Conroy et al., 2023) and organizational support (rewards, favorable job conditions, assistance to perform tasks efficiently and manage stressful situations, support from the supervisor, meaningful recognition, shared decision making, and increased leadership involvement and support, and teamwork) (Galanis et al., 2024; Woodward & Willegerodt, 2022). Organizational-level interventions included preceptorship programs, clinical supervisor programs (Aparício & Nicholson, 2020), nurse residency programs (Mohamed & Al-Hmaimat, 2024; Vázquez-Calatayud & Eseverri-Azcoiti, 2023; Woodward & Willegerodt, 2022), adaptive education, individualized mentoring programs, combined residency and meeting points, best-fit orientation (Vázquez-Calatayud & Eseverri-Azcoiti, 2023), and organizational support (Magnet status and affiliation with an academic university) (Woodward & Willegerodt, 2022). Notably, all organizational level interventions identified by this review focused on new graduate registered nurses (NGRNs).
 
 {{< img title="**Table 2. Unit-Level and Organizational Level Interventions**" src="/images/posts/retention-brief-2025/Table2.jpg" alt="Table displaying the unit-level and organizational level interventions to influence nurse retention. Unit-level interventions include  transformational leadership and organizational support. Organizational-level interventions include preceptorship programs, clinical supervisor programs, nurse residency programs, adaptive education, individualized mentoring programs, combined residency and meeting, best-fit prientation, and organizational support." >}}
