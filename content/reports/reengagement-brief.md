@@ -258,36 +258,36 @@ This report provides an overview of the barriers and facilitators to reengaging 
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 1&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 1&nbsp;&nbsp;&nbsp;</th>
     <th class="tg-0lax">   <br><span style="font-weight:bold">Funded Reentry Pathways</span>—Subsidies could be offered for clinicians, employers, and/or educators to assist in covering the cost of refresher courses (direct and indirect costs), clinical placements, and re-licensure fees.   </th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 2&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 2&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Accessible Hybrid Learning</span>—Expand hybrid online/in-person reentry courses, with the opportunity to target rural and underserved areas.   </td>
   </tr>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 3&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 3&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Supportive Incentivization</span>—Incentivize supportive resources such as childcare, transportation stipends, and temporary lodging during clinical rotations to remove non-academic barriers.   </td>
   </tr>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 4&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 4&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Public Awareness</span>—Collaborating with workforce   stakeholders to increase awareness among inactive healthcare workers about reentry opportunities.   </td>
   </tr>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 5&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 5&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Streamlined Licensing Opportunities May Exist to Simplify Relicensure</span> <span style="font-weight:bold">Pathways</span>—Assess opportunities to simplify re-licensure pathways for inactive healthcare workers. This could include recently retired or inactive clinicians with minimal time away whose reentry and refresher needs are more regulatory than clinical, veterans returning to civilian practice, regulatory waivers during public health emergencies or urgent workforce shortages.   </td>
   </tr>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 6&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 6&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Partnership with Employers</span>—Expand collaboration with hospitals, outpatient clinics, community health centers, and long-term care facilities and other employers to provide job interviews and job placement opportunities for those completing reentry programs, offer sign-on bonuses, and return-to-workforce stipends.   </td>
   </tr>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 7&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 7&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Mentorship and Clinical Coaching</span>—Establish a peer support program that pairs reentering healthcare workers with experienced mentors to guide clinical reintegration and promote retention. This would allow a more personalized process for all clinicians (e.g., RNs, LPNs, and physicians) who are reentering the workforce to target specific specialties and settings.   </td>
   </tr>
   <tr>
-    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Policy Intervention 8&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-1wig">&nbsp;&nbsp;&nbsp;<br>Intervention 8&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-0lax">   <br><span style="font-weight:bold">Measure Outcomes</span>—In addition to measuring refresher program completion rates and reengagement in the workforce, ensure the retention rates of clinicians who reenter the workforce are measured at multiple timepoints (i.e., yearly).    </td>
   </tr>
 </tbody></table>
