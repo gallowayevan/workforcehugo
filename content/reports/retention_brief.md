@@ -144,8 +144,8 @@ Nine themes emerged that focused on unit-level (implemented within the nursing u
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Theme&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Reference(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><b>Theme</b>&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><b>Reference(s)</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -218,9 +218,9 @@ Vazquez-Calatayud & Eseverri-Azcoiti (2023) reviewed 9 studies to identify inter
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black">Author(s)</span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black">Published year</span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black">Findings</span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black"><b>Author(s)</b></span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black"><b>Published year</b></span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black"><b>Findings</b></span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr></thead>
 <tbody>
   <tr>
