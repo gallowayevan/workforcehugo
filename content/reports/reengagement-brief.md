@@ -38,8 +38,8 @@ We searched CINAHL Plus with Full Text (EBSCOhost), Cochrane Database of Systema
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><b>Article extraction category</b>&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;<br><b>Article extraction process</b>&nbsp;&nbsp;&nbsp;</th>
+   <th class="tg-0lax"><b>Article extraction category</b></th>
+    <th class="tg-0lax"><b>Article extraction process</b></th>
   </tr></thead>
 <tbody>
   <tr>
