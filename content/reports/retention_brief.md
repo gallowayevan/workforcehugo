@@ -131,7 +131,66 @@ The final sample of six reviews[^9]<sup>,</sup>[^15]<sup>,</sup>[^16]<sup>,</sup
 
 Nine themes emerged that focused on unit-level (implemented within the nursing unit) and organizational-level (implemented organization-wide) interventions to influence retention. Table 2 outlines the identified themes which were used to synthesize the findings. Unit-level interventions included transformational leadership (Conroy et al., 2023) and organizational support (rewards, favorable job conditions, assistance to perform tasks efficiently and manage stressful situations, support from the supervisor, meaningful recognition, shared decision making, and increased leadership involvement and support, and teamwork) (Galanis et al., 2024; Woodward & Willegerodt, 2022). Organizational-level interventions included preceptorship programs, clinical supervisor programs (Aparício & Nicholson, 2020), nurse residency programs (Mohamed & Al-Hmaimat, 2024; Vázquez-Calatayud & Eseverri-Azcoiti, 2023; Woodward & Willegerodt, 2022), adaptive education, individualized mentoring programs, combined residency and meeting points, best-fit orientation (Vázquez-Calatayud & Eseverri-Azcoiti, 2023), and organizational support (Magnet status and affiliation with an academic university) (Woodward & Willegerodt, 2022). Notably, all organizational level interventions identified by this review focused on new graduate registered nurses (NGRNs).
 
-{{< img title="**Table 2. Unit-Level and Organizational Level Interventions**" src="/images/posts/retention-brief-2025/Table2.jpg" alt="Table displaying the unit-level and organizational level interventions to influence nurse retention. Unit-level interventions include  transformational leadership and organizational support. Organizational-level interventions include preceptorship programs, clinical supervisor programs, nurse residency programs, adaptive education, individualized mentoring programs, combined residency and meeting, best-fit prientation, and organizational support." >}}
+**Table 2. Unit-Level and Organizational Level Interventions**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Theme&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Reference(s)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="2">   <br>Unit-level Interventions   </td>
+    <td class="tg-0lax">   <br>Transformational Leadership   </td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Conroy&nbsp;&nbsp;&nbsp;et al., 2023&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Organizational support   </td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Galanis&nbsp;&nbsp;&nbsp;et al., 2024; Woodward &amp; Willegerodt, 2022&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="8">   <br>Organizational-level Interventions   </td>
+    <td class="tg-0lax">   <br>Preceptorship programs   </td>
+    <td class="tg-0lax">   <br>Aparício &amp; Nicholson, 2020   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Clinical supervisor programs   </td>
+    <td class="tg-0lax">   <br>Aparício &amp; Nicholson, 2020   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Nurse residency programs   </td>
+    <td class="tg-0lax">   <br>Mohamed &amp; Al-Hmaimat, 2024; Vázquez-Calatayud &amp; Eseverri-Azcoiti, 2023;   Woodward &amp; Willegerodt, 2022   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Adaptive education   </td>
+    <td class="tg-0lax">   <br>Vázquez-Calatayud &amp; Eseverri-Azcoiti, 2023   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Individualized mentoring programs   </td>
+    <td class="tg-0lax">   <br>Vázquez-Calatayud &amp; Eseverri-Azcoiti, 2023   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Combined residency and meeting    </td>
+    <td class="tg-0lax">   <br>Vázquez-Calatayud &amp; Eseverri-Azcoiti, 2023   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Best-fit orientation   </td>
+    <td class="tg-0lax">   <br>Vázquez-Calatayud &amp; Eseverri-Azcoiti, 2023   </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">   <br>Organizational support   </td>
+    <td class="tg-0lax">   <br>Woodward &amp; Filigreed, 2022   </td>
+  </tr>
+</tbody></table>
 
 ### _Unit-Level Interventions (implemented within nursing units and focused on retaining the existing nursing workforce)_
 
@@ -146,6 +205,94 @@ In their review of six studies of preceptorship and clinical supervision program
 Vazquez-Calatayud & Eseverri-Azcoiti (2023) reviewed 9 studies to identify interventions that promote the retention of NGRNs and concluded that 1-year nurse residency and individualized mentoring programs, addressing core competencies (ex: communication, teamwork, clinical leadership, critical thinking, conflict resolution), specific competencies (ex: specific procedures or techniques), and including preceptorship or mentorship significantly decrease the likelihood of nurse turnover.[^19] These findings are aligned with the review by Woodward and Willeroudt (2022) which found NGRN training programs to improve retention rates of NGRNs within the first few years of practice[^20] and the review of by Mohamed & Al-Hmaimat (2024) which concluded that NGRN programs have potential to improve retention rates during the initial 12 months of employment, even within long term care settings.18 Programs designed to onboard and retain NGRNs vary in composition. Best-fit orientation for new graduate nurses is a personalized onboarding approach that aligns orientation content, clinical experiences, and support systems with the individual nurse’s background, strengths, learning style, and career goals.[^24] This strategy aims to improve engagement, confidence, and clinical readiness during early stages of clinical practice. Diversified adaptive education designs instruction of the NGRN based on the skills, needs and learning styles of the NGRN.[^25] Individualized mentoring programs establish a one-to-one, long-lasting nurturing relationship between a mentor and mentee support the NGRN transition to practice.[^26] Nurse residency programs are designed to offer NGRNs in-patient orientation with a preceptor and structured education on core competencies necessary for clinical practice.[^27] Components may include a period of in-patient orientation with core and service-specific competencies, a preceptor, formal mentoring, debriefing, and self-care sessions. Combined residency and meeting points include residency programs with regularly scheduled, structured check-ins or touchpoints between the new nurse and key support figures (e.g., preceptors, mentors, educators, or managers).[^28]<sup>,</sup>[^29] These meetings are strategically designed to monitor progress, provide feedback, address concerns, and offer emotional and professional support. Significant improvements in turnover and retention rates were found in two studies that included a combined program as an intervention.[^28]<sup>,</sup>[^29] Woodward and Willgeroudt’s (2022) systematic review of 31 articles related to RN turnover and retention in the United States identified organizational-level supports that impact NGRN work outcomes. Specifically,  retention rates of NGRNs were greater in hospitals with Magnet accreditation (92%) than non-Magnet accreditation (77%) and hospitals affiliated with a university also had higher retention of NGRNs (88%) than those without university affiliation (82%).[^30]
 
 **Table 3. Systematic Review Nurse Work Outcome Findings**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black">Author(s)</span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black">Published year</span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-1wig">&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color:black">Findings</span>&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Aparício &amp; Nicholson<a href="#References"><sup>15</sup></a></td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2020</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><p><strong>Evidence exists that preceptorship programs and clinical supervision programs may have a positive relationship with nurse retention. </strong></p>
+<ul>
+<li>86% (n=596 out of a total of 693) of new graduate registered nurses (NGRNs) were <strong>retained </strong>from high preceptor support (HPS) hospitals.</li>
+<li>80% (n=545 out of a total of 682) NGRNs were retained from low preceptor support (LPS) hospitals.</li>
+<li>Predictors of new graduate nurses' <strong>intention to stay</strong> in their current ward/unit were not having to practice beyond personal clinical capability and working in a critical care specialty.</li>
+</ul>
+<p>Further analysis of those nurses who indicated an <strong>intention to remain in critical care</strong> revealed that high satisfaction with clinical supervision and high satisfaction with unit orientation were significant predictors.</p></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Conroy et al.<a href="#References"><sup>16</sup></a></td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><p><strong>Evidence exists that transformational leadership (TL) may have a positive relationship with nurse retention.</strong></p>
+<ul>
+<li>Eleven out of 12 studies demonstrated a positive relationship between TL and nurse retention.</li>
+<li>Specific retention rates were not reported. One study in the review reported the relationship between TL and staff retention to be statistically insignificant.</li>
+</ul>
+<p>Further research is needed to assess which specific components of TL (idealized influence, inspirational motivation, intellectual stimulation, individualized consideration) are significantly related to retention.&nbsp;&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Galanis et al.<a href="#References"><sup>17</sup></a></td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2024</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><p><strong>As organizational support increases, turnover intention decreases. </strong></p>
+<ul>
+<li>There is a moderate negative correlation between organizational support and turnover intention.</li>
+</ul>
+<p>The pooled correlation coefficient was &minus;0.32 (95% confidence interval: &minus;0.42 to &minus;0.21).</p></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mohamed &amp; Al-Hmaimat<a href="#References"><sup>18</sup></a></td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2024</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><p><strong>All studies showed nurse residency programs have a positive impact on lowering turnover rates and increasing retention rates.</strong></p>
+<ul>
+<li>Miller et al. (2023): Retention rate of nurse residents was 77.27% for the three cohorts enrolled in 2016, 90.20% for the three cohorts enrolled in 2017, 89.71% for the cohort enrolled in 2018.</li>
+<li>Failla et al. (2021): The 117 nurse graduates who completed the residency program had a retention rate of 85% at 12 months. Since the inception of the nurse residency program, the 1-year retention &gt;96% (n = 241).</li>
+<li>Salmond et al. (2017) conducted a study of nurse residencies in 36<strong> long term care facilities </strong>and showed an 86% retention rate for the first 12 months of employment (compared with 53.8% retention rate prior to implementation of the programs).</li>
+<li>Pillai et al. (2018): 212 nurses were retained after one year (retention rate of 96%).</li>
+</ul></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Vázquez-Calatayud &amp; Eseverri-Azcoiti<a href="#References"><sup>19</sup></a></td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2023</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><p><strong>1-year nurse residency and individualized mentoring programs, addressing core and specific competencies and including preceptorship or mentorship, significantly decrease the likelihood of nurses' turnover rate</strong></p>
+<ul>
+<li>The likelihood of retention of nurses in combined programs which address core and specific competencies, including preceptorship, coordinator and mentoring support, is higher (but not statistically significant).</li>
+</ul>
+<p>Significant improvements in turnover and retention rates were found in two studies that included a combined program as an intervention: the quasi-experimental study with a control and intervention group by Hu et al. (2015) and the quasi-experimental study with a single group by Koneri et al. (2021).<a href="#References"><sup>28,29</sup></a></p></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Woodward &amp; Willgerodt<a href="#References"><sup>20</sup></a></td>
+    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2022</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><p><strong>Work outcomes are impacted by individual-level, unit-level, and organizational-level factors. Unit-level and organizational-level <u>interventions</u> identified.</strong></p>
+<ul>
+<li>Retention rates of 83%<a href="#References"><sup>30</sup></a> and 100%<a href="#References"><sup>31</sup></a> were found for NGRN programs in three different studies (two studies used the same data set so retention rates were 83% and 100%).</li>
+</ul>
+<p><strong><u>Unit Level</u></strong></p>
+<ul>
+<li>Staffing and workload had significant associations with retention outcomes (Kagwe et al., 2019; Park et al., 2016; Perry et al., 2018; Phillips, 2020; Viotti &amp; Converso, 2016).<a href="#References"><sup>32-36</sup></a></li>
+<li>Studies in the review also linked nurse retention outcomes to job features such as nursing practice/autonomy or scheduling (Carthon et al., 2021; Medas et al., 2015; Park et al., 2016; Perry et al., 2018).<a href="#References"><sup>33,36-38</sup></a></li>
+</ul>
+<p><strong><u>Organizational Level</u></strong></p>
+<ul>
+<li>Eight of the included studies assessed the impact of organizational factors on RN work outcomes.</li>
+<li>Higher retention rate of NGRNs (Blegen et al., 2017) occurred in organizations with Magnet designation than those without. Organizations affiliated with academic universities also had increased retention rates.<a href="#References"><sup>30</sup></a></li>
+</ul>
+<p>Facilities with established NGRN training programs experience the lowest 1-year turnover rates compared to those with newer programs or no program at all. </p></td>
+  </tr>
+</tbody></table>
 
 ## Conclusion
 While expanding enrollment and graduates from nursing programs is an important component of increasing the supply of nurses in the NC workforce, findings from NC Nursecast demonstrate that efforts to retain our existing nurse workforce are even more important.[^10]<sup>,</sup>[^39]<sup>,</sup>[^40] This report provided an overview of research that quantitatively assessed interventions to increase nurse retention. Heterogeneity in the interventions implemented and the tools used to measure retention limit our ability to identify best practices. Galanis et al. (2024) had similar findings in their systematic review and noted that rigorous research is still required to identify _best practices_ in retaining nurses. However, the nine overarching intervention themes identified in the literature showed positive impacts on nurse retention and support the NCIOM-recommended interventions for nurse retention in NC. The unit-level interventions identified (transformational leadership and organizational support) are applicable to nurses throughout their career and are focused on strategies that employers could implement to retain nurses. The organizational-level interventions identified in this review (preceptorship programs, clinical supervisor programs nurse residency programs, adaptive education, individualized mentoring programs, combined residency and meeting points, and best-fit orientation, and organizational support) are specifically targeted to NGRNs and could be implemented by collaborations between nursing employers and educators in the state. 
