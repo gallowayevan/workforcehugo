@@ -5,7 +5,7 @@ author: 'Catherine Moore, Brooke Lombardi, Erin P. Fraher'
 draft: false
 unlisted: true
 teaserText: "A Brief Report on Interventions to Increase Retention in the Nursing Workforce"
-teaserImage: tbdimage
+teaserImage: Retentionbrief-2025_teaser.jpg
 keywords: 'nurses, retention, literature review, workforce'
 ---
 
