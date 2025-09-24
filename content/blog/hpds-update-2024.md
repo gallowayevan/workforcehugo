@@ -5,7 +5,7 @@ author: 'Abhi Joshi, Catherine Moore, Brooke Lombardi'
 draft: false
 unlisted: false
 teaserText: "2024 Health Workforce Update"
-teaserImage: hpds2024blog.png
+teaserImage: Physiciatrists-all_hpds2024
 keywords: [physicians, pharamacists, dentists, dental hygienists, licensed practical nurse, registered nurse]
 ---
 
