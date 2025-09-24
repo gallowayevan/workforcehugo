@@ -5,7 +5,7 @@ author: 'Brooke Lombardi, Catherine Moore, Erin P. Fraher'
 draft: false
 unlisted: false
 teaserText: "Facilitators and Barriers to Reengaging Healthcare Workers Through Refresher Programs"
-teaserImage: Reengagementbrief_teaser2.png
+teaserImage: Reengagement_teaser.svg
 keywords: 'retention, literature review, workforce'
 ---
 
