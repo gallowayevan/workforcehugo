@@ -3,7 +3,7 @@ title: "Retention of Registered Nurses: A Brief Report on Interventions to Incre
 date: 2025-09-17
 author: 'Catherine Moore, Brooke Lombardi, Erin P. Fraher'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "A Brief Report on Interventions to Increase Retention in the Nursing Workforce"
 teaserImage: Retentionbrief-2025_teaser.jpg
 keywords: 'nurses, retention, literature review, workforce'
