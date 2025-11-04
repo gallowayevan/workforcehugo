@@ -64,7 +64,7 @@ This blog presents select findings from the 2024 data and includes an overview o
 
 ## Nursing
 
-- In 2024, there were 120,267 registered nurses (RNs) in active practice in NC, a 20.6% increase from the 99,734 RNs in active practice in 2014.
+- In 2024, there were 120,266 registered nurses (RNs) in active practice in NC, a 20.6% increase from the 99,734 RNs in active practice in 2014.
 - The licensed practical nurse (LPN) workforce in active practice experienced a 2.6% decline from 18,085 in 2014 to 17,618 in 2024. However, NC gained 256 LPNs in active practice between 2023 and 2024, a 1.5% increase.
 - The ratio of RNs per 10k population increased from 101 in 2014 to 109 in 2024. For LPNs, the rate per 10k population decreased from 18.3 in 2014 to 16.0 in 2024 (Figure 4).
 
