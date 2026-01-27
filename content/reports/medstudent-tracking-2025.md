@@ -85,7 +85,7 @@ To report initial residency match data for 2024, we asked each of the medical sc
 
 ### Class of 2019 Five Year Outcomes 
 
-*Figure 1* shows the number of 2019 North Carolina medical graduates in primary care. 
+**Figure 1** shows the number of 2019 North Carolina medical graduates in primary care. 
 
 {{< img title="**Figure 1.** Retention of 2019 NC Medical Graduates in NC Rural Primary Care Five Years After Graduating" src="/images/posts/MedStudentTrackingTriangle-co2019.png" alt="A triangle diagram illustrating the flow of 2019 NC medical school graduates to those who had an initial residency choice in primary care in 2019, to those practicing in primary care in 2024, and ultimately 2019 NC medical school graduates practicing in primary care in rural NC in 2024. The diagram shows significantly few numbers practicing in primary care in rural NC in 2024.">}}
 
@@ -93,20 +93,19 @@ To report initial residency match data for 2024, we asked each of the medical sc
 Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater. 
 {{< /note >}}
 
-Out of the 628 medical school graduates in 2019, 62 (10%) were in training or practice in primary care in NC in 2024 (*Figure 1*). This represents a decrease from previous years when between 12% and 17% of the most recent graduating cohorts (the classes of 2010-2018), were in training or practice in primary care in NC five years after graduating. Less than 1% (n=5) of the 2019 cohort was in primary care in a rural NC county. This also shows a decline relative to previous years when between 1% and 3% of NC medical school graduates were in practice in primary care in rural NC five years after graduating. 
+Out of the 628 medical school graduates in 2019, 62 (10%) were in training or practice in primary care in NC in 2024 (**Figure 1**). This represents a decrease from previous years when between 12% and 17% of the most recent graduating cohorts (the classes of 2010-2018), were in training or practice in primary care in NC five years after graduating. Less than 1% (n=5) of the 2019 cohort was in primary care in a rural NC county. This also shows a decline relative to previous years when between 1% and 3% of NC medical school graduates were in practice in primary care in rural NC five years after graduating. 
 
 A greater percentage of graduates from the state’s public medical schools are retained in NC five years after graduating, compared to the state’s private medical schools (*Figure 2*). For the class of 2019, 46% of UNC graduates and 38% of ECU graduates were practicing in state in 2024. UNC has displayed a steady increase in in-state retention since the 2017 cohort.
 
-{{< img title="**Figure 2.** Percent of NC Medical School Graduates in Training or Practice in North Carolina Five Years After Graduating" src="/images/posts/percent_in_state_over_time.png" alt="A line graph displaying the percentage of graduates retained in NC 5 years after graduation from 5 North Carolina medical schools - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
+{{< img title="**Figure 2.** Percent of NC Medical School Graduates in Training or Practice in North Carolina Five Years After Graduating" src="/images/posts/percent_in_state_over_time_hs.png" alt="A line graph displaying the percentage of graduates retained in NC 5 years after graduation from 5 North Carolina medical schools - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
 
 {{< note >}}
 Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC. 
 {{< /note >}}
 
-*Figure 3* shows the primary care practice or training outcomes for each school’s 2019 graduates. Each individual figure is a version of *Figure 1* for each school’s graduates. Very few graduates from any school are practicing primary care in a rural area, though Campbell had about 2% of their 2019 graduates practicing primary care in a rural area in North Carolina in 2024. UNC and ECU both retained at least 15% of their 2019 graduating classes in North Carolina practicing or training in primary care. 
+**Figure 3** shows the primary care practice or training outcomes for each school’s 2019 graduates. Each individual figure is a version of **Figure 1** for each school’s graduates. Very few graduates from any school are practicing primary care in a rural area, though Campbell had about 2% of their 2019 graduates practicing primary care in a rural area in North Carolina in 2024. UNC and ECU both retained at least 15% of their 2019 graduating classes in North Carolina practicing or training in primary care. 
 
-{{< img title="**Figure 3.** Physician Workforce Outcomes Five Years after Graduation, 2019 Medical School Graduates by School" src="/images/posts/five_year_outcomes_by_school_2019.png" alt="A bar graph displaying the percentage of graduates practicing in NC rural primary care 5 years after graduation from 5 North Carolina medical schools - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
-
+{{< img title="**Figure 3.** Physician Workforce Outcomes Five Years after Graduation, 2019 Medical School Graduates by School" src="/images/posts/five_year_outcomes_by_school_2019_hs.png" alt="A bar graph displaying the percentage of graduates practicing in NC rural primary care 5 years after graduation from 5 North Carolina medical schools - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
 
 {{< note >}}
 Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
@@ -116,19 +115,102 @@ Produced by the Program on Health Workforce Research and Policy, Sheps Center fo
 
 Safety net providers are defined as health care facilities that provide a significant amount of health care and other health-related services to uninsured, Medicaid, and other vulnerable populations. Four graduates from the class of 2019 were in practice in safety net settings in NC in 2024, including two UNC graduates, one ECU graduate, and one Campbell graduate. 
 
-*Figure 4* compares the Area Deprivation Index (ADI) of the neighborhoods where physicians who were retained in North Carolina five years after graduation report their primary practice location. Low scores indicate low levels of economic distress, and high scores indicate high levels of economic distress. Three percent (19/628) of the class of 2019 worked in a practice located in the most economically distressed neighborhoods (top quintile: ADI 9 and 10) five years after graduation. 
+**Figure 4** compares the Area Deprivation Index (ADI) of the neighborhoods where physicians who were retained in North Carolina five years after graduation report their primary practice location. Low scores indicate low levels of economic distress, and high scores indicate high levels of economic distress. Three percent (19/628) of the class of 2019 worked in a practice located in the most economically distressed neighborhoods (top quintile: ADI 9 and 10) five years after graduation. 
 
 ADI scores are not assigned for census block groups that are dominated by large facilities such as hospitals because they have so few people living these areas. ADI scores were not available for almost a third (31%, n=58/186) of the graduating class of 2019 who were still in North Carolina because their primary practice location was a large facility, most likely a hospital, which makes sense as many of these physicians are likely still in training.
 
-*Figures 4, 5, and 6* display only individuals who were licensed in North Carolina in 2024. While North Carolina graduates may be practicing in distressed areas or in needed areas of practice in other states, this report specifically focuses on service within North Carolina. Consequently, the 442 graduates (70% of the total class) who were practicing or training in another state, or who were not licensed in NC in 2024, are excluded from these charts. However, the percentages shown in the figures represent each group's proportion of the total 2019 graduating class of 628 students, not just those who remained in North Carolina. As a result, the percentages across all categories total only 30% rather than 100%. 
+**Figures 4, 5, and 6** display only individuals who were licensed in North Carolina in 2024. While North Carolina graduates may be practicing in distressed areas or in needed areas of practice in other states, this report specifically focuses on service within North Carolina. Consequently, the 442 graduates (70% of the total class) who were practicing or training in another state, or who were not licensed in NC in 2024, are excluded from these charts. However, the percentages shown in the figures represent each group's proportion of the total 2019 graduating class of 628 students, not just those who remained in North Carolina. As a result, the percentages across all categories total only 30% rather than 100%. 
 
-# EDIT STARTING @ FIGURE 4
-{{< img title="**Figure 4.** Neighborhood Disadvantage Status in 2024 of Physicians Retained in North Carolina Who Graduated from a NC Medical School in 2019" src="/images/posts/five_year_outcomes_by_school_2019.png" alt="A bar graph displaying the percentage of graduates practicing in NC rural primary care 5 years after graduation from 5 North Carolina medical schools - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
+{{< img title="**Figure 4.** Neighborhood Disadvantage Status in 2024 of Physicians Retained in North Carolina Who Graduated from a NC Medical School in 2019" src="/images/posts/adi_outcomes_2019_hs.png" alt="A bar graph displaying the number of 2019 medical school graduates practicing in North Carolina by the Area Deprivation Index (ADI) of their primary practice neighborhood.">}}
 
+{{< note >}}
+Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. ADI Score obtained from the University of Wisconsin School of Medicine Public Health. 2022 Area Deprivation Index v4.0.1 Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ on February 27, 2025.
+{{< /note >}}
+
+#### Retention in Primary Care and Psychiatry Areas of Practice
+
+**Figure 5** displays the outcomes for 2019 graduates by area of practice. Physicians report a primary area of practice to the NCMB each year of licensure. A physician’s primary area of practice can differ from their training specialty. The category “Other Area of Practice” includes all other specialties, including, for example, dermatology, hospitalist, and ophthalmology.
+
+{{< img title="**Figure 5.** Percentage of 2019 Medical School Graduates Practicing or Training in Primary Care in North Carolina by Area of Practice in 2024, North Carolina Overall and Rural" src="/images/posts/outcomes_by_area_of_practice_2019.png" alt="Two bar graphs comparing the outcomes for 2019 graduates by area of practice - Family Medicine, Pediatrics, General Internal Medicine, Ob/Gyn, Psychiatry, Other Area of Practice - overall and in rural areas.">}}
 
 {{< note >}}
 Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
 {{< /note >}}
+
+**Figure 6** shows the same set of practice outcomes but for each school individually.
+
+{{< img title="**Figure 6.**  Percentage of 2019 Medical School Graduates Practicing or Training in Primary Care in North Carolina by Medical School and Area of Practice in 2024" src="/images/posts/outcomes_by_area_of_practice_and_school_2019_hs.png" alt="5 bar graphs comparing the outcomes for 2019 graduates by area of practice - Family Medicine, Pediatrics, General Internal Medicine, Ob/Gyn, Psychiatry, Other Area of Practice by Medical School - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
+
+{{< note >}}
+Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
+{{< /note >}}
+
+### Class of 2014 Five Year Outcomes 
+
+We also tracked 2014 graduates of NC medical schools to determine where graduates were ten years following graduation from medical school. As noted previously, ten years post-graduation from medical school allows time for physicians to complete residency and fellowship training and settle into practice. A higher percentage of graduates are in primary care practice in rural areas ten years after graduation compared to five years after. This may indicate that some NC graduates do a residency out-of-state and then return to practice in NC or that some of the efforts currently underway to encourage medical students to practice in NC take a while to take effect but perhaps are starting to do so.
+
+**Figure 7** illustrates the aggregate outcome of North Carolina’s medical school graduates ten years after graduation in 2014. The total number of graduates in 2014 is much lower than in 2019, because Campbell had not yet graduated its first class.
+
+{{< img title="**Figure 7.** Retention of 2014 NC Medical Graduates in NC Rural Primary Care Five Years After Graduating" src="/images/posts/five_year_outcomes_by_school_2014.png" alt="A triangle diagram illustrating the flow of 2014 NC medical school graduates to those who had an initial residency choice in primary care in 2019, to those practicing in primary care in 2024, and ultimately 2019 NC medical school graduates practicing in primary care in rural NC in 2024. The diagram shows significantly few numbers practicing in primary care in rural NC in 2024.">}}
+
+{{< note >}}
+Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater. 
+{{< /note >}}
+
+The retention of primary care providers for each school’s 2014 graduates is illustrated in **Figure 8**. One third (n = 26) of 2014 ECU graduates were practicing primary care in North Carolina in 2024.
+
+{{< img title="**Figure 8.** Physician Workforce Outcomes Five Years after Graduation, 2014 Medical School Graduates by School" src="/images/posts/five_year_outcomes_by_school_2014_hs.png" alt="A bar graph displaying the percentage of graduates practicing in NC rural primary care 5 years after graduation from 4 North Carolina medical schools - UNC-Chapel Hill, East Carolina Univeristy, Duke University, and Wake Forest University.">}}
+
+{{< note >}}
+Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
+{{< /note >}}
+
+#### Practice in Safety Net Settings and Most Economically Distressed Neighborhoods
+
+Nine graduates from the class of 2014 were in practice in safety net settings in North Carolina in 2024, including five UNC graduates, three Wake Forest graduates, and one ECU graduate. This was a greater number than the 2019 cohort. While it would be hard to draw conclusions from these small numbers, it is possible that individuals are still in training at five years, which would typically be at a larger medical center, instead of a safety net setting.
+
+**Figure 9** compares the Area Deprivation Index (ADI) of the neighborhoods in North Carolina where physicians from the class of 2014 report their primary practice location in 2024. Almost five percent (n=21/446) of the class of 2014 worked in a practice location in the most economically distressed neighborhoods (top quintile) ten years after graduation. As with the 2019 cohort, note the large proportion of graduates for whom an ADI score is not available because their practice location is a major facility. Of course, depending on the location and type of facility, many of these graduates will also be serving many economically distressed patients.
+
+**Figures 9, 10, and 11** display only individuals who were licensed in North Carolina in 2024. While graduates from this cohort may be practicing in distressed areas or in needed areas of practice in other states, this report specifically focuses on service within North Carolina. Consequently, the 255 graduates (57% of the total class) who were practicing or training in another state, or who were not licensed in NC in 2024, are excluded from these charts. However, the percentages shown in the figures represent each group's proportion of the total graduating class of 446 students, not just those who remained in North Carolina. As a result, the percentages across all categories total only 43% , rather than 100%.
+
+{{< img title="**Figure 9.** Neighborhood Disadvantage Status in 2024 of Physicians Retained in North Carolina Who Graduated from a NC Medical School in 2014" src="/images/posts/adi_outcomes_2014_hs.png" alt="A bar graph displaying the number of 2014 medical school graduates practicing in North Carolina by the Area Deprivation Index (ADI) of their primary practice neighborhood.">}}
+
+{{< note >}}
+Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. ADI Score obtained from the University of Wisconsin School of Medicine Public Health. 2022 Area Deprivation Index v4.0.1 Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ on February 27, 2025.
+{{< /note >}}
+
+#### Practice in Safety Net Settings and Most Economically Distressed Neighborhoods
+
+**Figure 10** shows outcomes for 2014 graduates who are in North Carolina and have a primary care area of practice, or who are practicing psychiatry or general surgery. The outcomes for general surgery are reported here for the 2014 cohort, but not for the 2019 cohort, because general surgery residencies typically last five years, and many general surgeons complete a subspecialty fellowship afterwards. For this reason, reporting on general surgery practice outcomes at five-years post-graduation may be misleading.
+
+{{< img title="**Figure 10.** Percentage of 2014 Medical School Graduates Practicing or Training in Primary Care in North Carolina by Area of Practice in 2024, North Carolina Overall and Rural" src="/images/posts/outcomes_by_area_of_practice_2014.png" alt="Two bar graphs comparing the outcomes for 2014 medical school graduates by area of practice - Family Medicine, Pediatrics, General Internal Medicine, Ob/Gyn, Psychiatry, Other Area of Practice - overall and in rural areas.">}}
+
+{{< note >}}
+Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
+{{< /note >}}
+
+**Figure 11** shows the same area of practice outcomes, but for each school individually.
+
+{{< img title="**Figure 11.**  Percentage of 2019 Medical School Graduates Practicing or Training in Primary Care in North Carolina by Medical School and Area of Practice in 2024" src="/images/posts/outcomes_by_area_of_practice_and_school_2014_hs.svg" alt="4 bar graphs comparing the outcomes for 2014 graduates by area of practice - Family Medicine, Pediatrics, General Internal Medicine, Ob/Gyn, Psychiatry, Other Area of Practice by Medical School - UNC-Chapel Hill, East Carolina Univeristy, Duke University, Campbell University, Wake Forest University.">}}
+
+{{< note >}}
+Family Medicine (FM), Pediatrics (PD), General Internal Medicine (IM), Ob/Gyn(OBG), Psychiatry (Pysch), Other. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
+{{< /note >}}
+
+### Initial Match Data: 2024 Graduating Cohort  - HALEY STOPPED HERE - 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
