@@ -225,11 +225,11 @@ By comparison, tracking outcomes ten years after graduation revealed that a high
 
 These data show that retention rates for NC medical school graduates in primary care areas after graduation from a NC medical school remain low. By comparing 5-year and 10-year post graduation retention rates, we see that a higher percentage of graduates is retained in primary care, rural, safety net and disadvantaged practice areas 10-years after graduating from a NC medical school. This may indicate that NC medical school graduates are leaving the state for residency training but then returning after pursuing residency training out of state or that some previously implemented interventions are beginning to have effect.[^4]
 
-<div id="app"></div><hr><details open><summary class=summary-header>##Appendix A</summary><p>
+## Appendix A
 
 Self-reported responses to requests for information about what each North Carolina medical school is doing to try to increase the number of students who will practice primary care in rural North Carolina
 
-### <u>Campbell University School of Osteopathic Medicine</u>
+<div id="app"></div><hr><details open><summary class=summary-header> **<u>Campbell University School of Osteopathic Medicine</u>**</summary><p>
 
 The mission of the Campbell University School of Osteopathic Medicine (CUSOM) is to educate and prepare community–based osteopathic physicians in a Christian environment to care for the rural and underserved populations in North Carolina, the Southeastern United States, and the nation. The focus on community-based care is significant as it recognizes the unique health care needs of rural and underserved populations. The preparation to enter those environments is unique and has been a core focus for our school. The Christian environment that we foster has played a significant role in shaping the values and beliefs of our graduates and shaping the way they approach their work as physicians. By instilling a strong sense of compassion, empathy, and ethical principles in its graduates, CUSOM is helping to ensure that they are well-prepared to provide high-quality, patient-centered care that is consistent with institutional values.
 
@@ -257,11 +257,9 @@ Campbell University had our first resident start in 2014 as an educational partn
 
 Campbell University Graduates are now currently active in 47 of North Carolina’s 100 counties. The full impact of Campbell University graduates to the physician workforce is still emerging. 2020 saw the inaugural class graduate from 3-year primary care programs. 2022 saw the first graduates in Surgery and Psychiatry from Campbell University GME programs. Combining the efforts of our medical school and our graduate medical education programs, Campbell University has placed 189 new providers in 47 North Carolina counties as of April 2025. Additionally, 30 of the 47 occupied North Carolina counties are underserved, which displays that Campbell University is meeting its mission of producing graduates to work in rural and underserved counties.
 
-### <u>Duke University School of Medicine</u> 
+<div id="app"></div><hr><details open><summary class=summary-header> **<u>Duke University School of Medicine</u>**</summary><p>
 
-Duke provides medical student clinical rotations
-
-The goals of this program are for students to learn clinical skills in the context of a local community and to appreciate the effects of culture and context on health and health behaviors. Duke students may rotate through clinics in Person and Durham County health departments evaluating and following patients in these rural communities. 
+Duke provides medical student clinical rotations. The goals of this program are for students to learn clinical skills in the context of a local community and to appreciate the effects of culture and context on health and health behaviors. Duke students may rotate through clinics in Person and Durham County health departments evaluating and following patients in these rural communities. 
 
 Duke also offers the Primary Care Leadership Track (PCLT), the goal of which is to create change agents for the system through primary care and leaders in the health care profession. The 4- year program offers leadership training, a longitudinal-integrated 2nd year clerkship, which includes following pregnant mothers and delivering their babies, time for service with a community agency, and 3rd year research in community-engaged population health. PCLT graduates have chosen primary care residencies: family medicine (outpatient adults, children, and prenatal care), general internal medicine (adults only), primary care pediatrics (children only), pediatrics/psychiatry, medicine/psychiatry, family medicine/psychiatry and Obstetrics/gynecology.
 
@@ -316,9 +314,6 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 * 7 of the 24 who have completed residency are currently practicing out of state with stated plans to return to NC in the future. One is in VA serving rural border NC county patients. 
 
 **FIRST (Fully Integrated Readiness for Service Training) Program** – The FIRST Program began in 2016 with 3 matriculants in the field of Family Medicine and was further expanded to various primary care specialties and GME programs in 2019 via an American Medical Association (AMA) Reimaging Residency Grant. The FIRST Program operates as a three-year accelerated program with a mission to increase the number of students seeking rural and underserved primary care residency placements and careers in NC. It consists of three parts: 1) An enhanced 3-year medical school curriculum, 2) A directed pathway into an affiliated residency program, and 3) Three years of service in a rural or underserved area of NC with ongoing support in practice. Students are recruited to the FIRST Program during their first year of medical school. The FIRST Program promotes close faculty mentorship and familiarity with healthcare systems, including early and longitudinal integration into clinical care, and fosters a close cohort of fellow students. The affiliated GME Programs FIRST students can participate in encompass six specialties: 1) Family Medicine, 2) General Surgery, 3) Internal Medicine, 4) Medicine-Pediatrics, 5) Pediatrics, and 6) Psychiatry with ties to residency programs through partnerships with Mountain Area Health Education Center (MAHEC), Southeastern Area Health Education Center (SEAHEC), Greensboro, WakeMed in Raleigh, and Novant Hospital in Charlotte.
-
-</p></details><details><summary class=summary-header>
-
 
 
 
