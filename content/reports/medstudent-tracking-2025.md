@@ -46,7 +46,7 @@ Since reporting on medical student outcomes began in 1994, Campbell University b
 
 ## Data Sources and Methods 
 
-### Data Sources
+### <u>Data Sources</u>
 
 Data included in this report come from several sources: 
 * The North Carolina Medical Board’s annual licensure files (NCMB), maintained by the NC Health Professions Data System at the Cecil G. Sheps Center for Health Services Research
@@ -61,7 +61,7 @@ Campbell University School of Osteopathic Medicine (Campbell) is not mandated to
 
 As in prior years, this report does not emphasize the data from initial residency matches because many physicians change residency specialties, subsequently subspecialize, or change geographic location over the course of their GME training. For this reason, workforce outcomes are better measured after residency training and a report on those outcomes is forthcoming. 
 
-### Methods 
+### <u>Methods</u>
 
 We merged GMETrack data from the AAMC for 2014 and 2019 medical school graduates with the 2024 NCMB annual licensure file (housed with the Health Professions Data System) to determine physician practice outcomes at five or ten years post-graduation from medical school. The NCMB’s licensure data provides in-state practice locations and areas of practice, while the GMETrack data from the Association of American Medical Colleges (AAMC) is the source list for graduates within a cohort. This is consistent with the methodology of this report for most of its existence; however, we used a different methodology in the last two years to account for an interruption in our access to the AAMC data.
 
@@ -83,7 +83,7 @@ To report initial residency match data for 2024, we asked each of the medical sc
 
 ## Findings
 
-### Class of 2019 Five Year Outcomes 
+### <u>Class of 2019 Five Year Outcomes</u> 
 
 **Figure 1** shows the number of 2019 North Carolina medical graduates in primary care. 
 
@@ -145,7 +145,7 @@ Produced by the Program on Health Workforce Research and Policy, Sheps Center fo
 Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
 {{< /note >}}
 
-### Class of 2014 Five Year Outcomes 
+### <u>Class of 2014 Five Year Outcomes</u> 
 
 We also tracked 2014 graduates of NC medical schools to determine where graduates were ten years following graduation from medical school. As noted previously, ten years post-graduation from medical school allows time for physicians to complete residency and fellowship training and settle into practice. A higher percentage of graduates are in primary care practice in rural areas ten years after graduation compared to five years after. This may indicate that some NC graduates do a residency out-of-state and then return to practice in NC or that some of the efforts currently underway to encourage medical students to practice in NC take a while to take effect but perhaps are starting to do so.
 
@@ -197,7 +197,7 @@ Produced by the Program on Health Workforce Research and Policy, Sheps Center fo
 Family Medicine (FM), Pediatrics (PD), General Internal Medicine (IM), Ob/Gyn(OBG), Psychiatry (Pysch), Other. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
 {{< /note >}}
 
-### Initial Match Data: 2024 Graduating Cohort
+### <u>Initial Match Data: 2024 Graduating Cohort</u>
 
 As mentioned earlier, this report does not emphasize initial match data from the NC medical schools. Residents sometimes switch specialties or residency programs throughout the course of their training, and many subspecialize. Initial matches to “primary care” specialties (Family Medicine, Internal Medicine, Pediatrics, Internal Medicine-Pediatrics, and Obstetrics & Gynecology) are inflated compared to the number of graduates eventually expected to practice in those fields. We also track two other needed specialties in NC: psychiatry and general surgery. Prior trends indicate that many NC graduates, including most of those who match to Internal Medicine and General Surgery, will go on to complete fellowship training and eventually practice in a sub-specialty field. For instance, 126 graduates from 2014 entered a general internal medicine residency program, but 83% subsequently pursued subspecialty training (not including geriatric medicine). Family Medicine is an exception to this trend.
 
@@ -225,11 +225,11 @@ By comparison, tracking outcomes ten years after graduation revealed that a high
 
 These data show that retention rates for NC medical school graduates in primary care areas after graduation from a NC medical school remain low. By comparing 5-year and 10-year post graduation retention rates, we see that a higher percentage of graduates is retained in primary care, rural, safety net and disadvantaged practice areas 10-years after graduating from a NC medical school. This may indicate that NC medical school graduates are leaving the state for residency training but then returning after pursuing residency training out of state or that some previously implemented interventions are beginning to have effect.[^4]
 
-## Appendix A
+<div id="app"></div><hr><details open><summary class=summary-header>##Appendix A</summary><p>
 
 Self-reported responses to requests for information about what each North Carolina medical school is doing to try to increase the number of students who will practice primary care in rural North Carolina
 
-### Campbell University School of Osteopathic Medicine
+### <u>Campbell University School of Osteopathic Medicine</u>
 
 The mission of the Campbell University School of Osteopathic Medicine (CUSOM) is to educate and prepare community–based osteopathic physicians in a Christian environment to care for the rural and underserved populations in North Carolina, the Southeastern United States, and the nation. The focus on community-based care is significant as it recognizes the unique health care needs of rural and underserved populations. The preparation to enter those environments is unique and has been a core focus for our school. The Christian environment that we foster has played a significant role in shaping the values and beliefs of our graduates and shaping the way they approach their work as physicians. By instilling a strong sense of compassion, empathy, and ethical principles in its graduates, CUSOM is helping to ensure that they are well-prepared to provide high-quality, patient-centered care that is consistent with institutional values.
 
@@ -257,7 +257,7 @@ Campbell University had our first resident start in 2014 as an educational partn
 
 Campbell University Graduates are now currently active in 47 of North Carolina’s 100 counties. The full impact of Campbell University graduates to the physician workforce is still emerging. 2020 saw the inaugural class graduate from 3-year primary care programs. 2022 saw the first graduates in Surgery and Psychiatry from Campbell University GME programs. Combining the efforts of our medical school and our graduate medical education programs, Campbell University has placed 189 new providers in 47 North Carolina counties as of April 2025. Additionally, 30 of the 47 occupied North Carolina counties are underserved, which displays that Campbell University is meeting its mission of producing graduates to work in rural and underserved counties.
 
-### Duke University School of Medicine 
+### <u>Duke University School of Medicine</u> 
 
 Duke provides medical student clinical rotations
 
@@ -269,7 +269,7 @@ Through our MS1 reflection exercises and lunch discussions, specialty handbook, 
 
 Duke offers a primary care student interest group open to all students that has career panels 1-2 times a year and meets regularly.
 
-### ECU Brody School of Medicine 
+### <u>ECU Brody School of Medicine</u> 
 
 The Brody School of Medicine (BSOM) stands apart with its three-part mission to increase the supply of primary care physicians serving the state, improve the health and well-being of the region, and train physicians who will meet the state's health care needs. This distinctive mission makes BSOM a top choice for those intending to practice primary care specialties in our state.
 
@@ -302,7 +302,7 @@ Carolina Farmworkers
 
 The combination of our medical curriculum, non-curricular experiences, and our students' desire to pursue primary care specialties and practice in underserved and underrepresented populations is why BSOM continues to be ranked nationally in the 92nd percentile of graduates practicing in rural areas and the 94th percentile of graduates practicing in primary care. 
 
-### University of North Carolina at Chapel Hill School of Medicine
+### <u>University of North Carolina at Chapel Hill School of Medicine</u>
 
 Our mission is to **improve the health and wellbeing of North Carolinians** and others whom we serve through excellence in patient care, education, and research. We have several programs that have historically supported those interested in primary care, and we have also developed an innovative program that combined our historic programs to provide even greater opportunities for our students to explore and experience rural and primary care. This merger allowed for an alignment of resources and an expansion of learning opportunities for students. 
 
@@ -315,10 +315,11 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 * 11 of the 17 practiced, or are currently practicing (including the 2025 graduate), in a rural NC county (65%).
 * 7 of the 24 who have completed residency are currently practicing out of state with stated plans to return to NC in the future. One is in VA serving rural border NC county patients. 
 
-**FIRST (Fully Integrated Readiness for Service Training) Program** – The FIRST Program began in 2016 with 3 matriculants in the field of Family Medicine and was further expanded to various primary care specialties and GME programs in 2019 via an American Medical Association (AMA) Reimaging Residency Grant. The FIRST Program operates as a three-year accelerated program with a mission to increase the number of students seeking rural and underserved primary care residency placements and careers in NC. It consists of three parts: 1) An enhanced 3-year medical school curriculum, 2) A directed pathway into an affiliated residency program, and 3) Three years of service in a rural or underserved area of NC with ongoing support in practice. Students are recruited to the FIRST Program during their first year of medical school. The FIRST Program promotes close faculty mentorship and familiarity with healthcare systems, including early and longitudinal integration into clinical care, and fosters a close cohort of fellow students. The affiliated GME Programs FIRST students can participate in encompass six specialties: 1) Family Medicine, 2) General Surgery, 3) Internal Medicine, 4) Medicine-Pediatrics, 5) Pediatrics, and 6) Psychiatry with ties to residency programs through partnerships with Mountain Area Health Education Center (MAHEC), Southeastern Area Health Education Center (SEAHEC), Greensboro, WakeMed in Raleigh, and Novant Hospital in Charlotte. 
+**FIRST (Fully Integrated Readiness for Service Training) Program** – The FIRST Program began in 2016 with 3 matriculants in the field of Family Medicine and was further expanded to various primary care specialties and GME programs in 2019 via an American Medical Association (AMA) Reimaging Residency Grant. The FIRST Program operates as a three-year accelerated program with a mission to increase the number of students seeking rural and underserved primary care residency placements and careers in NC. It consists of three parts: 1) An enhanced 3-year medical school curriculum, 2) A directed pathway into an affiliated residency program, and 3) Three years of service in a rural or underserved area of NC with ongoing support in practice. Students are recruited to the FIRST Program during their first year of medical school. The FIRST Program promotes close faculty mentorship and familiarity with healthcare systems, including early and longitudinal integration into clinical care, and fosters a close cohort of fellow students. The affiliated GME Programs FIRST students can participate in encompass six specialties: 1) Family Medicine, 2) General Surgery, 3) Internal Medicine, 4) Medicine-Pediatrics, 5) Pediatrics, and 6) Psychiatry with ties to residency programs through partnerships with Mountain Area Health Education Center (MAHEC), Southeastern Area Health Education Center (SEAHEC), Greensboro, WakeMed in Raleigh, and Novant Hospital in Charlotte.
+
+</p></details><details><summary class=summary-header>
 
 
-# HALRY STOPPED HERE
 
 
 
