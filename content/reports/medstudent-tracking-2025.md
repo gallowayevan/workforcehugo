@@ -530,6 +530,21 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <li>States should implement primary care payment reform by facilitating multi-payer collaboration and by increasing the overall portion of health care spending in their state going to primary care. Implementing high-quality primary care begins by committing to pay primary care more and differently because of its capacity to improve population health and health equity for all of society, not because it generates short term returns on investment for payers. High-quality primary care is a common good promoted by responsible public policy and supported by private-sector action.</li>
 </ul>
 <p>Reducing student debt and increasing reimbursement are essential components as students weigh their personal and professional goals when choosing a medical specialty.
+
+  <p><strong>Selected References</strong></p>
+<ul>
+<li>Implementing High Quality Primary Care: Rebuilding the Foundation of Health Care. The National Academies of Science, Engineering and Medicine 2021. <a href="https://www.nationalacademies.org/our-work/implementing-high-quality-primary-care ">https://www.nationalacademies.org/our-work/implementing-high-quality-primary-care</a></li>
+</ul>
+<p>Multiple Models exist on which this proposal is built. Links to some of these programs are provided below:</p>
+<ul>
+<li>Alabama College of Community Health Sciences: <a href="https://cchs.ua.edu/rural-programs/rmsp/#:%7E:text=The%20Rural%20Medical%20Scholars%20Program,where%20they%20are%20most%20needed">https://cchs.ua.edu/rural-programs/rmsp/#:%7E:text=The%20Rural%20Medical%20Scholars%20Program,where%20they%20are%20most%20needed</a></li>
+<li>Michigan State: <a href="https://msururalhealth.chm.msu.edu/programs/rural-physician-program.html ">https://msururalhealth.chm.msu.edu/programs/rural-physician-program.html </a></li>
+<li>U of Minnesota <a href="https://med.umn.edu/md-students/individualized-pathways/rural-physicianassociate-program-rpap ">https://med.umn.edu/md-students/individualized-pathways/rural-physicianassociate-program-rpap </a></li>
+<li>NE Ohio Medical School: <a href="https://www.neomed.edu/medicine/admissions/paths/earlyassurance/">https://www.neomed.edu/medicine/admissions/paths/earlyassurance/</a></li>
+<li>Eight Year Continuum. Brown Rhode Island. <a href="https://plme.med.brown.edu/ ">https://plme.med.brown.edu/ </a></li>
+<li>JAMP with support from Texas Legislature: <a href="https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp ">https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp </a></li>
+<li>WWAMI; Recruit students from rural communities and enroll them in Rural Track (TRUST). <a href="https://www.uwmedicine.org/school-of-medicine/md-program/wwami">https://www.uwmedicine.org/school-of-medicine/md-program/wwami</a></li>
+</ul>
 </p>
 </details>
 
@@ -566,20 +581,5 @@ Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 20
   The University of Wisconsin School of Medicine and Public Health. 2022 Area Deprivation Index 4.0.1. Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 2025.
   </li>
 </ol>
-
-<p><strong>Selected References</strong></p>
-<ul>
-<li>Implementing High Quality Primary Care: Rebuilding the Foundation of Health Care. The National Academies of Science, Engineering and Medicine 2021. <a href="https://www.nationalacademies.org/our-work/implementing-high-quality-primary-care ">https://www.nationalacademies.org/our-work/implementing-high-quality-primary-care</a></li>
-</ul>
-<p>Multiple Models exist on which this proposal is built. Links to some of these programs are provided below:</p>
-<ul>
-<li>Alabama College of Community Health Sciences: <a href="https://cchs.ua.edu/rural-programs/rmsp/#:%7E:text=The%20Rural%20Medical%20Scholars%20Program,where%20they%20are%20most%20needed">https://cchs.ua.edu/rural-programs/rmsp/#:%7E:text=The%20Rural%20Medical%20Scholars%20Program,where%20they%20are%20most%20needed</a></li>
-<li>Michigan State: <a href="https://msururalhealth.chm.msu.edu/programs/rural-physician-program.html ">https://msururalhealth.chm.msu.edu/programs/rural-physician-program.html </a></li>
-<li>U of Minnesota <a href="https://med.umn.edu/md-students/individualized-pathways/rural-physicianassociate-program-rpap ">https://med.umn.edu/md-students/individualized-pathways/rural-physicianassociate-program-rpap </a></li>
-<li>NE Ohio Medical School: <a href="https://www.neomed.edu/medicine/admissions/paths/earlyassurance/">https://www.neomed.edu/medicine/admissions/paths/earlyassurance/</a></li>
-<li>Eight Year Continuum. Brown Rhode Island. <a href="https://plme.med.brown.edu/ ">https://plme.med.brown.edu/ </a></li>
-<li>JAMP with support from Texas Legislature: <a href="https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp ">https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp </a></li>
-<li>WWAMI; Recruit students from rural communities and enroll them in Rural Track (TRUST). <a href="https://www.uwmedicine.org/school-of-medicine/md-program/wwami">https://www.uwmedicine.org/school-of-medicine/md-program/wwami</a></li>
-</ul>
 
 >**Suggested Citation:** Galloway E, Lombardi B, Fraher EP. The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. June 30, 2025.
