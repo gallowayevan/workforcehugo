@@ -227,7 +227,7 @@ These data show that retention rates for NC medical school graduates in primary 
 
 <details>
   <summary class="summary-header">Appendix A</summary>
-  <p> Self-reported responses to requests for information about what each North Carolina medical school is doing to try to increase the number of students who will practice primary care in rural North Carolina
+  <p> Self-reported responses to requests for information about what each North Carolina medical school is doing to try to increase the number of students who will practice primary care in rural North Carolina. 
 
 ### Campbell University School of Osteopathic Medicine
 
@@ -548,9 +548,6 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <li>WWAMI; Recruit students from rural communities and enroll them in Rural Track (TRUST). <a href="https://www.uwmedicine.org/school-of-medicine/md-program/wwami">https://www.uwmedicine.org/school-of-medicine/md-program/wwami</a></li>
 </ul>
 
-
-The HPDS is maintained by the Program on Health Workforce Research and Policy at the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill, in collaboration with the North Carolina Area Health Education Centers Program (AHEC), and the state's independent health professional licensing boards. Ongoing financial support is provided by the NC AHEC Program Office. Although the NC HPDS maintains the data system, the data remain the property of their respective licensing board. This information or content and conclusions are those of the authors and should not be construed as the official position or policy of, nor should any endorsements be inferred by NC AHEC. To learn more about NC AHEC please visit: [https://www.ncahec.net](https://www.ncahec.net/).
-
 ## References
 
 [^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites
@@ -560,6 +557,5 @@ The HPDS is maintained by the Program on Health Workforce Research and Policy at
 [^3]: Paralkar N, LaVine N, Ryan S, Conigliaro R, Ehrlich J, Khan A, Block L. Career Plans of Internal Medicine Residents From 2019 to 2021. JAMA Intern Med. 2023 Oct 1;183(10):1166-1167. doi: 10.1001/jamainternmed.2023.2873. Erratum in: JAMA Intern Med. 2024 Mar 1;184(3):336
 
 [^4]: Kind AJH, Buckingham W. Making Neighborhood Disadvantage Metrics Accessible: The Neighborhood Atlas. New England Journal of Medicine, 2018. 378: 2456-2458. DOI: 10.1056/NEJMp1802313. PMCID: PMC6051533. And the University of Wisconsin School of Medicine and Public Health. 2022 Area Deprivation Index 4.0.1. Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 2025.
-
 
 >**Suggested Citation:** Galloway E, Lombardi B, Fraher EP. The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. June 30, 2025.
