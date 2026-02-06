@@ -582,4 +582,4 @@ Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 20
   </li>
 </ol>
 
->**Suggested Citation:** Galloway E, Lombardi B, Fraher EP. The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. June 30, 2025.
+>**Suggested Citation:** Galloway E and Tilson H. Outcomes of NC Medical School Graduates: How Many Stay in Practice in NC, in Primary Care, and in High Need Areas?. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. April 11, 2025.
