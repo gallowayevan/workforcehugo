@@ -225,7 +225,9 @@ By comparison, tracking outcomes ten years after graduation revealed that a high
 
 These data show that retention rates for NC medical school graduates in primary care areas after graduation from a NC medical school remain low. By comparing 5-year and 10-year post graduation retention rates, we see that a higher percentage of graduates is retained in primary care, rural, safety net and disadvantaged practice areas 10-years after graduating from a NC medical school. This may indicate that NC medical school graduates are leaving the state for residency training but then returning after pursuing residency training out of state or that some previously implemented interventions are beginning to have effect.[^4]
 
-<div id="app"></div><hr><details open><summary class=summary-header><u>Appendix A</u></summary><p>
+<details class="dropdown" open>
+  <summary class="summary-header">Appendix A</summary>
+  <p>
 
 Self-reported responses to requests for information about what each North Carolina medical school is doing to try to increase the number of students who will practice primary care in rural North Carolina
 
@@ -449,10 +451,12 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <p>The <em>Rural Primary Care</em> elective provides students with hands-on experience caring for fullspectrum Family Medicine patients, including adults, geriatrics, pediatrics, and newborns. Students rotate within rural primary care practices alongside interprofessional teams and engage in activities aimed at improving the health of the community. They gain experience in a variety of care delivery models, including virtual care, home visits, hospital care, and traditional office-based visits. Students may choose from three sites located in rural North Carolina counties.</p>
 <p>The <em>Safety Net Healthcare: Bridging Gaps and Building Advocacy</em> elective combines clinical experiences in Federally Qualified Health Centers (FQHCs) and Rural Health Clinics (RHCs) with interactive workshops, community partnerships, and didactic sessions. Students develop a deeper understanding of the rewards and challenges faced by safety net providers while building practical skills in advocacy and community engagement. This elective emphasizes healthcare systems serving Medicaid, uninsured, and underinsured populations, and focuses on advancing health equity and addressing social determinants of health. The course fosters a commitment to reducing health disparities and supporting vulnerable patient populations. <em>The Urban Underserved Family Medicine</em> elective immerses students in established neighborhood clinics and community settings, where they gain firsthand experience providing care to diverse, medically underserved populations. The course leverages community partnerships and local resources to demonstrate how family physicians address barriers to healthcare access and deliver culturally competent, patient-centered care. Students work alongside family physicians and interprofessional teams to provide comprehensive care, while also learning public health approaches such as Community-Oriented Primary Care (COPC). In addition, they are introduced to tools like geographic information systems (GIS) to analyze population health trends and better understand the unique needs of the communities they serve.</p>
 </summary>
+</p>
+</details>
 
-<div id="app"></div><hr><details open><summary class=summary-header><u>Appendix B</u></summary><p>
-
-<h3>&nbsp;</h3>
+<details class="dropdown" open>
+  <summary class="summary-header">Appendix B</summary>
+  <p>
 <p><strong>A Roadmap for a Statewide (and Nationwide) Approach to Training Primary Care Physicians Who Will Practice in Rural North Carolina</strong></p>
 <p>An AHEC Proposal to develop a Collaboration between NC Medical Schools</p>
 <p><strong>Objectives:</strong></p>
@@ -530,6 +534,8 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <li>States should implement primary care payment reform by facilitating multi-payer collaboration and by increasing the overall portion of health care spending in their state going to primary care. Implementing high-quality primary care begins by committing to pay primary care more and differently because of its capacity to improve population health and health equity for all of society, not because it generates short term returns on investment for payers. High-quality primary care is a common good promoted by responsible public policy and supported by private-sector action.</li>
 </ul>
 <p>Reducing student debt and increasing reimbursement are essential components as students weigh their personal and professional goals when choosing a medical specialty.</p>
+</p>
+</details>
 
 <p><strong>Selected References</strong></p>
 <ul>
@@ -545,7 +551,7 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <li>JAMP with support from Texas Legislature: <a href="https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp ">https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp </a></li>
 <li>WWAMI; Recruit students from rural communities and enroll them in Rural Track (TRUST). <a href="https://www.uwmedicine.org/school-of-medicine/md-program/wwami">https://www.uwmedicine.org/school-of-medicine/md-program/wwami</a></li>
 </ul>
-</summary>
+
 
 The HPDS is maintained by the Program on Health Workforce Research and Policy at the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill, in collaboration with the North Carolina Area Health Education Centers Program (AHEC), and the state's independent health professional licensing boards. Ongoing financial support is provided by the NC AHEC Program Office. Although the NC HPDS maintains the data system, the data remain the property of their respective licensing board. This information or content and conclusions are those of the authors and should not be construed as the official position or policy of, nor should any endorsements be inferred by NC AHEC. To learn more about NC AHEC please visit: [https://www.ncahec.net](https://www.ncahec.net/).
 
