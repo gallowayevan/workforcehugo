@@ -17,7 +17,7 @@ keywords: 'physicians, residency, gme, workforce, retention'
 
 In 1993, the General Assembly mandated an annual report on the number of North Carolina (NC) medical school graduates going into primary care. Since 1994, the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill (“Sheps Center”) andthe NC Area Health Education Centers program (AHEC) have collaborated to produce this report which tracks the number of students practicing primary care in rural NC five years after graduation from an NC medical school. As a result of the legislative mandate, NC is a national model for tracking medical student outcomes.
 
-As in prior years, this report tracks NC medical school graduate outcomes for physicians who practice in NC and in rural NC counties. This report includes all five medical schools in North Carolina, both public and private. The Campbell School of Osteopathic Medicine graduated its first class in 2017, so they are not included in the 2014 cohort. This report also includes an analysis of the number of medical school graduates that practice in NC safety net settings[^1] that deliver care to uninsured, Medicaid, and other vulnerable populations, a description in Appendix A of each medical school’s efforts to increase the number of graduates practicing primary care in rural NC and a description in Appendix B of on-going efforts to establish a defined “Pathway to Primary Care” in NC.
+As in prior years, this report tracks NC medical school graduate outcomes for physicians who practice in NC and in rural NC counties. This report includes all five medical schools in North Carolina, both public and private. The Campbell School of Osteopathic Medicine graduated its first class in 2017, so they are not included in the 2014 cohort. This report also includes an analysis of the number of medical school graduates that practice in NC safety net settingssup><a href="#ref1">1</a></sup> that deliver care to uninsured, Medicaid, and other vulnerable populations, a description in Appendix A of each medical school’s efforts to increase the number of graduates practicing primary care in rural NC and a description in Appendix B of on-going efforts to establish a defined “Pathway to Primary Care” in NC.
 
 Historically, this report examined NC medical school graduates five years following graduation per the legislative mandate. However, this period is not ideal because the time required to complete residency after medical school graduation ranges from three to more than six years. At five-years post-graduation from medical school, physicians in psychiatry, obstetrics & gynecology (ob/gyn), surgery, and medicine/pediatrics are just completing residency, or may be in fellowship/specialty training, and may not have settled in a permanent practice location. Thus, although not required by the legislature, this report also includes ten-year outcomes for the 2014 cohort.
 
@@ -28,7 +28,7 @@ Analyses of the five-year outcomes of NC class of 2019 graduates and ten-year ou
 * Of the 446 NC medical school graduates from the class of 2014, 56 (13%) were practicing primary care in NC in 2024, 10 years post-graduation and 11 graduates (2.5%) were in rural primary care in NC.
 * Both UNC and ECU retained the largest proportion of graduates in practice or training in NC in any specialty after five years (46% and 38%, respectively), followed by Duke (24%), Campbell (21%), Wake Forest (18%).
 * UNC and ECU had the largest proportions of graduates practicing in primary care in NC five years after graduating in 2019 (17% and 15%, respectively). From this cohort, UNC contributed 29 graduates to the state primary care workforce, while Campbell contributed 14 and ECU added 11.
-* Across both the 2014 and 2019 cohorts, 13 graduates were found to be practicing or training in a safety net setting.[^1]
+* Across both the 2014 and 2019 cohorts, 13 graduates were found to be practicing or training in a safety net setting.sup><a href="#ref1">1</a></sup>
 * Three percent (19/628) of the class of 2019 and nearly five percent (21/446) of the class of 2014 worked in a practice location in the most economically distressed neighborhoods in NC five and ten years, respectively, after graduation.
 * Twelve 2014 graduates were in practice in general surgery in NC ten years after graduating with one in a rural county. Five graduates from the same year were practicing psychiatry in NC ten years later with none practicing primarily in a rural county.
 
@@ -36,13 +36,13 @@ Analyses of the five-year outcomes of NC class of 2019 graduates and ten-year ou
 
 In 1993, the North Carolina General Assembly expressed interest in expanding the pool of generalist physicians (i.e., primary care physicians) for the state. To increase the supply, as part of N.C.S.L.1993-321 the General Assembly required each of the state's four medical schools to develop a plan to expand the percent of medical school graduates choosing residency positions in primary care. Primary care was defined as family practice, general internal medicine, general pediatric medicine, internal medicine-pediatrics, and obstetrics-gynecology. It set the goal for East Carolina University (ECU) and UNC Schools of Medicine at 60% of graduates entering primary care. For the Wake Forest University and Duke University Schools of Medicine, it set the goal at 50%. Campbell University School of Osteopathic Medicine graduated its first class in 2017 and was therefore not included in these original goals.
 
-Since 1994, the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill (“Sheps Center”) and the NC Area Health Education Centers program (AHEC) have collaborated to produce this report tracks the workforce outcomes for NC medical schools. As a result of the legislative mandate, NC is a national model for tracking medical student outcomes. Data from this report were featured in the New England Journal of Medicine as an example of how to track workforce outcomes in John Iglehart’s 2018 article on "The challenging quest to improve rural health care."[^2]
+Since 1994, the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill (“Sheps Center”) and the NC Area Health Education Centers program (AHEC) have collaborated to produce this report tracks the workforce outcomes for NC medical schools. As a result of the legislative mandate, NC is a national model for tracking medical student outcomes. Data from this report were featured in the New England Journal of Medicine as an example of how to track workforce outcomes in John Iglehart’s 2018 article on "The challenging quest to improve rural health care."sup><a href="#ref2">2</a></sup>
 
-While not required by the original legislation, the Sheps Center and NC AHEC have enhanced the annual report to better reflect the state’s workforce needs. As in prior years, this report tracks NC medical school graduate outcomes for physicians who practice in NC and in rural NC counties. However, this report also includes an analysis of the number of medical school graduates that practice in NC safety net settings[^1] and in areas of high economic deprivation in NC. We have also included an analysis of graduates retained in psychiatry and general surgery in NC.
+While not required by the original legislation, the Sheps Center and NC AHEC have enhanced the annual report to better reflect the state’s workforce needs. As in prior years, this report tracks NC medical school graduate outcomes for physicians who practice in NC and in rural NC counties. However, this report also includes an analysis of the number of medical school graduates that practice in NC safety net settingssup><a href="#ref1">1</a></sup> and in areas of high economic deprivation in NC. We have also included an analysis of graduates retained in psychiatry and general surgery in NC.
 
 Historically, this report has examined NC medical school graduates at five years following graduation per the legislative mandate. However, this period is not ideal because the time required to complete residency after graduation from medical school ranges between three to six years or more. At five-years post-graduation from medical school, physicians in psychiatry, obstetrics & gynecology (ob/gyn), surgery, and medicine/pediatrics are just completing residency, or may be in fellowship/specialty training, and may not have settled in a permanent practice location. This is typically the case for general surgeons, whose training period is five years, and for ob/gyns, psychiatrists and medicine/pediatrics residents who often do a fellowship after a four-year residency. Ten years following graduation from medical school is a more reasonable timeframe to track outcomes, as it allows for fellowship training following residency. Thus, although not required by the legislature, this report also includes ten-year outcomes for the 2014 cohort. 
 
-Since reporting on medical student outcomes began in 1994, Campbell University became the fifth medical school in North Carolina and is included in this report. The health care system has also undergone dramatic change in in the last thirty years and the data in this report remain as critical as ever to help inform the state’s efforts to address chronic shortfalls of primary care physicians, especially in rural areas. The composition of the primary care workforce itself has also changed. For example, an increasing proportion of general internal medicine physicians are subspecializing; recent national analyses found the percentage of graduating internal medicine residents planning a career in general internal medicine has declined by half in the last decade.[^3] Concurrently, the growth of hospitalists and the declining number of internal medicine physicians trained, and practicing, in community-based settings has reduced the number of primary care physicians choosing community-based primary care medicine. 
+Since reporting on medical student outcomes began in 1994, Campbell University became the fifth medical school in North Carolina and is included in this report. The health care system has also undergone dramatic change in in the last thirty years and the data in this report remain as critical as ever to help inform the state’s efforts to address chronic shortfalls of primary care physicians, especially in rural areas. The composition of the primary care workforce itself has also changed. For example, an increasing proportion of general internal medicine physicians are subspecializing; recent national analyses found the percentage of graduating internal medicine residents planning a career in general internal medicine has declined by half in the last decade.sup><a href="#ref3">3</a></sup> Concurrently, the growth of hospitalists and the declining number of internal medicine physicians trained, and practicing, in community-based settings has reduced the number of primary care physicians choosing community-based primary care medicine. 
 
 ## Data Sources and Methods 
 
@@ -535,13 +535,31 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 
 ## References
 
-[^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites
+<ol class="reference-list">
+  <li id="ref1">
+    NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025.
+    <a href="https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites">
+      https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites
+    </a>
+  </li>
 
-[^2]: Iglehart J. The challenging quest to improve rural health care. NEJM, 2018. 378(5):473-479. https://www.nejm.org/doi/full/10.1056/NEJMhpr1707176
+  <li id="ref2">
+    Iglehart J. The challenging quest to improve rural health care. <em>NEJM</em>, 2018. 378(5):473–479.
+    <a href="https://www.nejm.org/doi/full/10.1056/NEJMhpr1707176">
+      https://www.nejm.org/doi/full/10.1056/NEJMhpr1707176
+    </a>
+  </li>
 
-[^3]: Paralkar N, LaVine N, Ryan S, Conigliaro R, Ehrlich J, Khan A, Block L. Career Plans of Internal Medicine Residents From 2019 to 2021. JAMA Intern Med. 2023 Oct 1;183(10):1166-1167. doi: 10.1001/jamainternmed.2023.2873. Erratum in: JAMA Intern Med. 2024 Mar 1;184(3):336
+  <li id="ref3">
+    Paralkar N, LaVine N, Ryan S, et al. Career Plans of Internal Medicine Residents From 2019 to 2021.
+    <em>JAMA Intern Med.</em> 2023;183(10):1166–1167.
+  </li>
 
-[^4]: Kind AJH, Buckingham W. Making Neighborhood Disadvantage Metrics Accessible: The Neighborhood Atlas. New England Journal of Medicine, 2018. 378: 2456-2458. DOI: 10.1056/NEJMp1802313. PMCID: PMC6051533. And the University of Wisconsin School of Medicine and Public Health. 2022 Area Deprivation Index 4.0.1. Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 2025.
+  <li id="ref4">
+    Kind AJH, Buckingham W. Making Neighborhood Disadvantage Metrics Accessible…
+    <em>NEJM</em> 2018;378:2456–2458.
+  </li>
+</ol>
 
 <p><strong>Selected References</strong></p>
 <ul>
