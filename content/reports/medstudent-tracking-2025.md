@@ -10,7 +10,7 @@ keywords: 'physicians, residency, gme, workforce, retention'
 ---
 
 <div class="buttons">
-<a class="button is-info" https://www.shepscenter.unc.edu/wp-content/uploads/2025/07/NC-AHEC-Annual-Report-April-2025.pdf">Download the full report as a pdf.</a>
+<a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/2025/07/NC-AHEC-Annual-Report-April-2025.pdf">Download the full report as a pdf.</a>
 </div>
 
 ## Executive Summary
