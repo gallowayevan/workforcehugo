@@ -533,6 +533,16 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 </p>
 </details>
 
+## References
+
+[^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites
+
+[^2]: Iglehart J. The challenging quest to improve rural health care. NEJM, 2018. 378(5):473-479. https://www.nejm.org/doi/full/10.1056/NEJMhpr1707176
+
+[^3]: Paralkar N, LaVine N, Ryan S, Conigliaro R, Ehrlich J, Khan A, Block L. Career Plans of Internal Medicine Residents From 2019 to 2021. JAMA Intern Med. 2023 Oct 1;183(10):1166-1167. doi: 10.1001/jamainternmed.2023.2873. Erratum in: JAMA Intern Med. 2024 Mar 1;184(3):336
+
+[^4]: Kind AJH, Buckingham W. Making Neighborhood Disadvantage Metrics Accessible: The Neighborhood Atlas. New England Journal of Medicine, 2018. 378: 2456-2458. DOI: 10.1056/NEJMp1802313. PMCID: PMC6051533. And the University of Wisconsin School of Medicine and Public Health. 2022 Area Deprivation Index 4.0.1. Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 2025.
+
 <p><strong>Selected References</strong></p>
 <ul>
 <li>Implementing High Quality Primary Care: Rebuilding the Foundation of Health Care. The National Academies of Science, Engineering and Medicine 2021. <a href="https://www.nationalacademies.org/our-work/implementing-high-quality-primary-care ">https://www.nationalacademies.org/our-work/implementing-high-quality-primary-care</a></li>
@@ -547,15 +557,5 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <li>JAMP with support from Texas Legislature: <a href="https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp ">https://www.uta.edu/academics/schoolscolleges/science/degree-programs/health-professions/special-programs-volunteering-researchopportunities/jamp </a></li>
 <li>WWAMI; Recruit students from rural communities and enroll them in Rural Track (TRUST). <a href="https://www.uwmedicine.org/school-of-medicine/md-program/wwami">https://www.uwmedicine.org/school-of-medicine/md-program/wwami</a></li>
 </ul>
-
-## References
-
-[^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites
-
-[^2]: Iglehart J. The challenging quest to improve rural health care. NEJM, 2018. 378(5):473-479. https://www.nejm.org/doi/full/10.1056/NEJMhpr1707176
-
-[^3]: Paralkar N, LaVine N, Ryan S, Conigliaro R, Ehrlich J, Khan A, Block L. Career Plans of Internal Medicine Residents From 2019 to 2021. JAMA Intern Med. 2023 Oct 1;183(10):1166-1167. doi: 10.1001/jamainternmed.2023.2873. Erratum in: JAMA Intern Med. 2024 Mar 1;184(3):336
-
-[^4]: Kind AJH, Buckingham W. Making Neighborhood Disadvantage Metrics Accessible: The Neighborhood Atlas. New England Journal of Medicine, 2018. 378: 2456-2458. DOI: 10.1056/NEJMp1802313. PMCID: PMC6051533. And the University of Wisconsin School of Medicine and Public Health. 2022 Area Deprivation Index 4.0.1. Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 2025.
 
 >**Suggested Citation:** Galloway E, Lombardi B, Fraher EP. The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. June 30, 2025.
