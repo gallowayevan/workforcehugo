@@ -567,13 +567,13 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 
   <li id="ref3">
     Paralkar N, LaVine N, Ryan S, et al. Career Plans of Internal Medicine Residents From 2019 to 2021.
-    <em>JAMA Intern Med.</em> 2023;183(10):1166–1167.
+    <em>JAMA Intern Med.</em> 2023;183(10):1166–1167.<a href="https://doi.org/10.1001/jamainternmed.2023.2873">
   </li>
 
   <li id="ref4">
    Kind AJH, Buckingham W. Making Neighborhood Disadvantage Metrics Accessible: The Neighborhood Atlas. _New England Journal of Medicine_, 2018. 378: 2456-2458. DOI: 10.1056/NEJMp1802313. PMCID: PMC6051533.
 And the University of Wisconsin School of Medicine and Public Health. 2022 Area Deprivation Index 4.0.1.
-Downloaded from https://www.neighborhoodatlas.medicine.wisc.edu/ February 27, 2025
+Downloaded from <a href="https://www.neighborhoodatlas.medicine.wisc.edu/"> February 27, 2025
     <em>NEJM</em> 2018;378:2456–2458.
   </li>
 
