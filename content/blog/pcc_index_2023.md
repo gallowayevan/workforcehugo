@@ -8,8 +8,9 @@ teaserText: Is Access to Primary Care Clinicians Improving In North Carolina?
 teaserImage: pcc_components_percentage_change_2017-2023.jpg
 keywords: [physician, physician assistant, nurse practitioner, primary care]
 ---
+
 <div class="buttons">
-<a class="button is-info" https://ncmedicaljournal.com/article/146069-unpacking-the-primary-care-clinician-index-understanding-how-changes-in-population-and-workforce-supply-affect-access-to-primary-care-in-north-caroli">View the 2025 manuscript</a>
+<a class="button is-info" href="https://ncmedicaljournal.com/article/146069-unpacking-the-primary-care-clinician-index-understanding-how-changes-in-population-and-workforce-supply-affect-access-to-primary-care-in-north-caroli">View the 2025 manuscript.</a>
 </div>
 
 Sheps Health Workforce NC has produced a primary care clinician index since 2017 to measure geographic access to primary care. The primary care clinician index is a ratio of population to primary care clinicians, so a ratio with a higher value suggests lower access to primary care services. We include physicians, nurse practitioners, physician assistants, and certified nurse midwives as primary care clinicians. (Details on the methodology for the index are provided below.)  Guided by the recommendations of a [federal report](https://www.ruralhealthinfo.org/assets/3262-13308/nrmcfinalreport.pdf), we selected a ratio of 1,500 people to 1 primary care clinician or fewer as the standard of whether a county has sufficient primary care clinicians to meet population health needs. However, even in areas that fall below the 1,500:1 threshold, individuals may experience difficulty in obtaining primary care services, as a result of socioeconomic factors, lack of insurance, and other barriers. This blog analyzes changes in the index between 2017 and 2023.
