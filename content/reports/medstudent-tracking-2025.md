@@ -46,7 +46,7 @@ Since reporting on medical student outcomes began in 1994, Campbell University b
 
 ## Data Sources and Methods 
 
-### <u>Data Sources</u>
+### <i>Data Sources</i>
 
 Data included in this report come from several sources: 
 * The North Carolina Medical Board’s annual licensure files (NCMB), maintained by the NC Health Professions Data System at the Cecil G. Sheps Center for Health Services Research
@@ -61,7 +61,7 @@ Campbell University School of Osteopathic Medicine (Campbell) is not mandated to
 
 As in prior years, this report does not emphasize the data from initial residency matches because many physicians change residency specialties, subsequently subspecialize, or change geographic location over the course of their GME training. For this reason, workforce outcomes are better measured after residency training and a report on those outcomes is forthcoming. 
 
-### <u>Methods</u>
+### <i>Methods</i>
 
 We merged GMETrack data from the AAMC for 2014 and 2019 medical school graduates with the 2024 NCMB annual licensure file (housed with the Health Professions Data System) to determine physician practice outcomes at five or ten years post-graduation from medical school. The NCMB’s licensure data provides in-state practice locations and areas of practice, while the GMETrack data from the Association of American Medical Colleges (AAMC) is the source list for graduates within a cohort. This is consistent with the methodology of this report for most of its existence; however, we used a different methodology in the last two years to account for an interruption in our access to the AAMC data.
 
@@ -83,7 +83,7 @@ To report initial residency match data for 2024, we asked each of the medical sc
 
 ## Findings
 
-### <u>Class of 2019 Five Year Outcomes</u> 
+### <i>Class of 2019 Five Year Outcomes</i> 
 
 **Figure 1** shows the number of 2019 North Carolina medical graduates in primary care. 
 
@@ -145,7 +145,7 @@ Produced by the Program on Health Workforce Research and Policy, Sheps Center fo
 Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
 {{< /note >}}
 
-### <u>Class of 2014 Five Year Outcomes</u> 
+### <i>Class of 2014 Five Year Outcomes</i> 
 
 We also tracked 2014 graduates of NC medical schools to determine where graduates were ten years following graduation from medical school. As noted previously, ten years post-graduation from medical school allows time for physicians to complete residency and fellowship training and settle into practice. A higher percentage of graduates are in primary care practice in rural areas ten years after graduation compared to five years after. This may indicate that some NC graduates do a residency out-of-state and then return to practice in NC or that some of the efforts currently underway to encourage medical students to practice in NC take a while to take effect but perhaps are starting to do so.
 
@@ -197,7 +197,7 @@ Produced by the Program on Health Workforce Research and Policy, Sheps Center fo
 Family Medicine (FM), Pediatrics (PD), General Internal Medicine (IM), Ob/Gyn(OBG), Psychiatry (Pysch), Other. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2024. Rural source: US Census Bureau, Office of Management and Budget, July 2023 and USDA Economic Research Service RUCA codes, 2010. Core based statistical area (CBSA) is the OMB’s collective term for metropolitan and micropolitan statistical areas. Here, rural areas include counties in micropolitan statistical areas, counties outside of CBSAs, and census tracts with a RUCA code of 4 or greater.
 {{< /note >}}
 
-### <u>Initial Match Data: 2024 Graduating Cohort</u>
+### <i>Initial Match Data: 2024 Graduating Cohort</i>
 
 As mentioned earlier, this report does not emphasize initial match data from the NC medical schools. Residents sometimes switch specialties or residency programs throughout the course of their training, and many subspecialize. Initial matches to “primary care” specialties (Family Medicine, Internal Medicine, Pediatrics, Internal Medicine-Pediatrics, and Obstetrics & Gynecology) are inflated compared to the number of graduates eventually expected to practice in those fields. We also track two other needed specialties in NC: psychiatry and general surgery. Prior trends indicate that many NC graduates, including most of those who match to Internal Medicine and General Surgery, will go on to complete fellowship training and eventually practice in a sub-specialty field. For instance, 126 graduates from 2014 entered a general internal medicine residency program, but 83% subsequently pursued subspecialty training (not including geriatric medicine). Family Medicine is an exception to this trend.
 
@@ -225,11 +225,12 @@ By comparison, tracking outcomes ten years after graduation revealed that a high
 
 These data show that retention rates for NC medical school graduates in primary care areas after graduation from a NC medical school remain low. By comparing 5-year and 10-year post graduation retention rates, we see that a higher percentage of graduates is retained in primary care, rural, safety net and disadvantaged practice areas 10-years after graduating from a NC medical school. This may indicate that NC medical school graduates are leaving the state for residency training but then returning after pursuing residency training out of state or that some previously implemented interventions are beginning to have effect.[^4]
 
-## Appendix A
+<div id="app"></div><hr><details open><summary class=summary-header><u>Appendix A</u></summary><p>
 
 Self-reported responses to requests for information about what each North Carolina medical school is doing to try to increase the number of students who will practice primary care in rural North Carolina
 
-<div id="app"></div><hr><details open><summary class=summary-header><u>Campbell University School of Osteopathic Medicine</u></summary><p>
+### Campbell University School of Osteopathic Medicine
+
 <p>The mission of the Campbell University School of Osteopathic Medicine (CUSOM) is to educate and prepare community–based osteopathic physicians in a Christian environment to care for the rural and underserved populations in North Carolina, the Southeastern United States, and the nation. The focus on community-based care is significant as it recognizes the unique health care needs of rural and underserved populations. The preparation to enter those environments is unique and has been a core focus for our school. The Christian environment that we foster has played a significant role in shaping the values and beliefs of our graduates and shaping the way they approach their work as physicians. By instilling a strong sense of compassion, empathy, and ethical principles in its graduates, CUSOM is helping to ensure that they are well-prepared to provide high-quality, patient-centered care that is consistent with institutional values.
 
 Campbell University School of Medicine opened its doors to its inaugural class of 162 students in 2013. Campbell University also became the first College of Osteopathic Medicine to serve as an ACGME sponsoring institution for Graduate Medical Education. As a sponsoring institution, Campbell University has provided support and resources to its affiliated residency programs ensuring that they meet the standards and requirements set forth by the ACGME. 15 osteopathic programs successfully transitioned to ACGME accreditation under Campbell University’s Sponsoring Institution. Campbell University now serves as the Sponsor for 12 ACGME-accredited programs in partnership with 4 hospitals and systems. We serve as an educational affiliate partner for 3 additional hospital systems in NC.</p> 
@@ -447,7 +448,7 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 <p>The <em>Rural Primary Care</em> elective provides students with hands-on experience caring for fullspectrum Family Medicine patients, including adults, geriatrics, pediatrics, and newborns. Students rotate within rural primary care practices alongside interprofessional teams and engage in activities aimed at improving the health of the community. They gain experience in a variety of care delivery models, including virtual care, home visits, hospital care, and traditional office-based visits. Students may choose from three sites located in rural North Carolina counties.</p>
 <p>The <em>Safety Net Healthcare: Bridging Gaps and Building Advocacy</em> elective combines clinical experiences in Federally Qualified Health Centers (FQHCs) and Rural Health Clinics (RHCs) with interactive workshops, community partnerships, and didactic sessions. Students develop a deeper understanding of the rewards and challenges faced by safety net providers while building practical skills in advocacy and community engagement. This elective emphasizes healthcare systems serving Medicaid, uninsured, and underinsured populations, and focuses on advancing health equity and addressing social determinants of health. The course fosters a commitment to reducing health disparities and supporting vulnerable patient populations. <em>The Urban Underserved Family Medicine</em> elective immerses students in established neighborhood clinics and community settings, where they gain firsthand experience providing care to diverse, medically underserved populations. The course leverages community partnerships and local resources to demonstrate how family physicians address barriers to healthcare access and deliver culturally competent, patient-centered care. Students work alongside family physicians and interprofessional teams to provide comprehensive care, while also learning public health approaches such as Community-Oriented Primary Care (COPC). In addition, they are introduced to tools like geographic information systems (GIS) to analyze population health trends and better understand the unique needs of the communities they serve.</p>
 
-## Appendix B
+<div id="app"></div><hr><details open><summary class=summary-header><u>Appendix B</u></summary><p>
 
 <h3>&nbsp;</h3>
 <p><strong>A Roadmap for a Statewide (and Nationwide) Approach to Training Primary Care Physicians Who Will Practice in Rural North Carolina</strong></p>
