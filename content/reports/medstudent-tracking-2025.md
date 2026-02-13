@@ -598,4 +598,4 @@ This program started in 2013 and expanded in 2017 from one cohort to three cohor
 
 </ol>
 
->**Suggested Citation:** Galloway E and Tilson H. Outcomes of NC Medical School Graduates: How Many Stay in Practice in NC, in Primary Care, and in High Need Areas?. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. April 11, 2025.
+>**Suggested Citation:** Galloway E and Tilson H. Outcomes of NC Medical School Graduates: How Many Stay in Practice in NC, in Primary Care, and in High Need Areas? Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. April 11, 2025.
