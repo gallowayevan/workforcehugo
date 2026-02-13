@@ -5,7 +5,7 @@ author: 'Evan Galloway, Hugh H. Tilson Jr.'
 draft: false
 unlisted: false
 teaserText: "The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019"
-teaserImage: NC-AHEC-Annual-Report-April-2025v2.jpg
+teaserImage: NC-AHEC-Annual-Report-April-2025v3.jpg
 keywords: 'physicians, residency, gme, workforce, retention'
 ---
 
