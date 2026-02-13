@@ -32,6 +32,9 @@ Analyses of the five-year outcomes of NC class of 2019 graduates and ten-year ou
 * Three percent (19/628) of the class of 2019 and nearly five percent (21/446) of the class of 2014 worked in a practice location in the most economically distressed neighborhoods in NC five and ten years, respectively, after graduation.
 * Twelve 2014 graduates were in practice in general surgery in NC ten years after graduating with one in a rural county. Five graduates from the same year were practicing psychiatry in NC ten years later with none practicing primarily in a rural county.
 
+<details>
+  <summary class="summary-header">Read the full report</summary>
+
 ## Background
 
 In 1993, the North Carolina General Assembly expressed interest in expanding the pool of generalist physicians (i.e., primary care physicians) for the state. To increase the supply, as part of N.C.S.L.1993-321 the General Assembly required each of the state's four medical schools to develop a plan to expand the percent of medical school graduates choosing residency positions in primary care. Primary care was defined as family practice, general internal medicine, general pediatric medicine, internal medicine-pediatrics, and obstetrics-gynecology. It set the goal for East Carolina University (ECU) and UNC Schools of Medicine at 60% of graduates entering primary care. For the Wake Forest University and Duke University Schools of Medicine, it set the goal at 50%. Campbell University School of Osteopathic Medicine graduated its first class in 2017 and was therefore not included in these original goals.
@@ -224,6 +227,8 @@ In summary, out of the 628 medical school graduates from North Carolina’s five
 By comparison, tracking outcomes ten years after graduation revealed that a higher percentage of graduates from 2014 were in in primary care practice (13%) and in primary care practice in rural areas (2.5%) ten years after graduation than five years after graduation. Nine graduates from the class of 2014 were in practice in safety net settings in North Carolina in 2024, which is also a greater number of graduates than the 2019 cohort. Almost 5% of the class of 2014 worked in a practice location in the most economically distressed neighborhoods, as measured by the ADI score, ten years after graduation. The outcomes for general surgery are reported for the 2014 cohort, but not for the 2019 cohort, because general surgery residencies typically last five years, and many general surgeons complete a sub-specialty fellowship afterwards. North Carolina retained 2.7% of graduates (12/446 graduates) in general surgery practice ten years after graduation and 0.22% (1/446 graduates) in general surgery in a rural county ten years after graduation from medical school.
 
 These data show that retention rates for NC medical school graduates in primary care areas after graduation from a NC medical school remain low. By comparing 5-year and 10-year post graduation retention rates, we see that a higher percentage of graduates is retained in primary care, rural, safety net and disadvantaged practice areas 10-years after graduating from a NC medical school. This may indicate that NC medical school graduates are leaving the state for residency training but then returning after pursuing residency training out of state or that some previously implemented interventions are beginning to have effect.<sup><a href="#ref4">4</a>, </sup><sup><a href="#ref5">5</a></sup>
+</p>
+</details>
 
 <details>
   <summary class="summary-header">Appendix A</summary>
