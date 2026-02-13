@@ -33,7 +33,7 @@ Analyses of the five-year outcomes of NC class of 2019 graduates and ten-year ou
 * Twelve 2014 graduates were in practice in general surgery in NC ten years after graduating with one in a rural county. Five graduates from the same year were practicing psychiatry in NC ten years later with none practicing primarily in a rural county.
 
 <details>
-  <summary class="summary-header">Read the full report</summary>
+  <summary class="summary-header">## **Read the full report**</summary>
 
 ## Background
 
