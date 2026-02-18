@@ -7,6 +7,7 @@ unlisted: false
 teaserText: "The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019"
 teaserImage: gme-report-2025.jpg
 keywords: 'physicians, residency, gme, workforce, retention'
+aliases: ["/reports/gme-tracking-2025/"]
 ---
 
 <div class="buttons">

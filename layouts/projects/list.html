@@ -1,0 +1,63 @@
+{{ define "main" }}
+{{ if .Parent.IsHome }}
+{{/* Top-level /projects/ page: show workstream cards */}}
+<section class="section">
+    <div class="container">
+        <h1 class="title">{{ .Title }}</h1>
+        <div class="columns is-multiline">
+            {{ range .Sections }}
+            {{ $section := . }}
+            <div class="column is-one-third">
+                <div class="card">
+                    {{ with .Params.teaserImage }}
+                    <div class="card-image">
+                        <a href="{{ $section.RelPermalink }}">
+                            <figure class="image">
+                                <img loading="lazy" src="/images/thumbnails/{{ . }}" alt="{{ $section.Title }}">
+                            </figure>
+                        </a>
+                    </div>
+                    {{ end }}
+                    <div class="card-content">
+                        <a href="{{ $section.RelPermalink }}">
+                            <p class="title is-5">{{ $section.Title }}</p>
+                        </a>
+                        {{ with $section.Params.teaserText }}
+                        <p class="subtitle is-6 has-text-grey">{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ else }}
+{{/* Workstream landing page: show description + child reports */}}
+<section class="section">
+    <div class="container">
+        <article class="content column is-8-desktop is-10-tablet is-12-mobile mx-auto">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+
+            {{ if .Pages }}
+            <h2>Publications</h2>
+            {{ range .Pages.ByDate.Reverse }}
+            {{ if ne .Params.unlisted true }}
+            <div class="box">
+                <a href="{{ .RelPermalink }}">
+                    <p class="title is-5 mb-2">{{ .Title }}</p>
+                </a>
+                <p class="has-text-grey is-size-7 mb-2">By {{ .Params.author }} &mdash; {{ dateFormat "Jan 2, 2006" .Date }}</p>
+                {{ with .Params.teaserText }}
+                <p>{{ . }}</p>
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+        </article>
+    </div>
+</section>
+{{ end }}
+{{ end }}

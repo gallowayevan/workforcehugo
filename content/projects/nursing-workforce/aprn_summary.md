@@ -6,6 +6,7 @@ draft: false
 teaserText: "North Carolina Advanced Practice Registered Nurses: A Report on the Advanced Practice Registered Nurse Workforce in North Carolina"
 teaserImage: aprn_report.jpg
 keywords: 'nurses, aprn, crna, cns, cnm'
+aliases: ["/reports/aprn_summary/"]
 ---
 
 
