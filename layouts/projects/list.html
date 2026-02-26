@@ -12,8 +12,8 @@
                     {{ with .Params.teaserImage }}
                     <div class="card-image">
                         <a href="{{ $section.RelPermalink }}">
-                            <figure class="image">
-                                <img loading="lazy" src="/images/thumbnails/{{ . }}" alt="{{ $section.Title }}">
+                            <figure class="image is-4by3">
+                                <img loading="lazy" src="/images/thumbnails/{{ . }}" alt="{{ $section.Title }}" style="object-fit: cover;">
                             </figure>
                         </a>
                     </div>
