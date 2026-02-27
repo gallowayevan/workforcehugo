@@ -45,7 +45,90 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
 
         .rounded-word-box {
             padding: 1px 5px; /* Space around the word */
-            border-radius: 5px; /* Rounded corners */  
+            border-radius: 5px; /* Rounded corners */
+        }
+
+        /* Accessibility: darken green success buttons for 4.5:1 contrast */
+        .button.is-success {
+            background-color: #257953;
+        }
+        .button.is-success:hover {
+            background-color: #1e6e49;
+        }
+        .button.is-success:active, .button.is-success.is-active {
+            background-color: #1a5f3f;
+        }
+
+        /* Accessibility: darken info buttons and message headers */
+        .button.is-info {
+            background-color: #296fa8;
+        }
+        .button.is-info:hover {
+            background-color: #235f91;
+        }
+        .message.is-info .message-header {
+            background-color: #296fa8;
+        }
+
+        /* Accessibility: darken grey text */
+        .has-text-grey {
+            color: #636363 !important;
+        }
+
+        /* Accessibility: underline links in body content */
+        .content a:not(.button):not(.tag),
+        .message-body a,
+        .footer a:not(.button) {
+            text-decoration: underline;
+            text-underline-offset: 0.15em;
+        }
+
+        /* Accessibility: focus indicators for keyboard nav */
+        a:focus-visible,
+        .button:focus-visible,
+        .input:focus-visible,
+        .textarea:focus-visible,
+        .select select:focus-visible,
+        [tabindex]:focus-visible {
+            outline: 2px solid #485fc7;
+            outline-offset: 2px;
+        }
+
+        /* Accessibility: skip-nav link */
+        .skip-link {
+            position: absolute;
+            left: -9999px;
+            top: auto;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            z-index: 100;
+            padding: 0.5em 1em;
+            background: #485fc7;
+            color: #fff;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .skip-link:focus {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            width: auto;
+            height: auto;
+            overflow: visible;
+        }
+
+        /* Accessibility: visually hidden but available to screen readers */
+        .is-sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
         }
     </style>
 
@@ -58,6 +141,7 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
 </head>
 
 <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
     <section class="section has-background-info-light">
         <div class="container">
             <nav class="navbar has-background-info-light" role="navigation" aria-label="main navigation">
@@ -171,13 +255,15 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
         </div>
     </section>
 
+    <div id="main-content">
     {{ block "main" . }}
 
     {{ end }}
+    </div>
     <section class="hero has-background-white-ter">
         <div class="hero-body">
             <div class="container">
-                <h1 class="title has-text-centered has-text-weight-light">Recent Posts</h1>
+                <h2 class="title has-text-centered has-text-weight-light">Recent Posts</h2>
                 <div class="columns is-centered">
                     <div class="field column is-one-third">
                         <label class="label" for="search-box">Search</label>
@@ -187,6 +273,7 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
                     </div>
                 </div>
      
+                <div aria-live="polite"><span class="is-sr-only" id="search-results-announce"></span></div>
                 <div class="columns is-multiline thumbnails">
                     {{ $count := 0 }} <!-- Initialize a counter -->
 {{ range $elem_index, $elem_val := .Site.RegularPages }}
@@ -230,7 +317,7 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
 
             <div class="has-text-centered is-size-4">
                 <!-- Email -->
-                Email us:&nbsp;<a href="mailto:nchealthworkforce@unc.edu" target="_blank" aria-label="Email Us.">
+                Email us:&nbsp;<a href="mailto:nchealthworkforce@unc.edu" aria-label="Email Us.">
                     nchealthworkforce@unc.edu
                 </a>
 
@@ -262,6 +349,7 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
                         // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
                         el.classList.toggle('is-active');
                         $target.classList.toggle('is-active');
+                        el.setAttribute('aria-expanded', el.classList.contains('is-active'));
 
                     });
                 });

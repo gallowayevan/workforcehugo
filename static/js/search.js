@@ -36,6 +36,14 @@
 
         thumbnailBox.innerHTML = '';
         thumbnailBox.appendChild(thumbnailFragment);
+
+        // Announce result count to screen readers
+        const announce = document.getElementById('search-results-announce');
+        if (announce && event.target.value.length >= minMatchCharLength) {
+          announce.textContent = searchResults.length + ' result' + (searchResults.length !== 1 ? 's' : '') + ' found';
+        } else if (announce) {
+          announce.textContent = '';
+        }
       }
 
       function cleanCommaDelimited(current) {
