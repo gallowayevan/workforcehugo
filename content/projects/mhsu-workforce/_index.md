@@ -3,6 +3,7 @@ title: "State of North Carolina's Mental Health and Substance Use Services Workf
 teaserText: "A comprehensive look at the professionals providing mental health and substance use services across North Carolina"
 teaserImage: mhsu-workforce.png
 weight: 1
+draft: true
 ---
 
 <div class="message">
