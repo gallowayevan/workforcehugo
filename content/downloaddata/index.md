@@ -20,7 +20,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
   </div>
 </div>
 <div class="field">
-  <label class="label">County</label>
+  <label class="label" for="county-select">County</label>
   <div class="control">
     <div class="select">
       <select id="county-select">
@@ -54,7 +54,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
   </div>
 </div>
 <div class="field">
-  <label class="label">Profession</label>
+  <label class="label" for="profession-select">Profession</label>
   <div class="control">
     <div class="select">
       <select id="profession-select">
@@ -76,7 +76,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 {{< figure src="/images/posts/county_by_profession_example.png" >}}
 <form id="downloadForm3">
 <div class="field">
-  <label class="label">Year</label>
+  <label class="label" for="year-select">Year</label>
   <div class="control">
     <div class="select">
       <select id="year-select">
@@ -98,7 +98,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
   </div>
 </div>
 <div class="field">
-  <label class="label">Geography Type</label>
+  <label class="label" for="region-select">Geography Type</label>
   <div class="control">
     <div class="select">
       <select id="region-select">
