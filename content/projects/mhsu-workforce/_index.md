@@ -29,7 +29,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <h3 class="title is-5">Data Snapshots</h3>
 <p class="mb-3">Concise profiles of each MH/SU services workforce in North Carolina.</p>
 <ul>
-<li><a href="/pdf/DMH Workforce Snapshot_SW_8.pdf">Social Workers</a></li>
+<li><a href="/pdf/DMH Workforce Snapshot_SW_9.pdf">Social Workers</a></li>
 </ul>
 <p class="mt-3 has-text-grey is-italic">Stay tuned for more profession snapshots.</p>
 </div>
