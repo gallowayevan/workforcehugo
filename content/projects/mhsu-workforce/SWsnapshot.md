@@ -14,6 +14,30 @@ aliases:
 <a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
 
+<style>
+@media screen and (min-width: 769px) {
+  .snapshot-float {
+    float: left;
+    width: 40%;
+    margin: 0 0 2rem 1.5rem;
+  }
+}
+.box {
+  border: 4px solid #EA7E35; 
+  padding: 1rem; 
+  border-radius: 6px;
+}
+</style>
+
+</style>
+
+<div class="snapshot-float">
+<div class="box">
+<h3 class="title is-5">13,945</h3>
+<p class="mb-3">**Total Licensed Social Workers** Active practice</p>
+</ul>
+</div>
+
 ## Introduction
 
 North Carolina (NC) is projected to face a shortage of almost 12,500 registered nurses (RNs) by 2033.[^1] A 2023 survey of more than 1,000 NC health care facilities and 80 education programs conducted by the NC Health Talent Alliance found that 1 in 6 RN positions in the state were unfilled.[^2] Nationwide, RN staffing intensity (the ratio of RNs to other nursing personnel) in hospitals has decreased since 2021, consistent with findings from Auerbach et al. (2024) which suggest that although overall nurse supply in the United States is increasing, most of the growth is taking place outside of hospitals.[^3]
