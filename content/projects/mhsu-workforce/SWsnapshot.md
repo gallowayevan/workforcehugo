@@ -26,6 +26,7 @@ aliases:
   border: 4px solid #EA7E35; 
   padding: 1rem; 
   border-radius: 6px;
+  background-color: #E8E8EB;
 }
 </style>
 
@@ -38,14 +39,10 @@ aliases:
 </ul>
 </div>
 
-<div class="buttons">
-<a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
-</div>
-
 <style>
 @media screen and (min-width: 769px) {
   .snapshot-float {
-    float: left;
+    float: center;
     width: 40%;
     margin: 0 0 2rem 1.5rem;
   }
@@ -54,6 +51,7 @@ aliases:
   border: 4px solid #C62881; 
   padding: 1rem; 
   border-radius: 6px;
+  background-color: #E8E8EB;
 }
 </style>
 
@@ -66,14 +64,10 @@ aliases:
 </ul>
 </div>
 
-<div class="buttons">
-<a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
-</div>
-
 <style>
 @media screen and (min-width: 769px) {
   .snapshot-float {
-    float: left;
+    float: right;
     width: 40%;
     margin: 0 0 2rem 1.5rem;
   }
@@ -82,6 +76,7 @@ aliases:
   border: 4px solid #639BD2; 
   padding: 1rem; 
   border-radius: 6px;
+  background-color: #E8E8EB;
 }
 </style>
 
