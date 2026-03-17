@@ -7,7 +7,6 @@ unlisted: true
 teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
 teaserImage: 
 keywords: 'social work, workforce'
-aliases:
 ---
 
 <div class="buttons">
