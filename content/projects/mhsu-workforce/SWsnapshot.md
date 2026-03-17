@@ -85,6 +85,6 @@ aliases:
 <div class="snapshot-float">
 <div class="box">
 <h3 class="title is-5">4,115</h3>
-<p class="mb-3">**LCSWs** Licensed Clinical Social Worker Associates</p>
+<p class="mb-3">**LCSWAs** Licensed Clinical Social Worker Associates</p>
 </ul>
 </div>
