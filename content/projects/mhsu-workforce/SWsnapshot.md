@@ -1,17 +1,17 @@
 ---
-title: "Retention of Registered Nurses: A Brief Report on Interventions to Increase Retention in the Nursing Workforce"
-date: 2025-09-17
-author: 'Catherine Moore, Brooke Lombardi, Erin P. Fraher'
+title: "North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024"
+date: 2026-03-23
+author: 'Brianna Lombardi, Jennifer Headley'
 draft: false
 unlisted: true
-teaserText: "A Brief Report on Interventions to Increase Retention in the Nursing Workforce"
-teaserImage: Retention_teaser.svg
-keywords: 'nurses, retention, literature review, workforce'
-aliases: ["/reports/retention_brief/"]
+teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
+teaserImage: 
+keywords: 'social work, workforce'
+aliases:
 ---
 
 <div class="buttons">
-<a class="button is-info" href="/pdf/Retentionbrief-2025.pdf">Download the full report as a pdf.</a>
+<a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
 
 ## Introduction
