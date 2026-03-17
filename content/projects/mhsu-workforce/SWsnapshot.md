@@ -3,7 +3,7 @@ title: "North Carolina Mental Health & Substance Use Services Workforce Data Sna
 date: 2026-03-23
 author: 'Brianna Lombardi, Jennifer Headley'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'social work, workforce'
