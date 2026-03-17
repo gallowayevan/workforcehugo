@@ -5,7 +5,7 @@ author: 'Brianna Lombardi, Jennifer Headley'
 draft: false
 unlisted: true
 teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
-teaserImage: 
+teaserImage: SWSnapshot_teaser.jpg
 keywords: 'social work, workforce'
 ---
 
