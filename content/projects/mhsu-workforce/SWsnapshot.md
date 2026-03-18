@@ -67,6 +67,6 @@ keywords: 'social work, workforce'
 }
 </style>
 
-{{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src= "static/images/posts/MHSU_report/SWsnapshot_pie1.jpg" >}}
+{{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.jpg" >}}
 
-{{< img title="**Licensed Social Workers per 10,000 Population by County, North Carolina, 2024**" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src= "static/images/posts/MHSU_report/SWsnapshot_map.png" >}}
+{{< img title="**Licensed Social Workers per 10,000 Population by County, North Carolina, 2024**" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src="/images/posts/MHSU_report/SWsnapshot_map.png" >}}
