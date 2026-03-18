@@ -13,7 +13,7 @@ keywords: 'social work, workforce'
 <a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
 
-<h2 class="title is-3">Licensed Clinical Social Workers &amp; Associates</h2>
+ # Licensed Clinical Social Workers &amp; Associates
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
@@ -36,26 +36,32 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-<div class="columns mt-5">
-
-  <div class="column is-one-half">
-    <div class="custom-stat-box">
-      The average rate for social workers in‑state was
-      <strong class="highlight">12.7 per 10,000 population.</strong>
-    </div>
-
-    <div class="custom-stat-box">
-      Social workers were <strong class="highlight">45.3%</strong> of the entire
-      graduate‑level clinician workforce across North Carolina.<br>
-      <strong class="highlight">LCSW:</strong> 31.9%<br>
-      <strong class="highlight">LCSWA:</strong> 13.4%
-    </div>
-  </div>
-
-  <div class="column is-one-half">
-    <figure class="image">
-        /images/posts/MHSU_report/SWsnapshot_pie1.jpg
-    </figure>
-  </div>
-
+<div class="custom-stat-box">
+  The average rate for social workers in‑state was
+  <strong class="highlight">12.7 per 10,000 population.</strong>
 </div>
+
+<div class="custom-stat-box">
+  Social workers were <strong class="highlight">45.3%</strong> of the entire
+  graduate‑level clinician workforce across North Carolina.<br>
+  <strong class="highlight">LCSW:</strong> 31.9%<br>
+  <strong class="highlight">LCSWA:</strong> 13.4%
+</div>
+
+
+<style>
+.custom-stat-box {
+  border: 2px solid #1A294B;   
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 1rem;
+  max-width: 350px;
+  background-color: #E8E8EB;
+  font-size: 0.95rem;
+}
+
+.custom-stat-box .highlight {
+  color: #C62881;
+  font-weight: 700;
+}
+</style>
