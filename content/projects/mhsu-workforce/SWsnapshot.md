@@ -13,8 +13,7 @@ keywords: 'social work, workforce'
 <a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
 
-# Licensed Clinical Social Workers & Associates 
-
+<h2 class="title is-3">Licensed Clinical Social Workers &amp; Associates</h2>
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
