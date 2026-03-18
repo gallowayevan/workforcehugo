@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024"
+title: "North Carolina Social Work Data Snapshot 2024"
 date: 2026-03-18
 author: 'Brianna Lombardi, Jennifer Headley'
 draft: false
@@ -8,7 +8,8 @@ teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'social work, workforce'
 ---
-
+<h1 Licensed Clinical Social Workers & Associates >h1
+  
 <div class="buttons">
 <a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
@@ -54,7 +55,7 @@ keywords: 'social work, workforce'
   padding: 12px 14px;
   margin-bottom: 1rem;
   max-width: 350px;
-  background-color: #ffffff;
+  background-color: #E8E8EB;
   font-size: 0.95rem;
 }
 
