@@ -13,24 +13,25 @@ keywords: 'social work, workforce'
 <a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
 
- # Licensed Clinical Social Workers &amp; Associates
+ # Licensed Clinical Social Workers & Associates
+
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
 <div class="box" style="border: 6px solid #EA7E35; background-color: #E8E8EB;">
-<h2 class="title is-2">13,945</h2>
+<h2 class="title is-3">13,945</h2>
 <p class="mb-3"><strong>Total Licensed Social Workers</strong> Active practice</p>
 </div>
 </div>
 <div class="column is-one-third">
 <div class="box" style="border: 6px solid #C62881; background-color: #E8E8EB;">
-<h2 class="title is-2">9,830</h2>
+<h2 class="title is-3">9,830</h2>
 <p class="mb-3"><strong>LCSWs</strong> Licensed Clinical Social Workers</p>
 </div>
 </div>
 <div class="column is-one-third">
 <div class="box" style="border: 6px solid #639BD2; background-color: #E8E8EB;">
-<h2 class="title is-2">4,115</h2>
+<h2 class="title is-3">4,115</h2>
 <p class="mb-3"><strong>LCSWAs</strong> Licensed Clinical Social Worker Associates</p>
 </div>
 </div>
@@ -65,3 +66,7 @@ keywords: 'social work, workforce'
   font-weight: 700;
 }
 </style>
+
+{{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src= "static/images/posts/MHSU_report/SWsnapshot_pie1.jpg" >}}
+
+{{< img title="**Licensed Social Workers per 10,000 Population by County, North Carolina, 2024**" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src= "static/images/posts/MHSU_report/SWsnapshot_map.png" >}}
