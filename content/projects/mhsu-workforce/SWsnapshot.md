@@ -43,8 +43,8 @@ keywords: 'social work, workforce'
    
   Social workers were <strong class="highlight">45.3%</strong> of the entire
   graduate‑level clinician workforce across North Carolina.<br>
-  <strong class="highlight">LCSW:</strong> 31.9%<br>
-  <strong class="highlight">LCSWA:</strong> 13.4%
+  - <strong class="highlight">LCSW:</strong> 31.9%<br>
+  - <strong class="highlight">LCSWA:</strong> 13.4%
 </div>
 </div>
 <div class="column is-one-half">
