@@ -9,12 +9,11 @@ teaserImage: SWSnapshot_teaser.jpg
 keywords: 'social work, workforce'
 ---
   
+ # Licensed Clinical Social Workers & Associates
+
 <div class="buttons">
 <a class="button is-info" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf">Download the snapshot as a pdf.</a>
 </div>
-
- # Licensed Clinical Social Workers & Associates
-
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
@@ -78,7 +77,7 @@ keywords: 'social work, workforce'
 </div>
 
 <div class="custom-stat-box">
-  <h2 class="title is-3"><strong>Key Takeawaysv</strong></h2>
+  <h2 class="title is-3"><strong>Key Takeaways</strong></h2>
   
 - **Metro counties had nearly double the rate of LCSWs** vs nonmetro areas: 9.95 vs 4.98 per 10k.
 - The **state average was 12.7 social workers** per 10,000 population, with wide variability across counties.
