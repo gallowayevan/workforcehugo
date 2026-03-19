@@ -87,24 +87,18 @@ keywords: 'social work, workforce'
 
 <div class="custom-stat-box">
   <h2 class="title is-3"><strong>Key Takeaways</strong></h2>
-  
-<ul>
-  <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.98 per 10k.</li>
 
-  <li>The <strong>state average was 12.7 social workers</strong> per 10,000 population, with wide variability across counties.</li>
+  <ul>
+    <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.98 per 10k.</li>
+    <li>The <strong>state average was 12.7 social workers</strong> per 10,000 population, with wide variability across counties.</li>
+    <li><strong>Two counties had a rate of 0 social workers</strong> per 10,000 population.</li>
+    <li><strong>Two counties had rates higher than 31 social workers</strong> per 10,000 population.</li>
+    <li>There were <strong>2:1 LCSWs to LCSWAs</strong> in North Carolina.</li>
+  </ul>
 
-  <li><strong>Two counties had a rate of 0 social workers</strong> per 10,000 population.</li>
-
-  <li><strong>Two counties had rates higher than 31 social workers</strong> per 10,000 population.</li>
-
-  <li>
-    There were <strong>2:1 LCSWs to LCSWAs</strong> in North Carolina.
-    <ul>
-      <li><strong>LCSW:</strong> 31.9%</li>
-      <li><strong>LCSWA:</strong> 13.4%</li>
-    </ul>
-  </li>
-</ul>
+  <strong class="highlight">LCSW:</strong> 31.9%<br>
+  <strong class="highlight">LCSWA:</strong> 13.4%
+</div>
 
 <style>
 .custom-stat-box {
