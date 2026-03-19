@@ -39,12 +39,19 @@ keywords: 'social work, workforce'
 <div class="columns is-multiline">
 <div class="column is-one-half">
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
-<p class="mb-3">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.
-   
+<p class="mb-3">
+  The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.
+</p>
+<p>
   Social workers were <strong class="highlight">45.3%</strong> of the entire
-  graduate‑level clinician workforce across North Carolina.<br>
-  - <strong class="highlight">LCSW:</strong> 31.9%<br>
-  - <strong class="highlight">LCSWA:</strong> 13.4%
+  graduate‑level clinician workforce across North Carolina.
+</p>
+  
+<ul>
+  <li><strong class="highlight">LCSW:</strong> 31.9%</li>
+  <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
+</ul>
+      
 </div>
 </div>
 <div class="column is-one-half">
@@ -67,11 +74,13 @@ keywords: 'social work, workforce'
 <div class="column is-one-half">
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
 <h2 class="title is-3">Years in Practice: LCSWs</h2>
-<p class="mb-3">
-  - Average number of years: <strong>9.7</strong>
-  - Deviation from the average (SD): <strong>8.6 years</strong>
-  - Minimum/Maximum years in Practice (Range): <strong>0 - 38</strong>
-  - <strong>63% licensed 10 years or less</strong>
+  <ul>
+    <li>Average number of years: <strong>9.7</strong></li>
+    <li>Deviation from the average (SD): <strong>8.6 years</strong></li>
+    <li>Minimum/Maximum years in Practice (Range): <strong>0 – 38</strong></li>
+    <li><strong>63% licensed 10 years or less</strong></li>
+  </ul>
+      
 </div>
 </div>
 </div>
@@ -79,12 +88,14 @@ keywords: 'social work, workforce'
 <div class="custom-stat-box">
   <h2 class="title is-3"><strong>Key Takeaways</strong></h2>
   
-- **Metro counties had nearly double the rate of LCSWs** vs nonmetro areas: 9.95 vs 4.98 per 10k.
-- The **state average was 12.7 social workers** per 10,000 population, with wide variability across counties.
-  - **Two counties had a rate of 0 social workers** per 10,000 population.
-  - **Two counties had rates higher than 31 social workers** per 10,000 population. 
-- There were **2:1 LCSWs to LCSWAs** in North Carolina.
-  
+<ul>
+    <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.98 per 10k.</li>
+    <li>The <strong>state average was 12.7 social workers</strong> per 10,000 population, with wide variability across counties.</li>
+    <li><strong>Two counties had a rate of 0 social workers</strong> per 10,000 population.</li>
+    <li><strong>Two counties had rates higher than 31 social workers</strong> per 10,000 population.</li>
+    <li>There were <strong>2:1 LCSWs to LCSWAs</strong> in North Carolina.</li>
+  </ul>
+
   <strong class="highlight">LCSW:</strong> 31.9%<br>
   <strong class="highlight">LCSWA:</strong> 13.4%
 </div>
