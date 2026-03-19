@@ -37,6 +37,21 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
+<div class="columns is-multiline">
+<div class="column is-one-half">
+<div class="box" style="border: 6px solid #EA7E35; background-color: #E8E8EB;">
+<h2 class="title is-3">13,945</h2>
+<p class="mb-3"><strong>Total Licensed Social Workers</strong> Active practice</p>
+</div>
+</div>
+<div class="column is-one-half">
+<div class="box" style="border: 6px solid #C62881; background-color: #E8E8EB;">
+<h2 class="title is-3">9,830</h2>
+<p class="mb-3"><strong>LCSWs</strong> Licensed Clinical Social Workers</p>
+</div>
+</div>
+</div>
+
 <div class="custom-stat-box">
   The average rate for social workers in‑state was
   <strong class="highlight">12.7 per 10,000 population.</strong>
@@ -74,3 +89,34 @@ keywords: 'social work, workforce'
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
 {{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
+
+<div class="custom-stat-box">
+  <h2 class="title is-3">KEY TAKEAWAYS</h2>
+  
+- **Metro counties had nearly double the rate of LCSWs** vs nonmetro areas: 9.95 vs 4.98 per 10k.
+- The **state average was 12.7 social workers** per 10,000 population, with wide variability across counties.
+  - **Two counties had a rate of 0 social workers** per 10,000 population.
+  - **Two counties had rates higher than 31 social workers** per 10,000 population. 
+- There were **2:1 LCSWs to LCSWAs** in North Carolina.
+  
+  <strong class="highlight">LCSW:</strong> 31.9%<br>
+  <strong class="highlight">LCSWA:</strong> 13.4%
+</div>
+
+
+<style>
+.custom-stat-box {
+  border: 2px solid #1A294B;   
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 1rem;
+  width: 100%;
+  background-color: #E8E8EB;
+  font-size: 0.95rem;
+}
+
+.custom-stat-box .highlight {
+  color: #C62881;
+  font-weight: 700;
+}
+</style>
