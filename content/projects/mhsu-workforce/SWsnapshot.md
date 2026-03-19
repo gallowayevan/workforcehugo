@@ -37,49 +37,19 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-
-<div class="custom-stat-box">
-  The average rate for social workers in‑state was
-  <strong class="highlight">12.7 per 10,000 population.</strong>
-</div>
-
-<div class="custom-stat-box">
+<div class="columns is-multiline">
+<div class="column is-one-half">
+<div class="box" style="border: 6px solid #1A294B; background-color: #E8E8EB;">
+<p class="mb-3">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.
+   
   Social workers were <strong class="highlight">45.3%</strong> of the entire
   graduate‑level clinician workforce across North Carolina.<br>
   <strong class="highlight">LCSW:</strong> 31.9%<br>
   <strong class="highlight">LCSWA:</strong> 13.4%
 </div>
-
-
-<style>
-.custom-stat-box {
-  border: 2px solid #1A294B;   
-  border-radius: 10px;
-  padding: 12px 14px;
-  margin-bottom: 1rem;
-  max-width: 350px;
-  background-color: #E8E8EB;
-  font-size: 0.95rem;
-}
-
-.custom-stat-box .highlight {
-  color: #C62881;
-  font-weight: 700;
-}
-</style>
-
-<div class="columns is-multiline">
-<div class="column is-one-half">
-<div class="box" style="border: 6px solid #1A294B; background-color: #E8E8EB;">
-<p class="mb-3">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.
-   Social workers were <strong class="highlight">45.3%</strong> of the entire
-  graduate‑level clinician workforce across North Carolina.<br>
-  <strong class="highlight">LCSW:</strong> 31.9%<br>
-  <strong class="highlight">LCSWA:</strong> 13.4%
-</div>
 </div>
 <div class="column is-one-half">
-<div class="image" style="border: 6px solid #C62881; background-color: #E8E8EB;">
+<div class="image" style="border: 0px; background-color: #E8E8EB;">
 {{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.jpg" resize="250x" >}}
 </div>
 </div>
@@ -91,20 +61,21 @@ keywords: 'social work, workforce'
 
 <div class="columns is-multiline">
 <div class="column is-one-half">
-<div class="box" style="border: 6px solid #EA7E35; background-color: #E8E8EB;">
-<h2 class="title is-3">13,945</h2>
-<p class="mb-3"><strong>Total Licensed Social Workers</strong> Active practice</p>
+<div class="image" style="border: 0px; background-color: #E8E8EB;">
+{{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 </div>
 </div>
 <div class="column is-one-half">
-<div class="box" style="border: 6px solid #C62881; background-color: #E8E8EB;">
-<h2 class="title is-3">9,830</h2>
-<p class="mb-3"><strong>LCSWs</strong> Licensed Clinical Social Workers</p>
+<div class="box" style="border: 6px solid #1A294B; background-color: #E8E8EB;">
+<h2 class="title is-3">Years in Practice: LCSWs</h2>
+<p class="mb-3">
+  - Average number of years: <strong>9.7</strong>
+  - Deviation from the average (SD): <strong>8.6 years</strong>
+  - Minimum/Maximum years in Practice (Range): <strong>0 - 38</strong>
+  - <strong>63% licensed 10 years or less</strong>
 </div>
 </div>
 </div>
-
-{{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 
 <div class="custom-stat-box">
   <h2 class="title is-3">KEY TAKEAWAYS</h2>
