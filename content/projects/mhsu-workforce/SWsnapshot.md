@@ -39,7 +39,7 @@ keywords: 'social work, workforce'
 
 <div class="columns is-multiline">
 <div class="column is-one-half">
-<div class="box" style="border: 6px solid #1A294B; background-color: #E8E8EB;">
+<div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
 <p class="mb-3">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.
    
   Social workers were <strong class="highlight">45.3%</strong> of the entire
@@ -49,7 +49,7 @@ keywords: 'social work, workforce'
 </div>
 </div>
 <div class="column is-one-half">
-<div class="image" style="border: 0px; background-color: #E8E8EB;">
+<div class="image" style="border: 0px; background-color: #FFFFFF;">
 {{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.jpg" resize="250x" >}}
 </div>
 </div>
@@ -61,12 +61,12 @@ keywords: 'social work, workforce'
 
 <div class="columns is-multiline">
 <div class="column is-one-half">
-<div class="image" style="border: 0px; background-color: #E8E8EB;">
+<div class="image" style="border: 0px; background-color: #FFFFFF;">
 {{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 </div>
 </div>
 <div class="column is-one-half">
-<div class="box" style="border: 6px solid #1A294B; background-color: #E8E8EB;">
+<div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
 <h2 class="title is-3">Years in Practice: LCSWs</h2>
 <p class="mb-3">
   - Average number of years: <strong>9.7</strong>
@@ -78,7 +78,7 @@ keywords: 'social work, workforce'
 </div>
 
 <div class="custom-stat-box">
-  <h2 class="title is-3">KEY TAKEAWAYS</h2>
+  <h2 class="title is-3"><strong>Key Takeawaysv</strong></h2>
   
 - **Metro counties had nearly double the rate of LCSWs** vs nonmetro areas: 9.95 vs 4.98 per 10k.
 - The **state average was 12.7 social workers** per 10,000 population, with wide variability across counties.
