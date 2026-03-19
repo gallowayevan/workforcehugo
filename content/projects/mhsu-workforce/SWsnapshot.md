@@ -37,20 +37,6 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-<div class="columns is-multiline">
-<div class="column is-one-half">
-<div class="box" style="border: 6px solid #EA7E35; background-color: #E8E8EB;">
-<h2 class="title is-3">13,945</h2>
-<p class="mb-3"><strong>Total Licensed Social Workers</strong> Active practice</p>
-</div>
-</div>
-<div class="column is-one-half">
-<div class="box" style="border: 6px solid #C62881; background-color: #E8E8EB;">
-<h2 class="title is-3">9,830</h2>
-<p class="mb-3"><strong>LCSWs</strong> Licensed Clinical Social Workers</p>
-</div>
-</div>
-</div>
 
 <div class="custom-stat-box">
   The average rate for social workers in‑state was
@@ -82,11 +68,41 @@ keywords: 'social work, workforce'
 }
 </style>
 
+<div class="columns is-multiline">
+<div class="column is-one-half">
+<div class="box" style="border: 6px solid #1A294B; background-color: #E8E8EB;">
+<p class="mb-3">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.
+   Social workers were <strong class="highlight">45.3%</strong> of the entire
+  graduate‑level clinician workforce across North Carolina.<br>
+  <strong class="highlight">LCSW:</strong> 31.9%<br>
+  <strong class="highlight">LCSWA:</strong> 13.4%
+</div>
+</div>
+<div class="column is-one-half">
+<div class="image" style="border: 6px solid #C62881; background-color: #E8E8EB;">
 {{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.jpg" resize="250x" >}}
+</div>
+</div>
+</div>
 
 {{< img title="**Licensed Social Workers per 10,000 Population by County, North Carolina, 2024**" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src="/images/posts/MHSU_report/SWsnapshot_map.png" >}}
 
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
+
+<div class="columns is-multiline">
+<div class="column is-one-half">
+<div class="box" style="border: 6px solid #EA7E35; background-color: #E8E8EB;">
+<h2 class="title is-3">13,945</h2>
+<p class="mb-3"><strong>Total Licensed Social Workers</strong> Active practice</p>
+</div>
+</div>
+<div class="column is-one-half">
+<div class="box" style="border: 6px solid #C62881; background-color: #E8E8EB;">
+<h2 class="title is-3">9,830</h2>
+<p class="mb-3"><strong>LCSWs</strong> Licensed Clinical Social Workers</p>
+</div>
+</div>
+</div>
 
 {{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 
@@ -110,7 +126,7 @@ keywords: 'social work, workforce'
   border-radius: 10px;
   padding: 12px 14px;
   margin-bottom: 1rem;
-  width: 100%;
+  max-width: 900px;
   background-color: #E8E8EB;
   font-size: 0.95rem;
 }
