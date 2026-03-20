@@ -49,11 +49,11 @@ keywords: 'social work, workforce'
 <div class="columns is-multiline">
 <div class="column is-one-half">
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
-<p class="mb-3 is-size-5">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.</p>
-<p class="is-size-5">Social workers were <strong class="highlight">45.3%</strong> of the entire graduate‑level clinician workforce across North Carolina.</p>
+<p class="mb-3 is-size-5">The average rate for social workers in-state was <strong style="color:#C62881;">12.7 per 10,000</strong> population.</p>
+<p class="is-size-5">Social workers were <strong style="color:#C62881;">45.3%</strong> of the entire graduate‑level clinician workforce across North Carolina.</p>
 <ul class="is-size-5">
-  <li><strong class="highlight">LCSW:</strong> 31.9%</li>
-  <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
+  <li><strong style="color:#C62881;">LCSW:</strong> 31.9%</li>
+  <li><strong style="color:#C62881;">LCSWA:</strong> 13.4%</li>
 </ul>
       
 </div>
@@ -77,8 +77,7 @@ keywords: 'social work, workforce'
 {{< img
     title=""
     alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges"
-    src="/images/posts/MHSU_report/SWsnapshot_map.png"
->}}
+    src="/images/posts/MHSU_report/SWsnapshot_map.png">}}
 
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
