@@ -47,32 +47,22 @@ keywords: 'social work, workforce'
 </div>
 
 <div class="columns is-multiline">
-
-  <div class="column is-one-half">
-    <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
-      <p class="mb-3 is-size-5">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.</p>
-      <p class="is-size-5">Social workers were <strong class="highlight">45.3%</strong> of the entire graduate‑level clinician workforce across North Carolina.</p>
-      <ul class="is-size-5">
-        <li><strong class="highlight">LCSW:</strong> 31.9%</li>
-        <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="column is-one-half">
-    <h2 class="title is-size-5 mb-3">
-      North Carolina Graduate-level Clinician Workforce by Profession Type, 2024
-    </h2>
-
-    <div class="image" style="border: 0px; background-color: #FFFFFF;">
-      {{< img 
-          title="" 
-          alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" 
-          src="/images/posts/MHSU_report/SWsnapshot_pie1.png" 
-      >}}
-    </div>
-  </div>
-
+<div class="column is-one-half">
+<div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
+<p class="mb-3 is-size-5">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.</p>
+<p class="is-size-5">Social workers were <strong class="highlight">45.3%</strong> of the entire graduate‑level clinician workforce across North Carolina.</p>
+<ul class="is-size-5">
+  <li><strong class="highlight">LCSW:</strong> 31.9%</li>
+  <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
+</ul>
+      
+</div>
+</div>
+<div class="column is-one-half">
+<div class="image" style="border: 0px; background-color: #FFFFFF;">
+{{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.png" >}}
+</div>
+</div>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
