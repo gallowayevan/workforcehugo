@@ -64,7 +64,7 @@ keywords: 'social work, workforce'
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
-<h2 class="title is-3">Demographics</h2>
+<h2 class="title is-3" style="border: 2px solid #EA7E35; background-color: #E8E8EB;">>Demographics</h2>
 <div class="image" style="border: 0px; background-color: #FFFFFF;">
 {{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 </div>
