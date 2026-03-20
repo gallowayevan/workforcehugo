@@ -96,10 +96,10 @@ keywords: 'social work, workforce'
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
 <h2 class="title is-3">Years in Practice: LCSWs</h2>
   <ul class="is-size-5">
-    <li>Average number of years: <strong>9.7</strong></li>
-    <li>Deviation from the average (SD): <strong>8.6 years</strong></li>
-    <li>Minimum/Maximum years in Practice (Range): <strong>0 – 38</strong></li>
-    <li><strong>63% licensed 10 years or less</strong></li>
+    <li>Average number of years: <strong style="color:#C62881;">9.7</strong></li>
+    <li>Deviation from the average (SD): <strong style="color:#C62881;">8.6 years</strong></li>
+    <li>Minimum/Maximum years in Practice (Range): <strong style="color:#C62881;">0 – 38</strong></li>
+    <li><strong style="color:#C62881;">63% licensed 10 years or less</strong></li>
   </ul>
       
 </div>
