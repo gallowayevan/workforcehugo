@@ -129,8 +129,6 @@ keywords: 'social work, workforce'
     <li><strong>Two counties had a rate of 0 social workers</strong> per 10,000 population.</li>
     <li><strong>Two counties had rates higher than 31 social workers</strong> per 10,000 population.</li>
     <li>There were <strong>2:1 LCSWs to LCSWAs</strong> in North Carolina.</li>
-     <li><strong class="highlight">LCSW:</strong> 31.9%</li>
-     <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
   </ul>
 
 </div>
@@ -145,10 +143,9 @@ keywords: 'social work, workforce'
   background-color: #E8E8EB;
   font-size: 0.95rem;
 }
-
-.custom-stat-box .highlight {
-  color: #C62881;
-  font-weight: 700;
+  
+.custom-stat-box strong {
+  color: #D62680;  /* change this to any HEX color */
 }
 </style>
 
