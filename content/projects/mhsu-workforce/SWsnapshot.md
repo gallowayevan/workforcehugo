@@ -39,21 +39,14 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-<style>
-  .custom-stat-box .highlight {
-  color: #C62881;
-  font-weight: 700;
-}
-</style>
-
 <div class="columns is-multiline">
 <div class="column is-one-half">
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
-<p class="mb-3 is-size-5"><strong class="highlight">The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.</p>
-<p class="is-size-5"><strong class="highlight">Social workers were <strong class="highlight">45.3%</strong> of the entire graduate‑level clinician workforce across North Carolina.</p>
+<p class="mb-3 is-size-5"><strong>The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.</p>
+<p class="is-size-5"><strong>Social workers were <strong class="highlight">45.3%</strong> of the entire graduate‑level clinician workforce across North Carolina.</p>
 <ul class="is-size-5">
-  <li><strong class="highlight">LCSW:</strong> 31.9%</li>
-  <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
+  <li><strong>LCSW:</strong> 31.9%</li>
+  <li><strong>LCSWA:</strong> 13.4%</li>
 </ul>
       
 </div>
@@ -109,7 +102,7 @@ keywords: 'social work, workforce'
 <div class="custom-stat-box">
   <h2 class="title is-3"><strong>Key Takeaways</strong></h2>
 
-  <ul class="is-size-5"><strong class="highlight">
+  <ul class="is-size-5">
     <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.98 per 10k.</li>
     <li>The <strong>state average was 12.7 social workers</strong> per 10,000 population, with wide variability across counties.</li>
     <li><strong>Two counties had a rate of 0 social workers</strong> per 10,000 population.</li>
@@ -129,6 +122,12 @@ keywords: 'social work, workforce'
   background-color: #E8E8EB;
   font-size: 0.95rem;
 }
+
+  .custom-stat-box .highlight {
+  color: #C62881;
+  font-weight: 700;
+}
+
 </style>
 
 
