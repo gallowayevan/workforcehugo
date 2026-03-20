@@ -39,7 +39,7 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-<div class="columns is-multiline">
+<div class="columns">
 <div class="column is-one-half">
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
 <p class="mb-3 is-size-5"><strong>The average rate for social workers in-state was <strong>12.7 per 10,000</strong> population.</p>
