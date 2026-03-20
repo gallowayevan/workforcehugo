@@ -1,5 +1,6 @@
 ---
 title: "North Carolina Social Work Data Snapshot 2024"
+authors: Brianna Lombardi, Jennifer Headley
 date: 2026-03-18
 draft: false
 unlisted: true
@@ -87,7 +88,7 @@ keywords: 'social work, workforce'
 
 <div class="columns is-multiline">
 <div class="column is-one-half">
-<div class="box" style="border: 0px solid; background-color: #FFFFFF;">
+<div class="text" >
 <p class="mb-3"><strong>85.6% of social workers identified as female in 2024</strong>
 </p>
 <p>
