@@ -18,7 +18,7 @@ keywords: 'social work, workforce'
 
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: #639BD2; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
   <h2 class="title is-3" style="margin: 0;">Supply</h2>
 </div>
 
@@ -66,7 +66,7 @@ keywords: 'social work, workforce'
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: #639BD2; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
   <h2 class="title is-3" style="margin: 0;">Distribution</h2>
 </div>
 
