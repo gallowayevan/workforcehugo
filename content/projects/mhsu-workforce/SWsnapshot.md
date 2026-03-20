@@ -39,7 +39,8 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-.custom-stat-box .highlight {
+<style>
+  .custom-stat-box .highlight {
   color: #C62881;
   font-weight: 700;
 }
@@ -128,6 +129,7 @@ keywords: 'social work, workforce'
   background-color: #E8E8EB;
   font-size: 0.95rem;
 }
+</style>
 
 
 <div class="message">
