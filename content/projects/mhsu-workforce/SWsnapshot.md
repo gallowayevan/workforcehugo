@@ -18,7 +18,7 @@ keywords: 'social work, workforce'
 
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+<div style="background-color: #D8E5F3; padding: 0.5rem 1rem; margin-bottom: 1rem;">
   <h2 class="title is-3" style="margin: 0;">Supply</h2>
 </div>
 
@@ -66,7 +66,7 @@ keywords: 'social work, workforce'
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+<div style="background-color: #D8E5F3; padding: 0.5rem 1rem; margin-bottom: 1rem;">
   <h2 class="title is-3" style="margin: 0;">Distribution</h2>
 </div>
 
@@ -75,7 +75,7 @@ keywords: 'social work, workforce'
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+<div style="background-color: #D8E5F3; padding: 0.5rem 1rem; margin-bottom: 1rem;">
   <h2 class="title is-3" style="margin: 0;">Demographics</h2>
 </div>
 
@@ -110,7 +110,7 @@ keywords: 'social work, workforce'
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+<div style="background-color: #D8E5F3; padding: 0.5rem 1rem; margin-bottom: 1rem;">
   <h2 class="title is-3" style="margin: 0;">Key Takeaways</h2>
 </div>
 
