@@ -94,7 +94,9 @@ keywords: 'social work, workforce'
 <p>
   <small>Source: NPPES data</small>
 </p>
-
+</div>
+</div>
+</div>
   
 <div class="custom-stat-box">
   <h2 class="title is-3"><strong>Key Takeaways</strong></h2>
