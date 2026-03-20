@@ -55,9 +55,16 @@ keywords: 'social work, workforce'
   <li><strong class="highlight">LCSW:</strong> 31.9%</li>
   <li><strong class="highlight">LCSWA:</strong> 13.4%</li>
 </ul>
-      
+  
 </div>
 </div>
+
+ <div class="column is-one-half">
+    <!-- Add title ABOVE the image as Bulma style is-size-5 -->
+    <h2 class="title is-size-5 mb-3">
+      North Carolina Graduate-level Clinician Workforce by Profession Type, 2024
+    </h2>
+
 <div class="column is-one-half">
 <div class="image" style="border: 0px; background-color: #FFFFFF;">
 {{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.png" >}}
