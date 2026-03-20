@@ -1,7 +1,5 @@
 ---
 title: "North Carolina Social Work Data Snapshot 2024"
-authors: Brianna Lombardi, Jennifer Headley
-date: 2026-03-18
 draft: false
 unlisted: true
 teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
