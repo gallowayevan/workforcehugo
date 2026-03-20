@@ -16,8 +16,8 @@ keywords: 'social work, workforce'
 
  ## Licensed Clinical Social Workers & Associates
 
- ### Supply
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### Supply
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
@@ -62,15 +62,15 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-### Distribution
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Distribution
 
 {{< img title="**Licensed Social Workers per 10,000 Population by County, North Carolina, 2024**" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src="/images/posts/MHSU_report/SWsnapshot_map.png" >}}
 
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
-### Demographics 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Demographics 
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
@@ -102,8 +102,8 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
-### Key Takeaways
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Key Takeaways
   
 <div class="custom-stat-box">
   <ul class="is-size-5">
@@ -136,7 +136,7 @@ keywords: 'social work, workforce'
 </style>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<small>**Note:** Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates."</small>
+<small>**Note:** Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates.</small>
 
 <div class="message">
 <div class="message-header">Funding & Acknowledgements</div>
