@@ -12,7 +12,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 </div>
 </div>
 
-<a class="button is-success is-rounded mb-5" href="/pdf/DMH Workforce Report_Mar1_2026_Updated.pdf">Download Full Report (PDF)</a>
+<a class="button is-success is-rounded mb-5" href="/pdf/DMH Workforce Report_Mar1_2026_Updated.pdf" style="background-color:#1A294B; color:white;">Download Full Report (PDF)</a>
 
 <style>
 @media screen and (min-width: 769px) {
