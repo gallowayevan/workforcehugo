@@ -56,7 +56,7 @@ keywords: 'social work, workforce'
 </div>
 <div class="column is-one-half">
 <div class="image" style="border: 0px; background-color: #FFFFFF;">
-{{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.jpg" resize="250x" >}}
+{{< img title="**North Carolina Graduate-level Clinician Workforce by Profession Type, 2024**" alt="Pie chart the percent makeup of the graduate-level clinician workforce by profession type" src="/images/posts/MHSU_report/SWsnapshot_pie1.jpg" caption="**Note.** LP - Licensed Psychologist, LPA = Licensed Psychological Associate, LMFT = Licensed Marriage & Family Therapist, LMFTA = Licensed Marriage & Family Therapist Associate, PC = Pastoral Counselor, LCMHC = Licensed Clinical Mental Health Counselor, LCMHCA = Licensed Clinical Mental Health Counselor Associate." >}}
 </div>
 </div>
 </div>
@@ -67,6 +67,7 @@ keywords: 'social work, workforce'
 
 <div class="columns is-multiline">
 <div class="column is-one-half">
+<h2 class="title is-3">Demographics</h2>
 <div class="image" style="border: 0px; background-color: #FFFFFF;">
 {{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 </div>
@@ -85,6 +86,16 @@ keywords: 'social work, workforce'
 </div>
 </div>
 
+<div class="columns is-multiline">
+<div class="column is-one-half">
+<div class="box" style="border: 0px solid; background-color: #FFFFFF;">
+<p class="mb-3"><strong>85.6% of social workers identified as female in 2024</strong>
+</p>
+<p>
+  <small>Source: NPPES data</small>
+</p>
+
+  
 <div class="custom-stat-box">
   <h2 class="title is-3"><strong>Key Takeaways</strong></h2>
 
@@ -116,3 +127,10 @@ keywords: 'social work, workforce'
   font-weight: 700;
 }
 </style>
+
+<div class="message">
+<div class="message-header">Funding & Acknowledgements</div>
+<div class="message-body">
+This project was supported by the North Carolina Division of Mental Health, Developmental Disabilities and Substance Use Services (DMHDDSUS). The information, content and conclusions are those of the authors and should not be construed as the official position or policy of, nor should any endorsements be inferred by DMHDDSUS.
+</div>
+</div>
