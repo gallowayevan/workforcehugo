@@ -66,13 +66,13 @@ keywords: 'social work, workforce'
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
 <div class="columns is-multiline">
-<div class="column is-one-half">
+<div class="column is-one-third">
 <h2 class="title is-3">Demographics</h2>
 <div class="image" style="border: 0px; background-color: #FFFFFF;">
 {{< img title="**North Carolina Social Workers by Sex, 2024**" alt="Pie chart displaying the proportion of the North Carolina Social Workers who are male and female in 2024. 85.6% of social workers identified as female in 2024." src="/images/posts/MHSU_report/SWsnapshot_pie2.jpg" resize="250x" >}}
 </div>
 </div>
-<div class="column is-one-half">
+<div class="column is-two-thirds">
 <div class="box" style="border: 2px solid #1A294B; background-color: #E8E8EB;">
 <h2 class="title is-3">Years in Practice: LCSWs</h2>
   <ul>
