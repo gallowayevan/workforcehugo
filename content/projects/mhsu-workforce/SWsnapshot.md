@@ -135,7 +135,8 @@ keywords: 'social work, workforce'
 }
 </style>
 
-<small>Data for Social Workers by Sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates."</small>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<small>**Note:** Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates."</small>
 
 <div class="message">
 <div class="message-header">Funding & Acknowledgements</div>
