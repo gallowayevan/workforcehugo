@@ -16,8 +16,11 @@ keywords: 'social work, workforce'
 
  ## Licensed Clinical Social Workers & Associates
 
+
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ### Supply
+<div style="background-color: #E8E8EB; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+  <h2 class="title is-3" style="margin: 0;">Supply</h2>
+</div>
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
