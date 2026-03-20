@@ -66,7 +66,9 @@ keywords: 'social work, workforce'
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Distribution
+<div style="background-color: #E8E8EB; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+  <h2 class="title is-4" style="margin: 0;">Distribution</h2>
+</div>
 
 {{< img title="**Licensed Social Workers per 10,000 Population by County, North Carolina, 2024**" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src="/images/posts/MHSU_report/SWsnapshot_map.png" >}}
 
