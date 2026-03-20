@@ -75,7 +75,9 @@ keywords: 'social work, workforce'
 {{< img title="**Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024**" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Demographics 
+<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+  <h2 class="title is-3" style="margin: 0;">Demographics</h2>
+</div>
 
 <div class="columns is-multiline">
 <div class="column is-one-third">
@@ -108,8 +110,10 @@ keywords: 'social work, workforce'
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Key Takeaways
-  
+<div style="background-color: #A9C7E5; padding: 0.5rem 1rem; margin-bottom: 1rem;">
+  <h2 class="title is-3" style="margin: 0;">Key Takeaways</h2>
+</div>
+
 <div class="custom-stat-box">
   <ul class="is-size-5">
     <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.98 per 10k.</li>
