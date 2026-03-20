@@ -19,19 +19,25 @@ keywords: 'social work, workforce'
 <div class="column is-one-third">
 <div class="box" style="border: 4px solid #EA7E35; background-color: #E8E8EB;">
 <h2 class="title is-3">13,945</h2>
-<p class="mb-3 is-size-5"><strong>Total Licensed Social Workers</strong> Active practice</p>
+<p class="mb-3 is-size-5"><strong>Total Licensed Social Workers</strong> 
+</p>
+<p>Active practice</p>
 </div>
 </div>
 <div class="column is-one-third">
 <div class="box" style="border: 4px solid #C62881; background-color: #E8E8EB;">
 <h2 class="title is-3">9,830</h2>
-<p class="mb-3 is-size-5"><strong>LCSWs</strong> Licensed Clinical Social Workers</p>
+<p class="mb-3 is-size-5"><strong>LCSWs</strong> 
+</p>
+<p>Licensed Clinical Social Workers</p>
 </div>
 </div>
 <div class="column is-one-third">
 <div class="box" style="border: 4px solid #639BD2; background-color: #E8E8EB;">
 <h2 class="title is-3">4,115</h2>
-<p class="mb-3 is-size-5"><strong>LCSWAs</strong> Licensed Clinical Social Worker Associates</p>
+<p class="mb-3 is-size-5"><strong>LCSWAs</strong>
+</p>
+<p>Licensed Clinical Social Worker Associates</p>
 </div>
 </div>
 </div>
