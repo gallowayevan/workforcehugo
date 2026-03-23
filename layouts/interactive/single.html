@@ -7,7 +7,7 @@
         <button class="button" id="download-image">Download Image</button>
         <button class="button" id="download-svg">Download SVG</button>
         {{ end }}
-        {{ partial "ahec.html" }}
+        {{ if not .Params.hideAhec }}{{ partial "ahec.html" }}{{ end }}
     </div>
 
 </section>
