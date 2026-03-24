@@ -24,6 +24,11 @@ hideAhec: true
   background-color: #E8E8EB;
 }
 .accent { color: #C62881; }
+/* article.content {
+  border: 3px solid #639BD2;
+  border-radius: 6px;
+  padding: 1.5rem;
+} */
 </style>
 
 <div class="buttons">

@@ -8,7 +8,7 @@
         <article class="content column is-8-desktop is-10-tablet is-12-mobile mx-auto">
 {{end}}
             <h1>{{.Title}}</h1>
-            <p class="has-text-grey mb-0">By {{.Params.author}}</p>
+            {{ with .Params.author }}<p class="has-text-grey mb-0">By {{.}}</p>{{ end }}
             <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
             {{.Content}}
             {{ if not .Params.hideAhec }}{{ partial "ahec.html" }}{{ end }}
