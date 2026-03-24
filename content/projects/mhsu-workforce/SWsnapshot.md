@@ -84,20 +84,10 @@ hideAhec: true
   <h2 class="title is-3">Distribution</h2>
 </div>
 
-<h2 class="title is-5 mb-4">
-  Licensed Social Workers per 10,000 Population by County, North Carolina, 2024
-</h2>
 
-{{< img
-    title=""
-    alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges"
-    src="/images/posts/MHSU_report/SWsnapshot_map.png">}}
+{{< img title="Licensed Social Workers per 10,000 Population by County, North Carolina, 2024" alt="County-level map of North Carolina showing the rate of licensed social workers per 10,000 population where the counties are shaded according to 7 categories of different rate ranges" src="/images/posts/MHSU_report/SWsnapshot_map.png">}}
 
- <h2 class="title is-5 mb-4">
-  Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024
-</h2>
-
-{{< img title="" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
+{{< img title="Social Workers in Metro and Nonmetro Counties by Licensure Type, 2024" alt="Bar chart displaying the proportion of the North Carolina Social Workers who practice in metro or nonmetropolitan counties by type - Licensed Clinician Social Workers and Licensed Clinician Social Worker Assistants. Figure displays that LCSWs make up 67% of Social workers in metropolitan counties and 61% of social workers in non-metropolitan counties" src="/images/posts/MHSU_report/SWsnapshot_barchart.png" >}}
 
 <hr>
 <div class="section-header">
@@ -141,7 +131,9 @@ hideAhec: true
 <hr>
 <small><strong>Note:</strong> Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates.</small>
 
+
 >**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Social Work (Licensed Clinical Social Workers & Associates). Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. March 25, 2026.
+
 
 <div class="message mt-4">
 <div class="message-header">Funding & Acknowledgements</div>
