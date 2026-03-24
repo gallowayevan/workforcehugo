@@ -7,7 +7,7 @@ teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'social work, workforce'
 hideAhec: true
-hideauthor: true
+hideAuthor: true
 ---
 
 <style>
