@@ -125,7 +125,7 @@ hideAhec: true
 
 <div class="box stat-box">
 <ul class="is-size-5">
-  <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.05 per 10k.</li>
+  <li><strong>Metro counties had nearly double the rate of LCSWs</strong> vs nonmetro areas: 9.95 vs 4.98 per 10k.</li>
   <li>The <strong>state average was 12.7 social workers</strong> per 10,000 population, with wide variability across counties.</li>
   <li><strong>Two counties had a rate of 0 social workers</strong> per 10,000 population.</li>
   <li><strong>Two counties had rates higher than 31 social workers</strong> per 10,000 population.</li>
@@ -134,7 +134,7 @@ hideAhec: true
 </div>
 
 <hr>
-<small><strong>Note:</strong> Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates. <a href="/mhsu-workforce/SWsnapshot_data.xlsx">Figure data can be found here</a> </small>
+<small><strong>Note:</strong> Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates. <a href="/data/SWsnapshot_data.xlsx">Figure data can be found here</a> </small>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
