@@ -1,13 +1,13 @@
 ---
 title: "North Carolina Social Work Data Snapshot 2024"
 date: 2026-03-18
+author:
 draft: false
 unlisted: true
 teaserText: "Data Snapshot: Licensed Clinical Social Workers & Associates"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'social work, workforce'
 hideAhec: true
-hideAuthor: true
 ---
 
 <style>
