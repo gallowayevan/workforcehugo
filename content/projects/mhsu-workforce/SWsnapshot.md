@@ -134,7 +134,7 @@ hideAhec: true
 </div>
 
 <hr>
-<small><strong>Note:</strong> Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates. [**Figure data can be found here**](/projects/mhsu-workforce/SWsnapshot_data.xlsx)</small>
+<small><strong>Note:</strong> Data for Social Workers by sex are from the National Plan and Provider Enumeration System (NPPES). All Other Graduate-Level Clinicians include: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage & Family Therapists, Licensed Marriage & Family Therapist Associates, Pastoral Counselors, Licensed Clinical Mental Health Counselors, and Licensed Clinical Mental Health Counselor Associates. [**Figure data can be found here**](/mhsu-workforce/SWsnapshot_data.xlsx)</small>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
