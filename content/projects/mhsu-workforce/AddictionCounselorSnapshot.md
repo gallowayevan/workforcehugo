@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Addiction Counselors"
-teaserImage: SWSnapshot_teaser.jpg
+teaserImage: Addiction-Counselors-teaser.jpg
 keywords: 'addiction counselor, workforce'
 hideAhec: true
 ---
