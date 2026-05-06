@@ -31,6 +31,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <ul>
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Social Workers</a></li>
   <li>Prescribers</li>
+  <ul>
     <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Physicians Specializing in Mental Health and Substance Use Services</a></li>
   
 </ul>
