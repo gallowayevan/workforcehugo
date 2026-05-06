@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Addiction Counselors 2024 Data Snapshot"
+title: "North Carolina Addiction Counselors Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -40,7 +40,7 @@ hideAhec: true
 Addiction counselors in North Carolina provide specialized treatment for individuals experiencing substance use disorders, including alcohol and drug misuse. The North Carolina Addictions Specialist Professional Practice Board maintains the licenses and certifications for six roles: Licensed Clinical Addiction Specialists (LCAS), Licensed Clinical Addiction Specialist Associates (LCASA), Certified Alcohol and Drug Counselors (CADC), Certified Prevention Specialist, Certified Criminal Justice Addictions Professional, Certified Clinical Supervisor (CCS). In 2024, there were 2,407 CADCs, 85 CCJPs, 1,177 CCSs, 86 CPSs, 3,640 LCASs, and 1,724 LCASAs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Addiction Counselors. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Addiction Counselors. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
