@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Mental Health and Substance Use Services Prescribers 2024 Data Snapshot"
+title: "North Carolina Mental Health and Substance Use Services Prescribers Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -40,7 +40,7 @@ hideAhec: true
 North Carolina’s MH/SU services prescriber workforce includes Physicians (i.e., Psychiatrists, Child and Adolescent Psychiatrists, Addiction Medicine Physicians, and Addiction Psychiatrists), Nurse Practitioners (i.e., Psychiatric-Mental Health Nurse Practitioners and NPs who work in mental health settings), and Physician Assistants.  Physicians, NPs, and PAs all have the authority to diagnose mental health and substance use disorders and prescribe psychiatric medications as part of their scope of practice, allowing them to provide comprehensive psychiatric care including both diagnosis and medication management. In total, there were 3,605 MH/SU prescribers in North Carolina in 2024, a rate of 3.28 per 10,000 population. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Mental Health and Substance Use Services Prescribers. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Mental Health and Substance Use Services Prescribers. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
