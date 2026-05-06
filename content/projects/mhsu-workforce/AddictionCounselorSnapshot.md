@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Addiction Counselor 2024 Data Snapshot"
+title: "North Carolina Addiction Counselors 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
