@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Physicians Specializing in Mental Health and Substance Use Services"
-teaserImage: SWSnapshot_teaser.jpg
+teaserImage: Physician-Snapshot-teaser.jpg
 keywords: 'physician, workforce'
 hideAhec: true
 ---
