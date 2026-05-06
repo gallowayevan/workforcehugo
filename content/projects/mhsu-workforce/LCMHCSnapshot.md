@@ -3,7 +3,7 @@ title: "North Carolina Mental Health Counselors 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Mental Health Counselors"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'mental health counselor, workforce'
