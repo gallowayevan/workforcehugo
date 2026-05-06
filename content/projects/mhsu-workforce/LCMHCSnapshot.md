@@ -38,6 +38,8 @@ hideAhec: true
  ## Mental Health Counslors
 ### Licensed Clinical Mental Health Counselors (LCMHCs), Licensed Clinical Mental Health Counselor Associates (LCMHCAs), Licensed Clinical Mental Health Counselor Supervisors (LCMHCSs)
 
+In North Carolina, Licensed Clinical Mental Health Counselors (LCMHCs) play a vital role in promoting the psychological well-being of individuals, families and communities by providing assessment, diagnosis, and treatment of mental health conditions through evidence-based counseling practices. LCMHCs and Licensed Clinical Mental Health Counselor Associates (LCMHCAs) are licensed and regulated by the North Carolina Board of Licensed Clinical Mental Health Counselors (NCBLCMHC). There were 9,205 LCMHCs and 3,075 LCMHCAs in active practice in North Carolina in 2024.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Mental Health Counslors (Licensed Clinical Mental Health Counselors, Licensed Clinical Mental Health Counselor Associates, Licensed Clinical Mental Health Counselor Supervisors). Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
