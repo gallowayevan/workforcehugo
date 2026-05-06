@@ -32,7 +32,7 @@ hideAhec: true
 </style>
 
 <div class="buttons">
-<a class="button is-success is-rounded mb-5" href="/pdf/DMH%20Workforce%20Snapshot_SW_9.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
+<a class="button is-success is-rounded mb-5" href="/pdf/LCMHC_Snapshot_(DMH Updates)v2.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
  ## Mental Health Counslors
