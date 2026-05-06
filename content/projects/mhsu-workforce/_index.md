@@ -34,6 +34,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/prescribers/">Prescribers – Physicians, Physician Assistants, and Nurse Practitioners Specializing in Mental Health and Substance Use Services</a></li> 
 <ul>
   <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/physiciansnapshot/">Physicians Specializing in Mental Health and Substance Use Services</a></li> 
+    <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/physician-assistants/">Physician Assistants Specializing in Mental Health and Substance Use Services</a></li> 
   <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/nurse-practitioner-snapshot/">Nurse Practitioners Specializing in Mental Health and Substance Use Services</a></li>
 </ul>
 </li>
