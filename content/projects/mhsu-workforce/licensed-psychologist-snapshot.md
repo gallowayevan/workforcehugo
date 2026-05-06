@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Licensed Psychologists 2024 Data Snapshot"
+title: "North Carolina Licensed Psychologists Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -40,7 +40,7 @@ hideAhec: true
 Licensed psychologists (LPs) provide comprehensive mental health and substance use services, including psychological assessment, testing, diagnosis, and therapy interventions. LPs are licensed and regulated by the North Carolina Psychology Board (NCPB). Using 2024 North Carolina licensure data, there were 2,398 active and statewide practicing psychologists (2,373 permanent LPs and 25 provisional LPs) in the state with a rate of 2.18 per 10,000 population.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Licensed Psychologists. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Licensed Psychologists. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
