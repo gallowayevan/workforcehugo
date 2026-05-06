@@ -3,7 +3,7 @@ title: "North Carolina Licensed Marriage and Family Therapists Data 2024 Snapsho
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Licensed Marriage and Family Therapists"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'therapists, workforce'
