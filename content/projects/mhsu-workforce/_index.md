@@ -51,6 +51,8 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/CHWSnapshot/">Certified Community Health Workers</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/CPPSS-Snapshot/">Certified Peer Support Specialists</a></li> 
 </ul>
+</div>
+</div>
 
 ## Project Summary
 
