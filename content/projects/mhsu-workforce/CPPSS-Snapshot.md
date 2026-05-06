@@ -3,7 +3,7 @@ title: "North Carolina Certified Peer Support Specialists Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Certified Peer Support Specialists"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: '	Certified Peer Support Specialists, workforce'
