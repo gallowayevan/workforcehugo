@@ -1,10 +1,10 @@
 ---
-title: "North Carolina Nurse Practitioner 2024 Data Snapshot"
+title: "North Carolina Nurse Practitioners Specializing in Mental Health and Substance Use Services 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
 unlisted: true
-teaserText: "Data Snapshot: Nurse Practitioners"
+teaserText: "Data Snapshot: Nurse Practitioners Specializing in Mental Health and Substance Use Services"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'nurse practitioners, workforce'
 hideAhec: true
@@ -35,7 +35,7 @@ hideAhec: true
 <a class="button is-success is-rounded mb-5" href="/pdf/NP-Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
- ## Nurse Practitioners
+ ## Nurse Practitioners Specializing in Mental Health and Substance Use Services
 
 Mental Health and Substance Use Services (MH/SU) Nurse Practitioners (NPs) are Psychiatric-Mental Health Nurse Practitioners (PMHNPs) or NPs working in a Mental Health setting. MH/SU NPs assess, facilitate, and manage the psychiatric and mental health care needs of individuals, families, groups and communities in a variety of public, private, community, inpatient, and multidisciplinary practice settings. MH/SU NPs are licensed as RNs by the North Carolina Board of Nursing (NCBON) and granted approval to practice as nurse practitioners by the NCBON in conjunction with the North Carolina Medical Board (NCMB). As of 2024, North Carolina’s MH/SU services NP workforce totaled 1,461 active practitioners, representing a rate of 1.33 MH/SU services NPs per 10,000 population. 
 
