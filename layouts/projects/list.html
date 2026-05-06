@@ -40,7 +40,7 @@
             <h1>{{ .Title }}</h1>
             {{ .Content }}
 
-            {{ if .Pages }}
+            {{ if and .Pages (not .Params.hidePublications) }}
             <h2>Publications</h2>
             {{ range .Pages.ByDate.Reverse }}
             {{ if ne .Params.unlisted true }}
