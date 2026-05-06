@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Physician Assistants Specializing in Mental Health and Substance Use Services"
-teaserImage: SWSnapshot_teaser.jpg
+teaserImage: PA-Snapshot-teaser.jpg
 keywords: 'physician assistants, workforce'
 hideAhec: true
 ---
