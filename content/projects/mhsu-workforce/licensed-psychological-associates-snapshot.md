@@ -1,10 +1,10 @@
 ---
-title: "North Carolina Licensed Psychologist Associates 2024 Data Snapshot"
+title: "North Carolina Licensed Psychological Associates 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
 unlisted: true
-teaserText: "Data Snapshot: Licensed Psychologist Associates"
+teaserText: "Data Snapshot: Licensed Psychological Associates"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'psychologist, workforce'
 hideAhec: true
@@ -35,12 +35,12 @@ hideAhec: true
 <a class="button is-success is-rounded mb-5" href="/pdf/LPA-Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
- ## Licensed Psychologist Associates
+ ## Licensed Psychological Associates
 
 Licensed Psychological Associates (LPAs) conduct psychological assessments, provide therapy and counseling, and deliver other clinical psychological services. LPAs are regulated by the North Carolina Psychology Board (NCPB). North Carolina’s LPA workforce totaled 709 active licenses in 2024, a rate of 0.65 LPAs per 10,000 population. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Licensed Psychologist Associates. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Licensed Psychological Associates. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
