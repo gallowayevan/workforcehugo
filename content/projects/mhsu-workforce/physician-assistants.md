@@ -3,7 +3,7 @@ title: "North Carolina Physician Assistants Specializing in Mental Health and Su
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Physician Assistants Specializing in Mental Health and Substance Use Services"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'physician assistants, workforce'
