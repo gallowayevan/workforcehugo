@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Nurse Practitioners Specializing in Mental Health and Substance Use Services 2024 Data Snapshot"
+title: "North Carolina Nurse Practitioners Specializing in Mental Health and Substance Use Services Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -40,7 +40,7 @@ hideAhec: true
 Mental Health and Substance Use Services (MH/SU) Nurse Practitioners (NPs) are Psychiatric-Mental Health Nurse Practitioners (PMHNPs) or NPs working in a Mental Health setting. MH/SU NPs assess, facilitate, and manage the psychiatric and mental health care needs of individuals, families, groups and communities in a variety of public, private, community, inpatient, and multidisciplinary practice settings. MH/SU NPs are licensed as RNs by the North Carolina Board of Nursing (NCBON) and granted approval to practice as nurse practitioners by the NCBON in conjunction with the North Carolina Medical Board (NCMB). As of 2024, North Carolina’s MH/SU services NP workforce totaled 1,461 active practitioners, representing a rate of 1.33 MH/SU services NPs per 10,000 population. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce 2024 Data Snapshot: Nurse Practitioners. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Nurse Practitioners. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
