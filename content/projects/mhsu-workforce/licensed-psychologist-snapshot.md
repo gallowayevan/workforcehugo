@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Licensed Psychologistss"
-teaserImage: SWSnapshot_teaser.jpg
+teaserImage: LP-Snapshot-teaser.jpg
 keywords: 'psychologist, workforce'
 hideAhec: true
 ---
