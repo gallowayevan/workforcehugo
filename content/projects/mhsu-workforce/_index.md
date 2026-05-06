@@ -29,7 +29,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <div class="snapshot-float">
 <div class="box">
 <h3 class="title is-5">Data Snapshots</h3>
-<p class="mb-3">Concise profiles of each MH/SU services workforce in North Carolina.</p>
+<p class="mb-3">Concise profiles of MH/SU services workforces in North Carolina.</p>
 <ul>
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/prescribers/">Prescribers – Physicians, Physician Assistants, and Nurse Practitioners Specializing in Mental Health and Substance Use Services</a></li> 
 <ul>
@@ -51,10 +51,6 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/CHWSnapshot/">Certified Community Health Workers</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/CPPSS-Snapshot/">Certified Peer Support Specialists</a></li> 
 </ul>
-
-<p class="mt-3 has-text-grey is-italic">Stay tuned for more profession snapshots.</p>
-</div>
-</div>
 
 ## Project Summary
 
