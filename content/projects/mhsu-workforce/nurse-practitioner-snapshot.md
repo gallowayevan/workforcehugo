@@ -3,7 +3,7 @@ title: "North Carolina Nurse Practitioners Specializing in Mental Health and Sub
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Nurse Practitioners Specializing in Mental Health and Substance Use Services"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'nurse practitioners, workforce'
