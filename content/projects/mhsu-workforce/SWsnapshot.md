@@ -37,6 +37,7 @@ hideAhec: true
 
  ## Licensed Clinical Social Workers & Associates
 
+Licensed Clinical Social Workers (LCSWs) in North Carolina are trained to provide mental health therapy, clinical assessments, and treatment planning for individuals, families, and groups facing emotional, behavioral, and psychological challenges. LCSWs and Licensed Clinical Social Worker Associates (LCSWAs) are licensed and regulated by the North Carolina Social Work Certification and Licensure Board (NCSWCLB). As of 2024, there were 13,945 licensed Master’s-level social workers in active practice in North Carolina, resulting in a statewide rate of 12.70 per 10,000 population.
 
 <hr>
 <div class="section-header">
