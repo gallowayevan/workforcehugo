@@ -3,7 +3,7 @@ title: "North Carolina Graduate-level Mental Health and Substance Use Services C
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Graduate-level Mental Health and Substance Use Services Clinicians"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'graduate-level clinicians, workforce'
