@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Graduate-level Mental Health and Substance Use Services Clinicians 2024 Data Snapshot"
+title: "North Carolina Graduate-level Mental Health and Substance Use Services Clinicians Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -40,7 +40,7 @@ hideAhec: true
 Graduate-level clinicians provide therapy and assessment and hold at least a master’s degree. North Carolina’s mental health and substance use services graduate-level clinician workforce consisted of approximately 30,804 clinicians in 2024, across six types: Licensed Psychologists, Licensed Psychological Associates, Licensed Marriage and Family Therapists, Licensed Marriage and Family Therapist Associates, Licensed Clinical Mental Health Counselors, Licensed Clinical Mental Health Counselor Associates, Licensed Clinical Social Workers, Licensed Clinical Social Worker Associates, and Fee-Based Pastoral Counselors. North Carolina’s MH/SU services graduate-level clinician workforce consisted of approximately 30,804 clinicians in 2024, with a combined statewide rate of 28.0 clinicians per 10,000 population.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Graduate-level Mental Health and Substance Use Services Clinicians. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Graduate-level Mental Health and Substance Use Services Clinicians. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
