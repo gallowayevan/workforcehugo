@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Certified Community Health Worker 2024 Data Snapshot"
+title: "North Carolina Certified Community Health Workers 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -35,7 +35,7 @@ hideAhec: true
 <a class="button is-success is-rounded mb-5" href="/pdf/CHW_Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
- ## Certified Community Health Worker (CHWs)
+ ## Certified Community Health Workers (CHWs)
 
 Certified Community Health Workers (CHWs) play a critical role in MH/SU service settings by serving as trusted liaisons between individuals, communities, and care systems. CHWs are certified through the North Carolina Community Health Worker Association (NCCHWA). In 2024, 811 CHWs were actively certified by the North Carolina Community Health Worker Association (NCCHWA) and located in North Carolina, a rate of 0.74 CHWs per 10,000 population.
 
