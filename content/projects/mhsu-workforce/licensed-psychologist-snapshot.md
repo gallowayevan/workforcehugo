@@ -3,7 +3,7 @@ title: "North Carolina Licensed Psychologists Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Licensed Psychologistss"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'psychologist, workforce'
