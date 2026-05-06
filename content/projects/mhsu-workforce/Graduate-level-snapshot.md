@@ -32,7 +32,7 @@ hideAhec: true
 </style>
 
 <div class="buttons">
-<a class="button is-success is-rounded mb-5" href="/pdf/LCMHC_Snapshot_(DMH Updates)v2.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
+<a class="button is-success is-rounded mb-5" href="/pdf/Grad-Level-Clinicians.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
  ## Graduate-level Mental Health and Substance Use Services Clinicians
