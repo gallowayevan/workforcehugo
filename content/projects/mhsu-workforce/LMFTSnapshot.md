@@ -35,7 +35,7 @@ hideAhec: true
 <a class="button is-success is-rounded mb-5" href="/pdf/MFT-Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
- ## Licensed Marriage and Family Therapists
+ ## Licensed Marriage and Family Therapists (Licensed Marriage and Family Therapists and Associates)
 
 Licensed Marriage and Family Therapists (LMFTs) in North Carolina provide therapy to individuals, couples, families, or groups. LMFTs and Licensed Marriage and Family Therapist Associates (LMFTAs) are licensed and regulated by North Carolina Marriage and Family Therapy Licensure Board (NCMFTLB). Of the 1,427 marriage and family therapists in North Carolina in 2024, 1,317 were LMFTs and 110 LMFTAs.
 
