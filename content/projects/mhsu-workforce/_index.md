@@ -31,8 +31,25 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <h3 class="title is-5">Data Snapshots</h3>
 <p class="mb-3">Concise profiles of each MH/SU services workforce in North Carolina.</p>
 <ul>
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/prescribers/">Prescribers – Physicians, Physician Assistants, and Nurse Practitioners Specializing in Mental Health and Substance Use Services</a></li> 
+<ul>
+  <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/physiciansnapshot/">Physicians Specializing in Mental Health and Substance Use Services</a></li> 
+  <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/nurse-practitioner-snapshot/">Nurse Practitioners Specializing in Mental Health and Substance Use Services</a></li>
+</ul>
+</li>
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/Graduate-level-snapshot/">Graduate-Level Mental Health and Substance Use Services Clinicians</a></li> 
+<ul>
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-associates-snapshot/">Licensed Psychologists</a></li> 
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-snapshot/">Licensed Psychological Associates</a></li> 
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/LCMHCSnapshot/">Mental Health Counselors</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Social Workers</a></li>  
 </ul>
+</li>
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/AddictionCounselorSnapshot/">Addiction Counselors</a></li>
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/CHWSnapshot/">Certified Community Health Workers</a></li> 
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/CPPSS-Snapshot/">Certified Peer Support Specialists</a></li> 
+</ul>
+
 <p class="mt-3 has-text-grey is-italic">Stay tuned for more profession snapshots.</p>
 </div>
 </div>
