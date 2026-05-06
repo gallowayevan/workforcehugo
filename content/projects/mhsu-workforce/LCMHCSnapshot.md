@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Mental Health Counselor 2024 Data Snapshot"
+title: "North Carolina Mental Health Counselors 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
