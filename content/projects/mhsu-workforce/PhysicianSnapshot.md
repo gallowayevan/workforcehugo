@@ -3,7 +3,7 @@ title: "North Carolina Physicians Specializing in Mental Health and Substance Us
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Physicians Specializing in Mental Health and Substance Use Services"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'physician, workforce'
