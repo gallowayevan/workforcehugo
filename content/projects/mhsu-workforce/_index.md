@@ -18,7 +18,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 @media screen and (min-width: 769px) {
   .snapshot-float {
     float: right;
-    width: 40%;
+    width: 100%;
     margin: 0 0 2rem 1.5rem;
   }
 }
@@ -29,11 +29,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <h3 class="title is-5">Data Snapshots</h3>
 <p class="mb-3">Concise profiles of each MH/SU services workforce in North Carolina.</p>
 <ul>
-<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Social Workers</a></li>
-  <li>Prescribers</li>
-  <ul>
-    <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Physicians Specializing in Mental Health and Substance Use Services</a></li>
-  
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Social Workers</a></li>  
 </ul>
 <p class="mt-3 has-text-grey is-italic">Stay tuned for more profession snapshots.</p>
 </div>
