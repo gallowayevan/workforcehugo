@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Physician Assistants Specializing in Mental Health and Substance Use Services 2024 Data Snapshot"
+title: "North Carolina Physician Assistants Specializing in Mental Health and Substance Use Services Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
@@ -40,7 +40,7 @@ hideAhec: true
 Mental Health and Substance Use Services (MH/SU) Physician Assistants (PAs) are PAs who reported a primary practice area of psychiatry, child and adolescent psychiatry, addiction medicine, or addiction psychiatry. PAs work collaboratively with physician supervision to diagnose and treat MH/SU conditions, prescribe psychiatric medications, and provide comprehensive MH/SU service care in both inpatient and outpatient settings. MH/SU PAs are licensed and regulated by the North Carolina Medical Board (NCMB). In 2024, there were 576 MH/SU PAs in North Carolina at a rate of 0.52 per 10,000 population. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce 2024 Data Snapshot: Physician Assistants Specializing in Mental Health and Substance Use Services. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Physician Assistants Specializing in Mental Health and Substance Use Services. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
