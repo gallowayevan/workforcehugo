@@ -14,7 +14,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 
 <a class="button is-success is-rounded mb-5" href="/pdf/DMH Workforce Report_Mar1_2026_Updated.pdf" style="background-color:#1A294B; color:white;">Download Full Report (PDF)</a>
 
-[View the Project Summary below](#project-summary)
+View the [Project Summary](#project-summary) below
 
 <style>
 @media screen and (min-width: 769px) {
