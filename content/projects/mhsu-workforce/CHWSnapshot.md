@@ -3,7 +3,7 @@ title: "North Carolina Certified Community Health Workers Data 2024 Snapshot"
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Certified Community Health Workers"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'community health worker, workforce'
