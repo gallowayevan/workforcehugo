@@ -41,6 +41,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <ul>
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-snapshot/">Licensed Psychologists</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychological-associates-snapshot/">Licensed Psychological Associates</a></li> 
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/LMFTSnapshot/">Marriage and Family Therapists</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/LCMHCSnapshot/">Mental Health Counselors</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Social Workers</a></li>  
 </ul>
