@@ -3,7 +3,7 @@ title: "North Carolina Mental Health and Substance Use Services Prescribers Data
 date: 2026-05-06
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Mental Health and Substance Use Services Prescribers"
 teaserImage: SWSnapshot_teaser.jpg
 keywords: 'prescribers, workforce'
