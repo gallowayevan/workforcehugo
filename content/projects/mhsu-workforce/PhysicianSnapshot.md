@@ -37,7 +37,7 @@ hideAhec: true
 
  ## Physicians Specializing in Mental Health and Substance Use Services
 
-SUMMARY PARAGRAPH HERE
+Mental Health and Substance Use Services (MH/SU) Physicians are physicians who reported a primary practice area of psychiatry, child and adolescent psychiatry, addiction medicine, or addiction psychiatry. MH/SU Physicians provide comprehensive psychiatric care including both diagnosis and medication management. MH/SU Physicians are licensed and regulated by the North Carolina Medical Board (NCMB).  In 2024, there were 1,568 physicians across all four specialty types with 1,245 working as psychiatrists, 219 working as child and adolescent psychiatrists, 79 working in addiction medicine, and 25 in addiction psychiatry.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce 2024 Data Snapshot: Physicians Specializing in Mental Health and Substance Use Services. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
