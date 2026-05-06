@@ -1,5 +1,5 @@
 ---
-title: "North Carolina Licensed Psychologist Associate 2024 Data Snapshot"
+title: "North Carolina Licensed Psychologist Associates 2024 Data Snapshot"
 date: 2026-05-06
 author:
 draft: false
