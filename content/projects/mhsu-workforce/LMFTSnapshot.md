@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Licensed Marriage and Family Therapists"
-teaserImage: SWSnapshot_teaser.jpg
+teaserImage: LMFT-Snapshot-teaser.jpg
 keywords: 'therapists, workforce'
 hideAhec: true
 ---
