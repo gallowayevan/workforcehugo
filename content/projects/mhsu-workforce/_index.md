@@ -39,8 +39,8 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 </li>
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/Graduate-level-snapshot/">Graduate-Level Mental Health and Substance Use Services Clinicians</a></li> 
 <ul>
-<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-associates-snapshot/">Licensed Psychologists</a></li> 
-<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-snapshot/">Licensed Psychological Associates</a></li> 
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-snapshot/">Licensed Psychologists</a></li> 
+<li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/licensed-psychologist-associates-snapshot/">Licensed Psychological Associates</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/LCMHCSnapshot/">Mental Health Counselors</a></li> 
 <li><a href="https://nchealthworkforce.unc.edu/projects/mhsu-workforce/swsnapshot/">Social Workers</a></li>  
 </ul>
