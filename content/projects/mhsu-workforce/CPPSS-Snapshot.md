@@ -32,7 +32,7 @@ hideAhec: true
 </style>
 
 <div class="buttons">
-<a class="button is-success is-rounded mb-5" href="/pdf/CPSS_Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
+<a class="button is-success is-rounded mb-5" href="/pdf/CPSS-Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
  ## Certified Peer Support Specialists
