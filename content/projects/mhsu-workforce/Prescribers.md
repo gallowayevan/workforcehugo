@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Mental Health and Substance Use Services Prescribers"
-teaserImage: SWSnapshot_teaser.jpg
+teaserImage: Prescribers-Snapshot-Teaser.jpg
 keywords: 'prescribers, workforce'
 hideAhec: true
 ---
