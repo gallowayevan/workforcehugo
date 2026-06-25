@@ -3,7 +3,7 @@ title: Is Access to Primary Care Clinicians Improving in North Carolina? A 2025 
 date: 2026-06-22
 author: 'Evan Galloway'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: A 2025 update to the primary care clinician index for North Carolina.
 teaserImage: pcc_index_2025.png
 keywords: [physician, physician assistant, nurse practitioner, primary care]
