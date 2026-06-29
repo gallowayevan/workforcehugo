@@ -90,7 +90,7 @@ ${os(e,N)}${f?`
   .row-chart .ncLine line { stroke: #00567a; stroke-width: 3px; }
   .spark-header { font-size: 1em; font-weight: 600; }
   .spark-title { font-size: 1em; }
-  .spark-bar { stroke-width: 2; }
+  .spark-bar { stroke: #fff; stroke-width: 1; }
   .spark-value { font-size: 1em; text-anchor: middle; }
   .spark-year { fill: #6f6f6f; font-size: 1em; text-anchor: middle; }
   .spark-anno { visibility: hidden; }
