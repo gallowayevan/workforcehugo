@@ -7,13 +7,33 @@
     <title>{{ block "title" . }}
         NC Health Workforce - {{ .Page.Title }}
         {{ end }}</title>
-    <meta name="description" content="North Carolina Health Professions Data System">
+    {{- /* Per-page description: teaserText, else the site-wide default */ -}}
+    {{- $description := .Params.teaserText | default "Timely data, interactive visualizations, and policy analysis on North Carolina's health workforce, from the NC Health Professions Data System." -}}
+    <meta name="description" content="{{ $description }}">
     <meta name="author" content="The Cecil G. Sheps Center for Health Services Research">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ if .Params.unlisted }}
         <meta name="robots" content="noindex, nofollow">
     {{ else }}
         <meta name="robots" content="index, follow">
+    {{ end }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{- /* Social sharing (Open Graph + Twitter) */}}
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ $description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+    {{ with .Params.teaserImage }}
+    <meta property="og:image" content="{{ printf "/images/thumbnails/%s" . | absURL }}">
+    <meta name="twitter:card" content="summary">
+    {{ end }}
+
+    {{- /* RSS autodiscovery (home page feed) */}}
+    {{ with .Site.Home.OutputFormats.Get "rss" }}
+    <link rel="alternate" type="application/rss+xml" href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title }}">
     {{ end }}
 
     <link rel="stylesheet" href="/css/bulma2.min.css" type="text/css">
