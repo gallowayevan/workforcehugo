@@ -1,3 +1,4 @@
 node_modules
 /public
 improvement_notes.md
+.hugo_build.lock
