@@ -1,0 +1,11 @@
+# Netlify build configuration
+# Pins the Hugo version so production builds match local development.
+# Before this file existed, Netlify built with hugo-extended 0.74.3 (set in
+# the Netlify UI) while local development used 0.113.0.
+
+[build]
+  publish = "public"
+  command = "hugo"
+
+[build.environment]
+  HUGO_VERSION = "0.113.0"
