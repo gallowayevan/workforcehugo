@@ -7,7 +7,7 @@ teaserText: >-
   North Carolina increased the supply of dentists by 586 between 2017 and 2021. Where did they
   go?
 teaserImage: where_did_dentists_go_2017-2021_with_logo_notes_white_bg.jpg
-keywords: dentists
+keywords: [dentists]
 ---
 
 

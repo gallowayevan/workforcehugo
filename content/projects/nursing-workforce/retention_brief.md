@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "A Brief Report on Interventions to Increase Retention in the Nursing Workforce"
 teaserImage: Retention_teaser.svg
-keywords: 'nurses, retention, literature review, workforce'
+keywords: [nurses, retention, literature review, workforce]
 aliases: ["/reports/retention_brief/"]
 ---
 

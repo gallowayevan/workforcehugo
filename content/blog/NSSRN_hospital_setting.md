@@ -6,7 +6,7 @@ draft: false
 teaserText: >-
   Findings suggest NC workforce is similar to the national one in terms of hospital employment setting.
 teaserImage: NSSRN.png
-keywords: 'employment, jobs, nurses, nssrn, setting'
+keywords: [employment, jobs, nurses, nssrn, setting]
 aliases:
   - /NSSRN_hospital_setting
 ---

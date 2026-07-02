@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Certified Peer Support Specialists"
 teaserImage: CPSS-Snapshot-teaser.jpg
-keywords: 'Certified Peer Support Specialists, workforce'
+keywords: [Certified Peer Support Specialists, workforce]
 hideAhec: true
 ---
 

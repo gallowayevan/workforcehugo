@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Graduate-level Mental Health and Substance Use Services Clinicians"
 teaserImage: Grad-Level-Clinicians-teaser.jpg
-keywords: 'graduate-level clinicians, workforce'
+keywords: [graduate-level clinicians, workforce]
 hideAhec: true
 ---
 

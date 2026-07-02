@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Addiction Counselors"
 teaserImage: Addiction-Counselors-teaser.jpg
-keywords: 'addiction counselor, workforce'
+keywords: [addiction counselor, workforce]
 hideAhec: true
 ---
 

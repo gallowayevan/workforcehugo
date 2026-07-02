@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Mental Health Counselors"
 teaserImage: Grad-Level-Clinicians-teaser.jpg
-keywords: 'mental health counselor, workforce'
+keywords: [mental health counselor, workforce]
 hideAhec: true
 ---
 

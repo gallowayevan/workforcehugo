@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Certified Community Health Workers"
 teaserImage: CHW-Snapshot-teaser.jpg
-keywords: 'community health worker, workforce'
+keywords: [community health worker, workforce]
 hideAhec: true
 ---
 

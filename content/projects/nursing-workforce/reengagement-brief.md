@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Facilitators and Barriers to Reengaging Healthcare Workers Through Refresher Programs"
 teaserImage: Reengagement_teaser.svg
-keywords: 'retention, literature review, workforce'
+keywords: [retention, literature review, workforce]
 aliases: ["/reports/reengagement-brief/"]
 ---
 

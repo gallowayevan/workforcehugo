@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Licensed Psychological Associates"
 teaserImage: LPA-Snapshot-teaser.jpg
-keywords: 'psychologist, workforce'
+keywords: [psychologist, workforce]
 hideAhec: true
 ---
 

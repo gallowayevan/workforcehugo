@@ -6,7 +6,7 @@ draft: false
 unlisted: false
 teaserText: "Data Snapshot: Nurse Practitioners Specializing in Mental Health and Substance Use Services"
 teaserImage: NP-Snapshot-teaser.jpg
-keywords: 'nurse practitioners, workforce'
+keywords: [nurse practitioners, workforce]
 hideAhec: true
 ---
 

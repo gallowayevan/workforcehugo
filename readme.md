@@ -1,29 +1,105 @@
-# Documentation
+# Sheps Health Workforce NC — site documentation
 
-## Adding thumbnail images
+Hugo static site for [nchealthworkforce.unc.edu](https://nchealthworkforce.unc.edu),
+hosted on Netlify.
 
-In the frontmatter, specify a file name for the `teaserImage`. This file must be in the `/static/images/thumbnails` folder. The image should be cropped and resized to 400 x 300 pixels.
-For instance, you could use ImageMagick to create a thumbnail from a larger image:
+## Local development
+
+Requires the **extended** edition of Hugo. The version used in production is
+pinned in `netlify.toml` (`HUGO_VERSION`) — use the same version locally.
+
 ```powershell
-cd "C:\Users\emg33\Documents\code\workforcehugo\static\images\posts\cnm>"
-magick figure_2.png -resize 400x300^ -gravity center -extent 400x300 ../../thumbnails/cnm_growth.jpg
+hugo server        # dev server at http://localhost:1313/
+hugo               # production build into public/
 ```
 
-## Publish a post but have it be unlisted, so that others can view but it does not appear in list of posts
+Notes:
+- `public/` is build output and is git-ignored. Never edit it.
+- Analytics (Plausible) is only included in production builds, so local
+  browsing does not record page views.
+- Under `hugo server`, search results can behave slightly differently than
+  production until you restart the server after big content changes.
 
-Add `unlisted: true` to front matter.
+## Site structure
 
-## Adding download buttons for interactive charts. 
+| Path | What it is |
+|---|---|
+| `content/blog/` | Blog posts |
+| `content/projects/` | Project workstreams, each with an `_index.md` landing page and child report pages |
+| `content/interactive/` | Interactive visualizations (page bundles with their own JS/CSS) |
+| `content/downloaddata/` | Data download tool |
+| `content/about.md`, `content/licensing-boards.md`, `content/hpds-history.md` | Standalone pages (`type: static`) |
+| `layouts/` | Templates. `_default/baseof.html` is the shared shell (nav, footer, search); `_default/single.html` renders articles |
+| `static/` | Files copied verbatim into the site: images, PDFs, CSS, JS |
+| `data/publications.json` | Source for the publications table |
+| `netlify.toml` | Build configuration, including the pinned Hugo version |
 
-For content pages of type `observable` or `interactive`, you can add `Download Image` and `Download SVG` buttons. These buttons are added automatically when a `downloadId` parameter is added to the frontmatter. 
-```yaml
-...
-downloadId: viz
-...
-``` 
-The `downloadId` must be the same as the `id` attribute of the `<div>` containing the `svg` that you want users to be able to download.
+## Adding content
+
+Create new pages with `hugo new`, which fills in the right front matter
+from `archetypes/`:
+
+```powershell
+hugo new blog/my-post-title.md
+hugo new projects/nursing-workforce/my-report.md
+hugo new interactive/my-viz/index.md   # page bundle: JS/CSS live next to index.md
+```
+
+New pages start as `draft: true`; remove that line (or set `false`) to publish.
+
+### Front matter reference
+
+| Param | Effect |
+|---|---|
+| `title`, `date`, `author` | Shown on the page. `author` may be omitted |
+| `teaserText` | Card text in listings and search results |
+| `teaserImage` | Thumbnail filename (see below) |
+| `keywords` | YAML list, e.g. `[nurses, retention]`. Used by site search |
+| `draft: true` | Page is not built |
+| `unlisted: true` | Built, but hidden from listings, search, and the sitemap — share by URL |
+| `aliases` | Old URLs that should redirect here, e.g. `["/old_flat_url"]`. Never remove existing aliases: they keep old links working |
+| `fullWidth: true` | Article spans the full container (for wide figures) |
+| `hideAhec: true` | Suppress the AHEC funding acknowledgment box |
+| `javascript`, `css` | Lists of script/stylesheet files to load (page-bundle files or `/js/...` paths) |
+| `observable: true` | Load the page bundle's `observable.js` as a module |
+| `downloadId` | Adds Download Image/SVG buttons (see below) |
+
+### Thumbnail images
+
+Set `teaserImage` to a bare filename; the file must exist in
+`/static/images/thumbnails/`, cropped/resized to **400 x 300**. With
+ImageMagick, from the folder containing the source image:
+
+```powershell
+magick figure_2.png -resize 400x300^ -gravity center -extent 400x300 <repo>/static/images/thumbnails/my-post.jpg
+```
+
+If `teaserImage` is omitted, listing cards simply render without an image.
+
+### Download buttons for interactive charts
+
+Adding `downloadId: viz` to an `interactive` page's front matter creates
+Download Image / Download SVG buttons. The value must match the `id` of the
+`<div>` containing the `<svg>` to export:
+
 ```html
 <div id="viz">
-	<svg ...>A chart or map</svg>
+    <svg ...>A chart or map</svg>
 </div>
 ```
+
+## Search
+
+The search box (bottom of every page) matches against title, author,
+teaserText, and keywords. The index is generated by `layouts/index.json`
+from the sections listed in `config.toml` (`searchSections`) and consumed by
+`static/js/search.js`. Pages marked `unlisted` are excluded.
+
+## Redirects and old URLs
+
+- Hugo `aliases` front matter handles page-level redirects (e.g. pre-2020
+  flat URLs, and old `/reports/...` URLs redirecting into `/projects/`).
+- `static/_redirects` is the Netlify redirects file (currently just the
+  404 rule).
+- When moving or renaming a page, add its old URL to `aliases` so existing
+  links keep working.
