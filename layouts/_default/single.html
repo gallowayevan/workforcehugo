@@ -1,3 +1,15 @@
+{{/*
+    Default article template for blog posts, project reports, and any other
+    single page without a more specific layout.
+
+    Front-matter params it responds to:
+      fullWidth: true   - article spans the full container width
+      subtitle          - grey line under the title
+      author            - "By ..." line (omitted when unset)
+      hideAhec: true    - suppress the AHEC funding acknowledgment
+      javascript: [...] - script srcs loaded at end of body
+      observable: true  - load the page bundle's observable.js as a module
+*/}}
 {{define "main"}}
 {{ with .Params.fullWidth }}
 <section class="section">
@@ -8,8 +20,9 @@
         <article class="content column is-8-desktop is-10-tablet is-12-mobile mx-auto">
 {{end}}
             <h1>{{.Title}}</h1>
+            {{ with .Params.subtitle }}<p class="has-text-grey">{{.}}</p>{{ end }}
             {{ with .Params.author }}<p class="has-text-grey mb-0">By {{.}}</p>{{ end }}
-            <p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>
+            {{ if not .Date.IsZero }}<p class="has-text-grey mt-0">{{ dateFormat "Jan 2, 2006" .Date}}</p>{{ end }}
             {{.Content}}
             {{ if not .Params.hideAhec }}{{ partial "ahec.html" }}{{ end }}
         </article>
