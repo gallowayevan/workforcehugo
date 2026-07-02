@@ -13,15 +13,15 @@ Below is a list of the boards that contribute data to the Health Professions Dat
 
 - [North Carolina Board of Nursing](https://www.ncbon.com/), Raleigh, NC
 
-- [North Carolina Board of Pharmacy](http://www.ncbop.org/), Chapel Hill, NC
+- [North Carolina Board of Pharmacy](https://www.ncbop.org/), Chapel Hill, NC
 
 - [North Carolina Medical Board](https://www.ncmedboard.org/), Raleigh, NC
 
-- [North Carolina Board of Occupational Therapy](http://www.ncbot.org/), Raleigh, NC
+- [North Carolina Board of Occupational Therapy](https://www.ncbot.org/), Raleigh, NC
 
 - [North Carolina Board of Physical Therapy Examiners](https://www.ncptboard.org/),Raleigh, NC
 
-- [North Carolina Psychology Board](http://www.ncpsychologyboard.org/), Boone, NC
+- [North Carolina Psychology Board](https://www.ncpsychologyboard.org/), Boone, NC
 
 - [North Carolina Respiratory Care Board](https://ncrcb.org/), Cary, NC
 

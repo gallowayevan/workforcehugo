@@ -15,4 +15,4 @@ If you are not able to find the health professions data you need on our website,
 
 ## Find us, Follow us
 
-Stay in touch! Sign up for our newsletter [here](https://gmail.us5.list-manage.com/subscribe?u=cb8d60702a8a83ca0d0779401&id=657cfa5267). Find us on Twitter [here](https://twitter.com/WorkforceNC). Find us on Facebook [here](https://www.facebook.com/uncworkforce). For more publications from the Program on Health Workforce Research and Policy, look [here](http://www.shepscenter.unc.edu/programs-projects/workforce/data-publications-resources/).
+Stay in touch! Sign up for our newsletter [here](https://gmail.us5.list-manage.com/subscribe?u=cb8d60702a8a83ca0d0779401&id=657cfa5267). Find us on Twitter [here](https://twitter.com/WorkforceNC). Find us on Facebook [here](https://www.facebook.com/uncworkforce). For more publications from the Program on Health Workforce Research and Policy, look [here](https://www.shepscenter.unc.edu/programs-projects/workforce/data-publications-resources/).

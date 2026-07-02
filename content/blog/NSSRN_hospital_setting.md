@@ -8,7 +8,7 @@ teaserText: >-
 teaserImage: NSSRN.png
 keywords: 'employment, jobs, nurses, nssrn, setting'
 aliases:
-  - /2016nchealthcarejobs
+  - /NSSRN_hospital_setting
 ---
 
 {{< takeaway >}}

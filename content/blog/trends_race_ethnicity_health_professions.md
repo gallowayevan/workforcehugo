@@ -229,7 +229,7 @@ _To learn more about 2022 NC health workforce racial/ethnic diversity, please vi
 [^1]: Fitzhugh Mullan Institute for Health Workforce Equity. Health
     Workforce Diversity Tracker. Washington, DC: George Washington
     University, 2023.
-    [www.gwhwi.org/diversitytracker.html](http://www.gwhwi.org/diversitytracker.html).
+    [www.gwhwi.org/diversitytracker.html](https://gwhwi.org/research/workforce-diversity/hwdi-tracker/).
 
 [^2]: North Carolina Office of State Budget and Management. County/State
     Population Projections: Hispanic Origin by Race (2010-2050) and Sex,

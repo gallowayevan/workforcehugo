@@ -18,6 +18,6 @@ aliases:
 * The total number of NPs and PAs in North Carolina is less than the number of physicians, but new NPs and PAs are entering NC's workforce faster than physicians are.
 * Between 2000 and 2017, the NP workforce grew most rapidly, increasing by 216% in non-rural counties and by 187% in rural counties.
 * After 2014, the gap in workforce growth between non-rural and rural counties widened for both physicians and PAs.
-* For more background and information, see [this article](http://www.ncmedicaljournal.com/content/80/3/186.full) in the North Carolina Medical Journal.
+* For more background and information, see [this article](https://doi.org/10.18043/ncm.80.3.186) in the North Carolina Medical Journal.
 
 {{< img alt="Growth of NPs, PAs, and Physicians Since the Year 2000." src="/images/posts/np_pa_growth_color.png">}}

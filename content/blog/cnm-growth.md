@@ -47,5 +47,5 @@ These data are timely given recent changes to CNM regulation in NC. This pre-Ses
 
  {{< note >}}
 **Figure Notes:** Data include active, licensed certified nurse midwives in practice in North Carolina as of October 31 of each year. Certified nurse midwife data are derived from the North Carolina Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data.
-**Source:** North Carolina Health Professions Data System, [Program on Health Workforce Research and Policy](http://www.shepscenter.unc.edu/programs-projects/workforce/), Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Created October 21, 2024 at <https://nchealthworkforce.unc.edu/interactive/supply/>.
+**Source:** North Carolina Health Professions Data System, [Program on Health Workforce Research and Policy](https://www.shepscenter.unc.edu/programs-projects/workforce/), Cecil G. Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Created October 21, 2024 at <https://nchealthworkforce.unc.edu/interactive/supply/>.
  {{< /note >}}

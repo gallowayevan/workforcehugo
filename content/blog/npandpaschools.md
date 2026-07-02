@@ -15,6 +15,6 @@ aliases:
   * Including Pfieffer University, seven of the PA programs opened in 2011 or later.
 * As part of their education, NP and PA students complete rotations at clinical sites with preceptors: experienced NPs, PAs, and physicians who supervise and mentor learners.  
   * The number of qualified preceptors has not kept pace with the rapid enrollment increases at NP and PA schools, creating a difficult situation for NP and PA programs across NC.
-* For more information, see this [NCMJ article ](http://www.ncmedicaljournal.com/content/80/3/186.full)and this [brief](https://www.shepscenter.unc.edu/workforce_product/the-physician-assistant-workforce-in-north-carolina/).
+* For more information, see this [NCMJ article ](https://doi.org/10.18043/ncm.80.3.186)and this [brief](https://www.shepscenter.unc.edu/workforce_product/the-physician-assistant-workforce-in-north-carolina/).
 
 {{< img alt="Map of the locations of the Nurse Practitioner and Physician Assistant schools in North Carolina, 2019."  src="/images/posts/np_and_pa_school_map_april2019.png">}}

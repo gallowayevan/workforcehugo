@@ -19,4 +19,4 @@ aliases:
 
 {{< img alt="Bar chart of the diversity of the North Carolina general population compared to the diversity of selected health professions in North Carolina, 2014."  src="/images/posts/ncworkforcediversity2014.jpg">}}
 
-* More data on NC's health workforce diversity are available [here.](http://www.ncmedicaljournal.com/content/77/2/141.full)
+* More data on NC's health workforce diversity are available [here.](https://doi.org/10.18043/ncm.77.2.141)
