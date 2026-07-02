@@ -1,12 +1,14 @@
 <div class="column is-one-third thumbnail" data-file-id={{.File.UniqueID}}>
     <div class="card">
+        {{ with .Params.teaserImage }}
         <div class="card-image">
-            <a href="{{.RelPermalink}}">
+            <a href="{{ $.RelPermalink }}">
                 <figure class="image">
-                    <img loading="lazy" src="/images/thumbnails/{{.Params.teaserImage}}" alt="{{.Title}}">
+                    <img loading="lazy" src="/images/thumbnails/{{ . }}" alt="{{ $.Title }}">
                 </figure>
             </a>
         </div>
+        {{ end }}
         <div class="card-footer">
             <a href="{{.RelPermalink}}">
                 <p class="card-footer-item subtitle">{{.Params.teaserText}}</p>

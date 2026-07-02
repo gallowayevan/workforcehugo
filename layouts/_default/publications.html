@@ -14,8 +14,8 @@
     <table class="table" id="publicationsTable">
         <thead>
             <tr>
-                <th>
-                    <button id="yearSortButton" class="button is-inverted is-dark has-text-weight-bold sort-button" aria-sort="descending">
+                <th id="yearHeader" aria-sort="descending">
+                    <button id="yearSortButton" class="button is-inverted is-dark has-text-weight-bold sort-button">
                         Year <span id="sortIndicator" aria-hidden="true">▼</span>
                     </button>
                 </th>
@@ -79,10 +79,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         renderRows(sortedRows);
 
-        // Toggle sort type and indicator
+        // Indicator and aria-sort reflect the order just applied
+        // (aria-sort lives on the <th>, where assistive tech expects it)
+        sortIndicator.textContent = sortType === 'descending' ? '▼' : '▲';
+        document.getElementById('yearHeader').setAttribute('aria-sort', sortType);
+
+        // Toggle sort type so the next click reverses the order
         sortType = sortType === 'descending' ? 'ascending' : 'descending';
-        sortIndicator.textContent = sortType === 'ascending' ? '▼' : '▲';
-        yearSortButton.setAttribute('aria-sort', sortType);
     };
 
     // Add event listeners

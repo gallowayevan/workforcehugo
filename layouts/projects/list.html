@@ -20,7 +20,7 @@
                     {{ end }}
                     <div class="card-content">
                         <a href="{{ $section.RelPermalink }}">
-                            <p class="title is-5">{{ $section.Title }}</p>
+                            <h2 class="title is-5">{{ $section.Title }}</h2>
                         </a>
                         {{ with $section.Params.teaserText }}
                         <p class="subtitle is-6 has-text-grey">{{ . }}</p>
@@ -46,7 +46,7 @@
             {{ if ne .Params.unlisted true }}
             <div class="box">
                 <a href="{{ .RelPermalink }}">
-                    <p class="title is-5 mb-2">{{ .Title }}</p>
+                    <h3 class="title is-5 mb-2">{{ .Title }}</h3>
                 </a>
                 <p class="has-text-grey is-size-7 mb-2">By {{ .Params.author }} &mdash; {{ dateFormat "Jan 2, 2006" .Date }}</p>
                 {{ with .Params.teaserText }}

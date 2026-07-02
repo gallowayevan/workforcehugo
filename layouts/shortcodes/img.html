@@ -26,8 +26,7 @@
     {{ end }}
     {{ with .Get "src"}}<a href="{{.}}">{{ end }}
         <img src="{{ .Get "src" }}"
-            {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"
-            {{ end }} />
+            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}" />
         {{ if .Get "src"}}</a>{{ end }}
     {{ if or (.Get "caption") (.Get "attr")}}
     <figcaption class="is-size-7 has-text-left">
