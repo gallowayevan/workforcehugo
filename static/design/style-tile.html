@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Sheps Health Workforce NC — Design Direction (style tile, v1)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* Brand core — taken directly from the site logo SVG */
+    --ink: #111111;
+    --brand-blue: #33669a;   /* logo "HEALTH" blue  — 5.9:1 on white */
+    --brand-green: #006837;  /* logo "NC" green     — 6.9:1 on white */
+    --neutral-600: #636363;  /* body gray (existing a11y-checked value) */
+    --neutral-300: #d9d9d9;
+    --wash-blue: #eff5fb;    /* existing section wash (has-background-info-light) */
+    --wash-gray: #f5f5f5;
+
+    /* Data ramps — match the ColorBrewer greens/purples already used in the county maps */
+    --seq-g-1: #edf8e9; --seq-g-2: #bae4b3; --seq-g-3: #74c476; --seq-g-4: #31a354; --seq-g-5: #006d2c;
+    --seq-p-1: #f2f0f7; --seq-p-2: #cbc9e2; --seq-p-3: #9e9ac8; --seq-p-4: #756bb1; --seq-p-5: #54278f;
+
+    --font-display: 'Archivo', sans-serif;
+    --font-body: 'Source Sans 3', sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: var(--font-body); color: var(--ink); background: #fff; line-height: 1.55; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+  .tile-header { background: var(--ink); color: #fff; padding: 28px 0; }
+  .tile-header h1 { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; }
+  .tile-header p { color: #bbb; font-size: .95rem; margin-top: 4px; }
+  section { padding: 44px 0; border-bottom: 1px solid var(--neutral-300); }
+  h2.sec { font-family: var(--font-display); font-weight: 700; font-size: 1.35rem; margin-bottom: 6px; }
+  p.sec-note { color: var(--neutral-600); max-width: 68ch; margin-bottom: 24px; }
+
+  /* Palette */
+  .swatches { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .swatch { border: 1px solid var(--neutral-300); border-radius: 4px; overflow: hidden; font-size: .82rem; }
+  .swatch .chip { height: 64px; }
+  .swatch .meta { padding: 8px 10px; }
+  .swatch .meta b { display: block; font-weight: 600; }
+  .swatch .meta span { color: var(--neutral-600); }
+  .ramp { display: flex; height: 36px; border-radius: 4px; overflow: hidden; margin: 6px 0 2px; max-width: 520px; }
+  .ramp div { flex: 1; }
+  .ramp-label { font-size: .82rem; color: var(--neutral-600); margin-bottom: 14px; }
+
+  /* Type options */
+  .type-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+  @media (max-width: 800px) { .type-grid { grid-template-columns: 1fr; } }
+  .type-card { border: 1px solid var(--neutral-300); border-radius: 6px; padding: 24px; }
+  .type-card .opt { font-size: .78rem; font-weight: 600; color: #fff; background: var(--brand-blue); display: inline-block; padding: 2px 10px; border-radius: 3px; margin-bottom: 14px; }
+  .opt-a .th1 { font-family: 'Archivo', sans-serif; font-weight: 700; font-size: 1.9rem; line-height: 1.15; }
+  .opt-a .th2 { font-family: 'Archivo', sans-serif; font-weight: 600; font-size: 1.15rem; margin-top: 14px; }
+  .opt-a .tbody { font-family: 'Source Sans 3', sans-serif; margin-top: 10px; }
+  .opt-b .th1 { font-family: 'IBM Plex Sans', sans-serif; font-weight: 700; font-size: 1.9rem; line-height: 1.15; }
+  .opt-b .th2 { font-family: 'IBM Plex Sans', sans-serif; font-weight: 600; font-size: 1.15rem; margin-top: 14px; }
+  .opt-b .tbody { font-family: 'IBM Plex Sans', sans-serif; margin-top: 10px; }
+  .type-card .nums { margin-top: 14px; font-variant-numeric: tabular-nums; font-size: 1.4rem; font-weight: 600; letter-spacing: 0; }
+  .opt-b .nums { font-family: 'IBM Plex Mono', monospace; font-weight: 500; font-size: 1.25rem; }
+  .type-card .why { margin-top: 16px; font-size: .88rem; color: var(--neutral-600); border-top: 1px dashed var(--neutral-300); padding-top: 12px; }
+
+  /* Hero mock */
+  .hero-mock { background: var(--wash-blue); border: 1px solid var(--neutral-300); border-radius: 6px; padding: 44px 40px; }
+  .hero-mock .kicker { font-size: .95rem; font-weight: 600; color: var(--brand-green); margin-bottom: 8px; }
+  .hero-mock h3 { font-family: var(--font-display); font-weight: 800; font-size: 2.3rem; line-height: 1.12; max-width: 21ch; }
+  .hero-mock .sub { font-size: 1.15rem; color: #333; margin: 12px 0 26px; max-width: 55ch; }
+  .stats { display: flex; gap: 40px; flex-wrap: wrap; margin-bottom: 26px; }
+  .stat b { display: block; font-family: var(--font-display); font-size: 2rem; font-weight: 700; color: var(--brand-blue); font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .stat span { font-size: .9rem; color: var(--neutral-600); }
+  .stat:first-child b { color: var(--brand-green); }
+  .hero-cta { display: inline-block; background: #257953; color: #fff; text-decoration: none; font-weight: 600; padding: 10px 22px; border-radius: 4px; }
+  .hero-spark { margin-top: 8px; }
+
+  /* Cards */
+  .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; }
+  .mock-card { border: 1px solid var(--neutral-300); border-radius: 6px; overflow: hidden; background: #fff; display: flex; flex-direction: column; }
+  .mock-card .img { height: 150px; display: flex; align-items: flex-end; padding: 14px; gap: 6px; }
+  .mock-card .img.g { background: var(--seq-g-1); }
+  .mock-card .img.p { background: var(--seq-p-1); }
+  .mock-card .img .bar { width: 14%; border-radius: 2px 2px 0 0; }
+  .mock-card .body { padding: 14px 16px 18px; display: flex; flex-direction: column; gap: 6px; }
+  .mock-card .tagline { display: flex; align-items: center; gap: 10px; font-size: .78rem; }
+  .mock-card .tag { font-weight: 600; color: var(--brand-blue); text-transform: none; }
+  .mock-card .date { color: var(--neutral-600); }
+  .mock-card h4 { font-family: var(--font-display); font-weight: 600; font-size: 1.05rem; line-height: 1.3; }
+  .mock-card h4 a { color: var(--ink); text-decoration: none; }
+  .mock-card h4 a:hover { color: var(--brand-blue); text-decoration: underline; }
+  .mock-card .teaser { font-size: .9rem; color: var(--neutral-600); }
+
+  /* Components */
+  .comp-row { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; margin-bottom: 18px; }
+  .btn { font-family: var(--font-body); font-weight: 600; font-size: .95rem; padding: 9px 20px; border-radius: 4px; border: none; cursor: pointer; }
+  .btn.primary { background: #257953; color: #fff; }
+  .btn.secondary { background: #fff; color: var(--brand-blue); border: 1.5px solid var(--brand-blue); }
+  .btn.quiet { background: var(--wash-gray); color: var(--ink); }
+  .btn.focus-demo { outline: 2px solid #485fc7; outline-offset: 2px; }
+  a.body-link { color: var(--brand-blue); text-decoration: underline; text-underline-offset: .15em; }
+  .dont { background: #fff; border: 1px solid var(--neutral-300); border-left: 4px solid #b0413e; border-radius: 4px; padding: 16px 20px; max-width: 760px; }
+  .dont h4 { font-family: var(--font-display); font-size: 1rem; margin-bottom: 8px; }
+  .dont ul { padding-left: 20px; font-size: .92rem; color: #333; }
+  .dont li { margin-bottom: 4px; }
+  footer { padding: 26px 0 60px; color: var(--neutral-600); font-size: .85rem; }
+</style>
+</head>
+<body>
+
+<header class="tile-header">
+  <div class="wrap">
+    <h1>Sheps Health Workforce NC — design direction, v1</h1>
+    <p>Internal review page (not indexed, not linked). Everything below is built only from existing brand assets: the four logo colors and the ColorBrewer ramps already used in the county maps.</p>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Principles</h2>
+    <p class="sec-note">
+      The differentiator is the data: 45+ years of licensure records and real visualization capability.
+      So the design is <b>data-forward</b> — the most distinctive element on any page should be a number, a chart,
+      or North Carolina's geography, never decoration. Identity comes from disciplined use of the logo palette and
+      strong typography, not from trends. Flat surfaces, hierarchy from size and weight, whitespace with a purpose.
+    </p>
+    <div class="dont">
+      <h4>Deliberately excluded (the generic-AI look and the generic-corporate look)</h4>
+      <ul>
+        <li>No cream/beige backgrounds, no rust-orange accents</li>
+        <li>No italicized display serifs, no letterspaced all-caps subheadings</li>
+        <li>No glowing cards, no rounded-rectangle-in-rounded-rectangle dashboards, no ticker bars</li>
+        <li>No stock photography of stethoscopes or handshakes</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Palette</h2>
+    <p class="sec-note">Core colors come straight from the logo. Data ramps are the ColorBrewer greens/purples the maps already use — the site chrome and the charts finally share a family. Contrast ratios given against white; all pass WCAG AA for their role.</p>
+    <div class="swatches">
+      <div class="swatch"><div class="chip" style="background:#111111"></div><div class="meta"><b>Ink #111111</b><span>Headlines, body text</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#33669a"></div><div class="meta"><b>Brand blue #33669A</b><span>Links, key stats — 5.9:1</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#006837"></div><div class="meta"><b>Brand green #006837</b><span>Accents, kickers — 6.9:1</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#257953"></div><div class="meta"><b>Button green #257953</b><span>Primary buttons (existing a11y value)</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#636363"></div><div class="meta"><b>Gray #636363</b><span>Secondary text — 5.9:1</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#eff5fb; border-bottom:1px solid #d9d9d9"></div><div class="meta"><b>Blue wash #EFF5FB</b><span>Section bands (existing)</span></div></div>
+    </div>
+    <div class="ramp"><div style="background:var(--seq-g-1)"></div><div style="background:var(--seq-g-2)"></div><div style="background:var(--seq-g-3)"></div><div style="background:var(--seq-g-4)"></div><div style="background:var(--seq-g-5)"></div></div>
+    <p class="ramp-label">Sequential green — primary data ramp (rates, supply)</p>
+    <div class="ramp"><div style="background:var(--seq-p-1)"></div><div style="background:var(--seq-p-2)"></div><div style="background:var(--seq-p-3)"></div><div style="background:var(--seq-p-4)"></div><div style="background:var(--seq-p-5)"></div></div>
+    <p class="ramp-label">Sequential purple — secondary ramp (comparisons, change)</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Typography — two options, pick one</h2>
+    <p class="sec-note">Both are open source, self-hostable, and have strong tabular numerals for stats. Current site uses the OS default font (Segoe on Windows), which is most of why it reads "unstyled."</p>
+    <div class="type-grid">
+      <div class="type-card opt-a">
+        <span class="opt">Option A — Archivo + Source Sans 3</span>
+        <div class="th1">North Carolina's nurse workforce is growing — but not everywhere.</div>
+        <div class="th2">Rural supply still trails metro counties</div>
+        <p class="tbody">The number of registered nurses per 10,000 population increased 12% statewide between 2019 and 2024, yet fifty-nine counties remain below the state average. Licensure data from the Health Professions Data System covers every county, every year, back to 1979.</p>
+        <div class="nums" style="color:var(--brand-blue)">2,884&nbsp;&nbsp;·&nbsp;&nbsp;75.4%&nbsp;&nbsp;·&nbsp;&nbsp;1979–2024</div>
+        <p class="why">Grotesque display face with real presence at heavy weights; warm, highly readable body. Feels contemporary without being trendy.</p>
+      </div>
+      <div class="type-card opt-b">
+        <span class="opt" style="background:var(--brand-green)">Option B — IBM Plex family</span>
+        <div class="th1">North Carolina's nurse workforce is growing — but not everywhere.</div>
+        <div class="th2">Rural supply still trails metro counties</div>
+        <p class="tbody">The number of registered nurses per 10,000 population increased 12% statewide between 2019 and 2024, yet fifty-nine counties remain below the state average. Licensure data from the Health Professions Data System covers every county, every year, back to 1979.</p>
+        <div class="nums" style="color:var(--brand-green)">2,884&nbsp;&nbsp;·&nbsp;&nbsp;75.4%&nbsp;&nbsp;·&nbsp;&nbsp;1979–2024</div>
+        <p class="why">One coherent superfamily (sans + mono for figures); institutional, engineered character that suits a data system. Slightly more austere than A.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Homepage hero — mock</h2>
+    <p class="sec-note">Replaces the current empty band. Authority through real numbers (values below are placeholders — final figures pulled from the HPDS at build time) plus a small live chart element instead of imagery.</p>
+    <div class="hero-mock">
+      <div class="kicker">NC Health Professions Data System</div>
+      <h3>We track &amp; visualize North Carolina's health workforce.</h3>
+      <p class="sub">Timely data, interactive visualizations, and policy analysis — built on the nation's oldest continuous state health workforce data system.</p>
+      <div class="stats">
+        <div class="stat"><b>1979–2024</b><span>continuous annual data</span></div>
+        <div class="stat"><b>20+</b><span>licensed professions tracked</span></div>
+        <div class="stat"><b>100</b><span>counties, every year</span></div>
+      </div>
+      <a class="hero-cta" href="#">Explore the supply data</a>
+      <div class="hero-spark">
+        <svg width="420" height="46" viewBox="0 0 420 46" role="img" aria-label="Illustrative sparkline of workforce growth since 1979">
+          <polyline fill="none" stroke="#33669a" stroke-width="2.5"
+            points="0,42 30,41 60,39 90,38 120,36 150,34 180,33 210,30 240,28 270,24 300,21 330,17 360,12 390,8 420,4"/>
+          <circle cx="420" cy="4" r="3.5" fill="#006837"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Listing cards — mock</h2>
+    <p class="sec-note">Replaces screenshots-of-reports thumbnails with a legible chart motif, and adds what the current cards are missing: section tag, date, title, and teaser. (Bars below are placeholders for real per-post thumbnail crops.)</p>
+    <div class="card-grid">
+      <div class="mock-card">
+        <div class="img g">
+          <div class="bar" style="height:30%;background:var(--seq-g-2)"></div>
+          <div class="bar" style="height:45%;background:var(--seq-g-3)"></div>
+          <div class="bar" style="height:58%;background:var(--seq-g-3)"></div>
+          <div class="bar" style="height:74%;background:var(--seq-g-4)"></div>
+          <div class="bar" style="height:92%;background:var(--seq-g-5)"></div>
+        </div>
+        <div class="body">
+          <div class="tagline"><span class="tag">Blog</span><span class="date">Jun 5, 2025</span></div>
+          <h4><a href="#">NC's CNM workforce increased 49% between 2013 and 2023</a></h4>
+          <p class="teaser">Growth is real, but geographic distribution challenges persist.</p>
+        </div>
+      </div>
+      <div class="mock-card">
+        <div class="img p">
+          <div class="bar" style="height:88%;background:var(--seq-p-4)"></div>
+          <div class="bar" style="height:70%;background:var(--seq-p-3)"></div>
+          <div class="bar" style="height:55%;background:var(--seq-p-3)"></div>
+          <div class="bar" style="height:38%;background:var(--seq-p-2)"></div>
+          <div class="bar" style="height:26%;background:var(--seq-p-2)"></div>
+        </div>
+        <div class="body">
+          <div class="tagline"><span class="tag" style="color:var(--brand-green)">Report · Nursing</span><span class="date">Sep 17, 2025</span></div>
+          <h4><a href="#">Retention of Registered Nurses: interventions that work</a></h4>
+          <p class="teaser">A brief report on strategies to increase retention in the nursing workforce.</p>
+        </div>
+      </div>
+      <div class="mock-card">
+        <div class="img g" style="background:var(--wash-blue)">
+          <svg width="100%" height="100%" viewBox="0 0 200 100" preserveAspectRatio="none" role="presentation">
+            <polyline fill="none" stroke="#33669a" stroke-width="3" points="0,85 40,78 80,70 120,55 160,35 200,20"/>
+            <polyline fill="none" stroke="#74c476" stroke-width="3" stroke-dasharray="6 4" points="0,90 40,88 80,84 120,80 160,74 200,70"/>
+          </svg>
+        </div>
+        <div class="body">
+          <div class="tagline"><span class="tag">Interactive</span><span class="date">Updated 2024</span></div>
+          <h4><a href="#">Health professional supply, by county and profession</a></h4>
+          <p class="teaser">Explore rates, totals, and demographics for 20+ professions.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Components</h2>
+    <p class="sec-note">Buttons keep the existing accessibility-checked green; links are always underlined in body content; every interactive element keeps the existing visible focus ring.</p>
+    <div class="comp-row">
+      <button class="btn primary">Download the data</button>
+      <button class="btn secondary">View methodology</button>
+      <button class="btn quiet">Cancel</button>
+      <button class="btn primary focus-demo">Focused state</button>
+    </div>
+    <p>Body text with an <a class="body-link" href="#">underlined inline link</a>, secondary text in <span style="color:var(--neutral-600)">gray #636363</span>, and key figures in <b style="color:var(--brand-blue); font-variant-numeric:tabular-nums">tabular numerals: 12,847</b>.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Style tile v1 · fonts loaded from Google Fonts for preview only — production would self-host · nothing on this page ships until approved
+  </div>
+</footer>
+
+</body>
+</html>
