@@ -36,8 +36,10 @@
     <link rel="alternate" type="application/rss+xml" href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title }}">
     {{ end }}
 
-    <link rel="stylesheet" href="/css/bulma2.min.css" type="text/css">
-    <!-- <link rel="stylesheet" href="/css/loader.css" type="text/css"> -->
+    {{/* Bulma 1.0.4, no-dark-mode build (the default build auto-switches to a
+         dark theme via prefers-color-scheme, which the site is not designed
+         for). Source: npm bulma@1.0.4 css/versions/bulma-no-dark-mode.min.css */}}
+    <link rel="stylesheet" href="/css/bulma-1.0.4-no-dark-mode.min.css" type="text/css">
 
     {{/* Plausible analytics. Production builds only, so local dev and deploy
          previews do not record page views. Previously injected via Netlify
