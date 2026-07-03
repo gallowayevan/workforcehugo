@@ -9,3 +9,12 @@
 
 [build.environment]
   HUGO_VERSION = "0.113.0"
+
+# Deploy previews and branch deploys build with a non-production Hugo
+# environment so hugo.IsProduction is false and the Plausible analytics
+# snippet is excluded (preview traffic would otherwise pollute site stats).
+[context.deploy-preview]
+  command = "hugo --environment preview"
+
+[context.branch-deploy]
+  command = "hugo --environment preview"
