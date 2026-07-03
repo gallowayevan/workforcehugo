@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Direction C — Civic Editorial (style tile)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #111417;
+    --navy: #16324f;        /* deep shade of the brand blue — 12.6:1 with white text */
+    --brand-blue: #33669a;
+    --brand-green: #006837;
+    --green-bright: #2e9e5b; /* large-text/graphic accent on navy */
+    --neutral-600: #636363;
+    --wash: #f2f5f8;
+    --seq-g-3: #74c476; --seq-g-4: #31a354; --seq-g-5: #006d2c;
+    --seq-p-4: #756bb1; --seq-p-5: #54278f;
+    --font: 'Libre Franklin', sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: var(--font); color: var(--ink); background: #fff; line-height: 1.5; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+  .tile-header { background: var(--navy); color: #fff; padding: 34px 0; }
+  .tile-header .kicker { color: var(--green-bright); font-weight: 600; font-size: .9rem; margin-bottom: 6px; }
+  .tile-header h1 { font-weight: 900; font-size: 2rem; line-height: 1.1; }
+  .tile-header p { color: #c3d0dc; font-size: .95rem; margin-top: 10px; max-width: 78ch; }
+  section { padding: 44px 0; border-bottom: 1px solid #dde3e8; }
+  h2.sec { font-weight: 800; font-size: 1.4rem; margin-bottom: 6px; }
+  p.sec-note { color: var(--neutral-600); max-width: 70ch; margin-bottom: 24px; }
+
+  /* Palette */
+  .swatches { display: flex; flex-wrap: wrap; gap: 12px; }
+  .swatch { width: 170px; border: 1px solid #dde3e8; }
+  .swatch .chip { height: 72px; }
+  .swatch .meta { padding: 8px 10px; font-size: .82rem; }
+  .swatch .meta b { display: block; font-weight: 600; }
+  .swatch .meta span { color: var(--neutral-600); }
+
+  /* Type */
+  .spec-h1 { font-weight: 900; font-size: 2.6rem; line-height: 1.05; letter-spacing: -0.01em; max-width: 22ch; }
+  .spec-h2 { font-weight: 600; font-size: 1.2rem; margin-top: 16px; color: var(--navy); }
+  .spec-body { max-width: 64ch; margin-top: 10px; font-size: 1.02rem; }
+  .bignum { display: flex; gap: 48px; flex-wrap: wrap; margin-top: 26px; }
+  .bignum .n b { display: block; font-weight: 900; font-size: 3.4rem; line-height: 1; color: var(--navy); font-variant-numeric: tabular-nums; }
+  .bignum .n:nth-child(2) b { color: var(--brand-green); }
+  .bignum .n:nth-child(3) b { color: var(--seq-p-5); }
+  .bignum .n span { font-size: .9rem; color: var(--neutral-600); }
+
+  /* Hero mock — dark band, chart IS the hero */
+  .hero-mock { background: var(--navy); color: #fff; padding: 52px 44px; }
+  .hero-mock .kicker { color: var(--green-bright); font-weight: 600; margin-bottom: 10px; }
+  .hero-mock h3 { font-weight: 900; font-size: 2.7rem; line-height: 1.05; max-width: 20ch; }
+  .hero-mock .sub { color: #c3d0dc; font-size: 1.15rem; margin: 16px 0 8px; max-width: 52ch; }
+  .hero-chart { margin: 26px 0 10px; }
+  .hero-meta { display: flex; justify-content: space-between; max-width: 640px; font-size: .85rem; color: #8fa3b5; }
+  .hero-cta { display: inline-block; margin-top: 26px; background: var(--green-bright); color: #06230f; text-decoration: none; font-weight: 800; padding: 12px 26px; }
+  .hero-cta:hover { background: #3db06a; }
+
+  /* Cards */
+  .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 22px; }
+  .mock-card { border: 1px solid #dde3e8; border-top: 6px solid var(--navy); background: #fff; display: flex; flex-direction: column; }
+  .mock-card.report { border-top-color: var(--brand-green); }
+  .mock-card.interactive { border-top-color: var(--seq-p-5); }
+  .mock-card .body { padding: 18px 18px 20px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .mock-card .tagline { display: flex; justify-content: space-between; font-size: .78rem; font-weight: 600; }
+  .mock-card .tag { color: var(--navy); }
+  .mock-card.report .tag { color: var(--brand-green); }
+  .mock-card.interactive .tag { color: var(--seq-p-5); }
+  .mock-card .date { color: var(--neutral-600); font-weight: 400; }
+  .mock-card h4 { font-weight: 800; font-size: 1.15rem; line-height: 1.25; }
+  .mock-card h4 a { color: var(--ink); text-decoration: none; }
+  .mock-card h4 a:hover { text-decoration: underline; text-underline-offset: .12em; }
+  .mock-card .keynum { font-weight: 900; font-size: 2rem; color: var(--navy); font-variant-numeric: tabular-nums; }
+  .mock-card.report .keynum { color: var(--brand-green); }
+  .mock-card.interactive .keynum { color: var(--seq-p-5); }
+  .mock-card .teaser { font-size: .92rem; color: var(--neutral-600); }
+
+  /* Components */
+  .comp-row { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; margin-bottom: 18px; }
+  .btn { font-family: var(--font); font-weight: 800; font-size: .95rem; padding: 11px 24px; border: none; cursor: pointer; }
+  .btn.primary { background: var(--brand-green); color: #fff; }
+  .btn.dark { background: var(--navy); color: #fff; }
+  .btn.secondary { background: #fff; color: var(--navy); border: 2px solid var(--navy); }
+  .btn.focus-demo { outline: 2px solid #485fc7; outline-offset: 2px; }
+  a.body-link { color: var(--brand-blue); text-decoration: underline; text-underline-offset: .15em; }
+  footer { padding: 26px 0 60px; color: var(--neutral-600); font-size: .85rem; }
+</style>
+</head>
+<body>
+
+<header class="tile-header">
+  <div class="wrap">
+    <div class="kicker">DESIGN DIRECTION C · STYLE TILE · INTERNAL REVIEW</div>
+    <h1>Civic Editorial</h1>
+    <p>The boldest of the three: newsroom-data-desk energy (think ProPublica, The Pudding, a modern statehouse
+    bureau). One typeface — Libre Franklin, the civic Franklin Gothic lineage — at extreme weight contrast, a deep
+    navy derived from the brand blue, and charts doing the talking at hero scale. For engaging policymakers and the
+    public who scroll past quiet.</p>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Palette — duotone plus one</h2>
+    <p class="sec-note">Navy (a dark shade of the logo blue) and the logo green carry everything; the map purple appears only as the interactive-content marker. White text on navy is 12.6:1; the bright green is reserved for large text and graphics on navy.</p>
+    <div class="swatches">
+      <div class="swatch"><div class="chip" style="background:#16324f"></div><div class="meta"><b>Navy #16324F</b><span>Hero bands, display accents</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#006837"></div><div class="meta"><b>Brand green #006837</b><span>Buttons, report accents</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#2e9e5b"></div><div class="meta"><b>Bright green #2E9E5B</b><span>Large text/graphics on navy only</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#33669a"></div><div class="meta"><b>Brand blue #33669A</b><span>Inline links</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#54278f"></div><div class="meta"><b>Purple #54278F</b><span>Interactive-content marker</span></div></div>
+      <div class="swatch"><div class="chip" style="background:#f2f5f8; border-bottom:1px solid #dde3e8"></div><div class="meta"><b>Wash #F2F5F8</b><span>Alternating sections</span></div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Typography — one family, extreme contrast</h2>
+    <p class="sec-note">Libre Franklin only: Black (900) for headlines and numbers, Semibold for structure, Regular for reading. No second typeface — scale and weight do all the work.</p>
+    <div class="spec-h1">North Carolina's nurse workforce is growing — but not everywhere.</div>
+    <div class="spec-h2">Rural supply still trails metro counties</div>
+    <p class="spec-body">The number of registered nurses per 10,000 population increased 12% statewide between 2019 and 2024, yet fifty-nine counties remain below the state average. Licensure data from the Health Professions Data System covers every county, every year, back to 1979.</p>
+    <div class="bignum">
+      <div class="n"><b>49%</b><span>CNM growth, 2013–2023</span></div>
+      <div class="n"><b>59</b><span>counties below state RN rate</span></div>
+      <div class="n"><b>1979</b><span>first year of continuous data</span></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Homepage hero — mock</h2>
+    <p class="sec-note">A full navy band where the chart is the hero image (placeholder line shown — the real one would be the live statewide supply trend). Nothing decorative: headline, one claim, one chart, one action.</p>
+    <div class="hero-mock">
+      <div class="kicker">NC HEALTH PROFESSIONS DATA SYSTEM</div>
+      <h3>We track North Carolina's health workforce.</h3>
+      <p class="sub">45 years of licensure data. Every county. Every year. Explore where the state's clinicians actually are — and where they aren't.</p>
+      <svg class="hero-chart" width="100%" height="120" viewBox="0 0 640 120" preserveAspectRatio="none" role="img" aria-label="Illustrative statewide workforce trend, 1979 to 2024">
+        <polyline fill="none" stroke="#2e9e5b" stroke-width="4" points="0,108 46,104 92,101 138,96 184,92 230,85 276,80 322,74 368,66 414,60 460,50 506,40 552,28 598,16 640,8"/>
+        <polyline fill="none" stroke="#8fa3b5" stroke-width="2" stroke-dasharray="5 5" points="0,112 46,110 92,109 138,107 184,106 230,104 276,103 322,101 368,100 414,98 460,97 506,95 552,94 598,92 640,91"/>
+      </svg>
+      <div class="hero-meta"><span>1979</span><span>Clinicians per 10,000 — metro (green) vs nonmetro (gray)</span><span>2024</span></div>
+      <br>
+      <a class="hero-cta" href="#">EXPLORE THE DATA</a>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Listing cards — headline + number first</h2>
+    <p class="sec-note">Every card leads with its one key statistic at display weight — the finding is the thumbnail. Section identity by top-rule color: navy blog, green reports, purple interactives.</p>
+    <div class="card-grid">
+      <div class="mock-card">
+        <div class="body">
+          <div class="tagline"><span class="tag">BLOG</span><span class="date">Jun 5, 2025</span></div>
+          <div class="keynum">+49%</div>
+          <h4><a href="#">NC's certified nurse midwife workforce grew half again since 2013</a></h4>
+          <p class="teaser">But geographic distribution challenges persist.</p>
+        </div>
+      </div>
+      <div class="mock-card report">
+        <div class="body">
+          <div class="tagline"><span class="tag">REPORT · NURSING</span><span class="date">Sep 17, 2025</span></div>
+          <div class="keynum">12,500</div>
+          <h4><a href="#">The RN shortage NC is projected to face by 2033 — and what retains nurses</a></h4>
+          <p class="teaser">A brief report on interventions that increase retention.</p>
+        </div>
+      </div>
+      <div class="mock-card interactive">
+        <div class="body">
+          <div class="tagline"><span class="tag">INTERACTIVE</span><span class="date">Updated 2024</span></div>
+          <div class="keynum">100</div>
+          <h4><a href="#">Every county's supply of 20+ health professions, mapped</a></h4>
+          <p class="teaser">Rates, totals, and demographics — explore and download.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Components</h2>
+    <div class="comp-row">
+      <button class="btn primary">Download the data</button>
+      <button class="btn dark">View methodology</button>
+      <button class="btn secondary">Cancel</button>
+      <button class="btn primary focus-demo">Focused state</button>
+    </div>
+    <p style="max-width:64ch">Body text with an <a class="body-link" href="#">underlined inline link</a>, and key figures set heavy and navy: <b style="font-weight:900;color:var(--navy)">12,847</b>. Buttons are square-cornered and unapologetic.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">Direction C "Civic Editorial" · fonts from Google Fonts for preview only · nothing ships until approved</div>
+</footer>
+
+</body>
+</html>
