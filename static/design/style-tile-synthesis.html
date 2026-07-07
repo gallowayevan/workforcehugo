@@ -99,6 +99,13 @@
       county grid or trend line, it is generated from current HPDS data at build time and carries a source line,
       exactly like a figure in a report. Until that pipeline exists, the hero uses verified numbers only.</p>
     </div>
+    <div class="integrity" style="margin-top:14px; border-left-color:var(--brand-green)">
+      <h4>The freshness rule: a stale number is a fake chart with a delay.</h4>
+      <p><b>Dated content may carry frozen numbers</b> — a post's key statistic is its finding, fixed at publication
+      like a headline; the visible date is the context. <b>Undated surfaces (homepage, section pages) show only
+      numbers wired to a single data file</b> updated during the annual HPDS refresh — never hand-typed into a
+      template. If a number can't be wired that way, it doesn't appear on an evergreen page.</p>
+    </div>
   </div>
 </section>
 
@@ -150,6 +157,36 @@
         </div>
       </div>
     </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2 class="sec">Optional C-flavored surfaces — for team reaction</h2>
+    <p class="sec-note">Direction C's energy, admitted only where it survives the two rules above. Both samples below are freshness-safe: the navy hero shows the same wired-or-nothing numbers, and the key statistic on a listing entry is frozen frontmatter on dated content.</p>
+
+    <div style="background:#16324f; color:#fff; padding:38px 36px; border-radius:6px; margin-bottom:26px;">
+      <div style="color:#7fd4a1; font-weight:600; font-size:.95rem; margin-bottom:8px;">NC HEALTH PROFESSIONS DATA SYSTEM</div>
+      <h3 style="font-family:var(--font-display); font-weight:800; font-size:2.2rem; line-height:1.1; max-width:22ch;">We track North Carolina's health workforce.</h3>
+      <div style="display:flex; gap:44px; flex-wrap:wrap; margin:24px 0 6px;">
+        <div><b style="display:block; font-family:var(--font-display); font-size:2.1rem; font-weight:700; color:#7fd4a1; font-variant-numeric:tabular-nums;">1979</b><span style="font-size:.88rem; color:#c3d0dc;">first year of continuous data</span></div>
+        <div><b style="display:block; font-family:var(--font-display); font-size:2.1rem; font-weight:700; color:#fff; font-variant-numeric:tabular-nums;">20+</b><span style="font-size:.88rem; color:#c3d0dc;">professions tracked</span></div>
+        <div><b style="display:block; font-family:var(--font-display); font-size:2.1rem; font-weight:700; color:#fff; font-variant-numeric:tabular-nums;">100</b><span style="font-size:.88rem; color:#c3d0dc;">counties, every year</span></div>
+      </div>
+      <p style="font-family:var(--font-mono); font-size:.78rem; color:#8fa3b5;">Source: NC Health Professions Data System.</p>
+    </div>
+
+    <div class="entries" style="max-width:780px;">
+      <div class="entry" style="grid-template-columns:108px 1fr 110px;">
+        <div class="no"><b>BLOG</b>2025.06.05</div>
+        <div>
+          <h4><a href="#">NC's CNM workforce increased 49% between 2013 and 2023</a></h4>
+          <p class="teaser">Growth is real, but geographic distribution challenges persist.</p>
+        </div>
+        <div style="font-family:var(--font-display); font-weight:700; font-size:1.7rem; color:var(--brand-green); text-align:right; font-variant-numeric:tabular-nums;">+49%<span style="display:block; font-family:var(--font-body); font-weight:400; font-size:.72rem; color:var(--neutral-600);">2013–2023</span></div>
+      </div>
+    </div>
+    <p class="sec-note" style="margin-top:14px;">The key statistic is a per-post frontmatter field (<span style="font-family:var(--font-mono); font-size:.85rem;">keyStat: "+49%"</span>, <span style="font-family:var(--font-mono); font-size:.85rem;">keyStatContext: "2013–2023"</span>) written once at publication — it cannot rot relative to its own dated post, and entries without one simply omit the column.</p>
   </div>
 </section>
 
