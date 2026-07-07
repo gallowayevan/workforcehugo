@@ -38,4 +38,16 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Wrap markdown-generated tables in a scroll container so wide tables
+    // scroll within the article instead of the whole page (WCAG 2.1 reflow).
+    // Done in JS rather than CSS display tricks to preserve table semantics
+    // for assistive technology.
+    document.querySelectorAll('.content table').forEach(table => {
+        if (table.parentElement.classList.contains('table-scroll')) return;
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-scroll';
+        table.parentNode.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+    });
+
 });
