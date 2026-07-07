@@ -1,7 +1,10 @@
 {{ define "main"}}
 <section class="section">
-    <p>
-    <h1 class="title">No page found at that address. <a href="{{ "/" | relURL }}">Go Home.</a></h1>
-    </p>
+    <div class="container catalog-container">
+        <h1 class="title">No page found at that address.</h1>
+        <div class="content">
+            <p>Try the <a href="{{ "/" | relURL }}">home page</a>, or browse the <a href="{{ "blog" | relURL }}">blog</a> — the search box there covers all posts, reports, and interactives.</p>
+        </div>
+    </div>
 </section>
 {{ end }}

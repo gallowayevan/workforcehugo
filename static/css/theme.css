@@ -441,17 +441,36 @@ article.content.column > .table-scroll {
     padding: 3rem 1.5rem;
 }
 
+/* Centered footer: one logo row with matched vertical centers, contact
+   line beneath at body size. (Centered chrome is conventional for
+   footers; the article's left axis doesn't apply here.) */
 .footer-inner {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.4rem;
+}
+
+.footer-logos {
+    display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
-    gap: 2.5rem 4.5rem;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem 5rem;
+}
+
+.footer-support {
+    text-align: center;
 }
 
 .footer-label {
     font-weight: 600;
     font-size: 0.9rem;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer-contact {
+    font-size: 1.05rem;
 }
 
 .footer-logo-sheps {
