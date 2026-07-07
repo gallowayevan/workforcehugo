@@ -11,3 +11,7 @@ keywords: []
 # fullWidth: true   # let wide figures span the full container
 # hideAhec: true    # suppress the AHEC funding acknowledgment
 ---
+
+<!-- Figures: use the img shortcode with title/caption/attr - see
+     "Figures in posts" in readme.md for the house convention. -->
+

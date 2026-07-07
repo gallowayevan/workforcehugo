@@ -1,0 +1,7 @@
+{{- /* Markdown images (![alt](src "title")) render with the same figure
+       anatomy as the img shortcode, so both syntaxes look identical.
+       The optional markdown title becomes the caption. */ -}}
+<figure class="post-figure">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy">
+    {{- with .Title }}<figcaption class="figure-caption"><p>{{ . }}</p></figcaption>{{ end -}}
+</figure>

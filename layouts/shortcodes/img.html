@@ -1,20 +1,27 @@
-<figure {{ with .Get "class" }}class="{{.}}" {{else}}class="" {{ end }}>
-    {{ if isset .Params "title" }}
-    <p class="has-text-left">{{ .Get "title" | markdownify | safeHTML }}</p>
-    {{ end }}
-    {{ with .Get "src"}}<a href="{{.}}">{{ end }}
-        <img src="{{ .Get "src" }}"
+{{/*
+    Unified figure. Convention (see readme.md, "Figures in posts"):
+      src      image path (required)
+      alt      description for screen readers (required)
+      title    figure heading, above the image - bold the "Figure N."
+               prefix only, e.g. "**Figure 1.** RNs per 10,000, 2024"
+      caption  note/methodology text, below the image (small gray)
+      attr     data source; renders as a mono "Source: ..." line
+      attrlink URL for the source
+      class    extra classes (e.g. is-wide-figure)
+    Plain markdown images get the same anatomy via the render-image hook.
+*/}}
+<figure class="post-figure{{ with .Get "class" }} {{ . }}{{ end }}">
+    {{ with .Get "title" }}<p class="figure-title">{{ . | markdownify }}</p>{{ end }}
+    {{ with .Get "src" }}<a href="{{ . }}">{{ end }}
+        <img src="{{ .Get "src" }}" loading="lazy"
             alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}" />
-        {{ if .Get "src"}}</a>{{ end }}
-    {{ if or (.Get "caption") (.Get "attr")}}
-    <figcaption class="is-size-7 has-text-left">
-        {{ if or (.Get "caption") (.Get "attr")}}<p>
-            {{ .Get "caption" | markdownify }}
-            {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
-                {{ .Get "attr" }}
-                {{ if .Get "attrlink"}}</a> {{ end }}
-        </p> {{ end }}
+    {{ if .Get "src" }}</a>{{ end }}
+    {{ if or (.Get "caption") (.Get "attr") }}
+    <figcaption class="figure-caption">
+        {{ with .Get "caption" }}<p>{{ . | markdownify }}</p>{{ end }}
+        {{ with .Get "attr" }}
+        <p class="figure-source">Source: {{ with $.Get "attrlink" }}<a href="{{ . }}">{{ end }}{{ . }}{{ if $.Get "attrlink" }}</a>{{ end }}</p>
+        {{ end }}
     </figcaption>
     {{ end }}
 </figure>
-<!-- image -->

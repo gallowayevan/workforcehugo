@@ -312,6 +312,88 @@ strong {
     font-weight: 600;
 }
 
+/* ---------- Article readability ---------- */
+
+article.content {
+    font-size: 1.0625rem;
+    line-height: 1.6;
+}
+
+/* Prose measure: text blocks cap at a comfortable reading width while
+   figures and tables keep the full column */
+article.content > p,
+article.content > ul,
+article.content > ol,
+article.content > blockquote,
+article.content > h1,
+article.content > h2,
+article.content > h3,
+article.content > h4 {
+    max-width: 70ch;
+}
+
+/* ---------- Figures ---------- */
+
+.content .post-figure,
+.post-figure {
+    margin: 2.2rem 0;
+    text-align: left;
+}
+
+.post-figure img {
+    display: block;
+}
+
+.figure-title {
+    font-family: var(--sh-display);
+    font-size: 0.98rem;
+    max-width: 70ch;
+}
+
+.content .post-figure .figure-title {
+    margin-bottom: 0.6rem;
+}
+
+.figure-caption,
+.content figcaption.figure-caption {
+    font-size: 0.85rem;
+    font-style: normal;
+    color: var(--sh-gray);
+    text-align: left;
+    margin-top: 0.6rem;
+    max-width: 70ch;
+}
+
+.figure-caption p {
+    margin-bottom: 0.35rem;
+}
+
+.figure-source {
+    font-family: var(--sh-mono);
+    font-size: 0.78rem;
+}
+
+/* ---------- Content tables ---------- */
+
+.content table thead th {
+    border-bottom: 2px solid var(--sh-ink);
+}
+
+.content table td {
+    font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Takeaway box (message is-info) ---------- */
+
+.content .message.is-info {
+    background-color: var(--sh-wash);
+}
+
+.content .message.is-info .message-body {
+    border-color: var(--sh-blue);
+    color: var(--sh-ink);
+}
+
 /* ---------- Article extras ---------- */
 
 .content .source-line,

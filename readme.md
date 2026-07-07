@@ -76,6 +76,30 @@ magick figure_2.png -resize 400x300^ -gravity center -extent 400x300 <repo>/stat
 
 If `teaserImage` is omitted, listing cards simply render without an image.
 
+### Figures in posts
+
+One convention for all figures — use the `img` shortcode:
+
+```
+{{</* img src="/images/posts/my-post/figure_1.png"
+       alt="RN supply is rising statewide but flat in rural counties."
+       title="**Figure 1.** Registered Nurses per 10,000 Population, 2024"
+       caption="**Note:** Data include active, licensed RNs as of October 31."
+       attr="NC Health Professions Data System" */>}}
+```
+
+- `alt` (required): one sentence describing what the chart shows, for
+  screen readers
+- `title`: figure heading above the image — bold only the "Figure N."
+  prefix
+- `caption`: notes/methodology below the image, in small gray text
+- `attr` (+ optional `attrlink`): the data source; renders as a
+  monospace "Source: ..." line
+- `class="is-wide-figure"`: opt into a wider-than-text presentation
+
+Plain markdown images (`![alt](src)`) get the same styling automatically,
+but the shortcode is preferred for anything with a title or source.
+
 ### Download buttons for interactive charts
 
 Adding `downloadId: viz` to an `interactive` page's front matter creates
