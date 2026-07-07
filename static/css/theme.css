@@ -424,6 +424,22 @@ article.content.column > .table-scroll {
     margin-top: 3rem;
 }
 
+/* ---------- Links ----------
+   One system, two roles, underline always the marker of clickable text:
+   - links WITHIN prose (articles, captions, boxes, footer): brand blue
+     + underline, so they're scannable inside reading text
+   - TITLE links in structured lists (catalog entries, publications):
+     ink + gray underline, so a column of linked titles doesn't become
+     a wall of blue; hover shifts to blue
+   Structural navigation (navbar, cards, buttons) is exempt from
+   underlines - identified by position and component form. */
+.content a:not(.button),
+.message-body a,
+.figure-caption a,
+.footer a:not(.button) {
+    color: var(--sh-blue);
+}
+
 /* ---------- Article extras ---------- */
 
 .content .source-line,
