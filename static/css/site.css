@@ -113,3 +113,24 @@ a:focus-visible,
     white-space: nowrap;
     border: 0;
 }
+
+/* Accessibility (WCAG 2.1 1.4.10 Reflow): data tables scroll inside their
+   own container (wrapper added by site.js) instead of forcing the whole
+   page to scroll horizontally at narrow widths */
+.table-scroll {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+/* Accessibility (WCAG 2.1 1.4.10 Reflow): let the footer email address
+   wrap instead of overflowing 320px viewports */
+.footer a[href^="mailto:"] {
+    overflow-wrap: anywhere;
+}
+
+/* Accessibility (WCAG 2.1 1.4.10 Reflow): long unbreakable strings in
+   article prose (bare-URL citation links, long identifiers) wrap instead
+   of widening the page at narrow viewports */
+.content {
+    overflow-wrap: break-word;
+}
