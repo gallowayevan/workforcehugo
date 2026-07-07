@@ -31,26 +31,45 @@
     border-radius: 5px; /* Rounded corners */
 }
 
-/* Accessibility: darken green success buttons for 4.5:1 contrast */
+/* Accessibility: darkened, white-text color buttons for 4.5:1 contrast.
+   Explicit color is required under Bulma 1.x: it computes button text
+   color from ITS default (lighter) fills, so darkening only the
+   background yields dark-on-dark text. */
 .button.is-success {
     background-color: #257953;
+    color: #fff;
 }
-.button.is-success:hover {
+.button.is-success:hover, .button.is-success:focus-visible {
     background-color: #1e6e49;
+    color: #fff;
 }
 .button.is-success:active, .button.is-success.is-active {
     background-color: #1a5f3f;
+    color: #fff;
 }
 
-/* Accessibility: darken info buttons and message headers */
 .button.is-info {
     background-color: #296fa8;
+    color: #fff;
 }
-.button.is-info:hover {
+.button.is-info:hover, .button.is-info:focus-visible {
     background-color: #235f91;
+    color: #fff;
 }
+
+/* Brand blue instead of Bulma 1.x's violet link color */
+.button.is-link {
+    background-color: #33669a;
+    color: #fff;
+}
+.button.is-link:hover, .button.is-link:focus-visible {
+    background-color: #2b567f;
+    color: #fff;
+}
+
 .message.is-info .message-header {
     background-color: #296fa8;
+    color: #fff;
 }
 
 /* Accessibility: darken grey text */
