@@ -483,6 +483,21 @@ article.content.column > .table-scroll {
     white-space: nowrap;
 }
 
+/* Title links sit beside plain-text cells, so color alone can't mark
+   them (WCAG 1.4.1) - same underline convention as catalog entries */
+#publicationsTable td a {
+    color: var(--sh-ink);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #9a9a9a;
+    text-underline-offset: 0.18em;
+}
+
+#publicationsTable td a:hover {
+    color: var(--sh-blue);
+    text-decoration-color: var(--sh-blue);
+}
+
 .sort-button {
     font-family: var(--sh-display);
     font-weight: 700;
