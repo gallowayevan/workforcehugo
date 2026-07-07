@@ -1,101 +1,82 @@
 {{ define "main"}}
 
-
-<section class="hero is-medium has-background-info-light">
+{{/* Hero: verified numbers only, wired to data/site_stats.json (updated
+     during the annual HPDS refresh - see readme). No decorative charts:
+     the graphical-integrity rule. */}}
+<section class="hero home-hero">
   <div class="hero-body">
     <div class="container">
-      <div class="columns">
-  <div class="column is-8-desktop is-offset-2-desktop is-block-mobile has-text-centered">
-        <h1 class="title has-text-centered" style="word-break:normal;">We track & visualize North Carolina's health workforce.</h1>
-          <p class="subtitle is-4 has-text-centered" style="word-break:normal;">Timely data, interactive visualizations, policy analysis and more.</p>
-               <a class="button is-success is-rounded" href="/about"> Learn More About Us  </a>
- </div>
-        </div>
-        </div>
-          </div>
-
+      <p class="home-kicker">NC Health Professions Data System</p>
+      <h1 class="home-title">We track &amp; visualize North Carolina's health workforce.</h1>
+      <p class="home-sub">Timely data, interactive visualizations, policy analysis and more.</p>
+      <div class="home-stats">
+        {{ range site.Data.site_stats.stats }}
+        <div class="home-stat"><b>{{ .value }}</b><span>{{ .label }}</span></div>
+        {{ end }}
+      </div>
+      <p class="home-stat-src">Source: {{ site.Data.site_stats.source }}.</p>
+      <div class="home-ctas">
+        <a class="button is-success" href="/interactive/supply/">Explore the supply data</a>
+        <a class="button" href="/about/">About us</a>
+      </div>
+    </div>
+  </div>
 </section>
 
-<!-- Trying out new explore section -->
-
-
-<section class="section has-background-white-er is-bold">
-
+<section class="section">
   <div class="column is-8-desktop is-offset-2-desktop is-block-mobile">
-    <h2 class="title has-text-centered is-spaced has-text-weight-light"> Explore</h2>
+    <h2 class="title has-text-centered is-spaced">Explore</h2>
     <div class="container">
-
       <div class="columns">
 
-
         <div class="column">
-          <div class="card has-background-success-light">
+          <div class="card explore-card">
             <a href="/projects/mhsu-workforce/">
               <div class="card-image">
                 <figure class="image is-4by3">
                   <img src="/images/thumbnails/mhsu-workforce.png" alt="Go to MH/SU Workforce Report." style="object-fit: cover;">
                 </figure>
               </div>
-              <div class="card-content ">
+              <div class="card-content">
                 <div class="content">
-                  <h3 class="title is-4 has-text-centered has-text-weight-light" style="word-break:normal;">MH/SU Services Workforce Landscape</h3>
-                  <p class="subtitle is-5 has-text-centered" style="word-break:normal;">Explore North Carolina's mental health and substance use services workforce.</p>
+                  <h3 class="title is-4 has-text-centered">MH/SU Services Workforce Landscape</h3>
+                  <p class="subtitle is-5 has-text-centered">Explore North Carolina's mental health and substance use services workforce.</p>
                 </div>
               </div>
             </a>
           </div>
         </div>
- 
-
-        <!-- <div class="column">
-          <div class="card has-background-success-light">
-            <a href="/interactive">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img src="/images/assets/interactive.png" alt="Go to interactive data visualizations.">
-                </figure>
-              </div>
-              <div class="card-content ">
-                <div class="content">
-                  <h2 class="title is-4 has-text-centered has-text-weight-light" style="word-break:normal;">Interactive Visualizations</h2>
-                  <p class="subtitle is-5 has-text-centered" style="word-break:normal;">Explore trends in the NC health workforce.</p>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div> -->
 
         <div class="column">
-          <div class="card has-background-success-light">
+          <div class="card explore-card">
             <a href="/interactive/supply">
               <div class="card-image">
                 <figure class="image is-4by3">
                   <img src="/images/assets/supply-viz.png" alt="Go to health professional supply visualization.">
                 </figure>
               </div>
-              <div class="card-content ">
+              <div class="card-content">
                 <div class="content">
-                  <h3 class="title is-4 has-text-centered has-text-weight-light" style="word-break:normal;">Supply Visualization</h3>
-                  <p class="subtitle is-5 has-text-centered" style="word-break:normal;">See where health care professionals work across the state.</p>
+                  <h3 class="title is-4 has-text-centered">Supply Visualization</h3>
+                  <p class="subtitle is-5 has-text-centered">See where health care professionals work across the state.</p>
                 </div>
               </div>
             </a>
           </div>
         </div>
 
-
         <div class="column">
-          <div class="card has-background-success-light">
+          <div class="card explore-card">
             <a href="/blog">
               <div class="card-image">
                 <figure class="image is-4by3">
                   <img src="/images/assets/blog.png" alt="Go to health workforce blog.">
                 </figure>
               </div>
-              <div class="card-content ">
+              <div class="card-content">
                 <div class="content">
-                  <h3 class="title is-4 has-text-centered has-text-weight-light" style="word-break:normal;">Blog</h3>
-                  <p class="subtitle is-5 has-text-centered" style="word-break:normal;">Check out our recent blogs.</p>
+                  <h3 class="title is-4 has-text-centered">Blog</h3>
+                  <p class="subtitle is-5 has-text-centered">Check out our recent blogs.</p>
                 </div>
               </div>
             </a>
@@ -107,11 +88,20 @@
   </div>
 </section>
 
-
-
-
-
-
-
+{{/* Latest posts across all searchable sections, plus site search. */}}
+<section class="section has-background-white-ter">
+  <div class="container catalog-container">
+    <h2 class="title is-3">Latest</h2>
+    {{ partial "search.html" . }}
+    <div class="entries" id="catalog-list">
+      {{ $searchable := where site.RegularPages "Type" "in" site.Params.searchSections }}
+      {{ $visible := where $searchable ".Params.unlisted" "!=" true }}
+      {{ range first 6 $visible.ByDate.Reverse }}
+      {{ partial "entry.html" (dict "page" . "level" 3) }}
+      {{ end }}
+    </div>
+    <div class="entries search-results" id="search-results" data-heading="h3" hidden></div>
+  </div>
+</section>
 
 {{end}}

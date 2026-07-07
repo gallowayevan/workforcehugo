@@ -1,0 +1,24 @@
+{{/*
+    Catalog listing entry. Call with:
+      (dict "page" $page "level" 2)
+    level = heading level for the entry title (2 on list pages under an
+    h1, 3 on the homepage under an h2).
+*/}}
+{{- $p := .page -}}
+{{- $level := .level | default 2 -}}
+{{- $labels := dict "blog" "Blog" "projects" "Report" "interactive" "Interactive" -}}
+<div class="entry">
+    <div class="entry-meta">
+        <span class="entry-type{{ if eq $p.Section "interactive" }} is-interactive{{ end }}">{{ index $labels $p.Section | default (title $p.Section) }}</span>
+        {{ if not $p.Date.IsZero }}<span class="entry-date">{{ dateFormat "2006.01.02" $p.Date }}</span>{{ end }}
+    </div>
+    <div class="entry-body">
+        {{ if eq $level 3 }}
+        <h3 class="entry-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+        {{ else }}
+        <h2 class="entry-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+        {{ end }}
+        {{ with $p.Params.teaserText }}<p class="entry-teaser">{{ . }}</p>{{ end }}
+        {{ with $p.Params.author }}<p class="entry-authors">{{ . }}</p>{{ end }}
+    </div>
+</div>

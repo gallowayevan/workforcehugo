@@ -1,0 +1,12 @@
+{{/*
+    Site search widget. Searches all sections in site.Params.searchSections
+    via /index.json; results render as catalog entries into the adjacent
+    #search-results container (see static/js/search.js). One per page.
+*/}}
+<div class="catalog-search field">
+    <label class="label" for="search-box">Search posts, reports, and interactives</label>
+    <div class="control">
+        <input type="search" id="search-box" class="input search-box" placeholder="Search...">
+    </div>
+    <div aria-live="polite"><span class="is-sr-only" id="search-results-announce"></span></div>
+</div>

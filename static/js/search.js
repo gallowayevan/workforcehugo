@@ -1,53 +1,87 @@
-// Client-side search over the pre-rendered thumbnail cards.
-// Fetches /index.json (built by layouts/index.json), matches the query as a
-// substring of title/authors/teaserText/keywords, and swaps the matching
-// thumbnail cards into the .thumbnails container.
+// Site search. Present on pages that include the search partial (homepage
+// and section list pages). Fetches /index.json and renders matches as
+// catalog entries into #search-results, hiding the server-rendered
+// #catalog-list while a query is active. All result content is inserted
+// via textContent (never innerHTML) so index data cannot inject markup.
 (function () {
 
-  const minMatchCharLength = 1;
+    const box = document.getElementById('search-box');
+    if (!box) return;
 
-  fetch('/index.json')
-    .then(function (response) {
-      return response.json();
-    })
-    .then(function (searchJSON) {
-      const searchIndex = searchJSON.map(function (d) {
-        const searchString = [d.title, d.authors, d.teaserText, d.keywords].join(' ').toLowerCase();
-        return { searchString, fileID: d.fileID };
-      });
+    const list = document.getElementById('catalog-list');
+    const results = document.getElementById('search-results');
+    const announce = document.getElementById('search-results-announce');
+    const headingTag = (results && results.dataset.heading) || 'h3';
+    const labels = { blog: 'Blog', projects: 'Report', interactive: 'Interactive' };
+    const minQueryLength = 2;
 
-      const searchBoxes = document.querySelectorAll('.search-box');
+    let index = null;
+    fetch('/index.json')
+        .then(function (response) { return response.json(); })
+        .then(function (data) {
+            index = data.map(function (d) {
+                const keywords = Array.isArray(d.keywords) ? d.keywords.join(' ') : (d.keywords || '');
+                return {
+                    entry: d,
+                    haystack: [d.title, d.authors, d.teaserText, keywords].join(' ').toLowerCase()
+                };
+            });
+        });
 
-      const thumbnailBox = document.querySelector('.thumbnails');
-      const defaultNumberDisplayed = Array.from(document.querySelectorAll('.thumbnails > div'), d => d.style.display).filter(d => d != "none").length;
-      const thumbnails = new Map(Array.from(thumbnailBox.querySelectorAll(".thumbnail"), d => [d.getAttribute('data-file-id'), d]));
-      const defaultKeys = Array.from(thumbnails.keys()).slice(0, defaultNumberDisplayed);
-      for (var i = 0; i < searchBoxes.length; i++) {
-        searchBoxes[i].addEventListener('keyup', search, false);
-      }
+    function make(tag, className, text) {
+        const el = document.createElement(tag);
+        if (className) el.className = className;
+        if (text) el.textContent = text;
+        return el;
+    }
 
-      function search(event) {
-        const searchResults = event.target.value.length >= minMatchCharLength ?
-          searchIndex.filter(d => d.searchString.includes(event.target.value.toLowerCase())).map(d => d.fileID) :
-          defaultKeys;
+    function render(entries) {
+        results.textContent = '';
+        entries.forEach(function (d) {
+            const entry = make('div', 'entry');
+            const meta = make('div', 'entry-meta');
+            meta.appendChild(make('span',
+                'entry-type' + (d.section === 'interactive' ? ' is-interactive' : ''),
+                labels[d.section] || d.section));
+            if (d.date) meta.appendChild(make('span', 'entry-date', d.date));
 
-        const thumbnailFragment = document.createDocumentFragment();
+            const body = make('div', 'entry-body');
+            const heading = make(headingTag, 'entry-title');
+            const link = document.createElement('a');
+            link.href = d.url;
+            link.textContent = d.title;
+            heading.appendChild(link);
+            body.appendChild(heading);
+            if (d.teaserText) body.appendChild(make('p', 'entry-teaser', d.teaserText));
+            if (d.authors) body.appendChild(make('p', 'entry-authors', d.authors));
 
-        searchResults.forEach(d => {
-          if (thumbnails.has(d)) thumbnailFragment.appendChild(thumbnails.get(d));
-        })
+            entry.appendChild(meta);
+            entry.appendChild(body);
+            results.appendChild(entry);
+        });
+    }
 
-        thumbnailBox.innerHTML = '';
-        thumbnailBox.appendChild(thumbnailFragment);
+    box.addEventListener('input', function () {
+        if (!index) return;
+        const query = box.value.trim().toLowerCase();
 
-        // Announce result count to screen readers
-        const announce = document.getElementById('search-results-announce');
-        if (announce && event.target.value.length >= minMatchCharLength) {
-          announce.textContent = searchResults.length + ' result' + (searchResults.length !== 1 ? 's' : '') + ' found';
-        } else if (announce) {
-          announce.textContent = '';
+        if (query.length < minQueryLength) {
+            results.hidden = true;
+            if (list) list.hidden = false;
+            if (announce) announce.textContent = '';
+            return;
         }
-      }
+
+        const hits = index
+            .filter(function (d) { return d.haystack.includes(query); })
+            .map(function (d) { return d.entry; });
+
+        render(hits);
+        results.hidden = false;
+        if (list) list.hidden = true;
+        if (announce) {
+            announce.textContent = hits.length + ' result' + (hits.length !== 1 ? 's' : '') + ' found';
+        }
     });
 
 }());

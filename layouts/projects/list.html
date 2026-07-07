@@ -8,7 +8,7 @@
             {{ range .Sections }}
             {{ $section := . }}
             <div class="column is-one-third">
-                <div class="card">
+                <div class="card explore-card">
                     {{ with .Params.teaserImage }}
                     <div class="card-image">
                         <a href="{{ $section.RelPermalink }}">
@@ -42,19 +42,13 @@
 
             {{ if and .Pages (not .Params.hidePublications) }}
             <h2>Publications</h2>
-            {{ range .Pages.ByDate.Reverse }}
-            {{ if ne .Params.unlisted true }}
-            <div class="box">
-                <a href="{{ .RelPermalink }}">
-                    <h3 class="title is-5 mb-2">{{ .Title }}</h3>
-                </a>
-                <p class="has-text-grey is-size-7 mb-2">{{ with .Params.author }}By {{ . }} &mdash; {{ end }}{{ dateFormat "Jan 2, 2006" .Date }}</p>
-                {{ with .Params.teaserText }}
-                <p>{{ . }}</p>
+            <div class="entries">
+                {{ range .Pages.ByDate.Reverse }}
+                {{ if ne .Params.unlisted true }}
+                {{ partial "entry.html" (dict "page" . "level" 3) }}
+                {{ end }}
                 {{ end }}
             </div>
-            {{ end }}
-            {{ end }}
             {{ end }}
         </article>
     </div>

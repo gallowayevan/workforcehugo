@@ -77,7 +77,19 @@ class RegionExtractor(HTMLParser):
 def extract(path):
     with open(path, encoding="utf-8", errors="replace") as f:
         html = f.read()
-    # First pass: prefer <article>
+    # Prefer the first <article>...</article>, sliced on the literal end
+    # tag so unbalanced raw HTML inside a post cannot spill the region
+    # into the page shell.
+    start = html.find("<article")
+    if start != -1:
+        end = html.find("</article>", start)
+        region = html[start:end if end != -1 else len(html)]
+        p = RegionExtractor()
+        p.region_kind = "article"
+        p.region_depth = 1
+        p.feed(region)
+        text = " ".join("".join(p.texts).split())
+        return {"text": text, "links": sorted(set(p.links)), "imgs": sorted(set(p.imgs))}
     p = RegionExtractor()
     p.feed(html)
     if p.region_kind is None:
@@ -117,7 +129,10 @@ def main():
                     help="comma-separated relative page dirs allowed to differ")
     args = ap.parse_args()
 
-    expected = {p.strip().strip("/") for p in args.expect_changed.split(",") if p.strip()}
+    # "home" refers to the site root (a bare "/" gets path-mangled by
+    # MSYS-based shells on Windows).
+    expected = {"" if p.strip() in ("home", ".") else p.strip().strip("/")
+                for p in args.expect_changed.split(",") if p.strip()}
 
     base_pages = collect(args.baseline)
     cand_pages = collect(args.candidate)

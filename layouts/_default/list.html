@@ -1,12 +1,19 @@
 {{ define "main" }}
+{{/* Catalog-style section listing (blog, interactive). Entries are
+     typographic: type + date gutter, underlined title, teaser, authors.
+     No thumbnails by design - see the graphical-integrity rule. */}}
 <section class="section">
-    <div class="container">
-        <h1 class="title">{{.Title}}</h1>
-        <div class="columns is-multiline">
-            {{ range (where .Pages ".Params.unlisted" "!=" true) }}
-            {{ partial "thumbnail.html" . }}
+    <div class="container catalog-container">
+        <h1 class="title">{{ .Title }}</h1>
+        {{ partial "search.html" . }}
+        <div class="entries" id="catalog-list">
+            {{ range .Pages.ByDate.Reverse }}
+            {{ if ne .Params.unlisted true }}
+            {{ partial "entry.html" (dict "page" . "level" 2) }}
+            {{ end }}
             {{ end }}
         </div>
+        <div class="entries search-results" id="search-results" data-heading="h2" hidden></div>
     </div>
 </section>
 {{ end }}

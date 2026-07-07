@@ -1,12 +1,12 @@
-{{/* Generates the search index consumed by /js/search.js.
-     Fields are limited to what search.js actually matches on, plus fileID,
-     which ties results to the pre-rendered thumbnail cards.
-     Uses a local variable rather than .Scratch: Scratch persists across
-     rebuilds under `hugo server`, so the old version accumulated duplicate
-     entries in local development. */}}
+{{/* Search index consumed by /js/search.js, which renders matches as
+     catalog entries client-side. Uses a local variable rather than
+     .Scratch (Scratch persists across hugo-server rebuilds and would
+     accumulate duplicates in local development). */}}
 {{- $searchSections := .Site.Params.searchSections -}}
 {{- $index := slice -}}
 {{- range where (where .Site.RegularPages "Type" "in" $searchSections) ".Params.unlisted" "!=" true -}}
-    {{- $index = $index | append (dict "title" .Title "keywords" .Params.keywords "teaserText" .Params.teaserText "fileID" .File.UniqueID "authors" .Params.author) -}}
+    {{- $date := "" -}}
+    {{- if not .Date.IsZero }}{{ $date = dateFormat "2006.01.02" .Date }}{{ end -}}
+    {{- $index = $index | append (dict "title" .Title "teaserText" .Params.teaserText "keywords" .Params.keywords "authors" .Params.author "section" .Section "date" $date "url" .RelPermalink) -}}
 {{- end -}}
 {{- $index | jsonify -}}

@@ -1,0 +1,9 @@
+{
+    "_comment": "Homepage hero statistics. Per the freshness rule, evergreen surfaces only show numbers from this file - update it during the annual HPDS data refresh. See readme.md.",
+    "source": "NC Health Professions Data System",
+    "stats": [
+        { "value": "1979", "label": "first year of continuous annual data" },
+        { "value": "20+", "label": "licensed health professions tracked" },
+        { "value": "100", "label": "NC counties covered, every year" }
+    ]
+}

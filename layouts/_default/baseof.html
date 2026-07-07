@@ -55,6 +55,9 @@
 function delayLoad(e){"loading"!=document.readyState?e():document.addEventListener?document.addEventListener("DOMContentLoaded",e):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&e()})}function loadUtilityStyles(){var e=document.getElementsByTagName("head")[0],t=document.createElement("link");t.type="text/css",t.rel="stylesheet",t.href="https://its.unc.edu/web-assets/utility-bar/utility-bar.min.css",t.media="screen",e.appendChild(t)}function insertUtilityBar(e){switch(e){case"blue":case"white":case"navy":case"black":case"gray":e=e;break;default:e="dark-gray"}var t=document.createElement("div");t.setAttribute("id","unc-ub-wrapper"),t.setAttribute("class",e),t.setAttribute("style","display:none;"),t.innerHTML='<div <div id="unc-ub"><nav aria-label="skip"><a href="#unc-search" class="skip-link">skip to the end of the global utility bar</a></nav><div id="unc-ub-title"><a href="http://www.unc.edu/" target="_top">The University <em>of</em> North Carolina <em>at</em> Chapel Hill</a></div><div id="unc-ub-nav"><ul><li id="ub-access-link"><a href="https://www.unc.edu/about/accessibility/" aria-label="Report a digital accessibility issue">Accessibility</a></li><li id="ub-cal-link"><a href="https://www.unc.edu/events/" aria-label="UNC Events">Events</a></li><li id="ub-lib-link"><a href="http://library.unc.edu/">Libraries</a></li><li id="ub-map-link"><a href="https://maps.unc.edu/" aria-label="UNC Maps">Maps</a></li><li id="ub-dept-link" aria-label="UNC Departments"><a href="https://www.unc.edu/a-z/">Departments</a></li><li id="ub-cc-link"><a href="https://connectcarolina.unc.edu/">ConnectCarolina</a></li><li id="ub-search-link"><a href="https://www.unc.edu/search" id="unc-search">UNC Search</a></li></ul></div></div>';var s=document.getElementById("site-skip-link");s?s.insertAdjacentHTML("afterend",t.outerHTML):document.body.insertAdjacentHTML("afterbegin",t.outerHTML)}loadUtilityStyles(),delayLoad(function(){var e=document.getElementById("unc-ub-script");if(e)var t=e.getAttribute("data-color");insertUtilityBar(t)});</script>
 
     <link rel="stylesheet" href="/css/site.css" type="text/css">
+    <link rel="stylesheet" href="/css/theme.css" type="text/css">
+    <link rel="preload" href="/fonts/archivo-500-800.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/source-sans-3-400-700.woff2" as="font" type="font/woff2" crossorigin>
 
     {{ if isset .Page.Params "css" }}
     {{range .Page.Params.css}}
@@ -151,26 +154,26 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
 
                 <div id="navMenu" class="navbar-menu">
                     <div class="navbar-end">
-                        <a class="navbar-item has-text-weight-light is-size-5" href="/blog">
+                        <a class="navbar-item" href="/blog">
                             Blog
                         </a>
-                      <a class="navbar-item has-text-weight-light is-size-5" href="/projects">
+                        <a class="navbar-item" href="/projects">
                             Projects
                         </a>
-                        <a class="navbar-item has-text-weight-light is-size-5" href="/interactive">
+                        <a class="navbar-item" href="/interactive">
                             Interactives
                         </a>
-                        <!--    <a class="navbar-item has-text-weight-light is-size-5" href="/publications">
+                        {{/* Publications page exists but stays out of the nav
+                             while the team decides its future.
+                        <a class="navbar-item" href="/publications">
                             Publications
-                        </a>--> 
-                        <a class="navbar-item has-text-weight-light is-size-5" href="/downloaddata">
+                        </a> */}}
+                        <a class="navbar-item" href="/downloaddata">
                             Download Data
                         </a>
-                        <a class="navbar-item has-text-weight-light is-size-5" href="/about">
+                        <a class="navbar-item" href="/about">
                             About
                         </a>
-
-
                     </div>
                 </div>
 
@@ -183,39 +186,10 @@ function delayLoad(e){"loading"!=document.readyState?e():document.addEventListen
 
     {{ end }}
     </div>
-    <section class="hero has-background-white-ter">
-        <div class="hero-body">
-            <div class="container">
-                <h2 class="title has-text-centered has-text-weight-light">Recent Posts</h2>
-                <div class="columns is-centered">
-                    <div class="field column is-one-third">
-                        <label class="label" for="search-box">Search</label>
-                        <div class="control">
-                            <input type="text" placeholder="Search..." id="search-box" class="input search-box">
-                        </div>
-                    </div>
-                </div>
-     
-                <div aria-live="polite"><span class="is-sr-only" id="search-results-announce"></span></div>
-                <div class="columns is-multiline thumbnails">
-                    {{ $count := 0 }} <!-- Initialize a counter -->
-{{ range $elem_index, $elem_val := .Site.RegularPages }}
-    {{ if ne $elem_val.Params.unlisted true }}
-        {{ if lt $count 3 }} <!-- Check if counter is less than 3 -->
-            {{ partial "thumbnail.html" $elem_val }}
-            {{ $count = add $count 1 }} <!-- Increment the counter -->
-        {{ else }}
-            <div style="display:none">
-                {{ partial "thumbnail.html" $elem_val }}
-            </div>
-        {{ end }}
-    {{ end }}
-{{ end }}
 
-                </div>
-            </div>
-        </div>
-    </section>
+    {{/* Site search lives on the homepage and section list pages (via the
+         search partial), not in the shell - the old every-page hidden
+         thumbnail grid is gone. */}}
 
     <footer class="footer">
         <div class="container">
