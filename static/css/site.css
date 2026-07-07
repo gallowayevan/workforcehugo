@@ -18,16 +18,6 @@
     }
 }
 
-/* Bridge for Bulma 1.x: keep the 0.9.4 pale wash tones (1.x computes
-   noticeably more saturated -light variants). Remove when the design
-   refresh replaces these washes with theme tokens. */
-.has-background-info-light {
-    background-color: #eff5fb !important;
-}
-.has-background-success-light {
-    background-color: #effaf5 !important;
-}
-
 .card {
     height: 100%;
 }
