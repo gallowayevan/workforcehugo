@@ -2,13 +2,13 @@
 <section class="section">
     <h1 class="title">{{.Title}}</h1>
 
-    <div class="columns">
-        <div class="column is-half">
-            <form role="search" aria-label="Publications listed in the table on this page.">
-                <label for="searchInput">Search Publications:</label>
-                <input class="input" type="text" id="searchInput" placeholder="Search publications" />
-            </form>
-        </div>
+    <div class="catalog-search field">
+        <form role="search" aria-label="Publications listed in the table on this page.">
+            <label class="label" for="searchInput">Search publications</label>
+            <div class="control">
+                <input class="input" type="search" id="searchInput" placeholder="Search publications" />
+            </div>
+        </form>
     </div>
 
     <div class="table-scroll">
@@ -16,7 +16,7 @@
         <thead>
             <tr>
                 <th id="yearHeader" aria-sort="descending">
-                    <button id="yearSortButton" class="button is-inverted is-dark has-text-weight-bold sort-button">
+                    <button id="yearSortButton" class="sort-button">
                         Year <span id="sortIndicator" aria-hidden="true">▼</span>
                     </button>
                 </th>
@@ -27,7 +27,7 @@
         </thead>
         <tbody id="publicationsBody">
             {{ range .Site.Data.publications }}
-            <tr style="text-align:right;" data-year="{{ .Year }}"
+            <tr data-year="{{ .Year }}"
                 data-searchable="{{ lower (delimit (slice .Project .Title .Authors .Journal) " ") }}">
                 <td>{{ .Year }}</td>
                 <td><a href="{{ .Link }}">{{ .Title }}</a></td>

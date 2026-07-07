@@ -438,4 +438,62 @@ article.content.column > .table-scroll {
 .footer {
     border-top: 1px solid var(--sh-rule);
     background-color: #fafafa;
+    padding: 3rem 1.5rem;
+}
+
+.footer-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 2.5rem 4.5rem;
+}
+
+.footer-label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.6rem;
+}
+
+.footer-logo-sheps {
+    max-height: 3.2rem;
+    width: auto;
+}
+
+.footer-logo-ahec {
+    max-height: 3.6rem;
+    width: auto;
+}
+
+/* ---------- Publications ---------- */
+
+#publicationsTable thead th {
+    font-family: var(--sh-display);
+    border-bottom: 2px solid var(--sh-ink);
+    vertical-align: bottom;
+}
+
+#publicationsTable td {
+    border-bottom: 1px solid var(--sh-rule);
+    font-size: 0.95rem;
+}
+
+#publicationsTable td:first-child {
+    font-family: var(--sh-mono);
+    font-size: 0.85rem;
+    white-space: nowrap;
+}
+
+.sort-button {
+    font-family: var(--sh-display);
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--sh-ink);
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.sort-button:hover {
+    color: var(--sh-blue);
 }
