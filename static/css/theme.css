@@ -319,24 +319,35 @@ article.content {
     line-height: 1.6;
 }
 
-/* Prose measure: text blocks cap at a comfortable reading width while
-   figures and tables keep the full column */
-article.content > p,
-article.content > ul,
-article.content > ol,
-article.content > blockquote,
-article.content > h1,
-article.content > h2,
-article.content > h3,
-article.content > h4 {
+/* One centered axis for the whole article (the news-site pattern:
+   left-aligned text in a centered measure). Every direct child - text,
+   headings, byline, notification boxes, the AHEC message - shares the
+   same centered 70ch column; figures and tables break out wider but
+   symmetrically on the same centerline. fullWidth articles
+   (article.content.container) are exempt: their visualizations manage
+   their own width. */
+article.content.column > * {
     max-width: 70ch;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article.content.column > ul,
+article.content.column > ol {
+    padding-left: 1.4em;
+}
+
+article.content.column > .post-figure,
+article.content.column > figure,
+article.content.column > .table-scroll {
+    max-width: min(58rem, 100%);
 }
 
 /* ---------- Figures ---------- */
 
 .content .post-figure,
 .post-figure {
-    margin: 2.2rem 0;
+    margin: 2.2rem auto;
     text-align: left;
 }
 
@@ -392,6 +403,12 @@ article.content > h4 {
 .content .message.is-info .message-body {
     border-color: var(--sh-blue);
     color: var(--sh-ink);
+}
+
+/* AHEC funding acknowledgment: spacing formerly provided by a section
+   wrapper (removed so the box shares the article's column axis) */
+.ahec-message {
+    margin-top: 3rem;
 }
 
 /* ---------- Article extras ---------- */
