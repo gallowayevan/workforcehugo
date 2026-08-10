@@ -112,9 +112,22 @@
   countyList.forEach((d) => countySelectFragment.appendChild(new Option(d)));
   countySelect.appendChild(countySelectFragment);
 
-  //Get professions list and populate select
-  const professions = (await d3.csv(`${rootOfApi}/specialties.csv`)).sort(
-    (a, b) => d3.ascending(a.profession, b.profession)
+  //Get professions list and available years from the API
+  let specialties, stateSeries;
+  try {
+    [specialties, stateSeries] = await Promise.all([
+      d3.csv(`${rootOfApi}/specialties.csv`),
+      //Statewide physician series (profession 001) spans every year the API
+      //offers, so its years drive the year select.
+      d3.json(`${rootOfApi}/api/supply?type=state&profession_id=001`),
+    ]);
+  } catch (error) {
+    document.getElementById("download-api-error").hidden = false;
+    return;
+  }
+
+  const professions = specialties.sort((a, b) =>
+    d3.ascending(a.profession, b.profession)
   );
   const professionsDisplayMap = new Map(
     professions.map((d) => [d.id.padStart(3, "0"), d.display_name])
@@ -133,6 +146,15 @@
   );
   professionSelect.appendChild(professionSelectFragment);
 
+  //Populate year select, newest first
+  const years = [...new Set(stateSeries.map((d) => +d.year))].sort(
+    d3.descending
+  );
+  const yearSelect = document.getElementById("year-select");
+  const yearSelectFragment = document.createDocumentFragment();
+  years.forEach((d) => yearSelectFragment.appendChild(new Option(d)));
+  yearSelect.appendChild(yearSelectFragment);
+
   //Add event handlers
   document
     .getElementById("downloadForm1")
@@ -145,7 +167,7 @@
     .addEventListener("submit", formDownload3);
 
   async function formDownload1(e) {
-    event.preventDefault();
+    e.preventDefault();
     const county = document.getElementById("county-select").value;
     const rateOrTotal = Array.from(
       document.getElementsByName("rateOrTotal1"),
@@ -201,7 +223,7 @@
   }
 
   async function formDownload2(e) {
-    event.preventDefault();
+    e.preventDefault();
     const professionElement = document.getElementById("profession-select");
     const professionId = professionElement.value;
     const professionName = Array.from(professionElement.children, (d) => [
@@ -253,8 +275,10 @@
   }
 
   async function formDownload3(e) {
-    event.preventDefault();
-    const region = document.getElementById("region-select").value;
+    e.preventDefault();
+    const regionSelect = document.getElementById("region-select");
+    const region = regionSelect.value;
+    const regionLabel = regionSelect.selectedOptions[0].textContent;
     const year = document.getElementById("year-select").value;
     const rateOrTotal = Array.from(
       document.getElementsByName("rateOrTotal3"),
@@ -278,7 +302,7 @@
         (d) => d.region
       )
       .map(function (d) {
-        let columns = { County: d[0], Population: +d[1][0].population };
+        let columns = { [regionLabel]: d[0], Population: +d[1][0].population };
         let profColumns = d[1].reduce(function (acc, curr) {
           acc[curr.profession] = +curr[rateOrTotal];
           return acc;
@@ -288,29 +312,24 @@
       });
 
     const download = dataNote + [d3.csvFormat(professions_by_county)];
-    const filename = `HPDS_professions_${getRateOrTotalText(
-      rateOrTotal
-    )}_${year}.csv`;
+    const filename = `HPDS_professions_by_${regionLabel
+      .split(" ")
+      .join("_")}_${getRateOrTotalText(rateOrTotal)}_${year}.csv`;
     triggerDownload(download, filename);
   }
 
   function triggerDownload(download, filename) {
-    if (navigator.msSaveBlob) {
-      // IE 10+
-      navigator.msSaveBlob(
-        new Blob([download], { type: "text/csv;charset=utf-8;" }),
-        filename
-      );
-    } else {
-      var uri = "data:attachment/csv;charset=utf-8," + encodeURI(download);
-      var downloadLink = document.createElement("a");
-      downloadLink.href = uri;
-      downloadLink.download = filename;
+    const url = URL.createObjectURL(
+      new Blob([download], { type: "text/csv;charset=utf-8;" })
+    );
+    const downloadLink = document.createElement("a");
+    downloadLink.href = url;
+    downloadLink.download = filename;
 
-      document.body.appendChild(downloadLink);
-      downloadLink.click();
-      document.body.removeChild(downloadLink);
-    }
+    document.body.appendChild(downloadLink);
+    downloadLink.click();
+    document.body.removeChild(downloadLink);
+    setTimeout(() => URL.revokeObjectURL(url), 10000);
   }
 
 

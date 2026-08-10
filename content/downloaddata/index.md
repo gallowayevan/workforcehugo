@@ -3,11 +3,13 @@ type: interactive
 title: Download Data
 javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.js, main.js]
 ---
+<div id="download-api-error" class="notification is-warning" hidden>The data service is temporarily unavailable, so the download forms below will not work. Please try again later.</div>
 <div class="box">
 <p class="subtitle">Health Professionals Over Time for Selected County</p>
 {{< figure src="/images/posts/value_over_time_for_county.png" >}}
 <form id="downloadForm1">
-<div class="field">
+<fieldset class="field">
+  <legend class="is-sr-only">Measure</legend>
   <div class="control">
     <label class="radio">
       <input type="radio" name="rateOrTotal1" value="total" checked>
@@ -18,7 +20,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Rate per 10K
     </label>
   </div>
-</div>
+</fieldset>
 <div class="field">
   <label class="label" for="county-select">County</label>
   <div class="control">
@@ -41,7 +43,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 <p class="subtitle">Selected Health Professional Over Time by County</p>
 {{< figure src="/images/posts/county_by_year_example.png" >}}
 <form id="downloadForm2">
-<div class="field">
+<fieldset class="field">
+  <legend class="is-sr-only">Measure</legend>
   <div class="control">
     <label class="radio">
       <input type="radio" name="rateOrTotal2" value="total" checked>
@@ -52,7 +55,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Rate per 10K
     </label>
   </div>
-</div>
+</fieldset>
 <div class="field">
   <label class="label" for="profession-select">Profession</label>
   <div class="control">
@@ -80,12 +83,13 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
   <div class="control">
     <div class="select">
       <select id="year-select">
-<option>2023</option><option>2022</option><option>2021</option><option>2020</option><option>2019</option><option>2018</option><option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option>      </select>
+      </select>
     </div>
   </div>
 </div>
 
-<div class="field">
+<fieldset class="field">
+  <legend class="is-sr-only">Measure</legend>
   <div class="control">
     <label class="radio">
       <input type="radio" name="rateOrTotal3" value="total" checked>
@@ -96,7 +100,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Rate per 10K
     </label>
   </div>
-</div>
+</fieldset>
 <div class="field">
   <label class="label" for="region-select">Geography Type</label>
   <div class="control">
