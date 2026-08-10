@@ -112,9 +112,22 @@
   countyList.forEach((d) => countySelectFragment.appendChild(new Option(d)));
   countySelect.appendChild(countySelectFragment);
 
-  //Get professions list and populate select
-  const professions = (await d3.csv(`${rootOfApi}/specialties.csv`)).sort(
-    (a, b) => d3.ascending(a.profession, b.profession)
+  //Get professions list and available years from the API
+  let specialties, stateSeries;
+  try {
+    [specialties, stateSeries] = await Promise.all([
+      d3.csv(`${rootOfApi}/specialties.csv`),
+      //Statewide physician series (profession 001) spans every year the API
+      //offers, so its years drive the year select.
+      d3.json(`${rootOfApi}/api/supply?type=state&profession_id=001`),
+    ]);
+  } catch (error) {
+    document.getElementById("download-api-error").hidden = false;
+    return;
+  }
+
+  const professions = specialties.sort((a, b) =>
+    d3.ascending(a.profession, b.profession)
   );
   const professionsDisplayMap = new Map(
     professions.map((d) => [d.id.padStart(3, "0"), d.display_name])
@@ -132,6 +145,15 @@
     )
   );
   professionSelect.appendChild(professionSelectFragment);
+
+  //Populate year select, newest first
+  const years = [...new Set(stateSeries.map((d) => +d.year))].sort(
+    d3.descending
+  );
+  const yearSelect = document.getElementById("year-select");
+  const yearSelectFragment = document.createDocumentFragment();
+  years.forEach((d) => yearSelectFragment.appendChild(new Option(d)));
+  yearSelect.appendChild(yearSelectFragment);
 
   //Add event handlers
   document
