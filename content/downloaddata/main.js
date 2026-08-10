@@ -167,7 +167,7 @@
     .addEventListener("submit", formDownload3);
 
   async function formDownload1(e) {
-    event.preventDefault();
+    e.preventDefault();
     const county = document.getElementById("county-select").value;
     const rateOrTotal = Array.from(
       document.getElementsByName("rateOrTotal1"),
@@ -223,7 +223,7 @@
   }
 
   async function formDownload2(e) {
-    event.preventDefault();
+    e.preventDefault();
     const professionElement = document.getElementById("profession-select");
     const professionId = professionElement.value;
     const professionName = Array.from(professionElement.children, (d) => [
@@ -275,7 +275,7 @@
   }
 
   async function formDownload3(e) {
-    event.preventDefault();
+    e.preventDefault();
     const region = document.getElementById("region-select").value;
     const year = document.getElementById("year-select").value;
     const rateOrTotal = Array.from(
@@ -317,22 +317,17 @@
   }
 
   function triggerDownload(download, filename) {
-    if (navigator.msSaveBlob) {
-      // IE 10+
-      navigator.msSaveBlob(
-        new Blob([download], { type: "text/csv;charset=utf-8;" }),
-        filename
-      );
-    } else {
-      var uri = "data:attachment/csv;charset=utf-8," + encodeURI(download);
-      var downloadLink = document.createElement("a");
-      downloadLink.href = uri;
-      downloadLink.download = filename;
+    const url = URL.createObjectURL(
+      new Blob([download], { type: "text/csv;charset=utf-8;" })
+    );
+    const downloadLink = document.createElement("a");
+    downloadLink.href = url;
+    downloadLink.download = filename;
 
-      document.body.appendChild(downloadLink);
-      downloadLink.click();
-      document.body.removeChild(downloadLink);
-    }
+    document.body.appendChild(downloadLink);
+    downloadLink.click();
+    document.body.removeChild(downloadLink);
+    setTimeout(() => URL.revokeObjectURL(url), 10000);
   }
 
 
