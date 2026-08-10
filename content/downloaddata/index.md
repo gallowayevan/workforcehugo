@@ -8,7 +8,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 <p class="subtitle">Health Professionals Over Time for Selected County</p>
 {{< figure src="/images/posts/value_over_time_for_county.png" >}}
 <form id="downloadForm1">
-<div class="field">
+<fieldset class="field">
+  <legend class="is-sr-only">Measure</legend>
   <div class="control">
     <label class="radio">
       <input type="radio" name="rateOrTotal1" value="total" checked>
@@ -19,7 +20,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Rate per 10K
     </label>
   </div>
-</div>
+</fieldset>
 <div class="field">
   <label class="label" for="county-select">County</label>
   <div class="control">
@@ -42,7 +43,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
 <p class="subtitle">Selected Health Professional Over Time by County</p>
 {{< figure src="/images/posts/county_by_year_example.png" >}}
 <form id="downloadForm2">
-<div class="field">
+<fieldset class="field">
+  <legend class="is-sr-only">Measure</legend>
   <div class="control">
     <label class="radio">
       <input type="radio" name="rateOrTotal2" value="total" checked>
@@ -53,7 +55,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Rate per 10K
     </label>
   </div>
-</div>
+</fieldset>
 <div class="field">
   <label class="label" for="profession-select">Profession</label>
   <div class="control">
@@ -86,7 +88,8 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
   </div>
 </div>
 
-<div class="field">
+<fieldset class="field">
+  <legend class="is-sr-only">Measure</legend>
   <div class="control">
     <label class="radio">
       <input type="radio" name="rateOrTotal3" value="total" checked>
@@ -97,7 +100,7 @@ javascript: [/js/d3-dsv.v1.min.js, /js/d3-fetch.v1.min.js, /js/d3-array.v2.min.j
       Rate per 10K
     </label>
   </div>
-</div>
+</fieldset>
 <div class="field">
   <label class="label" for="region-select">Geography Type</label>
   <div class="control">

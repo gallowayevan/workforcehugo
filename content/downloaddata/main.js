@@ -276,7 +276,9 @@
 
   async function formDownload3(e) {
     e.preventDefault();
-    const region = document.getElementById("region-select").value;
+    const regionSelect = document.getElementById("region-select");
+    const region = regionSelect.value;
+    const regionLabel = regionSelect.selectedOptions[0].textContent;
     const year = document.getElementById("year-select").value;
     const rateOrTotal = Array.from(
       document.getElementsByName("rateOrTotal3"),
@@ -300,7 +302,7 @@
         (d) => d.region
       )
       .map(function (d) {
-        let columns = { County: d[0], Population: +d[1][0].population };
+        let columns = { [regionLabel]: d[0], Population: +d[1][0].population };
         let profColumns = d[1].reduce(function (acc, curr) {
           acc[curr.profession] = +curr[rateOrTotal];
           return acc;
@@ -310,9 +312,9 @@
       });
 
     const download = dataNote + [d3.csvFormat(professions_by_county)];
-    const filename = `HPDS_professions_${getRateOrTotalText(
-      rateOrTotal
-    )}_${year}.csv`;
+    const filename = `HPDS_professions_by_${regionLabel
+      .split(" ")
+      .join("_")}_${getRateOrTotalText(rateOrTotal)}_${year}.csv`;
     triggerDownload(download, filename);
   }
 
