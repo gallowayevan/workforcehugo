@@ -44,7 +44,7 @@ Since 1994, the Cecil G. Sheps Center for Health Services Research at the Univer
  ## References
 
  [^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. <https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites>.
- [^2]: Phillips WR, Park J, Topmiller M. Pathways to Primary Care: Charting Trajectories From Medical School Graduation Through Specialty Training. Health Affairs. 2025;44(5):580-588. <doi:10.1377/hlthaff.2024.00893](https://doi.org/10.1377/hlthaff.2024.00893>
+ [^2]: Phillips WR, Park J, Topmiller M. Pathways to Primary Care: Charting Trajectories From Medical School Graduation Through Specialty Training. Health Affairs. 2025;44(5):580-588. <https://doi.org/10.1377/hlthaff.2024.00893>
  [^3]: Hawes EM, Lombardi B, Adhikari M, Galloway E, McDougal L, Biszewski M, Fraher EP. "Physician Training In Rural And Health Center Settings More Than Doubled, 2008–24." Health Affairs. 2025;44(5):572-579. <https://doi.org/10.1377/hlthaff.2024.01297> 
  [^4]: Patterson DG, Shipman SA, Pollack SW, Andrilla CHA, Schmitz D, Evans DV, Peterson LE, Longenecker R. "Growing a rural family physician workforce: The contributions of rural background and rural place of residency training." Health Services Research. 2024;59(1):e14168. <https://doi.org/10.1111/1475-6773.14168> 
  [^5]: Chen C, Chen F, Mullan F. "Teaching Health Centers: A New Paradigm in Graduate Medical Education." Academic Medicine. 2012;87(12):1752-1756. <https://doi.org/10.1097/ACM.0b013e3182720f4d>
