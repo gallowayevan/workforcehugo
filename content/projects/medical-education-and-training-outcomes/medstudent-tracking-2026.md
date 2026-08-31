@@ -11,7 +11,7 @@ aliases: ["/reports/medstudent-tracking-2026/"]
 ---
 
 <div class="buttons">
-<a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/2025/07/NC-AHEC-Annual-Report-April-2025.pdf">Download the full report as a pdf.</a>
+<a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/Medstudenttracking_2026.pdf">Download the full report as a pdf.</a>
 </div>
 
 #### The full text of the report will be available soon 
