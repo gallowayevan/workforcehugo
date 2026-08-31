@@ -7,6 +7,7 @@ unlisted: true
 teaserText: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates"
 teaserImage: 2026_med_tracking.png
 keywords: [physicians, residency, gme, workforce, retention]
+aliases: ["/reports/medstudent-tracking-2026/"]
 ---
 
 <div class="buttons">
