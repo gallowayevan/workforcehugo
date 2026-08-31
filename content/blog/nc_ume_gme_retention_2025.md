@@ -12,11 +12,11 @@ keywords: [physician, medical school, residency, fellowship, GME, retention, pri
 Roughly 30-40% of the physicians who graduate from one of NC's medical schools
 are working in the state five years after graduating. Medical school is not the
 final step in a physician's education; physicians must complete a residency in
-a medical specialty before they can practice medicine. [Residency location is
+a medical specialty before they can practice medicine. Residency location is
 one of the strongest predictors of where physicians ultimately
-practice](/projects/medical-education-and-training-outcomes/gme-tracking-2025/). Physicians who complete residency
+practice. [Physicians who complete residency
 training in NC are retained in-state at higher rates than those who complete
-medical school in NC, making residency training investments an important
+medical school in NC](/projects/medical-education-and-training-outcomes/gme-tracking-2025/), making residency training investments an important
 component of building the state's physician workforce. But what happens when
 physicians complete both medical school and a residency in North Carolina?
 
