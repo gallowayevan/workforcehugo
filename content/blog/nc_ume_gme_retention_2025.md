@@ -14,7 +14,7 @@ are working in the state five years after graduating. Medical school is not the
 final step in a physician's education; physicians must complete a residency in
 a medical specialty before they can practice medicine. [Residency location is
 one of the strongest predictors of where physicians ultimately
-practice](/blog/nc_gme_outcomes_summary/). Physicians who complete residency
+practice](/projects/medical-education-and-training-outcomes/gme-tracking-2025/). Physicians who complete residency
 training in NC are retained in-state at higher rates than those who complete
 medical school in NC, making residency training investments an important
 component of building the state's physician workforce. But what happens when
