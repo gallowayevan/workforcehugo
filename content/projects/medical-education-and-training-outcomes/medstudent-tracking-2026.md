@@ -14,6 +14,8 @@ aliases: ["/reports/medstudent-tracking-2026/"]
 <a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/2025/07/NC-AHEC-Annual-Report-April-2025.pdf">Download the full report as a pdf.</a>
 </div>
 
+#### The full text of the report will be available soon 
+
 ## Executive Summary
 
 In 1993, the General Assembly required the University of North Carolina’s Board of Governors to submit an annual report to the legislature on the number of North Carolina (NC) medical school graduates going into primary care. Since 1994, the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill (“Sheps Center”) and the NC Area Health Education Centers program (AHEC) have collaborated to produce this report which tracks the number of students practicing primary care in rural NC five years after graduation from an NC medical school. As a result of the legislative mandate, NC is a national model for tracking medical student outcomes. 
