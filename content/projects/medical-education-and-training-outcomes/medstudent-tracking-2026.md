@@ -2,8 +2,8 @@
 title: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates: Retention In State and in High Need Geographic Areas and Specialties"
 date: 2026-08-14
 author: 'Evan Galloway, Erin Fraher, Nathan Tarr, Catherine Moore, Hugh H. Tilson Jr.'
-draft: true
-unlisted: false
+draft: false
+unlisted: true
 teaserText: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates"
 teaserImage: NC-AHEC-Annual-Report-April-2025v4.jpg
 keywords: [physicians, residency, gme, workforce, retention]
