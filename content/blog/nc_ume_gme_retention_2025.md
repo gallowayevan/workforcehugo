@@ -1,5 +1,5 @@
 ---
-title: "Physicians Who Attend Medical School and a Residency or Fellowship in North Carolina Tend to Stay"
+title: "Physicians Who Complete Both Medical School and Residency in North Carolina Are More Likely to Stay Here to Practice"
 date: 2026-08-24
 author: 'Evan Galloway'
 draft: false
@@ -9,15 +9,42 @@ teaserImage: nc_ume_gme_sankey_2025.svg
 keywords: [physician, medical school, residency, fellowship, GME, retention, primary care, rural]
 ---
 
-We recently completed our latest medical student tracking report, which examines how many North Carolina medical school graduates are practicing in North Carolina five and ten years after graduation. The headline number is that usually about 35-40% of the graduates of NC medical schools are practicing in-state a few years post-graduation. However, graduates have another step after medical school before they can practice; they must complete a residency. We know from [previous work](/blog/nc_gme_outcomes_summary/) that residencies are "stickier" than medical school for retaining physicians in-state. But what happens if someone attends both medical school and a residency or fellowship in North Carolina? 
+Roughly 30-40% of the physicians who graduate from one of NC's medical schools
+are working in the state five years after graduating. Medical school is not the
+final step in a physician's education; physicians must complete a residency in
+a medical specialty before they can practice medicine. [Residency location is
+one of the strongest predictors of where physicians ultimately
+practice](/blog/nc_gme_outcomes_summary/). Physicians who complete residency
+training in NC are retained in-state at higher rates than those who complete
+medical school in NC, making residency training investments an important
+component of building the state's physician workforce. But what happens when
+physicians complete both medical school and a residency in North Carolina?
 
-We looked at this question by taking the two cohorts from our medical student tracking report (NC medical school graduates from 2015 and 2020) and identifying graduates who subsequently did a residency or fellowship in NC (double-NC physicians). We found that these double-NC physicians were retained in NC at far higher rates (Figure 1 and Table 1). For the 2020 graduating cohort, 74% of the double-NC physicians were practicing or training in NC five years later. The same figure was 70% looking at the class of 2015 after ten years. Also, about a quarter of the double-NC physicians in both cohorts were practicing primary care in North Carolina in 2025, compared to 10-15% of all NC graduates in recent years.
+To answer this question, we looked at two cohorts from our annual medical
+student tracking report<!-- TODO: link the 2026 report when posted -->,
+graduates from 2015 and 2020. We identified North Carolina medical school
+graduates who also completed a residency or fellowship in NC, who we call
+"double-NC physicians". Double-NC physicians work in NC at far higher rates
+than physicians who completed only medical school or only a residency/fellowship
+in NC (Figure 1 and Table 1). For the 2020 graduating cohort, 74% of the
+double-NC physicians were practicing or in continued training in NC five years
+later; similarly, 70% of the double-NC physicians from the class of 2015 were
+practicing in NC after ten years. Roughly one quarter of the double-NC
+physicians in both cohorts were practicing primary care in North Carolina in
+2025, compared to 10-15% of all NC graduates in recent years.
 
-{{< img title="**Figure 1. North Carolina medical school graduates who attended a North Carolina residency or fellowship stayed in NC at higher rates than those who did not.**" caption="**Note.** The class of 2020 is observed five years after medical school graduation and the class of 2015 ten years after. Band widths are numbers of graduates, while colors indicate retention in North Carolina and primary care practice status. Band labels give the number and share of each training group. Physicians who trained in NC include those who completed or are currently in an NC residency or fellowship." alt="Two flow diagrams, one for the class of 2020 and one for the class of 2015. Each links three training paths on the left (NC residency or fellowship from the start; came back to NC later for advanced residency or fellowship; no NC residency or fellowship) to three 2025 locations on the right (in NC in primary care; in NC in another specialty; not in NC). Most graduates who trained in NC are in NC in 2025; most who did not train in NC are not." src="/images/posts/nc_ume_gme_sankey_2025.svg" >}}
+{{< img title="**Figure 1. North Carolina medical school graduates who attended a North Carolina residency or fellowship stayed in NC at higher rates than those who did not, five and ten years after medical school graduation.**" caption="**Note.** The class of 2020 is observed five years after medical school graduation and the class of 2015 ten years after. Band widths are numbers of graduates, while colors indicate retention in North Carolina and primary care practice status. Band labels give the number and share of each training group. Physicians who trained in NC include those who completed or are currently in an NC residency or fellowship." alt="Two flow diagrams, one for the class of 2020 and one for the class of 2015. Each links two groups on the left (completed or currently in an NC residency or fellowship, the double-NC group; no NC residency or fellowship) to three 2025 locations on the right (in NC in primary care; in NC in another specialty; not in NC). About three quarters of double-NC physicians are in NC in 2025, compared to roughly one in eight of those without NC training." src="/images/posts/nc_ume_gme_sankey_2025.svg" >}}
 
-If we look at primary care residency specialties (Tables 2 and 3), we find that among the double-NC physicians, those who completed a residency in Family Medicine had in-state retention rates of about 90% across both cohorts. Double-NC physicians who completed a residency in Internal Medicine, Ob/Gyn, and Pediatrics all had retention rates of roughly 60-75%. 
+Tables 2 and 3 show outcomes for primary care residency specialties. Double-NC
+physicians who completed a residency in Family Medicine had in-state retention
+rates of about 90% across both cohorts. Double-NC physicians who completed a
+residency in Internal Medicine, Ob/Gyn, and Pediatrics all had retention rates
+of roughly 60-75%.
 
-Interestingly, about 1 in 7 double-NC physicians initially left NC for an intern year or a residency but they came back for an advanced residency or fellowship, subsequently staying in NC at a similar rate as the rest of the double-NC group.
+Interestingly, about 1 in 7 double-NC physicians initially left NC for an
+intern year or a residency but they came back for an advanced residency or
+fellowship and subsequently stayed in NC at a similar rate as the rest of the
+double-NC group.
 
 **Table 1. Retention of North Carolina Medical School Graduates Who Completed
 or Are Currently in a Residency or Fellowship in North Carolina by Medical
