@@ -5,7 +5,7 @@ author: 'Evan Galloway, Erin Fraher, Nathan Tarr, Catherine Moore, Hugh H. Tilso
 draft: false
 unlisted: true
 teaserText: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates"
-teaserImage: NC-AHEC-Annual-Report-April-2025v4.jpg
+teaserImage: 2026_med_tracking.png
 keywords: [physicians, residency, gme, workforce, retention]
 aliases: ["/reports/medstudent-tracking-2026/"]
 ---
@@ -14,7 +14,7 @@ aliases: ["/reports/medstudent-tracking-2026/"]
 <a class="button is-info" href="https://www.shepscenter.unc.edu/wp-content/uploads/Medstudenttracking_2026.pdf">Download the full report as a pdf.</a>
 </div>
 
-#### The full text of the report will be available soon 
+_**The full text of the report will be available soon**_
 
 ## Executive Summary
 
