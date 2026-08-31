@@ -7,7 +7,7 @@ unlisted: false
 teaserText: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates"
 teaserImage: NC-AHEC-Annual-Report-April-2025v4.jpg
 keywords: [physicians, residency, gme, workforce, retention]
-aliases: ["/reports/medstudent-tracking-2025/"]
+aliases: ["/reports/medstudent-tracking-2026/"]
 ---
 
 <div class="buttons">

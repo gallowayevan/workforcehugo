@@ -21,7 +21,7 @@ component of building the state's physician workforce. But what happens when
 physicians complete both medical school and a residency in North Carolina?
 
 To answer this question, we looked at two cohorts from our annual medical
-student tracking report<!-- TODO: link the 2026 report when posted -->,
+student tracking [report](/projects/medical-education-and-training-outcomes/medstudent-tracking-2026/),
 graduates from 2015 and 2020. We identified North Carolina medical school
 graduates who also completed a residency or fellowship in NC, who we call
 "double-NC physicians". Double-NC physicians work in NC at far higher rates
