@@ -168,7 +168,7 @@ This report does not emphasize the outcomes of the initial match data for gradua
 
 **Figure 12** displays the number of 2025 graduates who matched to primary care specialties, general surgery, or psychiatry. (Note that the axes are scaled to each school’s number of graduates.) ECU and Campbell led on family medicine residency matches, with 6% of ECU’s graduating class matching to a family medicine residency in North Carolina, and 21% of Campbell graduates matching to a family medicine residency anywhere in the US. UNC matched the greatest number (13) of graduates to internal medicine residencies in NC, while ECU matched the greatest percentage (12%, n=8).
 
-{{< img title="**Figure 12. Number of 2025 Medical School Graduates by School and Initial Match Specialty, Selected Specialties**" src="/images/posts/Med_student_tracking_2026/Figure11.svg" alt="A figure compiling 5 bar charts, each showing the breakdown of primary care of practice for each medical school’s 2015 graduate cohort ten years after graduating.">}}
+{{< img title="**Figure 12. Number of 2025 Medical School Graduates by School and Initial Match Specialty, Selected Specialties**" src="/images/posts/Med_student_tracking_2026/Figure12.svg" alt="A figure compiling 5 bar charts, each showing the breakdown of primary care of practice for each medical school’s 2015 graduate cohort ten years after graduating.">}}
 
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: the respective medical schools, 2025.</small>
 
