@@ -3,7 +3,7 @@ title: "Monitoring the Workforce Outcomes of North Carolina Medical School Gradu
 date: 2026-08-14
 author: 'Evan Galloway, Erin Fraher, Nathan Tarr, Catherine Moore, Hugh H. Tilson Jr.'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates"
 teaserImage: 2026_med_tracking.png
 keywords: [physicians, residency, gme, workforce, retention]
