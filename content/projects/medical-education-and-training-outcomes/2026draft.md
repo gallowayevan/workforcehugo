@@ -76,6 +76,7 @@ Table 1 displays the number and percent of all 2020 graduates (n=614) that were 
 |     Psychiatry                  |     15 (2.4%)                                            |     0 (0.0%)                                                   |
 |     Other Area of   Practice    |     117   (19.1%)                                        |     6   (1.0%)                                                 |
 |     Total in NC                 |     201   (32.7%)                                        |     16   (2.6%)                                                |
+
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.For the class of 2020, general surgeons are included in Other Area of Practice.</small>
 
 **Figure 6** shows the same set of practice outcomes but for each school individually.
@@ -114,6 +115,7 @@ Safety net providers are defined as health care facilities that provide a signif
 |     Practicing or training in NC                 |     380                       |     179                |     201                |
 |     At   safety-net facility                     |     10                        |     5                  |     5                  |
 |     % of NC-retained at safety-net   facility    |     2.6%                      |     2.8%               |     2.5%               |
+
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025.</small>
 
 **Figure 9** shows the level of distress facing the neighborhoods where 2015 graduates were in practice in primary care in 2025. Low scores indicate low levels of economic distress, and high scores indicate high levels of economic distress.  Sixteen percent (n=9/58) worked in a practice location in the most economically distressed neighborhoods (ReADI=9 or 10). 
@@ -143,6 +145,7 @@ Note: As with Figure 5, this report uses the Reproducible Area Deprivation Index
 |     Psychiatry                |     10   (2.2%)                                          |     0   (0.0%)                                           |
 |     Other Area of Practice    |     107 (23.1%)                                          |     2 (0.4%)                                             |
 |     Total in NC               |     179 (38.7%)                                          |     10 (2.2%)                                            |
+
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.</small>
 
 **Figure 10** shows, for each medical school, the percentage of 2015 graduates in practice or training in NC by area of practice.
