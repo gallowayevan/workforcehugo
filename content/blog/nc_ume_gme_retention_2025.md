@@ -35,6 +35,45 @@ physicians in both cohorts were practicing primary care in North Carolina in
 
 {{< img title="**Figure 1. North Carolina medical school graduates who attended a North Carolina residency or fellowship stayed in NC at higher rates than those who did not, five and ten years after medical school graduation.**" caption="**Note.** The class of 2020 is observed five years after medical school graduation and the class of 2015 ten years after. Band widths are numbers of graduates, while colors indicate retention in North Carolina and primary care practice status. Band labels give the number and share of each training group. Physicians who trained in NC include those who completed or are currently in an NC residency or fellowship." alt="Two flow diagrams, one for the class of 2020 and one for the class of 2015. Each links two groups on the left (completed or currently in an NC residency or fellowship, the double-NC group; no NC residency or fellowship) to three 2025 locations on the right (in NC in primary care; in NC in another specialty; not in NC). About three quarters of double-NC physicians are in NC in 2025, compared to roughly one in eight of those without NC training." src="/images/posts/nc_ume_gme_sankey_2025.svg" >}}
 
+<details>
+<summary>View the data shown in Figure 1 as a table</summary>
+<table>
+  <caption>Training location and 2025 status of NC medical school graduates, classes of 2020 and 2015. Cell values are number of graduates (share of that training group).</caption>
+  <thead>
+    <tr>
+      <th scope="col">Cohort</th>
+      <th scope="col">Training group</th>
+      <th scope="col">In NC, primary care</th>
+      <th scope="col">In NC, other specialty</th>
+      <th scope="col">Not in NC</th>
+      <th scope="col">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Class of 2020</th>
+      <td>Completed or currently in an NC residency or fellowship (double-NC)</td>
+      <td>52 (25%)</td><td>100 (49%)</td><td>54 (26%)</td><td>206</td>
+    </tr>
+    <tr>
+      <th scope="row">Class of 2020</th>
+      <td>No NC residency or fellowship</td>
+      <td>17 (4%)</td><td>32 (8%)</td><td>359 (88%)</td><td>408</td>
+    </tr>
+    <tr>
+      <th scope="row">Class of 2015</th>
+      <td>Completed or currently in an NC residency or fellowship (double-NC)</td>
+      <td>39 (24%)</td><td>75 (46%)</td><td>48 (30%)</td><td>162</td>
+    </tr>
+    <tr>
+      <th scope="row">Class of 2015</th>
+      <td>No NC residency or fellowship</td>
+      <td>19 (6%)</td><td>46 (15%)</td><td>236 (78%)</td><td>301</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
 Tables 2 and 3 show outcomes for primary care residency specialties. Double-NC
 physicians who completed a residency in Family Medicine had in-state retention
 rates of about 90% across both cohorts. Double-NC physicians who completed a
