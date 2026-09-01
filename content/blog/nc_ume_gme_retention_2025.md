@@ -5,7 +5,7 @@ author: 'Evan Galloway'
 draft: false
 unlisted: false
 teaserText: "How many NC medical school graduates who also trained in NC residencies or fellowships stay in the state's workforce?"
-teaserImage: nc_ume_gme_sankey_2025.svg
+teaserImage: nc_ume_gme_sankey_2025_teaser.png
 keywords: [physician, medical school, residency, fellowship, GME, retention, primary care, rural]
 ---
 
