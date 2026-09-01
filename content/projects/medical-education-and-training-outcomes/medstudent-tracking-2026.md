@@ -3,7 +3,7 @@ title: "Monitoring the Workforce Outcomes of North Carolina Medical School Gradu
 date: 2026-08-14
 author: 'Evan Galloway, Erin Fraher, Nathan Tarr, Catherine Moore, Hugh H. Tilson Jr.'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Monitoring the Workforce Outcomes of North Carolina Medical School Graduates"
 teaserImage: 2026_med_tracking.png
 keywords: [physicians, residency, gme, workforce, retention]
@@ -37,17 +37,11 @@ It is important to consider this report’s finding that relatively few NC medic
 
 Where a physician completes residency training is a better predictor of where they will end up in practice than medical school location.[^3]<sup>,</sup>[^4] Physicians who complete residency training in rural areas and community-based settings are more likely to choose rural, primary care careers.[^5] The number of graduates of North Carolina residency programs increased from 1,145 in 2017 to 1,264 in 2019. On average, just 37% of these graduates were retained in active practice in NC five years after graduation and 3% were in rural communities.[^6] However, nearly 65% of “double” NC educated/trained physicians were retained in-state after five years, underscoring the return on investment of building in-state pathways from medical school to residency training.
 
-## Background
-
-In 1993, the North Carolina General Assembly expressed a desire to expand the pool of generalist physicians (i.e., primary care physicians) for the state. To increase the supply, the General Assembly passed legislation (N.C.S.L.1993-321) that required each of the state's four medical schools to develop a plan to expand the percent of medical school graduates entering “residencies and careers in primary care.” Primary care was defined as family practice, general internal medicine, general pediatric medicine, internal medicine-pediatrics, and obstetrics & gynecology. It set the goal for 60% of East Carolina University (ECU) and UNC Schools of Medicine graduates to enter primary care; for the Wake Forest University and Duke University Schools of Medicine, it set the goal at 50%. Campbell University School of Osteopathic Medicine graduated its first class in 2017 and was therefore not included in these original goals. 
-
-Since 1994, the Cecil G. Sheps Center for Health Services Research at the University of North Carolina at Chapel Hill (“Sheps Center”) and the NC Area Health Education Centers program (AHEC) have collaborated to produce this report tracking the workforce outcomes for NC medical schools. As a result of the legislative mandate, NC is a national model for tracking medical student outcomes. Data from this report were featured in the New England Journal of Medicine as an example of how to track workforce outcomes by Iglehart (2018) in "The Challenging Quest to Improve Rural Health Care."
- 
- ## References
+## References
 
  [^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. <https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites>.
  [^2]: Phillips WR, Park J, Topmiller M. Pathways to Primary Care: Charting Trajectories From Medical School Graduation Through Specialty Training. Health Affairs. 2025;44(5):580-588. <https://doi.org/10.1377/hlthaff.2024.00893>
  [^3]: Hawes EM, Lombardi B, Adhikari M, Galloway E, McDougal L, Biszewski M, Fraher EP. "Physician Training In Rural And Health Center Settings More Than Doubled, 2008–24." Health Affairs. 2025;44(5):572-579. <https://doi.org/10.1377/hlthaff.2024.01297> 
  [^4]: Patterson DG, Shipman SA, Pollack SW, Andrilla CHA, Schmitz D, Evans DV, Peterson LE, Longenecker R. "Growing a rural family physician workforce: The contributions of rural background and rural place of residency training." Health Services Research. 2024;59(1):e14168. <https://doi.org/10.1111/1475-6773.14168> 
  [^5]: Chen C, Chen F, Mullan F. "Teaching Health Centers: A New Paradigm in Graduate Medical Education." Academic Medicine. 2012;87(12):1752-1756. <https://doi.org/10.1097/ACM.0b013e3182720f4d>
- [^6]: Galloway E, Lombardi B, Fraher EP. The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019. UNC Cecil G. Sheps Center for Health Services Research; June 30, 2025. <https://nchealthworkforce.unc.edu/projects/medical-education-and-training-outcomes/gme-tracking-2025/> 
+ [^6]: Galloway E, Lombardi B, Fraher EP. The Workforce Outcomes of Physicians Completing Residency Training in North Carolina in 2017, 2018, and 2019. UNC Cecil G. Sheps Center for Health Services Research; June 30, 2025. <https://nchealthworkforce.unc.edu/projects/medical-education-and-training-outcomes/gme-tracking-2025/>  
