@@ -82,7 +82,7 @@ physicians in both cohorts were practicing primary care in North Carolina in
     </tr>
   </tbody>
 </table>
-<p style="font-size: 0.85em"><strong>Note.</strong> Cell values are number of graduates; percentages in the group rows are shares of that training group, and percentages in the "All graduates" rows and Total column are shares of the graduating cohort.</p>
+<p style="font-size: 0.85em"><strong>Note.</strong> Cell values are number of graduates. Percentages in the group rows are shares of that training group. Percentages in the "All graduates" rows and Total column are shares of the graduating cohort.</p>
 </details>
 
 Tables 2 and 3 show outcomes for primary care residency specialties. Double-NC
