@@ -38,7 +38,7 @@ physicians in both cohorts were practicing primary care in North Carolina in
 <details style="margin-bottom: 1.75rem">
 <summary>View the data shown in Figure 1 as a table</summary>
 <table>
-  <caption>Training location and 2025 status of NC medical school graduates, classes of 2020 and 2015. Cell values are number of graduates; percentages in the group rows are shares of that training group, and percentages in the "All graduates" rows and Total column are shares of the graduating cohort.</caption>
+  <caption style="text-align: left; font-weight: bold; caption-side: top; padding-bottom: 0.5rem">Training location and 2025 status of NC medical school graduates, classes of 2020 and 2015</caption>
   <thead>
     <tr>
       <th scope="col">Cohort</th>
@@ -82,6 +82,7 @@ physicians in both cohorts were practicing primary care in North Carolina in
     </tr>
   </tbody>
 </table>
+<p style="font-size: 0.85em"><strong>Note.</strong> Cell values are number of graduates; percentages in the group rows are shares of that training group, and percentages in the "All graduates" rows and Total column are shares of the graduating cohort.</p>
 </details>
 
 Tables 2 and 3 show outcomes for primary care residency specialties. Double-NC
