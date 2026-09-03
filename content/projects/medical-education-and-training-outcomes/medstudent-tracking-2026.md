@@ -343,8 +343,6 @@ Our mission is to improve the health and wellbeing of North Carolinians and othe
 
 UNC SOM is a key driver of North Carolina’s physician pipeline. **Our graduates practice in every region of the state, delivering care across both rural and urban communities (Figure 1)**. As of 2023, there are nearly 2,700 UNC SOM graduates practicing in 88 counties across the state, and those 88 counties contain 98.3% of the State’s population. Our distribution of our physician alumni across rural and urban counties demonstrates our commitment to ensuring access to care regardless of geography. 
 
-**Figure 1: Number of UNC SOM physician alumni working in NC counties as of 2023**
-
 {{< img title="**Figure 1. Number of UNC SOM physician alumni working in NC counties as of 2023**" src="/images/posts/Med_student_tracking_2026/Appendix_Figure1.png" alt="North Carolina county-level map displaying the number of physician alumni working each county as of 2023.">}}
 
 <small>**Note**. Green = rural counties and gray = urban counties.</small>
