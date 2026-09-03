@@ -36,6 +36,8 @@ Since reporting on medical student outcomes began in 1994, Campbell University b
 
 {{< img title="**Figure 2. Retention of NC Medical School Graduates in NC, Primary Care and Rural Areas Five Years After Graduating, Selected Classes (2010, 2014, 2018, 2019)**" src="/images/posts/Med_student_tracking_2026/Figure2.png" alt="Triangle Figure comparing NC Medical School Graduates from 2010, 2014, 2018, 2019 practice characteristics 5 years after graduating including those who had an initial residency choice in primary care, those practicing in North Carolina, those practicing in primary care in NC, and finally those practicing in primary care in rural NC five years after graduation.">}}
 
+<small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.</small>
+
 The 2020 cohort had 10 graduates in primary care in a rural NC county in 2025, double the number of graduates (n=5) in primary care in rural NC counties from the 2019 cohort in 2024. This modest increase from the 2019 cohort is within the range of previous years when between 1% and 3% of NC medical school graduates were in practice in primary care in rural NC five years after graduating.
 
 **Figure 3** presents the percentage of medical student graduates retained in North Carolina five years after graduation by in-state medical schools. A greater percentage of graduates from the state’s public medical schools are retained in NC five years after graduating, compared to the state’s private medical schools (Figure 3). For the class of 2020, 41% of UNC-CH graduates and 36% of ECU graduates were practicing in-state in 2025. 
@@ -63,9 +65,9 @@ Note: This report uses the Reproducible Area Deprivation Index (ReADI), which is
 
 #### _Retention in North Carolina and Rural Practice by Primary Area of Practice, 2020 Graduates_
 
-Table 1 displays the number and percent of all 2020 graduates (n=614) that were retained in NC (n=201) and in practice in a rural area in NC (n=16) by area of practice. A physician’s primary area of practice is self-reported during their annual licensure renewal and reflects what they “normally do” in their practice; thus, it may differ from their training specialty. The category “Other Area of Practice” includes all other specialties, including, for example, dermatology, hospitalists, and ophthalmology.
+**Table 1** displays the number and percent of all 2020 graduates (n=614) that were retained in NC (n=201) and in practice in a rural area in NC (n=16) by area of practice. A physician’s primary area of practice is self-reported during their annual licensure renewal and reflects what they “normally do” in their practice; thus, it may differ from their training specialty. The category “Other Area of Practice” includes all other specialties, including, for example, dermatology, hospitalists, and ophthalmology.
 
-**Table 1: Percentage of 2020 Medical School Graduates Practicing or Training in North Carolina by Area of Practice in 2025, North Carolina Overall and Rural**
+**Table 1. Percentage of 2020 Medical School Graduates Practicing or Training in North Carolina by Area of Practice in 2025, North Carolina Overall and Rural**
 
 |     Area of Practice            |     Practicing   in NC, n (% of total 2020 graduates)    |     Practicing   in rural NC, n (% of total 2020 graduates)    |
 |---------------------------------|----------------------------------------------------------|----------------------------------------------------------------|
@@ -78,6 +80,7 @@ Table 1 displays the number and percent of all 2020 graduates (n=614) that were 
 |     Total in NC                 |     201   (32.7%)                                        |     16   (2.6%)                                                |
 
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.For the class of 2020, general surgeons are included in Other Area of Practice.</small>
+
 
 **Figure 6** shows the same set of practice outcomes but for each school individually.
 
@@ -105,9 +108,9 @@ The ten-year workforce outcomes for each school’s 2015 graduates are illustrat
 
 #### _Practice in Safety Net Settings and Economically Distressed Neighborhoods_
 
-Safety net providers are defined as health care facilities that provide a significant amount of health care and other health-related services to uninsured, Medicaid, and other vulnerable populations. Five graduates from the class of 2020 were in practice in safety net settings in NC in 2025, including three UNC-CH graduates, one Duke graduate, and one ECU graduate. Another five graduates from the class of 2015 were in practice in safety net settings in North Carolina in 2025 (Table 2), all from UNC-CH. 
+Safety net providers are defined as health care facilities that provide a significant amount of health care and other health-related services to uninsured, Medicaid, and other vulnerable populations. Five graduates from the class of 2020 were in practice in safety net settings in NC in 2025, including three UNC-CH graduates, one Duke graduate, and one ECU graduate. Another five graduates from the class of 2015 were in practice in safety net settings in North Carolina in 2025 (**Table 2**), all from UNC-CH. 
 
-**Table 2: Medical School Graduates Practicing or Training in Safety-Net Settings in 2025, Classes of 2015 and 2020**
+**Table 2. Medical School Graduates Practicing or Training in Safety-Net Settings in 2025, Classes of 2015 and 2020**
 
 |                                                  |     2015   + 2020 combined    |     Class   of 2015    |     Class   of 2020    |
 |--------------------------------------------------|-------------------------------|------------------------|------------------------|
@@ -133,7 +136,7 @@ Note: As with Figure 5, this report uses the Reproducible Area Deprivation Index
 
 **Table 3** shows the number and percent of all 2015 graduates (n=463) who were retained in NC (n=179) and in practice in a rural area in NC (n=10) ten years after graduating. A physician’s primary area of practice is self-reported during their annual licensure renewal and reflects what they “normally do” in their practice; thus, it may differ from their training specialty. The category “Other Area of Practice” includes all other specialties, including, for example, dermatology, hospitalists, and ophthalmology. Of the 179 2015 graduates who were retained in NC ten years after graduation, 23 were in family medicine, 13 in pediatrics, 12 in general internal medicine, 10 in ob-gyn, 4 in general surgery and 10 in psychiatry. The rest (n=107) went into other specialties. The outcomes for general surgery are reported here for the 2015 cohort, but not for the 2020 cohort, because general surgery residencies typically last five years, and many general surgeons complete a subspecialty fellowship afterwards. For this reason, reporting on general surgery practice outcomes at five-years post-graduation may be misleading. Of the 10 physicians retained in rural areas ten years later, 5 had a primary area of practice in family medicine. 
 
-**Table 3: 2015 Medical School Graduates Retained in North Carolina by Area of Practice in 2025, Retention in North Carolina and in Rural Areas**
+**Table 3. 2015 Medical School Graduates Retained in North Carolina by Area of Practice in 2025, Retention in North Carolina and in Rural Areas**
 
 |     Area of Practice          |     Practicing   in NC, n (% of total 2015 graduates)    |     Practicing   in rural NC, n (% of 2015 graduates)    |
 |-------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -147,6 +150,7 @@ Note: As with Figure 5, this report uses the Reproducible Area Deprivation Index
 |     Total in NC               |     179 (38.7%)                                          |     10 (2.2%)                                            |
 
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.</small>
+
 
 **Figure 10** shows, for each medical school, the percentage of 2015 graduates in practice or training in NC by area of practice.
 
@@ -174,7 +178,7 @@ This report does not emphasize the outcomes of the initial match data for gradua
 
 ## Discussion
 
-This report showed that of the 614 medical school graduates from North Carolina’s five medical schools in 2020, 11% were in primary care in NC in 2025 five years after graduation. Compared to previous reports, the percent of medical graduates practicing in primary care continues to decline, decreasing from 16% of the 2010 graduating cohort to 11% of the 2020 graduating cohort (**Figure 2**). The percentage of medical graduates practicing in rural areas remains low, hovering around 1-3% between 2010 and 2020. A greater percentage of graduates from the state’s public medical schools are retained in NC five years after graduating, compared to the state’s private medical schools. 
+This report showed that of the 614 medical school graduates from North Carolina’s five medical schools in 2020, 11% were in primary care in NC in 2025 five years after graduation. Compared to previous reports, the percent of medical graduates practicing in primary care continues to decline, decreasing from 16% of the 2010 graduating cohort to 11% of the 2020 graduating cohort (Figure 2). The percentage of medical graduates practicing in rural areas remains low, hovering around 1-3% between 2010 and 2020. A greater percentage of graduates from the state’s public medical schools are retained in NC five years after graduating, compared to the state’s private medical schools. 
 
 A higher percentage of graduates are retained in NC and in primary care practice ten years after graduation compared to five years after graduation. This may suggest that NC medical school graduates are leaving the state for residency training but then returning after pursuing residency training out of state or that previously implemented interventions are beginning to have more long-term effects. 
 
@@ -183,6 +187,8 @@ It is important to consider this report’s findings that relatively few NC medi
 Also important for contextualizing the findings in this report is the fact that a physician’s training pathway is long and medical school is just one point in their career trajectory. Where a physician completes residency training is a better predictor of where they will end up in practice than medical school location. Physicians who complete residency training in rural areas and community-based settings are more likely to choose rural, primary care careers.[^3]<sup>,</sup>[^4]<sup>,</sup>[^5] North Carolina data underscore these findings.[^6] The number of physicians completing residency training in North Carolina increased from 1,145 in 2017 to 1,264 in 2019. On average, just 37% of these graduates were retained in active practice in NC five years after graduation and 3% were in rural communities. However, nearly 65% of physicians who completed both medical school and residency training were retained in-state after five years, underscoring the return on investment of building pathways from medical school to residency training in the state. The retention rate for family medicine is even higher; 88% of family medicine physicians who completed both medical school and residency training in NC remain in-state and 20% remain in practice in rural areas five years after finishing residency training. 
 
 The health care system has also undergone dramatic changes in the last thirty years and the data in this report remain as critical as ever to help inform the state’s efforts to address chronic shortfalls of primary care physicians, especially in rural areas. 
+
+## Appendix
 
 <details>
   <summary class="summary-header">Appendix A</summary>
