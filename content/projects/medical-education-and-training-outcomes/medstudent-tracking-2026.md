@@ -213,6 +213,8 @@ Also important for contextualizing the findings in this report is the fact that 
 
 The health care system has also undergone dramatic changes in the last thirty years and the data in this report remain as critical as ever to help inform the state’s efforts to address chronic shortfalls of primary care physicians, especially in rural areas. 
 
+>**Suggested Citation:** Galloway E, Fraher E, Tarr N, Moore C, Tilson HH. [Monitoring the Workforce Outcomes of North Carolina Medical School Graduates: Retention In-State and in High Need Geographic Areas and Specialties](https://nchealthworkforce.unc.edu/projects/medical-education-and-training-outcomes/medstudent-tracking-2026/). Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. August 14, 2026.
+
 ## Appendix
 
 <details>
@@ -624,9 +626,6 @@ Reducing student debt and increasing reimbursement are essential components as s
  - WWAMI; Recruit students from rural communities and enroll them in Rural Track (TRUST). <https://www.uwmedicine.org/school-of-medicine/md-program/wwami>
 
   </details>
-
-
->**Suggested Citation:** Galloway E, Fraher E, Tarr N, Moore C, Tilson HH. [Monitoring the Workforce Outcomes of North Carolina Medical School Graduates: Retention In-State and in High Need Geographic Areas and Specialties](https://nchealthworkforce.unc.edu/projects/medical-education-and-training-outcomes/medstudent-tracking-2026/). Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. August 14, 2026.
 
 ## References
 
