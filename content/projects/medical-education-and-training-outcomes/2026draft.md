@@ -106,6 +106,7 @@ The ten-year workforce outcomes for each school’s 2015 graduates are illustrat
 
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.</small>
 
+
 #### _Practice in Safety Net Settings and Economically Distressed Neighborhoods_
 
 Safety net providers are defined as health care facilities that provide a significant amount of health care and other health-related services to uninsured, Medicaid, and other vulnerable populations. Five graduates from the class of 2020 were in practice in safety net settings in NC in 2025, including three UNC-CH graduates, one Duke graduate, and one ECU graduate. Another five graduates from the class of 2015 were in practice in safety net settings in North Carolina in 2025 (**Table 2**), all from UNC-CH. 
@@ -150,6 +151,7 @@ Note: As with Figure 5, this report uses the Reproducible Area Deprivation Index
 |     Total in NC               |     179 (38.7%)                                          |     10 (2.2%)                                            |
 
 <small>**Note**. Produced by the Program on Health Workforce Research and Policy, Sheps Center for Health Services Research, University of North Carolina at Chapel Hill. Source: North Carolina Health Professions Data System with data derived from the NC Medical Board and the AAMC, 2025. Rural source: Federal Office of Rural Health Policy (FORHP) rural delineation files, retrieved March 2026 from <https://www.hrsa.gov/rural-health/about-us/what-is-rural/data-files>.</small>
+
 
 
 **Figure 10** shows, for each medical school, the percentage of 2015 graduates in practice or training in NC by area of practice.
