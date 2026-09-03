@@ -625,6 +625,9 @@ Reducing student debt and increasing reimbursement are essential components as s
 
   </details>
 
+
+>**Suggested Citation:** Galloway E, Fraher E, Tarr N, Moore C, Tilson HH. [Monitoring the Workforce Outcomes of North Carolina Medical School Graduates: Retention In-State and in High Need Geographic Areas and Specialties](https://nchealthworkforce.unc.edu/projects/medical-education-and-training-outcomes/medstudent-tracking-2026/). Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. August 14, 2026.
+
 ## References
 
  [^1]: NC DHHS Office of Rural Health. Safety Net Sites website. Accessed February 27, 2025. <https://www.ncdhhs.gov/divisions/office-rural-health/safety-net-resources/safety-net-sites>.
