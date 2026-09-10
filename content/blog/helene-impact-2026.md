@@ -1,6 +1,6 @@
 ---
-title: "How Many Healthcare Professionals Work in Communities in North Carolina Impacted by Hurricane Helene?"
-date: 2025-01-31
+title: "How Did Hurricane Helene Impact the Health Workforce in North Carolina?"
+date: 2026-09-10
 author: 'Catherine Moore, Connor Sullivan, Evan Galloway, Abhi Joshi'
 draft: false
 unlisted: true
