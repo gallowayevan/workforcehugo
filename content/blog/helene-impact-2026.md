@@ -9,20 +9,9 @@ teaserImage: figure_2a.jpg
 keywords: [physician, licensed practical nurse, dentist, dental hygienist, hurricane helene]
 ---
 
- In September 2024, Hurricane Helene devastated many counties in North
- Carolina (NC), especially those in the western part of the state. The
- Federal Emergency Management Agency (FEMA) designated Hurricane Helene
- disaster areas in 28 North Carolina (NC) counties, making them
- eligible to apply for individual and public assistance for both
- emergency work (to be completed within six months) and permanent work
- (to be completed within 18 months) (these counties are indicated by
- ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) shading in Figure 1). In this blog,
- we examine the health care workers located in areas impacted by
- Helene. We also provide an overview of regulatory waivers implemented
- by the state and licensure boards in response to the hurricane.
+In September 2024, Hurricane Helene caused significant damage across many counties in western North Carolina (NC), and the Federal Emergency Management Agency (FEMA) designated disaster areas in 28 NC counties. [In a previous blog post](https://nchealthworkforce.unc.edu/blog/helene-impact/), we examined the size and composition of the health workforce in these counties prior to Hurricane Helene (2023) to provide a benchmark from which to monitor changes in access to health professionals in communities impacted by the storm. This analysis uses licensure data from 21 health professions in the NC Health Professions Data System (HPDS) to examine changes in health workforce supply relative to population in the 28 disaster counties compared with the state's 72 non-disaster counties, one year before the storm in 2023 compared to one year after the hurricane in 2025. 
 
- **Figure 1.** Federal Emergency Management Agency North Carolina
- Disaster Declaration 
+ **Figure 1.** Federal Emergency Management Agency North Carolina Disaster Declaration 
  
  {{< img src="/images/posts/helene/figure_1.jpg" alt="A map of the state of North Carolina showing the areas that are part of the disaster declaration. They are primarily counties in the western part of the state." caption="**Source:** Federal Emergency Management Agency (FEMA). Designated Areas: Disaster 4827. Retrieved November 8, 2024 from [Designated Areas \| FEMA.gov](https://www.fema.gov/disaster/4827/designated-areas). **Note:** Counties in disaster areas marked by ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) on the Federal Emergency Management Agency (FEMA) map are those that require both **emergency work**, including individual assistance and public assistance for FEMA categories A-B (debris removal and emergency protective measures) **and permanent work**, including individual assistance and public assistance for FEMA categories C-G (work on roads and bridges, water control facilities, public buildings and equipment, public utilities, and parks, recreational, and other facilities). All counties marked with a ![Example of crosshatched shading.](/images/posts/helene/disaster_shading.png) were included in the analysis.">}}
 
