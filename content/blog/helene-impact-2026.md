@@ -3,7 +3,7 @@ title: "How Did Hurricane Helene Impact the Health Workforce in North Carolina?"
 date: 2026-09-11
 author: 'Monica Jimenez, Brianna Lombardi'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Hurricane Helene and the Health Workforce"
 teaserImage: Helene2026_thumbnail.png
 keywords: [physician, licensed practical nurse, dentist, dental hygienist, hurricane helene]
@@ -66,7 +66,7 @@ The 28 FEMA-designated NC disaster counties include: Alexander, Alleghany, Ashe,
 - Six of the 28 counties’ health workforce supply declined relative to population between 2023 and 2025: Cherokee (-5.9%), Alexander (-5.7%), Polk (-4.7%), Mitchell (-3.3%), Avery (-1.3%), and Buncombe (-1.0%).
 - Despite a 1% decline in workforce supply per 10k population between 2023 and 2025, Buncombe County had the hurricane region's largest health workforce, with 10,178 health professionals and a rate of 359.6 per 10K population in 2025, well above the state rate of 234.3 per 10K population.
 
-{{< img title="**Figure 2. Change in health workforce supply per 10,000 population in Hurricane Helene disaster counties compared with the state rate, 2023 to 2025**" src="/images/posts/helene-2026/Figure2.png" caption="[Figure data can be accessed here.](/data/Helene-2026.xlsx)" alt="County-level map of Western North Carolina identifying the 28 FEMA-designated disaster area counties shaded by color to indicate degree of supply change in each county and stripe effect for population change in each county.">}}
+{{< img title="**Figure 2. Change in health workforce supply per 10,000 population in Hurricane Helene disaster counties compared with the state rate, 2023 to 2025**" src="/images/posts/helene-2026/Figure2.png" caption=" Note. [Figure data can be accessed here.](/data/Helene-2026.xlsx)" alt="County-level map of Western North Carolina identifying the 28 FEMA-designated disaster area counties shaded by color to indicate degree of supply change in each county and stripe effect for population change in each county.">}}
 
 ## Did health professionals leave the region after Hurricane Helene?
 
