@@ -26,265 +26,31 @@ In September 2024, Hurricane Helene caused significant damage across many counti
 
 **Table 1. Ratio per 10,000 population by occupation in 28 disaster counties and 72 non-disaster counties, 2023 and 2025**
 
- |                                                | Disaster Counties (n=28)                                   || Non-Disaster Counties (n=72)                                     |
-|------------------------------------------------|--------------------------|---------------|-------------------|------------------------------|---------------|-------------------|
-|     **Occupation**                                 |     **2023**                 |     **2025**      |     **% Change**    |     **2023**                     |     **2025**      |    **% Change**   |
-|     Certified Nurse Midwife                    |     0.44                 |     0.48      |     9.1%          |     0.38                     |     0.45      |     17.3%         |
-|     Certified Nurse Specialists                |     0.15                 |     0.13      |     -13.3%        |     0.26                     |     0.25      |     -4.1%         |
-|     Certified Registered Nurse Anesthetists    |     2.79                 |     2.70      |     -3.2%         |     2.92                     |     2.88      |     -1.2%         |
-|     Chiropractor                               |     2.42                 |     2.44      |     0.8%          |     1.96                     |     1.98      |     1.0%          |
-|     Dental Hygienist                           |     6.56                 |     6.59      |     0.5%          |     6.03                     |     6.04      |     0.2%          |
-|     Dentist                                    |     4.73                 |     4.75      |     0.4%          |     5.88                     |     6.04      |     2.6%          |
-|     Licensed Practical Nurse                   |     15.27                |     14.76     |     -3.3%         |     16.16                    |     16.24     |     0.5%          |
-|     Nurse Practitioner                         |     11.24                |     12.63     |     12.4%         |     11.75                    |     13.55     |     15.3%         |
-|     Occupational Therapist                     |     4.38                 |     4.79      |     9.4%          |     4.29                     |     4.68      |     9.0%          |
-|     Occupational Therapy Assistant             |     2.65                 |     2.55      |     -3.8%         |     1.80                     |     1.82      |     1.2%          |
-|     Optometrist                                |     1.10                 |     1.03      |     -6.4%         |     1.22                     |     1.24      |     1.8%          |
-|     Pharmacist                                 |     9.36                 |     9.42      |     0.6%          |     11.44                    |     11.63     |     1.6%          |
-|     Physical Therapist                         |     8.04                 |     8.25      |     2.6%          |     8.08                     |     8.62      |     6.6%          |
-|     Physical Therapist Assistant               |     4.86                 |     4.89      |     0.6%          |     2.96                     |     3.01      |     1.6%          |
-|     Physician                                  |     21.77                |     22.24     |     2.2%          |     26.48                    |     27.72     |     4.7%          |
-|     Physician Assistant                        |     6.17                 |     6.80      |     10.2%         |     8.35                     |     9.42      |     12.8%         |
-|     Podiatrist                                 |     0.30                 |     0.30      |     0.0%          |     0.33                     |     0.33      |     1.1%          |
-|     Psychological Associate                    |     0.71                 |     0.68      |     -4.2%         |     0.66                     |     0.67      |     2.1%          |
-|     Psychologist                               |     1.87                 |     1.84      |     -1.6%         |     2.31                     |     2.34      |     1.3%          |
-|     Registered Nurse                           |     97.61                |     103.41    |     5.9%          |     107.35                   |     114.57    |     6.7%          |
-|     Respiratory Therapist                      |     3.65                 |     3.60      |     -1.4%         |     4.46                     |     4.47      |     0.3%          |
-|     **Total**                                      |     **206.1**                |     **214.3**     |     **4.0%**          |    **225.05**                   |     **237.94**    |     **5.7%**          |
-
-
-# TABLE 2 TEST 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-7lg6{background-color:#DCE7F8;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-s75s{background-color:#DCE7F8;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lt97{background-color:#DCE7F8;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
-.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-lt97"><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span><br><span style="color:black"> </span><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span></th>
-    <th class="tg-7lg6" colspan="3"><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span><br><span style="color:black">Disaster&nbsp;&nbsp;&nbsp;Counties (n=28)</span><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span></th>
-    <th class="tg-7lg6" colspan="3"><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span><br><span style="color:black">Non-Disaster&nbsp;&nbsp;&nbsp;Counties (n=72)</span><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span></th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-7lg6"><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span><br><span style="color:black">Occupation</span><span style="background-color:#DCE7F8">&nbsp;&nbsp;&nbsp;</span></td>
-    <td class="tg-s75s"><span style="color:black">2023</span></td>
-    <td class="tg-s75s"><span style="background-color:#DCE7F8"> </span><span style="color:black">2025</span></td>
-    <td class="tg-7lg6"><span style="color:black">% Change</span></td>
-    <td class="tg-s75s"><span style="color:black">2023</span><span style="background-color:#DCE7F8">   </span></td>
-    <td class="tg-s75s"><span style="color:black">2025</span></td>
-    <td class="tg-7lg6"><span style="color:black">%  Change</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Certified Nurse Midwife</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.44</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.48</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">9.1%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.38</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.45</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">17.3%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Certified Nurse Specialists</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.15</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.13</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-13.3%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.26</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.25</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-4.1%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Certified Registered Nurse Anesthetists</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.79</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.70</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-3.2%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.92</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.88</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-1.2%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Chiropractor</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.42</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.44</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.8%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.96</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.98</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.0%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Dental Hygienist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.56</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.59</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.5%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.03</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.04</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.2%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Dentist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.73</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.75</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.4%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">5.88</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.04</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.6%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Licensed Practical Nurse</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">15.27</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">14.76</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-3.3%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">16.16</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">16.24</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.5%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Nurse Practitioner</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">11.24</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">12.63</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">12.4%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">11.75</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">13.55</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">15.3%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Occupational Therapist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.38</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.79</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">9.4%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.29</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.68</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">9.0%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Occupational Therapy Assistant</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.65</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.55</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-3.8%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.80</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.82</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.2%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Optometrist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.10</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.03</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-6.4%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.22</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.24</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.8%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Pharmacist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">9.36</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">9.42</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.6%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">11.44</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">11.63</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.6%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Physical Therapist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">8.04</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">8.25</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.6%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">8.08</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">8.62</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.6%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Physical Therapist Assistant</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.86</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.89</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.6%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.96</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">3.01</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.6%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Physician</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">21.77</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">22.24</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.2%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">26.48</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">27.72</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.7%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Physician Assistant</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.17</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.80</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">10.2%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">8.35</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">9.42</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">12.8%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Podiatrist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.30</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.30</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.0%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.33</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.33</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.1%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Psychological Associate</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.71</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.68</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-4.2%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.66</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.67</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.1%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Psychologist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.87</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.84</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-1.6%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.31</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.34</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">1.3%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Registered Nurse</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">97.61</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">103.41</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">5.9%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">107.35</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">114.57</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">6.7%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Respiratory Therapist</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">3.65</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">3.60</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">-1.4%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.46</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.47</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br><span style="color:black">0.3%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Total</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-j6zm">&nbsp;&nbsp;&nbsp;<br><span style="color:black">206.1</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-j6zm">&nbsp;&nbsp;&nbsp;<br><span style="color:black">214.3</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-j6zm">&nbsp;&nbsp;&nbsp;<br><span style="color:black">4.0%</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-j6zm">&nbsp;&nbsp;&nbsp;<br><span style="color:black">225.05</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-j6zm">&nbsp;&nbsp;&nbsp;<br><span style="color:black">237.94</span>&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-j6zm">&nbsp;&nbsp;&nbsp;<br><span style="color:black">5.7%</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody></table>
-
+|                                                | **Disaster Counties (n=28)** |               |               | **Non-Disaster Counties (n=72)** |               |              |
+|------------------------------------------------|------------------------------|---------------|---------------|----------------------------------|---------------|--------------|
+| **Occupation**                                 | **2023**                     | **2025**      | **% Change**  | **2023**                         | **2025**      | **% Change** |
+|     Certified Nurse Midwife                    |     0.44                     |     0.48      |     9.1%      |     0.38                         |     0.45      |     17.3%    |
+|     Certified Nurse Specialists                |     0.15                     |     0.13      |     -13.3%    |     0.26                         |     0.25      |     -4.1%    |
+|     Certified Registered Nurse Anesthetists    |     2.79                     |     2.70      |     -3.2%     |     2.92                         |     2.88      |     -1.2%    |
+|     Chiropractor                               |     2.42                     |     2.44      |     0.8%      |     1.96                         |     1.98      |     1.0%     |
+|     Dental Hygienist                           |     6.56                     |     6.59      |     0.5%      |     6.03                         |     6.04      |     0.2%     |
+|     Dentist                                    |     4.73                     |     4.75      |     0.4%      |     5.88                         |     6.04      |     2.6%     |
+|     Licensed Practical Nurse                   |     15.27                    |     14.76     |     -3.3%     |     16.16                        |     16.24     |     0.5%     |
+|     Nurse Practitioner                         |     11.24                    |     12.63     |     12.4%     |     11.75                        |     13.55     |     15.3%    |
+|     Occupational Therapist                     |     4.38                     |     4.79      |     9.4%      |     4.29                         |     4.68      |     9.0%     |
+|     Occupational Therapy Assistant             |     2.65                     |     2.55      |     -3.8%     |     1.80                         |     1.82      |     1.2%     |
+|     Optometrist                                |     1.10                     |     1.03      |     -6.4%     |     1.22                         |     1.24      |     1.8%     |
+|     Pharmacist                                 |     9.36                     |     9.42      |     0.6%      |     11.44                        |     11.63     |     1.6%     |
+|     Physical Therapist                         |     8.04                     |     8.25      |     2.6%      |     8.08                         |     8.62      |     6.6%     |
+|     Physical Therapist Assistant               |     4.86                     |     4.89      |     0.6%      |     2.96                         |     3.01      |     1.6%     |
+|     Physician                                  |     21.77                    |     22.24     |     2.2%      |     26.48                        |     27.72     |     4.7%     |
+|     Physician Assistant                        |     6.17                     |     6.80      |     10.2%     |     8.35                         |     9.42      |     12.8%    |
+|     Podiatrist                                 |     0.30                     |     0.30      |     0.0%      |     0.33                         |     0.33      |     1.1%     |
+|     Psychological Associate                    |     0.71                     |     0.68      |     -4.2%     |     0.66                         |     0.67      |     2.1%     |
+|     Psychologist                               |     1.87                     |     1.84      |     -1.6%     |     2.31                         |     2.34      |     1.3%     |
+|     Registered Nurse                           |     97.61                    |     103.41    |     5.9%      |     107.35                       |     114.57    |     6.7%     |
+|     Respiratory Therapist                      |     3.65                     |     3.60      |     -1.4%     |     4.46                         |     4.47      |     0.3%     |
+| **Total**                                      | **206.1**                    | **214.3**     | **4.0%**      | **225.05**                       | **237.94**    | **5.7%**     |
 
 
 # How did changes to the health workforce supply in hurricane-impacted counties vary? 
