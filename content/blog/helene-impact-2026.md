@@ -26,9 +26,9 @@ In September 2024, Hurricane Helene caused significant damage across many counti
 
 **Table 1. Ratio per 10,000 population by occupation in 28 disaster counties and 72 non-disaster counties, 2023 and 2025**
 
- |                                                | Disaster Counties (n=28) |               |                   | Non-Disaster Counties (n=72) |               |                   |
+ |                                                | Disaster Counties (n=28)                                   || Non-Disaster Counties (n=72)                                     |
 |------------------------------------------------|--------------------------|---------------|-------------------|------------------------------|---------------|-------------------|
-|     Occupation                                 |     2023                 |     2025      |     %   Change    |     2023                     |     2025      |     %   Change    |
+|     **Occupation**                                 |     **2023**                 |     **2025**      |     **% Change**    |     **2023**                     |     **2025**      |    ** % Change**   |
 |     Certified Nurse Midwife                    |     0.44                 |     0.48      |     9.1%          |     0.38                     |     0.45      |     17.3%         |
 |     Certified Nurse Specialists                |     0.15                 |     0.13      |     -13.3%        |     0.26                     |     0.25      |     -4.1%         |
 |     Certified Registered Nurse Anesthetists    |     2.79                 |     2.70      |     -3.2%         |     2.92                     |     2.88      |     -1.2%         |
@@ -50,7 +50,7 @@ In September 2024, Hurricane Helene caused significant damage across many counti
 |     Psychologist                               |     1.87                 |     1.84      |     -1.6%         |     2.31                     |     2.34      |     1.3%          |
 |     Registered Nurse                           |     97.61                |     103.41    |     5.9%          |     107.35                   |     114.57    |     6.7%          |
 |     Respiratory Therapist                      |     3.65                 |     3.60      |     -1.4%         |     4.46                     |     4.47      |     0.3%          |
-|     Total                                      |     206.1                |     214.3     |     4.0%          |     225.05                   |     237.94    |     5.7%          |
+|     **Total**                                      |     **206.1**                |     **214.3**     |     **4.0%**          |    ** 225.05**                   |     **237.94**    |     **5.7%**          |
 
 # How did changes to the health workforce supply in hurricane-impacted counties vary? 
 
@@ -77,9 +77,9 @@ Thus far, this blog has analyzed aggregate changes in the health workforce after
 |     Active in disaster counties 2023; active in non-disaster counties 2025    |     1,914     |     5.1%     |
 |     Active in disaster counties 2023; inactive in NC 2025                     |     5,043     |     13.5%    |
 
-<small>_Note._ Inactive includes health professionals that are retired, not in the file, or left the state.</small>
+<small>_Note. Inactive includes health professionals that are retired, not in the file, or left the state._</small>
 
-{{< img title="**Figure 3. Figure 3. Practice Status in 2025 among health professionals active in disaster counties in 2023 (n=37,284)**" src="/images/posts/helene-2026/Figure3.png" caption="_Note._ Includes all 21 health occupations in the analysis. Inactive includes health professionals that are retired, not in the file, or left the state." alt="Sankey figure depicting health professionals active in disaster counties in 2023 and whether they were active or inactive in NC disaster or non-disaster areas in 2025">}}
+{{< img title="**Figure 3. Figure 3. Practice Status in 2025 among health professionals active in disaster counties in 2023 (n=37,284)**" src="/images/posts/helene-2026/Figure3.png" caption="Note. Includes all 21 health occupations in the analysis. Inactive includes health professionals that are retired, not in the file, or left the state." alt="Sankey figure depicting health professionals active in disaster counties in 2023 and whether they were active or inactive in NC disaster or non-disaster areas in 2025">}}
 
 # What do these findings mean for the region?
 
