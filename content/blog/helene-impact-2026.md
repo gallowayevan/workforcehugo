@@ -13,6 +13,12 @@ In September 2024, Hurricane Helene caused significant damage across many counti
 
 {{< img title="**Figure 1. Federal Emergency Management Agency Designated Disaster Counties: Hurricane Helene, North Carolina**" src="/images/posts/helene-2026/Figure1.png" alt="County-level map of Western North Carolina identifying the 28 FEMA-designated disaster area counties.">}}
 
+<details>
+  <summary class="summary-header">28 Disaster Counties</summary>
+The 28 FEMA-designated disaster counties in NC include: Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Gaston, Graham, Haywood, Henderson, Jackson, Lincoln, Macon, Madison, McDowell, Mitchell, Polk, Rutherford, Swain, Transylvania, Watauga, Wilkes, Yancey  
+</details>
+
+
 # How did health workforce supply relative to population change in hurricane-impacted NC counties vs. non-impacted counties?
 
 - Total health workforce supply for the 21 health professions in disaster counties grew from 206.1 health professionals per 10K population in 2023 to 214.3 in 2025, an increase of 4.0%. In non-disaster counties, workforce supply per 10K population increased from 225.1 to 237.9, a 5.7% increase for the same professions (Table 1).
