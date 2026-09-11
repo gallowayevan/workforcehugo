@@ -1,11 +1,11 @@
 ---
 title: "How Did Hurricane Helene Impact the Health Workforce in North Carolina?"
-date: 2026-09-10
-author: 'Catherine Moore, Connor Sullivan, Evan Galloway, Abhi Joshi'
+date: 2026-09-11
+author: 'Monica Jimenez, Brianna Lombardi'
 draft: false
 unlisted: true
 teaserText: "Hurricane Helene and the Health Workforce"
-teaserImage: figure_2a.jpg
+teaserImage: Helene2026_thumbnail.png
 keywords: [physician, licensed practical nurse, dentist, dental hygienist, hurricane helene]
 ---
 
@@ -14,12 +14,11 @@ In September 2024, Hurricane Helene caused significant damage across many counti
 {{< img title="**Figure 1. Federal Emergency Management Agency Designated Disaster Counties: Hurricane Helene, North Carolina**" src="/images/posts/helene-2026/Figure1.png" alt="County-level map of Western North Carolina identifying the 28 FEMA-designated disaster area counties.">}}
 
 <details>
-  <summary class="summary-header">28 Disaster Counties</summary>
-The 28 FEMA-designated disaster counties in NC include: Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Gaston, Graham, Haywood, Henderson, Jackson, Lincoln, Macon, Madison, McDowell, Mitchell, Polk, Rutherford, Swain, Transylvania, Watauga, Wilkes, Yancey  
+  <summary class="summary-header">28 FEMA-Designated NC Disaster Counties</summary>
+The 28 FEMA-designated NC disaster counties include: Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Gaston, Graham, Haywood, Henderson, Jackson, Lincoln, Macon, Madison, McDowell, Mitchell, Polk, Rutherford, Swain, Transylvania, Watauga, Wilkes, and Yancey  
 </details>
 
-
-# How did health workforce supply relative to population change in hurricane-impacted NC counties vs. non-impacted counties?
+## How did health workforce supply relative to population change in hurricane-impacted NC counties vs. non-impacted counties?
 
 - Total health workforce supply for the 21 health professions in disaster counties grew from 206.1 health professionals per 10K population in 2023 to 214.3 in 2025, an increase of 4.0%. In non-disaster counties, workforce supply per 10K population increased from 225.1 to 237.9, a 5.7% increase for the same professions (Table 1).
 - Disaster counties had lower health workforce supply relative to the population compared to non-disaster counties prior to Hurricane Helene (206.1 vs. 225.1 per 10K population in 2023), and the gap widened after the hurricane (214.3 vs. 237.9 per 10k population in 2025).
@@ -59,7 +58,7 @@ The 28 FEMA-designated disaster counties in NC include: Alexander, Alleghany, As
 | **Total**                                      | **206.1**                    | **214.3**     | **4.0%**      | **225.05**                       | **237.94**    | **5.7%**     |
 
 
-# How did changes to the health workforce supply in hurricane-impacted counties vary? 
+## How did changes to the health workforce supply in hurricane-impacted counties vary? 
 
 - Changes in health workforce supply per 10K population varied between counties affected by Hurricane Helene. This variation was due to differences between counties in how their supply of health professionals and population changed between 2023 and 2025. Four of the 28 counties (Ashe, Mitchell, Swain, and Watauga) in the hurricane region lost population, three of which had an increase in workforce supply and one (Mitchell) had a decrease in health workforce supply.
 - Fourteen of the 28 counties had a growth in health workforce supply that outpaced the state average growth. Counties with the greatest increase in health workforce supply relative to population from 2023 to 2025 were Swain (14.1%), Lincoln (11.9%), Graham (11.4%), Ashe (10.7%), and Rutherford (10.7%) counties.
@@ -67,9 +66,9 @@ The 28 FEMA-designated disaster counties in NC include: Alexander, Alleghany, As
 - Six of the 28 counties’ health workforce supply declined relative to population between 2023 and 2025: Cherokee (-5.9%), Alexander (-5.7%), Polk (-4.7%), Mitchell (-3.3%), Avery (-1.3%), and Buncombe (-1.0%).
 - Despite a 1% decline in workforce supply per 10k population between 2023 and 2025, Buncombe County had the hurricane region's largest health workforce, with 10,178 health professionals and a rate of 359.6 per 10K population in 2025, well above the state rate of 234.3 per 10K population.
 
-{{< img title="**Figure 2. Change in health workforce supply per 10,000 population in Hurricane Helene disaster counties compared with the state rate, 2023 to 2025**" src="/images/posts/helene-2026/Figure2.png" alt="County-level map of Western North Carolina identifying the 28 FEMA-designated disaster area counties shaded by color to indicate degree of supply change in each county and stripe effect for population change in each county.">}}
+{{< img title="**Figure 2. Change in health workforce supply per 10,000 population in Hurricane Helene disaster counties compared with the state rate, 2023 to 2025**" src="/images/posts/helene-2026/Figure2.png" caption="[Figure data can be accessed here.](/data/Helene-2026.xlsx)" alt="County-level map of Western North Carolina identifying the 28 FEMA-designated disaster area counties shaded by color to indicate degree of supply change in each county and stripe effect for population change in each county.">}}
 
-# Did health professionals leave the region after Hurricane Helene?
+## Did health professionals leave the region after Hurricane Helene?
 
 Thus far, this blog has analyzed aggregate changes in the health workforce after Hurricane Helene. Of the 37,284 health professionals who were in active practice in the 28 disaster counties in 2023:  
 - 30,327 (81.3%) were still active in disaster counties in 2025
@@ -86,8 +85,8 @@ Thus far, this blog has analyzed aggregate changes in the health workforce after
 
 <small>_Note. Inactive includes health professionals that are retired, not in the file, or left the state._</small>
 
-{{< img title="**Figure 3. Figure 3. Practice Status in 2025 among health professionals active in disaster counties in 2023 (n=37,284)**" src="/images/posts/helene-2026/Figure3.png" caption="Note. Includes all 21 health occupations in the analysis. Inactive includes health professionals that are retired, not in the file, or left the state." alt="Sankey figure depicting health professionals active in disaster counties in 2023 and whether they were active or inactive in NC disaster or non-disaster areas in 2025">}}
+{{< img title="**Figure 3. Practice Status in 2025 among health professionals active in disaster counties in 2023 (n=37,284)**" src="/images/posts/helene-2026/Figure3.png" caption="Note. Includes all 21 health occupations in the analysis. Inactive includes health professionals that are retired, not in the file, or left the state. [Figure data can be accessed here.](/data/Helene-2026.xlsx)" alt="Sankey figure depicting health professionals active in disaster counties in 2023 and whether they were active or inactive in NC disaster or non-disaster areas in 2025">}}
 
-# What do these findings mean for the region?
+## What do these findings mean for the region?
 
 One year after Hurricane Helene, the health workforce in disaster counties continued to grow relative to population, and most healthcare workers who were in the region before the storm remained working in the region. However, overall growth of the health workforce in the disaster region lagged compared to non-disaster counties, widening a workforce gap that predated the hurricane. Several professions, particularly licensed practical nurses, occupational therapy assistants, optometrists, and psychologists, have declined in the region while remaining at the same levels or growing elsewhere in NC. Continued monitoring of these professions, and of the counties where declines are concentrated, will be important as the region's recovery continues. 
