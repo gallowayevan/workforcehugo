@@ -1,6 +1,6 @@
 ---
 title: "North Carolina Licensed Recreational Therapists Data 2024 Snapshot"
-date: 2026-09-17
+date: 2026-09-16  
 author:
 draft: false
 unlisted: true
@@ -35,7 +35,7 @@ hideAhec: true
 <a class="button is-success is-rounded mb-5" href="/pdf/LRT-Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
-##Licensed Recreational Therapists and Assistants##
+## Licensed Recreational Therapists and Assistants
 
 Licensed Recreational Therapists (LRTs) assess and provide treatment through structured recreational interventions and programs. LRTs and Licensed Recreational Therapist Assistants (LRTAs) are licensed by the North Carolina Board of Recreational Therapy Licensure (NCBRTL). In 2024, there were 827 LRTs and 26 LRTAs actively practicing, representing a statewide rate of 0.78 LRTs per 10,000 population.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
