@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: true
 teaserText: "Data Snapshot: LPNs and RNs in Mental Health and Substance Use Services Settings"
-teaserImage: LPN-RN-Snapshot-teaser.png
+teaserImage: LPN-RN-Snapshot-teaser.jpg
 keywords: [LPN, RN, registered nurse, licensed practical nurse, practical nurse, workforce]
 hideAhec: true
 ---
