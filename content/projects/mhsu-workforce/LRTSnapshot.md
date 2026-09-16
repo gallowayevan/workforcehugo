@@ -3,7 +3,7 @@ title: "North Carolina Licensed Recreational Therapists Data 2024 Snapshot"
 date: 2026-09-16  
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: Licensed Recreational Therapists"
 teaserImage: LRT-Snapshot-teaser.png
 keywords: [licensed recreational therapist, LRT, recreational therapist, recreation, workforce]
