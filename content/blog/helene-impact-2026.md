@@ -1,7 +1,7 @@
 ---
 title: "How Did Hurricane Helene Impact the Health Workforce in North Carolina?"
 date: 2026-09-11
-author: 'Monica Jimenez, Brianna Lombardi'
+author: 'Brianna Lombardi, Monica Jimenez, Erin Fraher'
 draft: false
 unlisted: false
 teaserText: "Hurricane Helene and the Health Workforce"
