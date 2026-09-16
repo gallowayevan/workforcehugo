@@ -3,7 +3,7 @@ title: "North Carolina Mental Health and Substance Use Services Licensed Practic
 date: 2026-09-16  
 author:
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Data Snapshot: LPNs and RNs in Mental Health and Substance Use Services Settings"
 teaserImage: LPNRNSnapshot-teaser.jpg
 keywords: [LPN, RN, registered nurse, licensed practical nurse, practical nurse, workforce]
