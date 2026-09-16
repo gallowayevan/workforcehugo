@@ -35,7 +35,7 @@ hideAhec: true
 <a class="button is-success is-rounded mb-5" href="/pdf/LPN-RN-Snapshot.pdf" style="background-color:#1A294B; color:white;">Download Full Snapshot (PDF)</a>
 </div>
 
-## Licensed Practice Nurses and Registered Nurses in Mental Health and Substance Use Services Settings
+## Licensed Practical Nurses and Registered Nurses in Mental Health and Substance Use Services Settings
 
 Licensed Practical Nurses (LPNs) and Registered Nurses (RNs) working in MH/SU service settings provide nursing care for individuals with MH/SU conditions. LPNs and RNs are licensed and regulated by the North Carolina Board of Nursing (NCBON). In 2024, there were 570 LPNs and 3,743 RNs actively practicing in MH/SU services settings, with statewide rates of 0.52 MH/SU LPNs and 3.41 MH/SU RNs per 10,000 population. 
 
