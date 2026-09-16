@@ -1,12 +1,12 @@
 ---
-title: "North Carolina Mental Health and Substance Use Services Registered Nurses and Licensed Practical Nurses Data 2024 Snapshot"
+title: "North Carolina Mental Health and Substance Use Services Licensed Practical Nurses and Registered Nurses Data 2024 Snapshot"
 date: 2026-09-16  
 author:
 draft: false
 unlisted: true
 teaserText: "Data Snapshot: LPNs and RNs in Mental Health and Substance Use Services Settings"
 teaserImage: LPN-RN-Snapshot-teaser.png
-keywords: [LPN, RN, registered nurse, licensued practical nurse, practical nurse, workforce]
+keywords: [LPN, RN, registered nurse, licensed practical nurse, practical nurse, workforce]
 hideAhec: true
 ---
 
@@ -41,7 +41,7 @@ Licensed Practical Nurses (LPNs) and Registered Nurses (RNs) working in MH/SU se
 
 -------------------------------------------------------------------------------------------------------------------------------
 
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Licensed Pracical Nurses and Registered Nurses in Mental Health and Substance Use Services Settings. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
+>**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Licensed Practical Nurses and Registered Nurses in Mental Health and Substance Use Services Settings. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
 <div class="message mt-4">
