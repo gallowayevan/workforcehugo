@@ -52,7 +52,7 @@ This project was supported by the North Carolina Division of Mental Health, Deve
 <li><a href="/projects/mhsu-workforce/chwsnapshot/">Certified Community Health Workers</a></li> 
 <li><a href="/projects/mhsu-workforce/cppss-snapshot/">Certified Peer Support Specialists</a></li> 
 <li><a href="/projects/mhsu-workforce/lpnrnsnapshot/">Licensed Practical Nurses and Registered Nurses in Mental Health and Substance Use Services Settings</a></li> 
-<li><a href="/projects/mhsu-workforce/lrtsnapshot/">Licensed Recreational Therapists and Assistants</a></li> 
+<li><a href="/projects/mhsu-workforce/lrt-snapshot/">Licensed Recreational Therapists and Assistants</a></li> 
 
 </ul>
 </div>
