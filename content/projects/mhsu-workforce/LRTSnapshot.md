@@ -39,7 +39,8 @@ hideAhec: true
 
 Licensed Recreational Therapists (LRTs) assess and provide treatment through structured recreational interventions and programs. LRTs and Licensed Recreational Therapist Assistants (LRTAs) are licensed by the North Carolina Board of Recreational Therapy Licensure (NCBRTL). In 2024, there were 827 LRTs and 26 LRTAs actively practicing, representing a statewide rate of 0.78 LRTs per 10,000 population.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+
 >**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data 2024 Snapshot: Licensed Recreational Therapists. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. May 6, 2026.
 
 
