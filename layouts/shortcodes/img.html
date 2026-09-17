@@ -12,10 +12,14 @@
 */}}
 <figure class="post-figure{{ with .Get "class" }} {{ . }}{{ end }}">
     {{ with .Get "title" }}<p class="figure-title">{{ . | markdownify }}</p>{{ end }}
-    {{ with .Get "src" }}<a href="{{ . }}">{{ end }}
-        <img src="{{ .Get "src" }}" loading="lazy"
+    {{/* SVGs render at full resolution in the page, so linking to the raw
+         file adds nothing; only raster images link to their full-size original. */}}
+    {{- $src := .Get "src" -}}
+    {{- $link := and $src (not (hasSuffix $src ".svg")) -}}
+    {{ if $link }}<a href="{{ $src }}">{{ end }}
+        <img src="{{ $src }}" loading="lazy"
             alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}" />
-    {{ if .Get "src" }}</a>{{ end }}
+    {{ if $link }}</a>{{ end }}
     {{ if or (.Get "caption") (.Get "attr") }}
     <figcaption class="figure-caption">
         {{ with .Get "caption" }}<p>{{ . | markdownify }}</p>{{ end }}
