@@ -122,7 +122,7 @@ fellowship.
 Completed a Residency in North Carolina by Residency Specialty, Primary Care
 Specialties, 2025.**
 
-| NC residency specialty | Trained (n) | In NC, n (% of trained) | In NC primary care, n (% of trained) | In rural NC, n (% of trained) |
+| NC residency specialty | Physicians (n) | In NC, n (%) | In NC primary care, n (%) | In rural NC, n (%) |
 |---|:---:|:---:|:---:|:---:|
 | Family Medicine | 26 | 23 (88%) | 23 (88%) | 5 (19%) |
 | Internal Medicine | 39 | 26 (67%) | 9 (23%) | 1 (3%) |
@@ -135,7 +135,7 @@ Specialties, 2025.**
 Completed a Residency in North Carolina by Residency Specialty, Primary Care
 Specialties, 2025.**
 
-| NC residency specialty | Trained (n) | In NC, n (% of trained) | In NC primary care, n (% of trained) | In rural NC, n (% of trained) |
+| NC residency specialty | Physicians (n) | In NC, n (%) | In NC primary care, n (%) | In rural NC, n (%) |
 |---|:---:|:---:|:---:|:---:|
 | Family Medicine | 21 | 19 (90%) | 19 (90%) | 2 (10%) |
 | Internal Medicine | 27 | 20 (74%) | 4 (15%) | 0 (0%) |
@@ -145,7 +145,8 @@ Specialties, 2025.**
 | **All primary care** | **78** | **58 (74%)** | **37 (47%)** | **4 (5%)** |
 
 {{< note >}}
-**Note.** Specialty is the NC residency, not current practice. Trainees who
-only completed a fellowship in NC are included in the summary table but not in
-the specialty tables.
+**Note.** Percentages are shares of the physicians in each row. Specialty is
+the NC residency, not current practice. Double-NC physicians who only
+completed a fellowship in NC are included in Table 1 but not in Tables 2
+and 3.
 {{< /note >}}
