@@ -139,7 +139,7 @@ Licensed Clinical Social Workers (LCSWs) in North Carolina are trained to provid
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**Suggested Citation:**  Lombardi BM, Headley J, Jimenez MP; Keesler R, Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Social Work (Licensed Clinical Social Workers & Associates). Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. March 25, 2026.
+>**Suggested Citation:**  Lombardi BM; Headley J; Jimenez MP; Keesler R; Akue-ka AJB; Gregory R; Galloway E; Zerden LD; Fraher E. North Carolina Mental Health & Substance Use Services Workforce Data Snapshot 2024: Social Work (Licensed Clinical Social Workers & Associates). Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. March 25, 2026.
 
 
 <div class="message mt-4">
