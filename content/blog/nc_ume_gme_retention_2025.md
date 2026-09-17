@@ -113,9 +113,9 @@ School Graduation Year, 2025.**
 {{< note >}}
 **Note.** Percentages are shares of the cohort's NC medical school graduates
 who also trained in an NC residency or fellowship (the double-NC physicians).
-Indented rows are subsets of trainees in NC. For inclusion in this
-table, trainees must have completed or be in progress in an NC residency or
-fellowship.
+Indented rows are subsets of double-NC physicians in NC. For inclusion in this
+table, double-NC physicians must have completed or be in progress in an NC
+residency or fellowship.
 {{< /note >}}
 
 **Table 2. Retention of 2020 North Carolina Medical School Graduates Who
