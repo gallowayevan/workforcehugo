@@ -14,7 +14,7 @@ keywords: [nurses, licensed practical nurses, workforce]
 </div>
 
 ## Introduction
-North Carolina is expected to face a shortage of more than 5,000 licensed practical nurses (LPNs) by 2033 with all regions of the state facing shortfalls. Nursing home, extended care, and assisted living facilities are projected to face a scenario where there are twice as many LPN jobs than there are LPNs to work in those jobs. 
+North Carolina is expected to face a shortage of [more than 5,000 licensed practical nurses (LPNs) by 2033](https://ncnursecast.unc.edu/key-findings/) with all regions of the state facing shortfalls. Nursing home, extended care, and assisted living facilities are projected to face a scenario where there are twice as many LPN jobs than there are LPNs to work in those jobs. 
 
 LPNs provide patient care under the supervision of a registered nurse (RN) or other qualified healthcare [clinician](https://www4.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_90/gs_90-171.20.html). Their role may include discussing health concerns with patients, reporting concerns to supervising clinicians, monitoring vital signs, changing bandages, assisting with bathing and dressing, recording patient status and the care provided, maintaining health records, etc. LPNs work in a variety of healthcare settings, with the largest working in long-term care settings. 
 
