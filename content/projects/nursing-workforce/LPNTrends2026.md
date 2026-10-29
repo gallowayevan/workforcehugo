@@ -38,7 +38,7 @@ North Carolina’s health workforce is concentrated in metropolitan (urban) area
 
 **Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**
 
-{{< img title="**Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**" alt="Line chart comparing the supply of North Carolina LPNs per 10,000 population for metropolitan and non-metropolitan counties each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure3.png" >}}
+{{< img title="**Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**" alt="Line chart comparing the supply of North Carolina LPNs per 10,000 population for metropolitan and non-metropolitan counties each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure3.jpg" >}}
 
 ## One in Three LPNs Work in Long-Term Care Settings
 
@@ -47,6 +47,16 @@ Approximately one-third of NC’s LPN workforce report a primary employment sett
 The second most common employment setting for LPNs (21.9% in 2025, n=3,897) in 2025 was “other settings.” In this analysis, “other settings” includes correctional facilities, public health settings, occupational health settings, insurance claims & benefits, academic settings, school health service, community health settings, dialysis centers, mental health, and other settings. 
 
 **Table 1. LPNs by Employment Setting, North Carolina, 2017-2025**
+
+|     Employment   Setting by Year, n (%)    |      2016      |      2017      |      2018      |      2019      |      2020      |      2021      |      2022      |      2023      |      2024      |      2025      |
+|:------------------------------------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| Hospital                                   |  1,262   (6.9) |  1,169   (6.4) |  1,054   (5.6) |  1,087   (5.9) |  1,133   (6.3) |  1,099   (6.3) |  1,142   (6.6) |  1,281   (7.4) |  1,408   (8.0) |  1,525   (8.6) |
+| Ambulatory Care                            |  1,442   (7.9) |  1,728   (9.4) |  1,792   (9.5) | 1,952   (10.6) | 2,054   (11.3) | 1,860   (10.6) |  1,691   (9.8) |  1,717   (9.9) |  1,744   (9.9) |  1,761   (9.9) |
+| Nursing Home/Extended Care/Assisted Living | 6,605   (36.3) | 6,641   (36.2) | 6,249   (33.0) | 6,265   (34.1) | 6,071   (33.5) | 5,716   (32.6) | 5,491   (31.7) | 5,496   (31.7) | 5,596   (31.8) | 5,508   (31.0) |
+| Home Health/Hospice                        | 2,178   (12.0) | 2,383   (13.0) | 2,425   (12.8) | 2,639   (14.4) | 2,568   (14.2) | 2,591   (14.8) | 2,634   (15.2) | 2,630   (15.1) | 2,674   (15.2) | 2,703   (15.2) |
+| Other Settings                             | 4,915   (27.0) | 4,800   (26.1) | 4,375   (23.1) | 4,302   (23.4) | 4,297   (23.7) | 4,255   (24.3) | 4,254   (24.6) | 4,168   (24.0) | 4,036   (22.9) | 3,897   (21.9) |
+| Missing Setting                            |  1,779   (9.8) |  1,645   (9.0) | 3,019   (16.0) | 2,132   (11.6) | 1,980   (10.9) | 2,004   (11.4) | 2,088   (12.1) | 2,070   (11.9) | 2,160   (12.3) | 2,371   (13.3) |
+|                    Total                   |         18,181 |         18,366 |         18,914 |         18,377 |         18,103 |         17,525 |         17,300 |         17,362 |         17,618 |         17,765 |
 
 ## The COVID-19 Pandemic Affected LPN Employment Trends
 
@@ -68,6 +78,39 @@ The number of LPNs working in hospital settings declined between 2016 and 2020 (
 
 ## LPN Employment in Long-Term Care Settings Has Declined, Especially in Rural Counties
 
+Changes in LPN employment differed substantially between urban and rural counties, particularly in long term care settings. (Table 3). Over the past decade, LPN employment in nursing home, extended care, and assisted living settings fell by fell by 29.5% (n=-515), compared with a decline of 12.0% (n=-582) in urban counties. By contrast, hospital employment increased at similar rates in urban and rural counties, growing 21.0% (n=+202) and 20.5% (n=+61), respectively. Similarly, employment in ambulatory care settings increased by 22.0% (n=+263) in urban counties and 22.8% (n=+56) in rural counties. Overall, the number of active-practice LPNs increased 2.9% (n=+398) in metropolitan counties while declining 17.7% (n=-814) in nonmetropolitan counties.
 
-{{< img title="**Figure 4. Number of First Time NCLEX-PN Test Takers, North Carolina, 2016-2025**" alt="Line chart illustrating the number of first-time takers of the National Council Licensure Examination for Practical Nurses (NCLEX-PN) between 2016 and 2025" caption="**Note.** Data are derived from the North Carolina State Board of Nursing April 2026 [Report](https://www.ncbon.com/sites/default/files/documents/2026-05/20260506_Final%20Annual%20Report.pdf)." src="/images/posts/LPN2026/Figure3.png" >}}
+## Table 3. Change in LPN  Employment Setting by Metropolitan (Urban) and Non-Metropolitan (Rural) Status,  2016-2025
 
+|                                                   |     Metropolitan   Counties    |                  |                        |     Non-Metropolitan   Counties    |                  |                           |
+|---------------------------------------------------|--------------------------------|------------------|------------------------|------------------------------------|------------------|---------------------------|
+|     Primary   Employment Setting                  |     2016   (n)                 |     2025  (n)    |      Δn (%Δ)           |     2016  (n)                      |      2025 (n)    |     Nonmetro   Δn (%Δ)    |
+|     Hospital                                      |     964                        |     1,166        |     +202   (+21.0%)    |     298                            |     359          |     +61   (+20.5%)        |
+|     Ambulatory Care                               |     1,196                      |     1,459        |     +263   (+22.0%)    |     246                            |     302          |     +56   (+22.8%)        |
+|     Nursing Home/Extended Care/Assisted Living    |     4,862                      |     4,280        |     -582   (-12.0%)    |     1,743                          |     1,228        |     -515   (-29.5%)       |
+|     Home Health/Hospice                           |     1,858                      |     2,391        |     +533   (+28.7%)    |     320                            |     312          |     -8   (-2.5%)          |
+|     Other Settings                                |     3,478                      |     2,939        |     -539   (-15.5%)    |     1,437                          |     958          |     -479   (-33.3%)       |
+|     Total                                         |     13,586                     |     13,984       |     +398   (+2.9%)     |     4,595                          |     3,781        |     -814   (-17.7%)       |
+
+## Enrollment in NC LPN Training Programs is Rising
+
+LPN enrollment increased by 29.5% (n=417 students) [between 2023 and 2025](https://www.ncbon.com/sites/default/files/documents/2026-05/20260506_Final%20Annual%20Report.pdf). To become licensed to practice as an LPN, students must pass the National Council Licensure Examination for Practical Nurses (NCLEX-PN) after graduation.  The increase in LPN enrollment is reflected in the recent increase in first time NCLEX-PN test takers which was relatively steady between 2016 and 2023 but increased 26% between 2023 and 2025 (Figure 4).  
+
+{{< img title="**Figure 4. Number of First Time NCLEX-PN Test Takers, North Carolina, 2016-2025**" alt="Line chart illustrating the number of first-time takers of the National Council Licensure Examination for Practical Nurses (NCLEX-PN) between 2016 and 2025" caption="**Note.** Data are derived from the North Carolina State Board of Nursing April 2026 [Report](https://www.ncbon.com/sites/default/files/documents/2026-05/20260506_Final%20Annual%20Report.pdf)." src="/images/posts/LPN2026/Figure4.png" >}}
+
+North Carolina’s NCLEX-PN pass rates consistently exceeded national averages, ranging from 5.6 to 11.3 percentage points higher than US pass rates (Table 4).
+
+## Table 4. First Time NCLEX-PN Test Takers, Pass Rates, North Carolina and United States, 2016-2025
+
+|             |     NC   Candidates Taking NCLEX-PN    |     NC   Candidates Passing NCLEX-PN    |     NC Pass   Rate    |     United   States Pass Rate    |     Percentage   Point Difference (NC-US)    |
+|-------------|----------------------------------------|-----------------------------------------|-----------------------|----------------------------------|----------------------------------------------|
+|     2016    |     871                                |     794                                 |     91.2%             |     83.7%                        |     7.5                                      |
+|     2017    |     839                                |     789                                 |     94.0%             |     83.8%                        |     10.2                                     |
+|     2018    |     862                                |     816                                 |     94.7%             |     85.9%                        |     8.8                                      |
+|     2019    |     948                                |     888                                 |     93.7%             |     85.6%                        |     8.1                                      |
+|     2020    |     941                                |     835                                 |     88.7%             |     83.1%                        |     5.6                                      |
+|     2021    |     871                                |     771                                 |     88.5%             |     79.6%                        |     8.9                                      |
+|     2022    |     902                                |     823                                 |     91.2%             |     79.9%                        |     11.3                                     |
+|     2023    |     899                                |     849                                 |     94.4%             |     86.7%                        |     7.7                                      |
+|     2024    |     976                                |     924                                 |     94.7%             |     88.4%                        |     6.3                                      |
+|     2025    |     1,135                              |     1,080                               |     95.2%             |     86.6%                        |     8.6                                      |
