@@ -15,7 +15,7 @@ keywords: [nurses, licensed practical nurses, workforce]
   padding: 0.5rem 1rem;
   margin-bottom: 1rem;
 }
-.section-header h2 {
+.section-header h3 {
   margin: 0;
 }
 .stat-box {
@@ -41,7 +41,7 @@ Addressing LPN shortages requires a multi-tiered approach that includes strategi
 
 <hr>
 <div class="section-header">
-  <h2 class="title is-3">The LPN Workforce Has Grown Recent Years But Remains Smaller than a Decade Ago</h2>
+  <h3 class="title is-3">The LPN Workforce Has Grown Recent Years But Remains Smaller than a Decade Ago</h3>
 </div>
 
 ## The LPN Workforce Has Grown Recent Years But Remains Smaller than a Decade Ago
