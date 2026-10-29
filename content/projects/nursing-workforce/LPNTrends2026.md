@@ -18,7 +18,7 @@ North Carolina is expected to face a shortage of more than 5,000 licensed practi
 
 LPNs provide patient care under the supervision of a registered nurse (RN) or other qualified healthcare [clinician](https://www4.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_90/gs_90-171.20.html). Their role may include discussing health concerns with patients, reporting concerns to supervising clinicians, monitoring vital signs, changing bandages, assisting with bathing and dressing, recording patient status and the care provided, maintaining health records, etc. LPNs work in a variety of healthcare settings, with the largest working in long-term care settings. 
 
-Shortages of registered nurses in the wake of the COVID-19 pandemic have caused healthcare organizations to explore new staffing models. A recent analysis found a significant increase in the use of LPNs in hospitals in recent years after years of decline. The authors noted that if the trend continues, it will likely affect the availability of the LPN workforce in long term care settings which cannot match hospital wages. If nursing homes and other long-term care facilities cannot staff their beds, hospitals will struggle to discharge patients who need that care, a significant concern for NC’s aging population. 
+Shortages of registered nurses in the wake of the COVID-19 pandemic have caused healthcare organizations to explore new staffing models. A recent [analysis](https://www.nursingoutlook.org/article/S0029-6554(25)00092-2/abstract) found a significant increase in the use of LPNs in hospitals in recent years after years of decline. The authors noted that if the trend continues, it will likely affect the availability of the LPN workforce in long term care settings which cannot match hospital wages. If nursing homes and other long-term care facilities cannot staff their beds, hospitals will struggle to discharge patients who need that care, a significant concern for NC’s aging population. 
 
 Addressing LPN shortages requires a multi-tiered approach that includes strategies to increase the number of graduates from LPN programs in the state, retaining existing LPNs in the workforce, and reengaging LPNs who have left practice. **This report provides data to help policy makers understand**
 
@@ -26,17 +26,19 @@ Addressing LPN shortages requires a multi-tiered approach that includes strategi
 
 In 2025, there were 17,765 LPNs in active practice in North Carolina (Figure 1). While the peak in 2018 is an artifact change in nursing data collection nationally, the decline in the number of LPNs in 2020, 2021, and 2022 likely reflects the effects of the COVID-19 pandemic. Since 2023, the number of LPNs in NC’s workforce has increased but the workforce remains smaller in number than a decade ago. 
 
-**Figure 1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**
+{{< img title="**Figure  1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure1.png" >}}
 
 Relative to population, the LPN workforce has declined over the past decade, from 18 LPNs per 10,000 population in 2016 to 16 LPNs per 10,000 in 2025. The recent growth in the LPN workforce since 2023 has remained steady and just kept pace with NC’s population growth. 
 
-**Figure 2. LPNs per 10,000 Population in Active Practice, North Carolina, 2016-2025**
+{{< img title="**Figure 2. LPNs per 10,000 Population in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating the supply of North Carolina LPNs per 10,000 population for each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure2.png" >}}
 
 ## LPNs are Primarily Employed in Rural Counties, But Trends Are Changing
 
 North Carolina’s health workforce is concentrated in metropolitan (urban) areas. However, the LPN workforce is an exception. The supply of LPNs has historically been higher in rural (non-metropolitan) counties compared to metropolitan counties (Figure 3). This gap has been narrowing over time, particularly after the pandemic years. In 2025, there were 16.9 LPNs per 10,000 population in rural counties, relative to 15.8 per 10,000 population in urban counties. 
 
 **Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**
+
+{{< img title="**Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**" alt="Line chart comparing the supply of North Carolina LPNs per 10,000 population for metropolitan and non-metropolitan counties each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure3.png" >}}
 
 ## One in Three LPNs Work in Long-Term Care Settings
 
@@ -65,3 +67,7 @@ The number of LPNs working in hospital settings declined between 2016 and 2020 (
 |     Total                                         |     -78   (-0.4%)                           |     -803   (-4.4%)      |     +465   (+2.7%)             |     -416   (-2.3%)         |
 
 ## LPN Employment in Long-Term Care Settings Has Declined, Especially in Rural Counties
+
+
+{{< img title="**Figure 4. Number of First Time NCLEX-PN Test Takers, North Carolina, 2016-2025**" alt="Line chart illustrating the number of first-time takers of the National Council Licensure Examination for Practical Nurses (NCLEX-PN) between 2016 and 2025" caption="**Note.** Data are derived from the North Carolina State Board of Nursing April 2026 [Report](https://www.ncbon.com/sites/default/files/documents/2026-05/20260506_Final%20Annual%20Report.pdf)." src="/images/posts/LPN2026/Figure3.png" >}}
+
