@@ -38,7 +38,7 @@ North Carolina’s health workforce is concentrated in metropolitan (urban) area
 
 **Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**
 
-{{< img title="**Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**" alt="Line chart comparing the supply of North Carolina LPNs per 10,000 population for metropolitan and non-metropolitan counties each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure3.jpg" >}}
+{{< img title="**Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**" alt="Line chart comparing the supply of North Carolina LPNs per 10,000 population for metropolitan and non-metropolitan counties each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data." src="/images/posts/LPN2026/Figure3.jpg" >}}
 
 ## One in Three LPNs Work in Long-Term Care Settings
 
@@ -120,3 +120,9 @@ North Carolina’s NCLEX-PN pass rates consistently exceeded national averages, 
 |     2023    |     899                                |     849                                 |     94.4%             |     86.7%                        |     7.7                                      |
 |     2024    |     976                                |     924                                 |     94.7%             |     88.4%                        |     6.3                                      |
 |     2025    |     1,135                              |     1,080                               |     95.2%             |     86.6%                        |     8.6                                      |
+
+{{< img title="**Figure 5. Status of 2024 Active NC LPNs in 2025 (n=17,616)**" alt="Stacked bar chart illustrating the number of 2024 NC LPNs who were inactive, retained as an LPN, or retained as an LPN/RN in 2025 " caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure5.png" >}}
+
+{{< img title="**Figure 6.NEEDS TITLE**" alt="Sankey diagram illustrating the status of 2024 NC LPNs in 2025 " caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure6.png" >}}
+
+
