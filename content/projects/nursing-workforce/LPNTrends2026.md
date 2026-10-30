@@ -120,9 +120,9 @@ Changes in LPN employment differed substantially between urban and rural countie
 
 |                                                   |     Metropolitan   Counties    |                  |                        |     Non-Metropolitan   Counties    |                  |                           |
 |---------------------------------------------------|--------------------------------|------------------|------------------------|------------------------------------|------------------|---------------------------|
-|     **Primary   Employment Setting**                  |     2016   (n)                 |     2025  (n)    |      Δn (%Δ)           |     2016  (n)                      |      2025 (n)    |     Nonmetro   Δn (%Δ)    |
+|     **Primary   Employment Setting**                  |     2016   (n)                 |     2025  (n)    |     Metro Δn (%Δ)           |     2016  (n)                      |      2025 (n)    |     Nonmetro   Δn (%Δ)    |
 |     **Hospital**                                      |     964                        |     1,166        |     +202   (+21.0%)    |     298                            |     359          |     +61   (+20.5%)        |
-|     **Ambulatory Care **                              |     1,196                      |     1,459        |     +263   (+22.0%)    |     246                            |     302          |     +56   (+22.8%)        |
+|     **Ambulatory Care**                              |     1,196                      |     1,459        |     +263   (+22.0%)    |     246                            |     302          |     +56   (+22.8%)        |
 |     **Nursing Home/Extended Care/Assisted Living**    |     4,862                      |     4,280        |     -582   (-12.0%)    |     1,743                          |     1,228        |     -515   (-29.5%)       |
 |     **Home Health/Hospice**                           |     1,858                      |     2,391        |     +533   (+28.7%)    |     320                            |     312          |     -8   (-2.5%)          |
 |     **Other Settings**                                |     3,478                      |     2,939        |     -539   (-15.5%)    |     1,437                          |     958          |     -479   (-33.3%)       |
