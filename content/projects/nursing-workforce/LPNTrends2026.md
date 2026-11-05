@@ -72,9 +72,7 @@ The second most common employment setting for LPNs (21.9% in 2025, n=3,897) in 2
 **Table 1. LPNs by Employment Setting, North Carolina, 2016-2025**
 
 <style>
-  table tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
+table tr:nth-child(even) { background-color: #f2f2f2;}
 </style>
 
 |     Employment   Setting by Year, n (%)    |      2016      |      2017      |      2018      |      2019      |      2020      |      2021      |      2022      |      2023      |      2024      |      2025      |
