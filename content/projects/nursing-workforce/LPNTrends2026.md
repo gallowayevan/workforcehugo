@@ -1,11 +1,11 @@
 ---
 title: "Licensed Practical Nurses Are Moving into Hospital Settings"
-date: 2026-10-28
-author: 'Julie Spero, Monica Jimenez, Erin P. Fraher'
+date: 2026-11-04
+author: 'Julie Spero, Monica P. Jimenez, Erin P. Fraher'
 draft: false
 unlisted: true
 teaserText: "Tracking changes in NC’s LPN workforce over the past decade"
-teaserImage: Retention_teaser.svg
+teaserImage: LPNTrends2026-teaser.png
 keywords: [nurses, licensed practical nurses, workforce]
 ---
 
