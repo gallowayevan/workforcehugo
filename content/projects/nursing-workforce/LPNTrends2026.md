@@ -49,10 +49,6 @@ In 2025, there were 17,765 LPNs in active practice in North Carolina (Figure 1).
 
 <img src="/images/posts/LPN2026/Figure1.png" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025" title="Figure 1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025">
 
-
-![Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025](/images/posts/LPN2026/Figure1.png)
-
-
 <!--
 {{< img title="**Figure  1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025." caption="**Note.** Data include active LPNs in practice in North Carolina as of October 31 of each year. <br>**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing." src="/images/posts/LPN2026/Figure1.png" >}}
 -->
