@@ -78,7 +78,7 @@ The second most common employment setting for LPNs (21.9% in 2025, n=3,897) in 2
 </style>
 
 |     Employment   Setting by Year, n (%)    |      2016      |      2017      |      2018      |      2019      |      2020      |      2021      |      2022      |      2023      |      2024      |      2025      |
-|:------------------------------------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|:------------------------------------------|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | **Hospital**                                 |  1,262   (6.9) |  1,169   (6.4) |  1,054   (5.6) |  1,087   (5.9) |  1,133   (6.3) |  1,099   (6.3) |  1,142   (6.6) |  1,281   (7.4) |  1,408   (8.0) |  1,525   (8.6) |
 | **Ambulatory Care**                            |  1,442   (7.9) |  1,728   (9.4) |  1,792   (9.5) | 1,952   (10.6) | 2,054   (11.3) | 1,860   (10.6) |  1,691   (9.8) |  1,717   (9.9) |  1,744   (9.9) |  1,761   (9.9) |
 | **Nursing Home/Extended Care/Assisted Living** | 6,605   (36.3) | 6,641   (36.2) | 6,249   (33.0) | 6,265   (34.1) | 6,071   (33.5) | 5,716   (32.6) | 5,491   (31.7) | 5,496   (31.7) | 5,596   (31.8) | 5,508   (31.0) |
@@ -99,7 +99,7 @@ LPN employment trends shifted during the pandemic (**Table 2**). The number of L
 
 The number of LPNs working in hospital settings declined between 2016 and 2020 (n=-129; -10.2%) but after the peak of the pandemic between 2022 and 2025, hospital-employed LPNs grew by 33.5% (n=+383). LPN employment in ambulatory care grew prior to the pandemic by 42.4% (n=+612), however, that growth dropped off sharply (-17%; n=-363) during the pandemic years and then increased modestly between 2022 and 2025 (4.1%; n=+70). LPN employment in home health care and hospice settings increased from 2016 until 2020 by 390 LPNs (17.9%) but that growth has also slowed since 2020.
 
-## Table 2. Changes in the Number of Active-Practice North Carolina LPNs by Primary Employment Setting Before, During, and After the COVID-19 Pandemic
+**Table 2. Changes in the Number of Active-Practice North Carolina LPNs by Primary Employment Setting Before, During, and After the COVID-19 Pandemic**
 
 |                                                   |     Pre-Pandemic    2016-2020    Δn (%Δ)    |     Pandemic  2020-2022 Δn (%Δ) |     Post-Pandemic 2022-2025 Δn (%Δ)    |     Total Period 2016-2025 Δn (%Δ) |
 |---------------------------------------------------|---------------------------------------------|-------------------------|--------------------------------|----------------------------|
@@ -121,7 +121,7 @@ The number of LPNs working in hospital settings declined between 2016 and 2020 (
 
 Changes in LPN employment differed substantially between urban and rural counties, particularly in LTC settings. (Table 3). Over the past decade, LPN employment in nursing home, extended care, and assisted living settings fell by 29.5% (n=-515) in rural counties compared with a decline of 12.0% (n=-582) in urban counties. By contrast, hospital employment increased at similar rates in urban and rural counties, growing 21.0% (n=+202) and 20.5% (n=+61), respectively. Similarly, employment in ambulatory care settings increased by 22.0% (n=+263) in urban counties and 22.8% (n=+56) in rural counties. Overall, the number of active-practice LPNs increased 2.9% (n=+398) in metropolitan counties while declining 17.7% (n=-814) in nonmetropolitan counties.
 
-## Table 3. Change in LPN  Employment Setting by Metropolitan (Urban) and Non-Metropolitan (Rural) Status,  2016-2025
+**Table 3. Change in LPN  Employment Setting by Metropolitan (Urban) and Non-Metropolitan (Rural) Status,  2016-2025**
 
 |                                                   |     Metropolitan   Counties    |                  |                        |     Non-Metropolitan   Counties    |                  |                           |
 |---------------------------------------------------|--------------------------------|------------------|------------------------|------------------------------------|------------------|---------------------------|
@@ -147,7 +147,7 @@ LPN enrollment increased by 29.5% (n=417 students) [between 2023 and 2025](https
 
 North Carolina’s NCLEX-PN pass rates consistently exceeded national averages, ranging from 5.6 to 11.3 percentage points higher than US pass rates (Table 4).
 
-## Table 4. First Time NCLEX-PN Test Takers, Pass Rates, North Carolina and United States, 2016-2025
+**Table 4. First Time NCLEX-PN Test Takers, Pass Rates, North Carolina and United States, 2016-2025**
 
 |             |     NC   Candidates Taking NCLEX-PN    |     NC   Candidates Passing NCLEX-PN    |     NC Pass   Rate    |     United   States Pass Rate    |     Percentage   Point Difference (NC-US)    |
 |-------------|----------------------------------------|-----------------------------------------|-----------------------|----------------------------------|----------------------------------------------|
@@ -173,8 +173,8 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 
 **Table 5. 2025 Practice Setting of NC LPNs Newly Licensed in NC in 2023, Educated In-State vs. Educated Outside NC**
 
-| Primary Employment Setting, n (%) | Educated in NC | Educated Out of State | Total |
-|:------------------------------------------:|:--------------:|:--------------:|:--------------:|
+| Primary Employment Setting | Educated in NC n (%) | Educated Out of State n (%) | Total n (%) |
+|:------------------------------------------|:--------------:|:--------------:|:--------------:|
 | **Hospital** | 182 (25.3) | 32 (9.6) | 214 (20.3) |
 | **Ambulatory Care** | 56 (7.8) | 32 (9.6) | 88 (8.3) |
 | **Nursing Home/Extended Care/Assisted Living** | 236 (32.8) | 139 (41.5) | 375 (35.5) |
@@ -184,20 +184,6 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 | **Total** | 720 (100) | 335 (100) | 1,055 (100) |
 
 **Source.** NC Health Professions Data System with data derived from the North Carolina Board of Nursing.  
-
-**Table 5. 2025 Practice Setting of NC LPNs Newly Licensed in NC in 2023, Educated In-State vs. Educated Outside NC**
-
-| Primary Employment Setting | Educated in NC | % NC Educated by Setting | Educated Out of State | % Educated Out of State by Setting | Total | % of Total |
-|:------------------------------------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| **Hospital** | 182 | 25.3% | 32 | 9.6% | 214 | 20.3% |
-| **Ambulatory Care** | 56 | 7.8% | 32 | 9.6% | 88 | 8.3% |
-| **Nursing Home/Extended Care/Assisted Living** | 236 | 32.8% | 139 | 41.5% | 375 | 35.5% |
-| **Home Health/Hospice** | 100 | 13.9% | 47 | 14.0% | 147 | 13.9% |
-| **Other Settings** | 124 | 17.2% | 67 | 20.0% | 191 | 18.1% |
-| **Missing Setting** | 22 | 3.1% | 18 | 5.4% | 40 | 3.8% |
-| **Total** | 720 | 100% | 335 | 100% | 1,055 | 100% |
-
-**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing.
 
 Nearly a quarter (25.3%, n=182/720) of NC-educated newly licensed LPNs reported working in a hospital setting, compared to 9.6% (n=32/335) of newly licensed LPNs educated out-of-state. LPNs educated outside North Carolina were more likely to work in nursing homes, extended care, and assisted living settings (41.5%, n=139 vs. 32.8%, n=236). North Carolina-educated LPNs were more likely to work in hospitals (25.3%, n=182 vs. 9.6%, n=32). Although graduates of North Carolina programs represented 68.2% of newly licensed LPNs overall, they accounted for 85.0% (n=182 of 214) of newly licensed LPNs employed in hospitals. 
 
@@ -214,7 +200,7 @@ More than 1 in 10 (11.0%, n=1,943) of active practice LPNs in 2024 were not in p
 
 
 
-{{< img title="**Figure 6.2025 Status of NC LPNs Active in 2024**" alt="Sankey diagram showing the 2025 status of 17,616 North Carolina LPNs who were active in 2024. Of these, 15,673 remained active in 2025: 14,864 actively practicing as LPNs and 809 holding both LPN and RN licenses. The remaining 1,943 were inactive as LPNs in 2025: 606 were actively practicing as RNs, 476 were inactive per Board status, 342 were not active in NC, 316 were not employed in nursing, 112 were unemployed, and 91 were retired." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure6.png" >}}
+{{< img title="**Figure 6. Detailed Status of 2024 Active NC LPNs in 2025**" alt="Sankey diagram showing the 2025 status of 17,616 North Carolina LPNs who were active in 2024. Of these, 15,673 remained active in 2025: 14,864 actively practicing as LPNs and 809 holding both LPN and RN licenses. The remaining 1,943 were inactive as LPNs in 2025: 606 were actively practicing as RNs, 476 were inactive per Board status, 342 were not active in NC, 316 were not employed in nursing, 112 were unemployed, and 91 were retired." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure6.png" >}}
 
 
 
