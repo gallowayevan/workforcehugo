@@ -43,7 +43,7 @@ Addressing LPN shortages requires a multi-tiered approach. Strategies include in
 
 <hr>
 <div class="section-header">
-  <h2 class="title is-2">The LPN Workforce Has Rebounded Recent Years But Remains Smaller than a Decade Ago</h2>
+  <h2 class="title is-2">The LPN Workforce Has Rebounded in Recent Years But Remains Smaller than a Decade Ago</h2>
 </div>
 In 2025, there were 17,765 LPNs in active practice in North Carolina (Figure 1). While the peak in 2018 is an artifact of a change in nursing data collection nationally, the decline in the number of LPNs in 2020, 2021, and 2022 is likely due to the effects of the COVID-19 pandemic. To return to pre-pandemic staffing levels of 2019 would require more than 600 LPNs in the NC workforce. 
 
@@ -58,7 +58,7 @@ Relative to population, the LPN workforce has declined over the past decade, fro
   <h2 class="title is-2">Rural Counties Continue to Have More LPNs Per Capita, but the Gap Is Narrowing</h2>
 </div>
 
-North Carolina’s health workforce is concentrated in metropolitan (urban]) areas. However, the LPN workforce is an exception. The supply of LPNs has historically been ***higher*** in rural (non-metropolitan) counties compared to urban counties (**Figure 3**). The gap has been narrowing over time, particularly after the pandemic years. In 2025, there were 16.9 LPNs per 10,000 population in rural counties, relative to 15.8 per 10,000 population in urban counties.
+North Carolina’s health workforce is concentrated in metropolitan (urban) areas. However, the LPN workforce is an exception. The supply of LPNs has historically been ***higher*** in rural (non-metropolitan) counties compared to urban counties (**Figure 3**). The gap has been narrowing over time, particularly after the pandemic years. In 2025, there were 16.9 LPNs per 10,000 population in rural counties, relative to 15.8 per 10,000 population in urban counties.
 
 {{< img title="**Figure 3. LPNs per 10,000 Population in Active Practice in Metropolitan and Non-Metropolitan (Rural) Counties, North Carolina, 2016-2025**" alt="Line chart comparing the supply of North Carolina LPNs per 10,000 population for metropolitan and non-metropolitan (rural) counties each year between 2016 and 2025." caption="**Note.** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. **Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management and are based on US Census data. Metropolitan or rural (non-metropolitan) county status was defined using US Office of Management and Budget Core Based Statistical Areas (CBSAs). Non-metropolitan counties include micropolitan counties and non-CBSAs. The vintage or year of the delineation file used to aggregate the counties corresponds with the delineations in place for each year of data. That is, the counties defined as non-metropolitan in 2000 are different than the non-metropolitan ones in 2025. " src="/images/posts/LPN2026/Figure3.jpg" >}}
 
@@ -95,9 +95,9 @@ table tr:nth-child(even) { background-color: #f2f2f2;}
   <h2 class="title is-2">The Pandemic Accelerated Shifts in LPN Employment Settings</h2>
 </div>
 
-LPN employment trends shifted during the pandemic (**Table 2**). The number of LPNs in nursing home, extended care, and assistive living facilities fell by 1,097 LPNs (16.6%) between 2016 and 2025. More than half of this decline occurred between 2020 and 2022 when employment decreased by 580 LPNs (-9.6%). 
+LPN employment trends shifted during the pandemic (**Table 2**). The number of LPNs in nursing home, extended care, and assisted living facilities fell by 1,097 LPNs (16.6%) between 2016 and 2025. More than half of this decline occurred between 2020 and 2022 when employment decreased by 580 LPNs (-9.6%). 
 
-The number of LPNs working in hospital settings declined between 2016 and 2020 (n=-129; -10.2%) but after the peak of the pandemic between 2022 and 2025, hospital-employed LPNs grew by 33.5% (n=+383). LPN employment in ambulatory care grew prior to the pandemic by 42.4% (n=+612), however, that growth dropped off sharply (-17%; n=-363) during the pandemic years and then increased modestly between 2022 and 2025 (4.1%; n=+70). LPN employment in home health care and hospice settings increased from 2016 until 2020 by 390 LPNs (17.9%) but that growth has also slowed since 2020.
+The number of LPNs working in hospital settings declined between 2016 and 2020 (n=-129; -10.2%) but after the peak of the pandemic between 2022 and 2025, hospital-employed LPNs grew by 33.5% (n=+383). LPN employment in ambulatory care grew prior to the pandemic by 42.4% (n=+612), however, that growth dropped off sharply (-17.7%; n=-363) during the pandemic years and then increased modestly between 2022 and 2025 (4.1%; n=+70). LPN employment in home health care and hospice settings increased from 2016 until 2020 by 390 LPNs (17.9%) but that growth has also slowed since 2020.
 
 **Table 2. Changes in the Number of Active-Practice North Carolina LPNs by Primary Employment Setting Before, During, and After the COVID-19 Pandemic**
 
@@ -143,7 +143,7 @@ Changes in LPN employment differed substantially between urban and rural countie
 
 LPN enrollment increased by 29.5% (n=417 students) [between 2023 and 2025](https://www.ncbon.com/sites/default/files/documents/2026-05/20260506_Final%20Annual%20Report.pdf). To become licensed to practice as an LPN, students must pass the National Council Licensure Examination for Practical Nurses (NCLEX-PN) after graduation.  The increase in LPN enrollment is reflected in the recent increase in first time NCLEX-PN test takers which was relatively steady between 2016 and 2023 but increased 26% between 2023 and 2025 (**Figure 4**).  
 
-{{< img title="**Figure 4. Number of First Time NCLEX-PN Test Takers, North Carolina, 2016-2025**" alt="Line chart illustrating the number of first-time takers of the National Council Licensure Examination for Practical Nurses (NCLEX-PN) between 2016 and 2025" caption="**Source.** Data from the National Council of State Boards of Nursing (NCSBN), NCLEX® Examination Statistics, Research Briefs Vol. 70 (2017) through Vol. 96 (2026). Available from: [https://www.ncsbn.org/exams/exam-statistics-and-publications/nurse-licensure-and-nclex-exam-statistics.page] Accessed November 4, 2026." 
+{{< img title="**Figure 4. Number of First Time NCLEX-PN Test Takers, North Carolina, 2016-2025**" alt="Line chart illustrating the number of first-time takers of the National Council Licensure Examination for Practical Nurses (NCLEX-PN) between 2016 and 2025" caption="**Source.** Data from the National Council of State Boards of Nursing (NCSBN), NCLEX® Examination Statistics, Research Briefs Vol. 70 (2017) through Vol. 96 (2026). Available from: [https://www.ncsbn.org/exams/exam-statistics-and-publications/nurse-licensure-and-nclex-exam-statistics.page] Accessed November 4, 2026." src="/images/posts/LPN2026/Figure4.png" >}}
 
 North Carolina’s NCLEX-PN pass rates consistently exceeded national averages, ranging from 5.6 to 11.3 percentage points higher than US pass rates (**Table 4**).
 
