@@ -47,11 +47,10 @@ Addressing LPN shortages requires a multi-tiered approach. Strategies include in
 </div>
 In 2025, there were 17,765 LPNs in active practice in North Carolina (Figure 1). While the peak in 2018 is an artifact of a change in nursing data collection nationally, the decline in the number of LPNs in 2020, 2021, and 2022 is likely due to the effects of the COVID-19 pandemic. To return to pre-pandemic staffing levels of 2019 would require more than 600 LPNs in the NC workforce. 
 
-<img src="/images/posts/LPN2026/Figure1.png" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025" title="Figure 1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025">
-
-<!--
 {{< img title="**Figure  1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025." caption="**Note.** Data include active LPNs in practice in North Carolina as of October 31 of each year. <br>**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing." src="/images/posts/LPN2026/Figure1.png" >}}
--->
+
+{{< img title="**Figure 1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025." caption="**Note.** Data include active LPNs in practice in North Carolina as of October 31 of each year." src="/images/posts/LPN2026/Figure1.png" >}}
+
 
 Relative to population, the LPN workforce has declined over the past decade, from 18 LPNs per 10,000 population in 2016 to 16 LPNs per 10,000 in 2025. The recent growth in the LPN workforce since 2023 has remained steady, keeping pace with NC’s population growth. 
 
