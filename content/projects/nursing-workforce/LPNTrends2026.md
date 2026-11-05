@@ -9,6 +9,7 @@ teaserImage: LPNTrends2026-teaser.png
 keywords: [nurses, licensed practical nurses, workforce]
 ---
 
+<!--
 <style>
 .section-header {
   background-color: #D8E5F3;
@@ -29,6 +30,7 @@ keywords: [nurses, licensed practical nurses, workforce]
   padding: 1.5rem;
 } */
 </style>
+-->
 
 ## Introduction
 North Carolina is expected to face a shortage of more than [5,000 licensed practical nurses](https://ncnursecast.unc.edu/key-findings/) (LPNs) by 2033 with all regions of the state facing shortfalls. Nursing home, extended care, and assisted living facilities will be greatly affected, with LPN job openings projected to outnumber available LPNs by two to one.
