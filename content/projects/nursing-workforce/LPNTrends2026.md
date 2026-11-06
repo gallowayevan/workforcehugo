@@ -3,7 +3,7 @@ title: "North Carolina's LPN Workforce Faces a Double Challenge: Declining Suppl
 date: 2026-11-04
 author: 'Erin P. Fraher PhD MPP, Julie C. Spero MSPH, and Monica P. Jimenez PhD'
 draft: false
-unlisted: true
+unlisted: false
 teaserText: "Tracking changes in NC’s LPN workforce over the past decade"
 teaserImage: LPNTrends2026-teaser.png
 keywords: [nurses, licensed practical nurses, workforce]
