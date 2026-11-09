@@ -188,7 +188,7 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 |:---------------------------------|:------------------:|:------------------:|:---------------:|
 | **Hospital** | 182 (25.3) | 32 (9.6) | 214 (20.3) |
 | **Ambulatory Care** | 56 (7.8) | 32 (9.6) | 88 (8.3) |
-| **Nursing Home/Extended Care/Assisted Living** | 236 (32.8) | 139 (41.5) | 375 (35.5) |
+| **Nursing Home/Extended Care/<br>Assisted Living** | 236 (32.8) | 139 (41.5) | 375 (35.5) |
 | **Home Health/Hospice** | 100 (13.9) | 47 (14.0) | 147 (13.9) |
 | **Other Settings** | 124 (17.2) | 67 (20.0) | 191 (18.1) |
 | **Missing Setting** | 22 (3.1) | 18 (5.4) | 40 (3.8) |
