@@ -185,7 +185,7 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 <div class="lpn-t5">
 
 | Primary Employment Setting | Educated in NC <br>n (%) | Educated Out of State <br>n (%) | Total <br> n (%) |
-|:---------------------------------|:------------------:|:------------------:|:---------------:|
+|:---------------------------|:--------------------:|:----------------------:|:---------------:|
 | **Hospital** | 182 (25.3) | 32 (9.6) | 214 (20.3) |
 | **Ambulatory Care** | 56 (7.8) | 32 (9.6) | 88 (8.3) |
 | **Nursing Home/Extended Care/<br>Assisted Living** | 236 (32.8) | 139 (41.5) | 375 (35.5) |
