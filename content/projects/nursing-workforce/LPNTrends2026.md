@@ -254,10 +254,10 @@ More than 1 in 10 (11.0%, n=1,943) of active practice LPNs in 2024 were not in p
 {{< img title="**Figure 6. Detailed Status of 2024 Active NC LPNs in 2025**" alt="Sankey diagram showing the 2025 status of 17,616 North Carolina LPNs who were active in 2024. Of these, 15,673 remained active in 2025: 14,864 actively practicing as LPNs and 809 holding both LPN and RN licenses. The remaining 1,943 were inactive as LPNs in 2025: 606 were actively practicing as RNs, 476 were inactive per Board status, 342 were not active in NC, 316 were not employed in nursing, 112 were unemployed, and 91 were retired." caption="**Note:** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. **Source:** Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure6.png" >}}
 <details>
   <summary class="summary-header">View Figure 6 as a table</summary>
-<br>
+
   **Detailed Status of 2024 Active NC LPNs in 2025**
   
-| Status of 2024 Active NC LPNs in 2025 (n=17,616) |            |     |
+| Status of 2024 Active NC LPNs in 2025 (n=17,616) | Number of LPNs           |     |
 |--------------------------------------------------|------------|-----|
 | **Active in 2025**                               | **15,673** |     |
 | Hold both LPN/RN License                         |            | 809 |
