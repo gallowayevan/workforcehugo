@@ -287,6 +287,10 @@ This descriptive study draws on LPN licensure data from 2016-2025. These data ar
 
 Note: In 2018, the NC Board of Nursing (along with nursing regulation boards across the U.S.) conducted a large-scale update of NURSYS, the National Council of State Boards of Nursing’s electronic data system to track regulation and licensure data. The increase in the number of NC nurses in 2018 is likely an artifact of the transition to the updated NURSYS data system, rather than a true spike in the number of active nurses in NC’s workforce. 
 
+<hr>
+<div class="section-header">
+</div>
+
 [^1]: RNs practice with more independence and have a broader scope of practice than LPNs. Nurses are accountable to their highest level of education and licensure standards by the NC Board of Nursing.
 
 >**Suggested Citation:**  Fraher EP, Spero JC, Jimenez MP. North Carolina's LPN Workforce Faces a Double Challenge: Declining Supply and Fewer Nurses in Long-Term Care. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. November 6, 2026.
