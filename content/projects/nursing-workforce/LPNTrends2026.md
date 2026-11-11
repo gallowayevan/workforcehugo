@@ -178,8 +178,6 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 
 **Table 5. 2025 Practice Setting of NC LPNs Newly Licensed in NC in 2023, Educated In-State vs. Educated Outside NC**
 
-<div class="lpn-t5">
-
 | Primary Employment Setting | Educated in NC <br>n (%) | Educated Out of State n (%) | Total <br> n (%) |
 |:---------------------------|:--------------------:|:----------------------:|:---------------:|
 | **Hospital** | 182 (25.3) | 32 (9.6) | 214 (20.3) |
@@ -190,7 +188,6 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 | **Missing Setting** | 22 (3.1) | 18 (5.4) | 40 (3.8) |
 | **Total** | 720 (100) | 335 (100) | 1,055 (100) |
 
-</div>
 <small>_**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing._</small>
 
 Nearly a quarter (25.3%, n=182/720) of NC-educated newly licensed LPNs reported working in a hospital setting, compared to 9.6% (n=32/335) of newly licensed LPNs educated out-of-state. A larger proportion of newly licensed LPNs educated outside North Carolina worked in nursing homes, extended care, and assisted living settings (41.5%, n=139 vs. 32.8%, n=236). Although graduates of North Carolina programs represented 68.2% of newly licensed LPNs overall, they accounted for 85.0% (n=182 of 214) of newly licensed LPNs employed in hospitals. 
