@@ -256,7 +256,7 @@ More than 1 in 10 (11.0%, n=1,943) of active practice LPNs in 2024 were not in p
 
   **Detailed Status of 2024 Active NC LPNs in 2025**
   
-| Status of 2024 Active NC LPNs in 2025 (n=17,616) |     |            |
+| Status of 2024 Active NC LPNs in 2025 |     |            |
 |--------------------------------------------------|-----|------------|
 | **Active in 2025**                               |     | **15,673** |
 | Hold both LPN/RN License                         | 809 |            |
@@ -268,7 +268,7 @@ More than 1 in 10 (11.0%, n=1,943) of active practice LPNs in 2024 were not in p
 | Unemployed                                       | 112 |            |
 | Retired                                          | 91  |            |
 
-<small>Note: Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Source: Data are derived from the North Carolina State Board of Nursing.</small>
+<small>_**Note:** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Source: Data are derived from the North Carolina State Board of Nursing._</small>
 </details>
 
 ## Conclusion 
