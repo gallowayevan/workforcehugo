@@ -291,5 +291,6 @@ Note: In 2018, the NC Board of Nursing (along with nursing regulation boards acr
 <div class="section-header">
 <h2 class="title is-2">Appendix</h2>
 </div>
->[^1]: RNs practice with more independence and have a broader scope of practice than LPNs. Nurses are accountable to their highest level of education and licensure standards by the NC Board of Nursing.
+[^1]: RNs practice with more independence and have a broader scope of practice than LPNs. Nurses are accountable to their highest level of education and licensure standards by the NC Board of Nursing.
+
 >**Suggested Citation:**  Fraher EP, Spero JC, Jimenez MP. North Carolina's LPN Workforce Faces a Double Challenge: Declining Supply and Fewer Nurses in Long-Term Care. Program on Health Workforce Research and Policy. Cecil G. Sheps Center for Health Services Research. The University of North Carolina at Chapel Hill. November 6, 2026.
