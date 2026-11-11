@@ -5,7 +5,7 @@ author: 'Erin P. Fraher PhD MPP, Julie C. Spero MSPH, and Monica P. Jimenez PhD'
 draft: false
 unlisted: false
 teaserText: "Tracking changes in NC’s LPN workforce over the past decade"
-teaserImage: LPNTrends2026-teaser.png
+teaserImage: LPNTrends2026_teaser.png
 keywords: [nurses, licensed practical nurses, workforce]
 ---
 
@@ -37,7 +37,7 @@ North Carolina is expected to face a shortage of more than [5,000 licensed pract
 
 LPNs provide patient care under the supervision of a registered nurse (RN) or other qualified healthcare [clinician](https://www4.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_90/gs_90-171.20.html). Their role may include discussing health concerns with patients, reporting concerns to supervising clinicians, monitoring vital signs, changing bandages, assisting with bathing and dressing, recording patient status and the care provided, maintaining health records, etc. LPNs work in a variety of healthcare settings, with the largest portion working in long-term care (LTC) settings.
 
-[Shortages of registered nurses in the wake of the COVID-19](https://ncnursecast.unc.edu/key-findings/) pandemic have caused healthcare organizations to explore new staffing models. A 2025 [analysis](https://www.nursingoutlook.org/article/S0029-6554(25)00092-2/abstract) found a significant increase in the LPN employment in hospitals in recent years. If this trend continues, it will likely affect the availability of the LPNs to practice in LTC settings, which face increased demand due to NC’s aging population. This will in turn affect hospitals that may struggle to discharge patients requiring care in LTC settings. 
+[Shortages of registered nurses in the wake of the COVID-19](https://ncnursecast.unc.edu/key-findings/) pandemic have caused healthcare organizations to explore new staffing models. A [2025 analysis](https://www.nursingoutlook.org/article/S0029-6554(25)00092-2/abstract) found a significant increase in the LPN employment in hospitals in recent years. If this trend continues, it will likely affect the availability of the LPNs to practice in LTC settings, which face increased demand due to NC’s aging population. This will in turn affect hospitals that may struggle to discharge patients requiring care in LTC settings. 
 
 Addressing LPN shortages requires a multi-tiered approach. Strategies include increasing the number of graduates from LPN programs in the state, retaining existing LPNs in the workforce, and reengaging LPNs who have left practice. This report examines where North Carolina's LPN workforce is growing, where it is declining, and what these trends mean for employers, educators, workforce planners, and policymakers seeking to ensure adequate staffing across the continuum of care.
 
@@ -45,13 +45,13 @@ Addressing LPN shortages requires a multi-tiered approach. Strategies include in
 <div class="section-header">
   <h2 class="title is-2">The LPN Workforce Has Rebounded in Recent Years But Remains Smaller than a Decade Ago</h2>
 </div>
-In 2025, there were 17,765 LPNs in active practice in North Carolina (Figure 1). While the peak in 2018 is an artifact of a change in nursing data collection nationally, the decline in the number of LPNs in 2020, 2021, and 2022 is likely due to the effects of the COVID-19 pandemic. To return to pre-pandemic staffing levels of 2019 would require more than 600 LPNs in the NC workforce. 
+In 2025, there were 17,765 LPNs in active practice in North Carolina (**Figure 1**). While the peak in 2018 is an artifact of a change in nursing data collection nationally, the decline in the number of LPNs in 2020, 2021, and 2022 is likely due to the effects of the COVID-19 pandemic. To return to pre-pandemic staffing levels of 2019 would require more than 600 LPNs in the NC workforce. 
 
-{{< img title="**Figure  1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025." caption="**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. <br>**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing." src="/images/posts/LPN2026/Figure1.png" >}}
+{{< img title="**Figure  1. Licensed Practical Nurses in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating total supply of North Carolina LPNs for each year between 2016 and 2025." caption="**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. **Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing." src="/images/posts/LPN2026/Figure1.png" >}}
 
 Relative to population, the LPN workforce has declined over the past decade, from 18 LPNs per 10,000 population in 2016 to 16 LPNs per 10,000 in 2025. The recent growth in the LPN workforce since 2023 has remained steady, keeping pace with NC’s population growth. 
 
-{{< img title="**Figure 2. LPNs per 10,000 Population in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating the supply of North Carolina LPNs per 10,000 population for each year between 2016 and 2025." caption="**Note:** Data include active, LPNs in practice in North Carolina as of October 31 of each year.<br>**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data." src="/images/posts/LPN2026/Figure2.png" >}}
+{{< img title="**Figure 2. LPNs per 10,000 Population in Active Practice, North Carolina, 2016-2025**" alt="Bar chart illustrating the supply of North Carolina LPNs per 10,000 population for each year between 2016 and 2025." caption="**Note:** Data include active, LPNs in practice in North Carolina as of October 31 of each year. **Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing. Population census data and estimates are downloaded from the North Carolina Office of State Budget and Management via NC LINC and are based on US Census data." src="/images/posts/LPN2026/Figure2.png" >}}
 
 <hr>
 <div class="section-header">
@@ -92,8 +92,7 @@ table tr:nth-child(even) { background-color: #f2f2f2;}
 | **Missing Setting**                           |  1,779   (9.8) |  1,645   (9.0) | 3,019   (16.0) | 2,132   (11.6) | 1,980   (10.9) | 2,004   (11.4) | 2,088   (12.1) | 2,070   (11.9) | 2,160   (12.3) | 2,371   (13.3) |
 |                    **Total**                   |         18,181 |         18,366 |         18,914 |         18,377 |         18,103 |         17,525 |         17,300 |         17,362 |         17,618 |         17,765 |
 
-**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. <br>
-**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing.
+<small>_**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. **Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing._</small>
 
 <hr>
 <div class="section-header">
@@ -116,8 +115,7 @@ The number of LPNs working in hospital settings declined between 2016 and 2020 (
 |     **Missing Setting**                               |     +201   (+11.3%)                         |     +108   (+5.5%)      |     +283   (+13.6%)            |     +592   (+33.3%)        |
 |     **Total**                                         |     -78   (-0.4%)                           |     -803   (-4.4%)      |     +465   (+2.7%)             |     -416   (-2.3%)         |
 
-**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. <br>
-**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing.
+<small>_**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. **Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing._</small>
 
 <hr>
 <div class="section-header">
@@ -141,9 +139,7 @@ Changes in LPN employment differed substantially between urban and rural countie
 |     **Total**                                         |     13,586                     |     13,984       |     +398   (+2.9%)     |     4,595                          |     3,781        |     -814   (-17.7%)       |
 
 </div>
-
-**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. <br>
-**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing.
+<small>_**Note:** Data include active LPNs in practice in North Carolina as of October 31 of each year. **Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing._</small>
 
 <hr>
 <div class="section-header">
@@ -171,7 +167,7 @@ North Carolina’s NCLEX-PN pass rates consistently exceeded national averages, 
 |     **2024**    |     976                                |     924                                 |     94.7%             |     88.4%                        |     6.3                                      |
 |     **2025**    |     1,135                              |     1,080                               |     95.2%             |     86.6%                        |     8.6                                      |
 
-**Source:** Data from the National Council of State Boards of Nursing (NCSBN), NCLEX® Examination Statistics, Research Briefs Vol. 70 (2017) through Vol. 96 (2026). Available from: [https://www.ncsbn.org/exams/exam-statistics-and-publications/nurse-licensure-and-nclex-exam-statistics.page](https://www.ncsbn.org/exams/exam-statistics-and-publications/nurse-licensure-and-nclex-exam-statistics.page) Accessed November 4, 2026. 
+<small>_**Source:** Data from the National Council of State Boards of Nursing (NCSBN), NCLEX® Examination Statistics, Research Briefs Vol. 70 (2017) through Vol. 96 (2026). Available from: [https://www.ncsbn.org/exams/exam-statistics-and-publications/nurse-licensure-and-nclex-exam-statistics.page](https://www.ncsbn.org/exams/exam-statistics-and-publications/nurse-licensure-and-nclex-exam-statistics.page) Accessed November 4, 2026._</small>
 
 <hr>
 <div class="section-header">
@@ -195,8 +191,7 @@ To determine where newly licensed LPNs are getting jobs, we examined the practic
 | **Total** | 720 (100) | 335 (100) | 1,055 (100) |
 
 </div>
-
-**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing.  
+<small>_**Source:** NC Health Professions Data System with data derived from the North Carolina Board of Nursing._</small>
 
 Nearly a quarter (25.3%, n=182/720) of NC-educated newly licensed LPNs reported working in a hospital setting, compared to 9.6% (n=32/335) of newly licensed LPNs educated out-of-state. A larger proportion of newly licensed LPNs educated outside North Carolina worked in nursing homes, extended care, and assisted living settings (41.5%, n=139 vs. 32.8%, n=236). Although graduates of North Carolina programs represented 68.2% of newly licensed LPNs overall, they accounted for 85.0% (n=182 of 214) of newly licensed LPNs employed in hospitals. 
 
@@ -211,7 +206,7 @@ We examined the share of LPNs who were retained versus who exited active practic
 
 More than 1 in 10 (11.0%, n=1,943) of active practice LPNs in 2024 were not in practice in 2025. Of those LPNs who were inactive, 31.1% (n=606/1943) remained in the NC workforce and were licensed as RNs. Nearly one-quarter of inactive LPNs (24.5%, n=476) had their license placed on inactive status or had relocated to another compact state. Of the remainder, 16% (n=316) left employment in nursing, 5.8% (n=112) reported being unemployed, and 4.7% (n=91) retired. 
 
-{{< img title="**Figure 6. Detailed Status of 2024 Active NC LPNs in 2025**" alt="Sankey diagram showing the 2025 status of 17,616 North Carolina LPNs who were active in 2024. Of these, 15,673 remained active in 2025: 14,864 actively practicing as LPNs and 809 holding both LPN and RN licenses. The remaining 1,943 were inactive as LPNs in 2025: 606 were actively practicing as RNs, 476 were inactive per Board status, 342 were not active in NC, 316 were not employed in nursing, 112 were unemployed, and 91 were retired." caption="**Note:** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure6.png" >}}
+{{< img title="**Figure 6. Detailed Status of 2024 Active NC LPNs in 2025**" alt="Sankey diagram showing the 2025 status of 17,616 North Carolina LPNs who were active in 2024. Of these, 15,673 remained active in 2025: 14,864 actively practicing as LPNs and 809 holding both LPN and RN licenses. The remaining 1,943 were inactive as LPNs in 2025: 606 were actively practicing as RNs, 476 were inactive per Board status, 342 were not active in NC, 316 were not employed in nursing, 112 were unemployed, and 91 were retired." caption="**Note:** Data include active, licensed LPNs in practice in North Carolina as of October 31 of each year. **Source:** Data are derived from the North Carolina State Board of Nursing." src="/images/posts/LPN2026/Figure6.png" >}}
 
 ## Conclusion 
 
