@@ -5,7 +5,7 @@ author:
 draft: false
 unlisted: false
 teaserText: "Data Snapshot: Licensed Recreational Therapists"
-teaserImage: LRT-Snapshot-teaser.png
+teaserImage: LRT_snapshot_thumbnail.jpg
 keywords: [licensed recreational therapist, LRT, recreational therapist, recreation, workforce]
 hideAhec: true
 ---
