@@ -5,7 +5,7 @@ author: 'Evan Galloway'
 draft: false
 unlisted: false
 teaserText: A 2025 update to the primary care clinician index for North Carolina.
-teaserImage: pcc_index_2025.png
+teaserImage: pcc_index_2025_thumbnail.png
 keywords: [physician, physician assistant, nurse practitioner, primary care]
 ---
 
